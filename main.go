@@ -295,7 +295,7 @@ func main() {
 
 		err = testCollectionDocSolrAddMessage(testEAD, eadToTest.CollectionDoc.SolrAddMessage)
 		if err != nil {
-			println(err)
+			println(err.Error())
 		}
 
 		if eadToTest.Components == nil {
@@ -310,13 +310,13 @@ func main() {
 			err = testComponentSolrAddMessage(testEAD, component.ID,
 				component.SolrAddMessage)
 			if err != nil {
-				println(err)
+				println(err.Error())
 			}
 		}
 
 		err = testNoMissingComponents(testEAD, componentIDs)
 		if err != nil {
-			println(err)
+			println(err.Error())
 		}
 	}
 }
