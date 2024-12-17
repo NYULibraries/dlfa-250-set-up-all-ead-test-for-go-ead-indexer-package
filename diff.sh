@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 
 ROOT=$( cd "$(dirname "$0")" ; pwd -P )
 
