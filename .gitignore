@@ -1,0 +1,49 @@
+# Emacs
+*~
+# MacOS
+.DS_Store
+
+# Symlink, until such time as we change the module path of this project to
+# github.com/nyulibraries/go-ead-indexer and import it from GitHub instead of
+# local.
+go-ead-indexer
+
+logs/
+
+# Diffs of golden files vs. actual files.
+diffs/*
+!diffs/.gitkeep
+
+# Temporary files for diff'ing of golden files vs. actual values.
+tmp/*
+!tmp/actual/
+tmp/actual/*
+!tmp/actual/.gitkeep
+
+### Patterns below are copied from https://github.com/github/gitignore/blob/e95aa3fbbd591f0486205cb8848d99e38bee5b35/Go.gitignore
+
+# If you prefer the allow list template instead of the deny list, see community template:
+# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
+#
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# env file
+.env
