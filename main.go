@@ -37,7 +37,7 @@ func init() {
 
 func abortBadUsage(err error) {
 	if err != nil {
-		println(err)
+		println(err.Error())
 	}
 	usage()
 	os.Exit(1)
