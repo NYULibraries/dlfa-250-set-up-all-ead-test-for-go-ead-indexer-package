@@ -2,6 +2,14 @@
 
 Jira: [Set up all EAD test for go-ead-indexer`ead` package](https://jira.nyu.edu/browse/DLFA-250)
 
+Setup:
+
+```bash
+git clone git@github.com:NYULibraries/dlfa-250-set-up-all-ead-test-for-go-ead-indexer-package.git
+cd dlfa-250-set-up-all-ead-test-for-go-ead-indexer-package/
+ln -s [PATH TO CLONE OF [go\-ead\-indexer](https://github.com/NYULibraries/go-ead-indexer)]
+```
+
 Run the golden files test:
 
 ```bash
