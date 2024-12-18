@@ -7,7 +7,7 @@ Setup:
 ```bash
 git clone git@github.com:NYULibraries/dlfa-250-set-up-all-ead-test-for-go-ead-indexer-package.git
 cd dlfa-250-set-up-all-ead-test-for-go-ead-indexer-package/
-ln -s [PATH TO CLONE OF [go\-ead\-indexer](https://github.com/NYULibraries/go-ead-indexer)]
+ln -s [PATH TO CLONE OF https://github.com/NYULibraries/go-ead-indexer]
 ```
 
 Run the golden files test:
