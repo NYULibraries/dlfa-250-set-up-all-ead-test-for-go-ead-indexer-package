@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 
+which realpath > /dev/null
+if [ $? -ne 0 ]
+then
+    echo >&2 '`realpath` must be installed for this script to work.'
+    echo >&2 'For MacOS 12.x and earlier: `brew install coreutils`'
+    exit 1
+fi
+
 ROOT=$( cd "$(dirname "$0")" ; pwd -P )
 
 ACTUAL_DIR=$ROOT/tmp/actual
@@ -19,6 +27,12 @@ time go run main.go \
 
 if [ $? -eq 0 ]
 then
+    # main.go automatically resolved $EAD_DIR and $GOLDEN_FILES_DIR to absolute
+    # paths and guaranteed they exist, but we need the absolute paths because
+    # the working directory is changed to $ACTUAL_DIR.
+    EAD_DIR=$( realpath $EAD_DIR )
+    GOLDEN_FILES_DIR=$( realpath $GOLDEN_FILES_DIR )
+
     rm -fr ${DIFF_DIR:?}/*
     cd $ACTUAL_DIR
     for actualFile in $( find . -type f -name '*-add.xml' ! -name '*-commit-add.xml' )
