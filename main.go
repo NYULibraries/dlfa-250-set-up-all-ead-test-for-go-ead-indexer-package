@@ -13,6 +13,7 @@ import (
 	"runtime"
 	"slices"
 	"strings"
+	"time"
 )
 
 const goldenFileSuffix = "-add.xml"
@@ -281,7 +282,7 @@ func main() {
 	testEADs := getTestEADs()
 
 	for _, testEAD := range testEADs {
-		fmt.Println("Testing " + testEAD)
+		fmt.Printf("[ %s ] Testing %s\n", time.Now().Format("2006-01-02 15:04:05"), testEAD)
 		eadXML, err := getEADValue(testEAD)
 		if err != nil {
 			log.Println(fmt.Sprintf(`getEADValue("%s") failed: %s`, testEAD, err))
