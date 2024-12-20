@@ -7,6 +7,7 @@ import (
 	"go-ead-indexer/pkg/ead/collectiondoc"
 	"go-ead-indexer/pkg/ead/component"
 	"io/fs"
+	"log"
 	"os"
 	"path/filepath"
 	"runtime"
@@ -29,7 +30,7 @@ func init() {
 	// be located at the root of the package directory.
 	_, filename, _, ok := runtime.Caller(0)
 	if !ok {
-		panic("ERROR: `runtime.Caller(0)` failed")
+		log.Panic("ERROR: `runtime.Caller(0)` failed")
 	}
 
 	rootPath = filepath.Dir(filename)
@@ -37,7 +38,7 @@ func init() {
 
 func abortBadUsage(err error) {
 	if err != nil {
-		println(err.Error())
+		log.Println(err.Error())
 	}
 	usage()
 	os.Exit(1)
@@ -84,7 +85,7 @@ func getGoldenFileIDs(eadID string) []string {
 			return nil
 		})
 	if err != nil {
-		panic(fmt.Sprintf(`getGoldenFileIDs("%s") failed: %s`, eadID, err))
+		log.Panic(fmt.Sprintf(`getGoldenFileIDs("%s") failed: %s`, eadID, err))
 	}
 
 	// The slice might already be sorted, but just in case, sort it.
@@ -127,7 +128,7 @@ func getTestEADs() []string {
 		return nil
 	})
 	if err != nil {
-		panic(fmt.Sprintf(`getTestEADs() failed: %s`, err))
+		log.Panic(fmt.Sprintf(`getTestEADs() failed: %s`, err))
 
 	}
 
@@ -137,7 +138,7 @@ func getTestEADs() []string {
 func isDirectory(path string) bool {
 	fileInfo, err := os.Stat(path)
 	if err != nil {
-		panic(fmt.Sprintf(`isDirectory("%s") failed with error: %s`, path, err))
+		log.Panic(fmt.Sprintf(`isDirectory("%s") failed with error: %s`, path, err))
 	}
 
 	return fileInfo.IsDir()
@@ -256,7 +257,7 @@ func tmpFile(testEAD string, fileID string) string {
 }
 
 func usage() {
-	println("usage: go run main.go [path to findingaids_eads_v2] [path to dlfa-188_v1-indexer-http-requests-xml/http-requests/]")
+	log.Println("usage: go run main.go [path to findingaids_eads_v2] [path to dlfa-188_v1-indexer-http-requests-xml/http-requests/]")
 }
 
 func writeActualSolrXMLToTmp(testEAD string, fileID string, actual string) error {
@@ -274,7 +275,7 @@ func main() {
 
 	err := clean()
 	if err != nil {
-		panic("clean() error: " + err.Error())
+		log.Panic("clean() error: " + err.Error())
 	}
 
 	testEADs := getTestEADs()
@@ -283,19 +284,19 @@ func main() {
 		fmt.Println("Testing " + testEAD)
 		eadXML, err := getEADValue(testEAD)
 		if err != nil {
-			println(fmt.Sprintf(`getEADValue("%s") failed: %s`, testEAD, err))
+			log.Println(fmt.Sprintf(`getEADValue("%s") failed: %s`, testEAD, err))
 		}
 
 		repositoryCode := parseRepositoryCode(testEAD)
 		eadToTest, err := ead.New(repositoryCode, eadXML)
 		if err != nil {
 
-			println(fmt.Sprintf(`ead.New("%s", [EADXML for %s ]) failed: %s`, repositoryCode, testEAD, err))
+			log.Println(fmt.Sprintf(`ead.New("%s", [EADXML for %s ]) failed: %s`, repositoryCode, testEAD, err))
 		}
 
 		err = testCollectionDocSolrAddMessage(testEAD, eadToTest.CollectionDoc.SolrAddMessage)
 		if err != nil {
-			println(err.Error())
+			log.Println(err.Error())
 		}
 
 		if eadToTest.Components == nil {
@@ -310,13 +311,13 @@ func main() {
 			err = testComponentSolrAddMessage(testEAD, component.ID,
 				component.SolrAddMessage)
 			if err != nil {
-				println(err.Error())
+				log.Println(err.Error())
 			}
 		}
 
 		err = testNoMissingComponents(testEAD, componentIDs)
 		if err != nil {
-			println(err.Error())
+			log.Println(err.Error())
 		}
 	}
 }
