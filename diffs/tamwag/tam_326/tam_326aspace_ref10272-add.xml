@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Prat Ornaque, Antonio
+<       
+<       Prat Ornaque, Emilia
+<     </field>
+<     <field name="unittitle_teim">
+<       Prat Ornaque, Antonio
+<       
+<       Prat Ornaque, Emilia
+<     </field>
+---
+>     <field name="unittitle_ssm">Prat Ornaque, AntonioPrat Ornaque, Emilia</field>
+>     <field name="unittitle_teim">Prat Ornaque, AntonioPrat Ornaque, Emilia</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Prat Ornaque, Antonio
+<       
+<       Prat Ornaque, Emilia
+<     </field>
+<     <field name="heading_ssm">
+<       Prat Ornaque, Antonio
+<       
+<       Prat Ornaque, Emilia
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Prat Ornaque, AntonioPrat Ornaque, Emilia</field>
+>     <field name="heading_ssm">Prat Ornaque, AntonioPrat Ornaque, Emilia</field>

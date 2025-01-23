@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Knipe, Isobel M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Knipe, Isobel M. </field>
+27c27
+<     <field name="series_si">Knipe, Isobel M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Knipe, Isobel M. </field>

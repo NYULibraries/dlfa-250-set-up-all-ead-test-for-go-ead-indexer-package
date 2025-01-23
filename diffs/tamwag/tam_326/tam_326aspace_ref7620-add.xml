@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Rubio Farre, Domingo
+<       
+<       Rubio Farre, Primitiva
+<     </field>
+<     <field name="unittitle_teim">
+<       Rubio Farre, Domingo
+<       
+<       Rubio Farre, Primitiva
+<     </field>
+---
+>     <field name="unittitle_ssm">Rubio Farre, DomingoRubio Farre, Primitiva</field>
+>     <field name="unittitle_teim">Rubio Farre, DomingoRubio Farre, Primitiva</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Rubio Farre, Domingo
+<       
+<       Rubio Farre, Primitiva
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Rubio Farre, DomingoRubio Farre, Primitiva</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Rubio Farre, Domingo
+<       
+<       Rubio Farre, Primitiva
+<     </field>
+---
+>     <field name="heading_ssm">Rubio Farre, DomingoRubio Farre, Primitiva</field>

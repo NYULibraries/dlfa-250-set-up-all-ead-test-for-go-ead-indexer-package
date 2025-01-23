@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Duluth News Tribune&amp;nbsp;articles</field>
+---
+>     <field name="unittitle_ssm">Duluth News Tribune articles</field>
+24c24
+<     <field name="series_si">Duluth News Tribune&amp;nbsp;articles</field>
+---
+>     <field name="series_si">Duluth News Tribune articles</field>

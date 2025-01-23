@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Fernandez, Francisca (née Pellisa)
+<       
+<       Fernandez Perez, Gonzalo
+<     </field>
+<     <field name="unittitle_teim">
+<       Fernandez, Francisca (née Pellisa)
+<       
+<       Fernandez Perez, Gonzalo
+<     </field>
+---
+>     <field name="unittitle_ssm">Fernandez, Francisca (née Pellisa)Fernandez Perez, Gonzalo</field>
+>     <field name="unittitle_teim">Fernandez, Francisca (née Pellisa)Fernandez Perez, Gonzalo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Fernandez, Francisca (née Pellisa)
+<       
+<       Fernandez Perez, Gonzalo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Fernandez, Francisca (née Pellisa)Fernandez Perez, Gonzalo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Fernandez, Francisca (née Pellisa)
+<       
+<       Fernandez Perez, Gonzalo
+<     </field>
+---
+>     <field name="heading_ssm">Fernandez, Francisca (née Pellisa)Fernandez Perez, Gonzalo</field>

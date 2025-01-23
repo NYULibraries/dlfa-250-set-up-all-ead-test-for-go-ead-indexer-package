@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Simon, Paul&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Simon, Paul </field>
+27c27
+<     <field name="series_si">Simon, Paul&amp;nbsp;</field>
+---
+>     <field name="series_si">Simon, Paul </field>

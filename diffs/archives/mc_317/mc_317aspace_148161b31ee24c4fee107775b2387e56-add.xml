@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Stark, J. J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Stark, J. J. </field>
+27c27
+<     <field name="series_si">Stark, J. J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Stark, J. J. </field>

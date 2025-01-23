@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">&lt;em&gt;Justice&lt;/em&gt;: Notes on Olimpiada Popular and Aid to Spain &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Justice&lt;/em&gt;: Notes on Olimpiada Popular and Aid to Spain &lt;em&gt;&lt;/em&gt;</field>
+37c37
+<     <field name="series_si">Series V: General Subject Files &gt;&gt; &lt;em&gt;Justice&lt;/em&gt;: Notes on Olimpiada Popular and Aid to Spain &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series V: General Subject Files &gt;&gt; &lt;em&gt;Justice&lt;/em&gt;: Notes on Olimpiada Popular and Aid to Spain &lt;em&gt;&lt;/em&gt;</field>

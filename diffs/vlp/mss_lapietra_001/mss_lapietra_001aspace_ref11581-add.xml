@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">ii. AA with others</field>
+---
+>     <field name="parent_unittitles_ssm">iv. AA's painting activity</field>
+18c18
+<     <field name="parent_unittitles_teim">ii. AA with others</field>
+---
+>     <field name="parent_unittitles_teim">iv. AA's painting activity</field>
+46,47c46,47
+<     <field name="series_sim">ii. AA with others</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; ii. AA with others &gt;&gt; AA in the gardens of Villa La Pietra (Seconda Vasca), with two ladies</field>
+---
+>     <field name="series_sim">iv. AA's painting activity</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iv. AA's painting activity &gt;&gt; AA in the gardens of Villa La Pietra (Seconda Vasca), with two ladies</field>

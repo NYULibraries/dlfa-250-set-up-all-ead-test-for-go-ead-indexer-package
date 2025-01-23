@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">i. HMA alone</field>
+---
+>     <field name="parent_unittitles_ssm">ii. HMA with others</field>
+18c18
+<     <field name="parent_unittitles_teim">i. HMA alone</field>
+---
+>     <field name="parent_unittitles_teim">ii. HMA with others</field>
+46,47c46,47
+<     <field name="series_sim">i. HMA alone</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 2 Acton, Hortense, née Mitchell &gt;&gt; i. HMA alone &gt;&gt; HMA in the gardens of Villa La Pietra (Vasche, Scalone)</field>
+---
+>     <field name="series_sim">ii. HMA with others</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 2 Acton, Hortense, née Mitchell &gt;&gt; ii. HMA with others &gt;&gt; HMA in the gardens of Villa La Pietra (Vasche, Scalone)</field>

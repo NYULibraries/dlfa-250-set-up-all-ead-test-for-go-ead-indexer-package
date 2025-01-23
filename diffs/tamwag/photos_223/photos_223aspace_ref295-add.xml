@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Allen, Richard V.&amp;nbsp;(Richard Vincent)</field>
+---
+>     <field name="unittitle_ssm">Allen, Richard V. (Richard Vincent)</field>
+35c35
+<     <field name="series_si">Series I: Biographical Files &gt;&gt; Allen, Richard V.&amp;nbsp;(Richard Vincent)</field>
+---
+>     <field name="series_si">Series I: Biographical Files &gt;&gt; Allen, Richard V. (Richard Vincent)</field>

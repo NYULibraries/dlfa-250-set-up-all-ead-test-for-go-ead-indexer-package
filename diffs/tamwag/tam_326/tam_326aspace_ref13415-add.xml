@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Puzo, Nieves (III)
+<       
+<       Puzo Cabero, Mariano (III)
+<     </field>
+<     <field name="unittitle_teim">
+<       Puzo, Nieves (III)
+<       
+<       Puzo Cabero, Mariano (III)
+<     </field>
+---
+>     <field name="unittitle_ssm">Puzo, Nieves (III)Puzo Cabero, Mariano (III)</field>
+>     <field name="unittitle_teim">Puzo, Nieves (III)Puzo Cabero, Mariano (III)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; 
+<       Puzo, Nieves (III)
+<       
+<       Puzo Cabero, Mariano (III)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; Puzo, Nieves (III)Puzo Cabero, Mariano (III)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Puzo, Nieves (III)
+<       
+<       Puzo Cabero, Mariano (III)
+<     </field>
+---
+>     <field name="heading_ssm">Puzo, Nieves (III)Puzo Cabero, Mariano (III)</field>

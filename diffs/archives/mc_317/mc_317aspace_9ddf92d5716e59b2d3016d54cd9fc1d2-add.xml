@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Aronson, Allan R. '40 M&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Aronson, Allan R. '40 M </field>
+27c27
+<     <field name="series_si">Aronson, Allan R. '40 M&amp;nbsp;</field>
+---
+>     <field name="series_si">Aronson, Allan R. '40 M </field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Otero Novoa, Manuel
+<       
+<       Otero, Delphine (née Aparicio)
+<     </field>
+<     <field name="unittitle_teim">
+<       Otero Novoa, Manuel
+<       
+<       Otero, Delphine (née Aparicio)
+<     </field>
+---
+>     <field name="unittitle_ssm">Otero Novoa, ManuelOtero, Delphine (née Aparicio)</field>
+>     <field name="unittitle_teim">Otero Novoa, ManuelOtero, Delphine (née Aparicio)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Otero Novoa, Manuel
+<       
+<       Otero, Delphine (née Aparicio)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Otero Novoa, ManuelOtero, Delphine (née Aparicio)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Otero Novoa, Manuel
+<       
+<       Otero, Delphine (née Aparicio)
+<     </field>
+---
+>     <field name="heading_ssm">Otero Novoa, ManuelOtero, Delphine (née Aparicio)</field>

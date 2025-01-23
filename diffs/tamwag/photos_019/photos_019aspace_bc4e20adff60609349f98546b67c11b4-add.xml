@@ -1,0 +1,16 @@
+10c10
+<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+13c13
+<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+38c38
+<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+41c41
+<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:C: American Federation of Teachers &gt;&gt; Sub-subseries I:C:2: Conventions &gt;&gt; AFT Convention 1980 [Includes but may not be limited to:] Lemagne, Mario; Kennedy, Ted; Feldman, Sandra; Kirkland, Lane; Shanker, Al; Miller, Fred; Cortese, Antonia; Stephens, Lawrence; Vigman, Eva; Shapiro, Leo; Staub, Winifred (Mamaroneck TA); Cooper, Myrna; Magidson, Herb; Retired Teachers</field>
+---
+>     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:C: American Federation of Teachers &gt;&gt; Sub-subseries I:C:2: Conventions &gt;&gt; AFT Convention 1980 [Includes but may not be limited to:] Lemagne, Mario; Kennedy, Ted; Feldman, Sandra; Kirkland, Lane; Shanker, Al; Miller, Fred; Cortese, Antonia; Stephens, Lawrence; Vigman, Eva; Shapiro, Leo; Staub, Winifred (Mamaroneck TA); Cooper, Myrna; Magidson, Herb; Retired Teachers</field>

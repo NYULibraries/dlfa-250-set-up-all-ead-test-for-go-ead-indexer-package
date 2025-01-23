@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Palmer, John D.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Palmer, John D. </field>
+27c27
+<     <field name="series_si">Palmer, John D.&amp;nbsp;</field>
+---
+>     <field name="series_si">Palmer, John D. </field>

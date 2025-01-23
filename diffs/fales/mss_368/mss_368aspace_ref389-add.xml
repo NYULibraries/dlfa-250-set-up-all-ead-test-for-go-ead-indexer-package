@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Series VIII: Art&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Series VIII: Art </field>
+24c24
+<     <field name="series_si">Series VIII: Art&amp;nbsp;</field>
+---
+>     <field name="series_si">Series VIII: Art </field>

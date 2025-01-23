@@ -1,0 +1,14 @@
+46a47,52
+>     <field name="subject_teim">Labor unions -- Officials and employees.</field>
+>     <field name="subject_teim">Labor unions -- Organizing -- New York (N.Y.)</field>
+>     <field name="subject_teim">Hotels -- New York (State) -- New York.</field>
+>     <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
+>     <field name="subject_teim">Hotels -- Employees -- New York (State) -- New York.</field>
+>     <field name="subject_teim">Labor unions -- United States -- History -- 20th century.</field>
+79,84d84
+<     <field name="subject_teim">Labor unions -- Officials and employees.</field>
+<     <field name="subject_teim">Labor unions -- Organizing -- New York (N.Y.)</field>
+<     <field name="subject_teim">Hotels -- New York (State) -- New York.</field>
+<     <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
+<     <field name="subject_teim">Hotels -- Employees -- New York (State) -- New York.</field>
+<     <field name="subject_teim">Labor unions -- United States -- History -- 20th century.</field>

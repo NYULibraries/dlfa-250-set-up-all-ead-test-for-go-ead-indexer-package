@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Rodriguez, Dolores
+<       
+<       Rodriguez, José
+<     </field>
+<     <field name="unittitle_teim">
+<       Rodriguez, Dolores
+<       
+<       Rodriguez, José
+<     </field>
+---
+>     <field name="unittitle_ssm">Rodriguez, DoloresRodriguez, José</field>
+>     <field name="unittitle_teim">Rodriguez, DoloresRodriguez, José</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Rodriguez, Dolores
+<       
+<       Rodriguez, José
+<     </field>
+<     <field name="heading_ssm">
+<       Rodriguez, Dolores
+<       
+<       Rodriguez, José
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Rodriguez, DoloresRodriguez, José</field>
+>     <field name="heading_ssm">Rodriguez, DoloresRodriguez, José</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Laudin, Harvey G.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Laudin, Harvey G. </field>
+27c27
+<     <field name="series_si">Laudin, Harvey G.&amp;nbsp;</field>
+---
+>     <field name="series_si">Laudin, Harvey G. </field>

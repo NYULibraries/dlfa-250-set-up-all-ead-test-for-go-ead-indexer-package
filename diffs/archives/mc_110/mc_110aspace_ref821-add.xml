@@ -1,0 +1,68 @@
+19,48c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Ambient Radiation Levels: 1981 &lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Ray Neutrons, 1934-59: 1985&lt;/em&gt;
+<       
+<       &lt;em&gt;Counters: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;The Importance of Manned Exploration in Space: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;Some Comments on Atmospheric Neutron Measurements: n.d.&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Ambient Radiation Levels: 1981 
+<       
+<       Cosmic Ray Neutrons, 1934-59: 1985
+<       
+<       Counters: n.d.
+<       
+<       The Importance of Manned Exploration in Space: n.d.
+<       
+<       Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.
+<       
+<       Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.
+<       
+<       Some Comments on Atmospheric Neutron Measurements: n.d.
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Ambient Radiation Levels: 1981 &lt;/em&gt;&lt;em&gt;Cosmic Ray Neutrons, 1934-59: 1985&lt;/em&gt;&lt;em&gt;Counters: n.d.&lt;/em&gt;&lt;em&gt;The Importance of Manned Exploration in Space: n.d.&lt;/em&gt;&lt;em&gt;Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.&lt;/em&gt;&lt;em&gt;Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.&lt;/em&gt;&lt;em&gt;Some Comments on Atmospheric Neutron Measurements: n.d.&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Ambient Radiation Levels: 1981 Cosmic Ray Neutrons, 1934-59: 1985Counters: n.d.The Importance of Manned Exploration in Space: n.d.Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.Some Comments on Atmospheric Neutron Measurements: n.d.</field>
+79,108c51,52
+<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+<       &lt;em&gt;Ambient Radiation Levels: 1981 &lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Ray Neutrons, 1934-59: 1985&lt;/em&gt;
+<       
+<       &lt;em&gt;Counters: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;The Importance of Manned Exploration in Space: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.&lt;/em&gt;
+<       
+<       &lt;em&gt;Some Comments on Atmospheric Neutron Measurements: n.d.&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Ambient Radiation Levels: 1981 
+<       
+<       Cosmic Ray Neutrons, 1934-59: 1985
+<       
+<       Counters: n.d.
+<       
+<       The Importance of Manned Exploration in Space: n.d.
+<       
+<       Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.
+<       
+<       Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.
+<       
+<       Some Comments on Atmospheric Neutron Measurements: n.d.
+<     </field>
+---
+>     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;Ambient Radiation Levels: 1981 &lt;/em&gt;&lt;em&gt;Cosmic Ray Neutrons, 1934-59: 1985&lt;/em&gt;&lt;em&gt;Counters: n.d.&lt;/em&gt;&lt;em&gt;The Importance of Manned Exploration in Space: n.d.&lt;/em&gt;&lt;em&gt;Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.&lt;/em&gt;&lt;em&gt;Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.&lt;/em&gt;&lt;em&gt;Some Comments on Atmospheric Neutron Measurements: n.d.&lt;/em&gt;</field>
+>     <field name="heading_ssm">Ambient Radiation Levels: 1981 Cosmic Ray Neutrons, 1934-59: 1985Counters: n.d.The Importance of Manned Exploration in Space: n.d.Ionizing Radiation at 40 K M S Altitude During Auroral Display, SAK and Robert Haymes: n.d.Measurements of the Neutrons Produced by the Cosmic Radiation, SAK, Rosalind B. Mendell, and Stephen S. Holt: n.d.Some Comments on Atmospheric Neutron Measurements: n.d.</field>

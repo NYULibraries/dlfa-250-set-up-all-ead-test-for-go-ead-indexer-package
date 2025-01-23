@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wrightsman, Charles B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wrightsman, Charles B. </field>
+27c27
+<     <field name="series_si">Wrightsman, Charles B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wrightsman, Charles B. </field>

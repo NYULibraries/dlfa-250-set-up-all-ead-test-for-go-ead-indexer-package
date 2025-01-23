@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Anderson, Celia&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Anderson, Celia </field>
+27c27
+<     <field name="series_si">Anderson, Celia&amp;nbsp;</field>
+---
+>     <field name="series_si">Anderson, Celia </field>

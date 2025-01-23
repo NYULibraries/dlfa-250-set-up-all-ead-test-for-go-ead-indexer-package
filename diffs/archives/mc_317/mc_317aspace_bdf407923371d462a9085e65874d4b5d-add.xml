@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Appiah, Kwame Anthony&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Appiah, Kwame Anthony </field>
+27c27
+<     <field name="series_si">Appiah, Kwame Anthony&amp;nbsp;</field>
+---
+>     <field name="series_si">Appiah, Kwame Anthony </field>

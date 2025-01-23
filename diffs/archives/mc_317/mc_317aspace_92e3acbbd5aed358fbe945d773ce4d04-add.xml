@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Stohr, Edward A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Stohr, Edward A. </field>
+27c27
+<     <field name="series_si">Stohr, Edward A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Stohr, Edward A. </field>

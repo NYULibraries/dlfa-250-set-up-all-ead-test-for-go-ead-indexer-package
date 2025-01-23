@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">World Congress of Women&amp;nbsp;(Moscow, Soviet Union) - Prints and Thermal Prints</field>
+---
+>     <field name="unittitle_ssm">World Congress of Women (Moscow, Soviet Union) - Prints and Thermal Prints</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; World Congress of Women&amp;nbsp;(Moscow, Soviet Union) - Prints and Thermal Prints</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; World Congress of Women (Moscow, Soviet Union) - Prints and Thermal Prints</field>

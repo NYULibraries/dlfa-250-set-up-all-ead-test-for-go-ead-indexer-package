@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wright, Jane C.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wright, Jane C. </field>
+27c27
+<     <field name="series_si">Wright, Jane C.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wright, Jane C. </field>

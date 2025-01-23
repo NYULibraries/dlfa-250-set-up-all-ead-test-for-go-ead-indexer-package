@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">D'Arcangelo, Rick A. '42 C&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">D'Arcangelo, Rick A. '42 C </field>
+27c27
+<     <field name="series_si">D'Arcangelo, Rick A. '42 C&amp;nbsp;</field>
+---
+>     <field name="series_si">D'Arcangelo, Rick A. '42 C </field>

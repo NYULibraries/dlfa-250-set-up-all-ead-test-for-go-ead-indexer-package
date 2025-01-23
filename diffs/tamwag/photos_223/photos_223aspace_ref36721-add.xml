@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">World Congress&amp;nbsp;of Partisans for&amp;nbsp;Peace (Paris, France)</field>
+---
+>     <field name="unittitle_ssm">World Congress of Partisans for Peace (Paris, France)</field>
+61c61
+<     <field name="series_si">Series II: Subject Files &gt;&gt; World Congress&amp;nbsp;of Partisans for&amp;nbsp;Peace (Paris, France)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; World Congress of Partisans for Peace (Paris, France)</field>

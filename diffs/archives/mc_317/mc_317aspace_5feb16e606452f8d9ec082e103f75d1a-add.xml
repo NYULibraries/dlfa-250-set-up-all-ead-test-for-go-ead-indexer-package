@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Chapman, Chalmers Durand (1845 - 1931)&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Chapman, Chalmers Durand (1845 - 1931) </field>
+27c27
+<     <field name="series_si">Chapman, Chalmers Durand (1845 - 1931)&amp;nbsp;</field>
+---
+>     <field name="series_si">Chapman, Chalmers Durand (1845 - 1931) </field>

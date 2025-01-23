@@ -1,0 +1,12 @@
+27,29c27
+<     <field name="scopecontent_teim">
+<       Riot Grrrl Press: Spring and Summer Catalog 1998
+<     </field>
+---
+>     <field name="scopecontent_teim">Riot Grrrl Press: Spring and Summer Catalog 1998</field>
+31,33c29
+<     <field name="scopecontent_teim">
+<       Riot Grrrl Press Catalogue: Early 1994
+<     </field>
+---
+>     <field name="scopecontent_teim">Riot Grrrl Press Catalogue: Early 1994</field>

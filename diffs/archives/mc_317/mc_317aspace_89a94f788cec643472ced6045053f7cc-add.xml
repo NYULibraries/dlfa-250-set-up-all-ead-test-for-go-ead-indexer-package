@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lavandeira, Mario Armando, Jr. (Perez Hilton)&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Lavandeira, Mario Armando, Jr. (Perez Hilton) </field>
+27c27
+<     <field name="series_si">Lavandeira, Mario Armando, Jr. (Perez Hilton)&amp;nbsp;</field>
+---
+>     <field name="series_si">Lavandeira, Mario Armando, Jr. (Perez Hilton) </field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Culla, Teresa (née Suan)
+<       
+<       Culla Aznar, Manuel
+<     </field>
+<     <field name="unittitle_teim">
+<       Culla, Teresa (née Suan)
+<       
+<       Culla Aznar, Manuel
+<     </field>
+---
+>     <field name="unittitle_ssm">Culla, Teresa (née Suan)Culla Aznar, Manuel</field>
+>     <field name="unittitle_teim">Culla, Teresa (née Suan)Culla Aznar, Manuel</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Culla, Teresa (née Suan)
+<       
+<       Culla Aznar, Manuel
+<     </field>
+<     <field name="heading_ssm">
+<       Culla, Teresa (née Suan)
+<       
+<       Culla Aznar, Manuel
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Culla, Teresa (née Suan)Culla Aznar, Manuel</field>
+>     <field name="heading_ssm">Culla, Teresa (née Suan)Culla Aznar, Manuel</field>

@@ -1,0 +1,12 @@
+8,9c8,9
+<     <field name="parent_unittitles_ssm">Series VIII: Art&amp;nbsp;</field>
+<     <field name="parent_unittitles_teim">Series VIII: Art&amp;nbsp;</field>
+---
+>     <field name="parent_unittitles_ssm">Series VIII: Art </field>
+>     <field name="parent_unittitles_teim">Series VIII: Art </field>
+35,36c35,36
+<     <field name="series_sim">Series VIII: Art&amp;nbsp;</field>
+<     <field name="series_si">Series VIII: Art&amp;nbsp; &gt;&gt; Leaded Glass Hanging with Chain of Alice and Carrollian Characters
+---
+>     <field name="series_sim">Series VIII: Art </field>
+>     <field name="series_si">Series VIII: Art  &gt;&gt; Leaded Glass Hanging with Chain of Alice and Carrollian Characters

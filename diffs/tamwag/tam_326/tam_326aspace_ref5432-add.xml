@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Galve Artigas, Santiago
+<       
+<       Galve, Francisca (née Plou)
+<     </field>
+<     <field name="unittitle_teim">
+<       Galve Artigas, Santiago
+<       
+<       Galve, Francisca (née Plou)
+<     </field>
+---
+>     <field name="unittitle_ssm">Galve Artigas, SantiagoGalve, Francisca (née Plou)</field>
+>     <field name="unittitle_teim">Galve Artigas, SantiagoGalve, Francisca (née Plou)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Galve Artigas, Santiago
+<       
+<       Galve, Francisca (née Plou)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Galve Artigas, SantiagoGalve, Francisca (née Plou)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Galve Artigas, Santiago
+<       
+<       Galve, Francisca (née Plou)
+<     </field>
+---
+>     <field name="heading_ssm">Galve Artigas, SantiagoGalve, Francisca (née Plou)</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Kennedy, Stephen P.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Kennedy, Stephen P. </field>
+27c27
+<     <field name="series_si">Kennedy, Stephen P.&amp;nbsp;</field>
+---
+>     <field name="series_si">Kennedy, Stephen P. </field>

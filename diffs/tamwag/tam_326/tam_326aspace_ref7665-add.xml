@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Bermejo Perea, Antonio
+<       
+<       Bermejo Perea, Emelia
+<     </field>
+<     <field name="unittitle_teim">
+<       Bermejo Perea, Antonio
+<       
+<       Bermejo Perea, Emelia
+<     </field>
+---
+>     <field name="unittitle_ssm">Bermejo Perea, AntonioBermejo Perea, Emelia</field>
+>     <field name="unittitle_teim">Bermejo Perea, AntonioBermejo Perea, Emelia</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Bermejo Perea, Antonio
+<       
+<       Bermejo Perea, Emelia
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Bermejo Perea, AntonioBermejo Perea, Emelia</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Bermejo Perea, Antonio
+<       
+<       Bermejo Perea, Emelia
+<     </field>
+---
+>     <field name="heading_ssm">Bermejo Perea, AntonioBermejo Perea, Emelia</field>

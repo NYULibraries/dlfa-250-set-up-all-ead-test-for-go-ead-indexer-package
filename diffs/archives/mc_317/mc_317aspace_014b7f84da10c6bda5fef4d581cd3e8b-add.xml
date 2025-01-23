@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Sommer, Franie H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Sommer, Franie H. </field>
+27c27
+<     <field name="series_si">Sommer, Franie H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Sommer, Franie H. </field>

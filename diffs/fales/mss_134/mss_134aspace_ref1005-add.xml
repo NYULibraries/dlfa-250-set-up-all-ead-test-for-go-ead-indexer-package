@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;A History of Eggnog: And a &lt;/em&gt;
+<       &lt;em&gt;Collection of Recipes for Festive Occasions&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       A History of Eggnog: And a 
+<       Collection of Recipes for Festive Occasions
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;A History of Eggnog: And a &lt;/em&gt;&lt;em&gt;Collection of Recipes for Festive Occasions&lt;/em&gt;</field>
+>     <field name="unittitle_teim">A History of Eggnog: And a Collection of Recipes for Festive Occasions</field>
+43,50c37,38
+<     <field name="series_si">Series VI: Photocopied Books &gt;&gt; 
+<       &lt;em&gt;A History of Eggnog: And a &lt;/em&gt;
+<       &lt;em&gt;Collection of Recipes for Festive Occasions&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       A History of Eggnog: And a 
+<       Collection of Recipes for Festive Occasions
+<     </field>
+---
+>     <field name="series_si">Series VI: Photocopied Books &gt;&gt; &lt;em&gt;A History of Eggnog: And a &lt;/em&gt;&lt;em&gt;Collection of Recipes for Festive Occasions&lt;/em&gt;</field>
+>     <field name="heading_ssm">A History of Eggnog: And a Collection of Recipes for Festive Occasions</field>

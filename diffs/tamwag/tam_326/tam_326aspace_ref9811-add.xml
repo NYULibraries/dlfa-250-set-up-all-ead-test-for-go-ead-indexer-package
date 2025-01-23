@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ballarin Escartin, Ramon
+<       
+<       Ballarin, Rosario (née Ereza)
+<     </field>
+<     <field name="unittitle_teim">
+<       Ballarin Escartin, Ramon
+<       
+<       Ballarin, Rosario (née Ereza)
+<     </field>
+---
+>     <field name="unittitle_ssm">Ballarin Escartin, RamonBallarin, Rosario (née Ereza)</field>
+>     <field name="unittitle_teim">Ballarin Escartin, RamonBallarin, Rosario (née Ereza)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ballarin Escartin, Ramon
+<       
+<       Ballarin, Rosario (née Ereza)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ballarin Escartin, RamonBallarin, Rosario (née Ereza)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Ballarin Escartin, Ramon
+<       
+<       Ballarin, Rosario (née Ereza)
+<     </field>
+---
+>     <field name="heading_ssm">Ballarin Escartin, RamonBallarin, Rosario (née Ereza)</field>

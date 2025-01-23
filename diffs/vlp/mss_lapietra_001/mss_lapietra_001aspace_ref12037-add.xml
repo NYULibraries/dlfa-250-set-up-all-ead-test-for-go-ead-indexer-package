@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">i. the Rooms with their contents</field>
+---
+>     <field name="parent_unittitles_ssm">3. The Estate</field>
+18c18
+<     <field name="parent_unittitles_teim">i. the Rooms with their contents</field>
+---
+>     <field name="parent_unittitles_teim">3. The Estate</field>
+46,47c46,47
+<     <field name="series_sim">i. the Rooms with their contents</field>
+<     <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; i. the Rooms with their contents &gt;&gt; Madonna and Child by Bernardo Daddi in the Sala Rossa of Villa La Pietra (XXX. B.16.)</field>
+---
+>     <field name="series_sim">3. The Estate</field>
+>     <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; 3. The Estate &gt;&gt; Madonna and Child by Bernardo Daddi in the Sala Rossa of Villa La Pietra (XXX. B.16.)</field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Inic, Paulette
+<       
+<       Iglesias Docampo, Dositeo
+<     </field>
+<     <field name="unittitle_teim">
+<       Inic, Paulette
+<       
+<       Iglesias Docampo, Dositeo
+<     </field>
+---
+>     <field name="unittitle_ssm">Inic, PauletteIglesias Docampo, Dositeo</field>
+>     <field name="unittitle_teim">Inic, PauletteIglesias Docampo, Dositeo</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Inic, Paulette
+<       
+<       Iglesias Docampo, Dositeo
+<     </field>
+<     <field name="heading_ssm">
+<       Inic, Paulette
+<       
+<       Iglesias Docampo, Dositeo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Inic, PauletteIglesias Docampo, Dositeo</field>
+>     <field name="heading_ssm">Inic, PauletteIglesias Docampo, Dositeo</field>

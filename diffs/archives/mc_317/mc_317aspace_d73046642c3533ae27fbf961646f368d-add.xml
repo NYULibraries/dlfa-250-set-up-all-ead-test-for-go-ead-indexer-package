@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Thaler, William G.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Thaler, William G. </field>
+27c27
+<     <field name="series_si">Thaler, William G.&amp;nbsp;</field>
+---
+>     <field name="series_si">Thaler, William G. </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bundy, McGeorge&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bundy, McGeorge   </field>
+27c27
+<     <field name="series_si">Bundy, McGeorge&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bundy, McGeorge   </field>

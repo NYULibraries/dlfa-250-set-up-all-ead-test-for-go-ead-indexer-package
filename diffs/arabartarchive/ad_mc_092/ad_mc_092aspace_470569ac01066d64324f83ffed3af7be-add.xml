@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">VIII.C. Packet of Stamps&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">VIII.C. Packet of Stamps </field>
+29c29
+<     <field name="series_si">Series VIII: Other Items in the Possession of the Artist &gt;&gt; VIII.C. Packet of Stamps&amp;nbsp;</field>
+---
+>     <field name="series_si">Series VIII: Other Items in the Possession of the Artist &gt;&gt; VIII.C. Packet of Stamps </field>

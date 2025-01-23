@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cubells Porta, José
+<       
+<       Cubells Porta, Griselda
+<     </field>
+<     <field name="unittitle_teim">
+<       Cubells Porta, José
+<       
+<       Cubells Porta, Griselda
+<     </field>
+---
+>     <field name="unittitle_ssm">Cubells Porta, JoséCubells Porta, Griselda</field>
+>     <field name="unittitle_teim">Cubells Porta, JoséCubells Porta, Griselda</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cubells Porta, José
+<       
+<       Cubells Porta, Griselda
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cubells Porta, JoséCubells Porta, Griselda</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Cubells Porta, José
+<       
+<       Cubells Porta, Griselda
+<     </field>
+---
+>     <field name="heading_ssm">Cubells Porta, JoséCubells Porta, Griselda</field>

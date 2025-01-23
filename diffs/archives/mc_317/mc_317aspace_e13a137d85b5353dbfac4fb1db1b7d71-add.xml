@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bridgwood, John B. '25C&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bridgwood, John B. '25C </field>
+27c27
+<     <field name="series_si">Bridgwood, John B. '25C&amp;nbsp;</field>
+---
+>     <field name="series_si">Bridgwood, John B. '25C </field>

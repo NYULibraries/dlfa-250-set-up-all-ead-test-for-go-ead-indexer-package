@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Ginilewicz, Sohpie B. '48C, '54 Ed.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Ginilewicz, Sohpie B. '48C, '54 Ed. </field>
+27c27
+<     <field name="series_si">Ginilewicz, Sohpie B. '48C, '54 Ed.&amp;nbsp;</field>
+---
+>     <field name="series_si">Ginilewicz, Sohpie B. '48C, '54 Ed. </field>

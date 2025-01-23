@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Gomez Rodriguez, Julian
+<       
+<       de la Serna Rodriguez, Aurora
+<     </field>
+<     <field name="unittitle_teim">
+<       Gomez Rodriguez, Julian
+<       
+<       de la Serna Rodriguez, Aurora
+<     </field>
+---
+>     <field name="unittitle_ssm">Gomez Rodriguez, Juliande la Serna Rodriguez, Aurora</field>
+>     <field name="unittitle_teim">Gomez Rodriguez, Juliande la Serna Rodriguez, Aurora</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Gomez Rodriguez, Julian
+<       
+<       de la Serna Rodriguez, Aurora
+<     </field>
+<     <field name="heading_ssm">
+<       Gomez Rodriguez, Julian
+<       
+<       de la Serna Rodriguez, Aurora
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Gomez Rodriguez, Juliande la Serna Rodriguez, Aurora</field>
+>     <field name="heading_ssm">Gomez Rodriguez, Juliande la Serna Rodriguez, Aurora</field>

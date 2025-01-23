@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">DeSimone, Ralph '14E&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">DeSimone, Ralph '14E </field>
+27c27
+<     <field name="series_si">DeSimone, Ralph '14E&amp;nbsp;</field>
+---
+>     <field name="series_si">DeSimone, Ralph '14E </field>

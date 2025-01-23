@@ -1,0 +1,100 @@
+19,64c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956&lt;/em&gt;
+<       
+<       &lt;em&gt;The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956&lt;/em&gt;
+<       
+<       &lt;em&gt;Physics in South America: Dec. 1956&lt;/em&gt;
+<       
+<       &lt;em&gt;The Origin and Implications of the Cosmic Radiation: Sep.1957&lt;/em&gt;
+<       
+<       &lt;em&gt;Geiger Counters: 1958&lt;/em&gt;
+<       
+<       &lt;em&gt;Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959&lt;/em&gt;
+<       
+<       &lt;em&gt;Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959&lt;/em&gt;
+<       
+<       &lt;em&gt;Geographical Aspects of Cosmic-Ray Studies: 1960&lt;/em&gt;
+<       
+<       &lt;em&gt;Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960&lt;/em&gt;
+<       
+<       &lt;em&gt;High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960&lt;/em&gt;
+<       
+<       &lt;em&gt;Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956
+<       
+<       The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956
+<       
+<       Physics in South America: Dec. 1956
+<       
+<       The Origin and Implications of the Cosmic Radiation: Sep.1957
+<       
+<       Geiger Counters: 1958
+<       
+<       Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959
+<       
+<       Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959
+<       
+<       Geographical Aspects of Cosmic-Ray Studies: 1960
+<       
+<       Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960
+<       
+<       High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960
+<       
+<       Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956&lt;/em&gt;&lt;em&gt;The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956&lt;/em&gt;&lt;em&gt;Physics in South America: Dec. 1956&lt;/em&gt;&lt;em&gt;The Origin and Implications of the Cosmic Radiation: Sep.1957&lt;/em&gt;&lt;em&gt;Geiger Counters: 1958&lt;/em&gt;&lt;em&gt;Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959&lt;/em&gt;&lt;em&gt;Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959&lt;/em&gt;&lt;em&gt;Geographical Aspects of Cosmic-Ray Studies: 1960&lt;/em&gt;&lt;em&gt;Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960&lt;/em&gt;&lt;em&gt;High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960&lt;/em&gt;&lt;em&gt;Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956Physics in South America: Dec. 1956The Origin and Implications of the Cosmic Radiation: Sep.1957Geiger Counters: 1958Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959Geographical Aspects of Cosmic-Ray Studies: 1960Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960</field>
+103,148c59,60
+<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+<       &lt;em&gt;Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956&lt;/em&gt;
+<       
+<       &lt;em&gt;The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956&lt;/em&gt;
+<       
+<       &lt;em&gt;Physics in South America: Dec. 1956&lt;/em&gt;
+<       
+<       &lt;em&gt;The Origin and Implications of the Cosmic Radiation: Sep.1957&lt;/em&gt;
+<       
+<       &lt;em&gt;Geiger Counters: 1958&lt;/em&gt;
+<       
+<       &lt;em&gt;Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959&lt;/em&gt;
+<       
+<       &lt;em&gt;Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959&lt;/em&gt;
+<       
+<       &lt;em&gt;Geographical Aspects of Cosmic-Ray Studies: 1960&lt;/em&gt;
+<       
+<       &lt;em&gt;Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960&lt;/em&gt;
+<       
+<       &lt;em&gt;High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960&lt;/em&gt;
+<       
+<       &lt;em&gt;Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956
+<       
+<       The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956
+<       
+<       Physics in South America: Dec. 1956
+<       
+<       The Origin and Implications of the Cosmic Radiation: Sep.1957
+<       
+<       Geiger Counters: 1958
+<       
+<       Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959
+<       
+<       Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959
+<       
+<       Geographical Aspects of Cosmic-Ray Studies: 1960
+<       
+<       Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960
+<       
+<       High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960
+<       
+<       Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960
+<     </field>
+---
+>     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956&lt;/em&gt;&lt;em&gt;The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956&lt;/em&gt;&lt;em&gt;Physics in South America: Dec. 1956&lt;/em&gt;&lt;em&gt;The Origin and Implications of the Cosmic Radiation: Sep.1957&lt;/em&gt;&lt;em&gt;Geiger Counters: 1958&lt;/em&gt;&lt;em&gt;Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959&lt;/em&gt;&lt;em&gt;Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959&lt;/em&gt;&lt;em&gt;Geographical Aspects of Cosmic-Ray Studies: 1960&lt;/em&gt;&lt;em&gt;Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960&lt;/em&gt;&lt;em&gt;High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960&lt;/em&gt;&lt;em&gt;Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960&lt;/em&gt;</field>
+>     <field name="heading_ssm">Nuclear Techniques Will Aid International Geophysical Year: Feb. 1956The Effects of Cosmic Rays on the Terrestrial Isotope Distribution: Sep. 1956Physics in South America: Dec. 1956The Origin and Implications of the Cosmic Radiation: Sep.1957Geiger Counters: 1958Plateau Slopes and Pulse Characteristics of Large, High-Pressure B F3 Counters, SAK and R.B. Mendell: Jun. 1959Bariloche Cosmic-Ray Conference, SAK and Robert L. Chasson: Jul. 1959Geographical Aspects of Cosmic-Ray Studies: 1960Effect of Gaseous Impurities on B F3 Proportional Counters, SAK and J. Davila Aponte: May. 1960High Neutron and Radiation Intensities at Balloon Altitudes during Auroral Display, SAK and R.C. Haymes: Oct. 1960Slow-Neutron Intensity at High Balloon Altitudes, SAK and R.C. Haymes: Nov. 1960</field>

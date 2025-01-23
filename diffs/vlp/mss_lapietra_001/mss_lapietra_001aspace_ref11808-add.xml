@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">v. Boschetto</field>
+---
+>     <field name="parent_unittitles_ssm">vii. Pomario</field>
+18c18
+<     <field name="parent_unittitles_teim">v. Boschetto</field>
+---
+>     <field name="parent_unittitles_teim">vii. Pomario</field>
+46,47c46,47
+<     <field name="series_sim">v. Boschetto</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; v. Boschetto &gt;&gt; Vialone (looking south-west)</field>
+---
+>     <field name="series_sim">vii. Pomario</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; vii. Pomario &gt;&gt; Vialone (looking south-west)</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Packwood, Robert W.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Packwood, Robert W. </field>
+27c27
+<     <field name="series_si">Packwood, Robert W.&amp;nbsp;</field>
+---
+>     <field name="series_si">Packwood, Robert W. </field>

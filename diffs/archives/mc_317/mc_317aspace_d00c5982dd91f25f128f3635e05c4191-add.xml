@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Baker, Annie&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Baker, Annie </field>
+27c27
+<     <field name="series_si">Baker, Annie&amp;nbsp;</field>
+---
+>     <field name="series_si">Baker, Annie </field>

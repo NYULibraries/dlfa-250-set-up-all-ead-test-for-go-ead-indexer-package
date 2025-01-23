@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">People's Daily World&amp;nbsp;/ Dynamic Meeting</field>
+---
+>     <field name="unittitle_ssm">People's Daily World / Dynamic Meeting</field>
+38c38
+<     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; People's Daily World&amp;nbsp;/ Dynamic Meeting</field>
+---
+>     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; People's Daily World / Dynamic Meeting</field>

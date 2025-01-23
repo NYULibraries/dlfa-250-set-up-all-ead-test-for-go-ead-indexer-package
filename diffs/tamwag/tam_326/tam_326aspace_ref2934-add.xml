@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Munoz Fernandez, Rafael
+<       
+<       Munoz Fernandez, Carmen
+<     </field>
+<     <field name="unittitle_teim">
+<       Munoz Fernandez, Rafael
+<       
+<       Munoz Fernandez, Carmen
+<     </field>
+---
+>     <field name="unittitle_ssm">Munoz Fernandez, RafaelMunoz Fernandez, Carmen</field>
+>     <field name="unittitle_teim">Munoz Fernandez, RafaelMunoz Fernandez, Carmen</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Munoz Fernandez, Rafael
+<       
+<       Munoz Fernandez, Carmen
+<     </field>
+<     <field name="heading_ssm">
+<       Munoz Fernandez, Rafael
+<       
+<       Munoz Fernandez, Carmen
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Munoz Fernandez, RafaelMunoz Fernandez, Carmen</field>
+>     <field name="heading_ssm">Munoz Fernandez, RafaelMunoz Fernandez, Carmen</field>

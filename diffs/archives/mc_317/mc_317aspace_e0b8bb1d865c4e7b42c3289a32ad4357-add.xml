@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Goodell, Charles&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Goodell, Charles </field>
+27c27
+<     <field name="series_si">Goodell, Charles&amp;nbsp;</field>
+---
+>     <field name="series_si">Goodell, Charles </field>

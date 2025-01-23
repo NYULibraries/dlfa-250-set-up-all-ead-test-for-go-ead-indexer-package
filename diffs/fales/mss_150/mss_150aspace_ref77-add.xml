@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Series III: Salute to Women in Gastronomy Week, 1994</field>
+---
+>     <field name="parent_unittitles_ssm">LDENY Annual Gala Dinner</field>
+18c18
+<     <field name="parent_unittitles_teim">Series III: Salute to Women in Gastronomy Week, 1994</field>
+---
+>     <field name="parent_unittitles_teim">LDENY Annual Gala Dinner</field>
+41,42c41,42
+<     <field name="series_sim">Series III: Salute to Women in Gastronomy Week, 1994</field>
+<     <field name="series_si">Series I: LDENY Dinner Events &gt;&gt; Subseries A: LDEI Dinner Events &gt;&gt; Series II: Annual Gala Dinners &gt;&gt; Series III: Salute to Women in Gastronomy Week, 1994 &gt;&gt; Event: Edible Art, January 20, 1994</field>
+---
+>     <field name="series_sim">LDENY Annual Gala Dinner</field>
+>     <field name="series_si">Series I: LDENY Dinner Events &gt;&gt; Subseries A: LDEI Dinner Events &gt;&gt; Series II: Annual Gala Dinners &gt;&gt; LDENY Annual Gala Dinner &gt;&gt; Event: Edible Art, January 20, 1994</field>

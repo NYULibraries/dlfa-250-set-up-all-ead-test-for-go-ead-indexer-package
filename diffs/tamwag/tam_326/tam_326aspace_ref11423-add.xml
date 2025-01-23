@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Landa Lopez, Martin
+<       
+<       Landa Lopez, Rafaela (née Ruiz Pascual)
+<     </field>
+<     <field name="unittitle_teim">
+<       Landa Lopez, Martin
+<       
+<       Landa Lopez, Rafaela (née Ruiz Pascual)
+<     </field>
+---
+>     <field name="unittitle_ssm">Landa Lopez, MartinLanda Lopez, Rafaela (née Ruiz Pascual)</field>
+>     <field name="unittitle_teim">Landa Lopez, MartinLanda Lopez, Rafaela (née Ruiz Pascual)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Landa Lopez, Martin
+<       
+<       Landa Lopez, Rafaela (née Ruiz Pascual)
+<     </field>
+<     <field name="heading_ssm">
+<       Landa Lopez, Martin
+<       
+<       Landa Lopez, Rafaela (née Ruiz Pascual)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Landa Lopez, MartinLanda Lopez, Rafaela (née Ruiz Pascual)</field>
+>     <field name="heading_ssm">Landa Lopez, MartinLanda Lopez, Rafaela (née Ruiz Pascual)</field>

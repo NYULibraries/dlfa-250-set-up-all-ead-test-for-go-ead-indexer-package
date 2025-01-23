@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Clarke, Griffith X. '71 C.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Clarke, Griffith X. '71 C. </field>
+27c27
+<     <field name="series_si">Clarke, Griffith X. '71 C.&amp;nbsp;</field>
+---
+>     <field name="series_si">Clarke, Griffith X. '71 C. </field>

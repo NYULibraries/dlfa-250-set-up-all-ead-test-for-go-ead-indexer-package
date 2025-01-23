@@ -1,0 +1,6 @@
+21,23c21
+<     <field name="scopecontent_teim">
+<       Selected printed materials have been removed to Fales Special Collections and cataloged. Please search Bobcat to locate these items.
+<     </field>
+---
+>     <field name="scopecontent_teim">Selected printed materials have been removed to Fales Special Collections and cataloged. Please search Bobcat to locate these items.</field>

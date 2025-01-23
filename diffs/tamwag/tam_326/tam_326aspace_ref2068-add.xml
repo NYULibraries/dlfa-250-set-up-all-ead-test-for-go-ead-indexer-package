@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Lapiedra, Francisco
+<       
+<       Lapiedra, Quiteria (née Palacio)
+<     </field>
+<     <field name="unittitle_teim">
+<       Lapiedra, Francisco
+<       
+<       Lapiedra, Quiteria (née Palacio)
+<     </field>
+---
+>     <field name="unittitle_ssm">Lapiedra, FranciscoLapiedra, Quiteria (née Palacio)</field>
+>     <field name="unittitle_teim">Lapiedra, FranciscoLapiedra, Quiteria (née Palacio)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Lapiedra, Francisco
+<       
+<       Lapiedra, Quiteria (née Palacio)
+<     </field>
+<     <field name="heading_ssm">
+<       Lapiedra, Francisco
+<       
+<       Lapiedra, Quiteria (née Palacio)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Lapiedra, FranciscoLapiedra, Quiteria (née Palacio)</field>
+>     <field name="heading_ssm">Lapiedra, FranciscoLapiedra, Quiteria (née Palacio)</field>

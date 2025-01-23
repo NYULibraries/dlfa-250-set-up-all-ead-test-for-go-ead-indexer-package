@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Labor Organizations - Legal Services Staff Association&amp;nbsp;(LSSA)</field>
+---
+>     <field name="unittitle_ssm">Labor Organizations - Legal Services Staff Association (LSSA)</field>
+39c39
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Legal Services Staff Association&amp;nbsp;(LSSA)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Legal Services Staff Association (LSSA)</field>

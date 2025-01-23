@@ -1,0 +1,20 @@
+12,17c12,13
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;Publications—&lt;em&gt;Finance&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Publications—Finance
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;Finance&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">Publications—Finance</field>
+30,35c26,27
+<     <field name="series_si">
+<       &lt;strong&gt;Publications—&lt;em&gt;Finance&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Publications—Finance
+<     </field>
+---
+>     <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;Finance&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="heading_ssm">Publications—Finance</field>

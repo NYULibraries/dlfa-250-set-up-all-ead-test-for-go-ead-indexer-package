@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Aviles Marcos, Gabino
+<       
+<       Aviles Marcos, Berthe
+<     </field>
+<     <field name="unittitle_teim">
+<       Aviles Marcos, Gabino
+<       
+<       Aviles Marcos, Berthe
+<     </field>
+---
+>     <field name="unittitle_ssm">Aviles Marcos, GabinoAviles Marcos, Berthe</field>
+>     <field name="unittitle_teim">Aviles Marcos, GabinoAviles Marcos, Berthe</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Aviles Marcos, Gabino
+<       
+<       Aviles Marcos, Berthe
+<     </field>
+<     <field name="heading_ssm">
+<       Aviles Marcos, Gabino
+<       
+<       Aviles Marcos, Berthe
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Aviles Marcos, GabinoAviles Marcos, Berthe</field>
+>     <field name="heading_ssm">Aviles Marcos, GabinoAviles Marcos, Berthe</field>

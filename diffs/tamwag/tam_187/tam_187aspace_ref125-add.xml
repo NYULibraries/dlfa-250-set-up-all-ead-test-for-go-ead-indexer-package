@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;New Dimensions&lt;/em&gt;
+<       &lt;em&gt; &lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       New Dimensions
+<        
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;New Dimensions&lt;/em&gt;&lt;em&gt; &lt;/em&gt;</field>
+>     <field name="unittitle_teim">New Dimensions </field>
+45,52c39,40
+<     <field name="series_si">Series II. Topical Files &gt;&gt; 
+<       &lt;em&gt;New Dimensions&lt;/em&gt;
+<       &lt;em&gt; &lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       New Dimensions
+<        
+<     </field>
+---
+>     <field name="series_si">Series II. Topical Files &gt;&gt; &lt;em&gt;New Dimensions&lt;/em&gt;&lt;em&gt; &lt;/em&gt;</field>
+>     <field name="heading_ssm">New Dimensions </field>

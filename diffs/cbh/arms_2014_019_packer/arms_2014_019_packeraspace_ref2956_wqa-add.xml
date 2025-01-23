@@ -1,0 +1,24 @@
+24,26c24
+<     <field name="scopecontent_teim">
+<       Multiple Correspondences
+<     </field>
+---
+>     <field name="scopecontent_teim">Multiple Correspondences</field>
+29,31c27
+<     <field name="scopecontent_teim">
+<       General Correspondence
+<     </field>
+---
+>     <field name="scopecontent_teim">General Correspondence</field>
+34,36c30
+<     <field name="scopecontent_teim">
+<       Chronological files
+<     </field>
+---
+>     <field name="scopecontent_teim">Chronological files</field>
+38,40c32
+<     <field name="scopecontent_teim">
+<       Biographical/Memorabilia of Truman J. Backus
+<     </field>
+---
+>     <field name="scopecontent_teim">Biographical/Memorabilia of Truman J. Backus</field>

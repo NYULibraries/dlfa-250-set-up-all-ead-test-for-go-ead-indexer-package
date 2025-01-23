@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ferrer, Isabel (née Gil)
+<       
+<       Ferrer Llorens, José
+<     </field>
+<     <field name="unittitle_teim">
+<       Ferrer, Isabel (née Gil)
+<       
+<       Ferrer Llorens, José
+<     </field>
+---
+>     <field name="unittitle_ssm">Ferrer, Isabel (née Gil)Ferrer Llorens, José</field>
+>     <field name="unittitle_teim">Ferrer, Isabel (née Gil)Ferrer Llorens, José</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ferrer, Isabel (née Gil)
+<       
+<       Ferrer Llorens, José
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ferrer, Isabel (née Gil)Ferrer Llorens, José</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Ferrer, Isabel (née Gil)
+<       
+<       Ferrer Llorens, José
+<     </field>
+---
+>     <field name="heading_ssm">Ferrer, Isabel (née Gil)Ferrer Llorens, José</field>

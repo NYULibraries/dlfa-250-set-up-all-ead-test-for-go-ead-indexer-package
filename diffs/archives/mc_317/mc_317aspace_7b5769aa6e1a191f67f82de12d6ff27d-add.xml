@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Straus, Dr. Robert&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Straus, Dr. Robert </field>
+27c27
+<     <field name="series_si">Straus, Dr. Robert&amp;nbsp;</field>
+---
+>     <field name="series_si">Straus, Dr. Robert </field>

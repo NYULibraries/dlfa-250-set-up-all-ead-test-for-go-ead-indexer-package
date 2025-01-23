@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Taggart, Joseph H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Taggart, Joseph H. </field>
+27c27
+<     <field name="series_si">Taggart, Joseph H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Taggart, Joseph H. </field>

@@ -1,0 +1,14 @@
+16,24c16,18
+<     <field name="scopecontent_teim">
+<       Subseries III.A. Partnership with Solomon I. Isaacs in  Soho Copper Company
+<     </field>
+<     <field name="scopecontent_teim">
+<       Subseries III.B. Hendricks Brothers
+<     </field>
+<     <field name="scopecontent_teim">
+<       Subseries III.C. Business  and property of the Soho Copper Company and Belleville Copper Rolling Mill 
+<     </field>
+---
+>     <field name="scopecontent_teim">Subseries III.A. Partnership with Solomon I. Isaacs in  Soho Copper Company</field>
+>     <field name="scopecontent_teim">Subseries III.B. Hendricks Brothers</field>
+>     <field name="scopecontent_teim">Subseries III.C. Business  and property of the Soho Copper Company and Belleville Copper Rolling Mill </field>

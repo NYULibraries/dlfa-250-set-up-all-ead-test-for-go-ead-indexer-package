@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Goldschen, Abraham&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Goldschen, Abraham </field>
+27c27
+<     <field name="series_si">Goldschen, Abraham&amp;nbsp;</field>
+---
+>     <field name="series_si">Goldschen, Abraham </field>

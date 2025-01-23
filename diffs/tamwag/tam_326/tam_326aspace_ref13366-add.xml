@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       de Gracia Morales, Nicolas
+<       
+<       de Gracia, Elisa
+<     </field>
+<     <field name="unittitle_teim">
+<       de Gracia Morales, Nicolas
+<       
+<       de Gracia, Elisa
+<     </field>
+---
+>     <field name="unittitle_ssm">de Gracia Morales, Nicolasde Gracia, Elisa</field>
+>     <field name="unittitle_teim">de Gracia Morales, Nicolasde Gracia, Elisa</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; 
+<       de Gracia Morales, Nicolas
+<       
+<       de Gracia, Elisa
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; de Gracia Morales, Nicolasde Gracia, Elisa</field>
+66,70c54
+<     <field name="heading_ssm">
+<       de Gracia Morales, Nicolas
+<       
+<       de Gracia, Elisa
+<     </field>
+---
+>     <field name="heading_ssm">de Gracia Morales, Nicolasde Gracia, Elisa</field>

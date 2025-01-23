@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cabrera Matamoras, José
+<       
+<       Cabrera, Antonia (née Ferrer)
+<     </field>
+<     <field name="unittitle_teim">
+<       Cabrera Matamoras, José
+<       
+<       Cabrera, Antonia (née Ferrer)
+<     </field>
+---
+>     <field name="unittitle_ssm">Cabrera Matamoras, JoséCabrera, Antonia (née Ferrer)</field>
+>     <field name="unittitle_teim">Cabrera Matamoras, JoséCabrera, Antonia (née Ferrer)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cabrera Matamoras, José
+<       
+<       Cabrera, Antonia (née Ferrer)
+<     </field>
+<     <field name="heading_ssm">
+<       Cabrera Matamoras, José
+<       
+<       Cabrera, Antonia (née Ferrer)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cabrera Matamoras, JoséCabrera, Antonia (née Ferrer)</field>
+>     <field name="heading_ssm">Cabrera Matamoras, JoséCabrera, Antonia (née Ferrer)</field>

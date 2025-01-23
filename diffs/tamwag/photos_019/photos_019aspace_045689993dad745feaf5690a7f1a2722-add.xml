@@ -1,0 +1,16 @@
+9c9
+<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+11c11
+<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+35c35
+<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+37c37
+<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:R: Ceremonies &gt;&gt; Teacher Union Service Awards, Teacher Union Day</field>
+---
+>     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:R: Ceremonies &gt;&gt; Teacher Union Service Awards, Teacher Union Day</field>

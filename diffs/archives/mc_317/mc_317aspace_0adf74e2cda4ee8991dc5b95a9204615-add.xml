@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Geacintov, Nicholas (Chemistry)&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Geacintov, Nicholas (Chemistry) </field>
+27c27
+<     <field name="series_si">Geacintov, Nicholas (Chemistry)&amp;nbsp;</field>
+---
+>     <field name="series_si">Geacintov, Nicholas (Chemistry) </field>

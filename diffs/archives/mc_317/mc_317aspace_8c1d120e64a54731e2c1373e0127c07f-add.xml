@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Becker, Stuart '64 C, '73 GBA&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Becker, Stuart '64 C, '73 GBA </field>
+27c27
+<     <field name="series_si">Becker, Stuart '64 C, '73 GBA&amp;nbsp;</field>
+---
+>     <field name="series_si">Becker, Stuart '64 C, '73 GBA </field>

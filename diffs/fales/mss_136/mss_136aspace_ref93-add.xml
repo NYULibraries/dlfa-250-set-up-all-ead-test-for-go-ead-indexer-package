@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">&lt;em&gt;I Am Third&lt;/em&gt; (interview questions, &lt;em&gt; notes)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;I Am Third&lt;/em&gt; (interview questions, &lt;em&gt;&lt;/em&gt; notes)</field>
+39c39
+<     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;I Am Third&lt;/em&gt; (interview questions, &lt;em&gt; notes)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;I Am Third&lt;/em&gt; (interview questions, &lt;em&gt;&lt;/em&gt; notes)</field>

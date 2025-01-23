@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+---
+>     <field name="parent_unittitles_ssm">3. The Estate</field>
+18c18
+<     <field name="parent_unittitles_teim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+---
+>     <field name="parent_unittitles_teim">3. The Estate</field>
+46,47c46,47
+<     <field name="series_sim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+<     <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; ii. unidentified (probably once part of the Collection, and whereabouts at present unknown) &gt;&gt; Madonna and Child with two Saints</field>
+---
+>     <field name="series_sim">3. The Estate</field>
+>     <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; 3. The Estate &gt;&gt; Madonna and Child with two Saints</field>

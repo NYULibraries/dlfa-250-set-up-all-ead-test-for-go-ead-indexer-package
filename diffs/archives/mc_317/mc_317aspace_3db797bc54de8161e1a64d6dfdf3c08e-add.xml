@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Feinberg, Maxine A. '77W, '80D&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Feinberg, Maxine A. '77W, '80D </field>
+27c27
+<     <field name="series_si">Feinberg, Maxine A. '77W, '80D&amp;nbsp;</field>
+---
+>     <field name="series_si">Feinberg, Maxine A. '77W, '80D </field>

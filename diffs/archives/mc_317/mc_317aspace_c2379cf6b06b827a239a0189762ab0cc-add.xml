@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Barrett, Lawrence I '56 W&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Barrett, Lawrence I '56 W </field>
+27c27
+<     <field name="series_si">Barrett, Lawrence I '56 W&amp;nbsp;</field>
+---
+>     <field name="series_si">Barrett, Lawrence I '56 W </field>

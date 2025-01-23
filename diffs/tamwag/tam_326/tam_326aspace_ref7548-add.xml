@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Perals Torres, Juan
+<       
+<       Perals Torres, Ana
+<     </field>
+<     <field name="unittitle_teim">
+<       Perals Torres, Juan
+<       
+<       Perals Torres, Ana
+<     </field>
+---
+>     <field name="unittitle_ssm">Perals Torres, JuanPerals Torres, Ana</field>
+>     <field name="unittitle_teim">Perals Torres, JuanPerals Torres, Ana</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Perals Torres, Juan
+<       
+<       Perals Torres, Ana
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Perals Torres, JuanPerals Torres, Ana</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Perals Torres, Juan
+<       
+<       Perals Torres, Ana
+<     </field>
+---
+>     <field name="heading_ssm">Perals Torres, JuanPerals Torres, Ana</field>

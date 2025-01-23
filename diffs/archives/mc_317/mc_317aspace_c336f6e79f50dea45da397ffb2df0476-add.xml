@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tanner, Rollin H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tanner, Rollin H. </field>
+27c27
+<     <field name="series_si">Tanner, Rollin H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tanner, Rollin H. </field>

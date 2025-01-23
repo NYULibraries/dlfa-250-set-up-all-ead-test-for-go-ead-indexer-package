@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ibarrando, Carmen (née Mateu)
+<       
+<       Ibarrando Landa, Gregorio
+<     </field>
+<     <field name="unittitle_teim">
+<       Ibarrando, Carmen (née Mateu)
+<       
+<       Ibarrando Landa, Gregorio
+<     </field>
+---
+>     <field name="unittitle_ssm">Ibarrando, Carmen (née Mateu)Ibarrando Landa, Gregorio</field>
+>     <field name="unittitle_teim">Ibarrando, Carmen (née Mateu)Ibarrando Landa, Gregorio</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ibarrando, Carmen (née Mateu)
+<       
+<       Ibarrando Landa, Gregorio
+<     </field>
+<     <field name="heading_ssm">
+<       Ibarrando, Carmen (née Mateu)
+<       
+<       Ibarrando Landa, Gregorio
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ibarrando, Carmen (née Mateu)Ibarrando Landa, Gregorio</field>
+>     <field name="heading_ssm">Ibarrando, Carmen (née Mateu)Ibarrando Landa, Gregorio</field>

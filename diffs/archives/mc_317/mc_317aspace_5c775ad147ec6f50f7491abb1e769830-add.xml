@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tomlinson, Brian E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tomlinson, Brian E. </field>
+27c27
+<     <field name="series_si">Tomlinson, Brian E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tomlinson, Brian E. </field>

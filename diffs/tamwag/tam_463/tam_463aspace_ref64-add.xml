@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Issue of&amp;nbsp;Common Sense&amp;nbsp;by Walter W. Liggett</field>
+---
+>     <field name="unittitle_ssm">Issue of Common Sense by Walter W. Liggett</field>
+24c24
+<     <field name="series_si">Issue of&amp;nbsp;Common Sense&amp;nbsp;by Walter W. Liggett</field>
+---
+>     <field name="series_si">Issue of Common Sense by Walter W. Liggett</field>

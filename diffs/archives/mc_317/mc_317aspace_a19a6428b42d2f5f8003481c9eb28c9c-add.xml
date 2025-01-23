@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Van Bomel, Leroy A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Van Bomel, Leroy A. </field>
+27c27
+<     <field name="series_si">Van Bomel, Leroy A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Van Bomel, Leroy A. </field>

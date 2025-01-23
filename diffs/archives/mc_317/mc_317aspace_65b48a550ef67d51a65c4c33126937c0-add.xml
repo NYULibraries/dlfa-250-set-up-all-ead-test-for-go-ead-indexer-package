@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Campanis, Al.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Campanis, Al.   </field>
+27c27
+<     <field name="series_si">Campanis, Al.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Campanis, Al.   </field>

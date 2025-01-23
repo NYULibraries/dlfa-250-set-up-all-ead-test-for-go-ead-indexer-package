@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">i. the Rooms with their contents</field>
+---
+>     <field name="parent_unittitles_ssm">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+18c18
+<     <field name="parent_unittitles_teim">i. the Rooms with their contents</field>
+---
+>     <field name="parent_unittitles_teim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+46,47c46,47
+<     <field name="series_sim">i. the Rooms with their contents</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2 The Interior and the Collection &gt;&gt; i. the Rooms with their contents &gt;&gt; XLVIII. C.10.</field>
+---
+>     <field name="series_sim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2 The Interior and the Collection &gt;&gt; ii. unidentified (probably once part of the Collection, and whereabouts at present unknown) &gt;&gt; XLVIII. C.10.</field>

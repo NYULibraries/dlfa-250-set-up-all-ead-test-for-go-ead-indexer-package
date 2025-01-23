@@ -1,0 +1,12 @@
+8,9c8,9
+<     <field name="parent_unittitles_ssm">Series VIII: Art&amp;nbsp;</field>
+<     <field name="parent_unittitles_teim">Series VIII: Art&amp;nbsp;</field>
+---
+>     <field name="parent_unittitles_ssm">Series VIII: Art </field>
+>     <field name="parent_unittitles_teim">Series VIII: Art </field>
+33,34c33,34
+<     <field name="series_sim">Series VIII: Art&amp;nbsp;</field>
+<     <field name="series_si">Series VIII: Art&amp;nbsp; &gt;&gt; Alice (Drink Me)</field>
+---
+>     <field name="series_sim">Series VIII: Art </field>
+>     <field name="series_si">Series VIII: Art  &gt;&gt; Alice (Drink Me)</field>

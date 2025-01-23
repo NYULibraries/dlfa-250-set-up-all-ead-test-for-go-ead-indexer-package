@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carty, John J.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carty, John J.   </field>
+27c27
+<     <field name="series_si">Carty, John J.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carty, John J.   </field>

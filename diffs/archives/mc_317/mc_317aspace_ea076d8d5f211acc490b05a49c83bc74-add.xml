@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Folcarelli, John W. '74W.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Folcarelli, John W. '74W. </field>
+27c27
+<     <field name="series_si">Folcarelli, John W. '74W.&amp;nbsp;</field>
+---
+>     <field name="series_si">Folcarelli, John W. '74W. </field>

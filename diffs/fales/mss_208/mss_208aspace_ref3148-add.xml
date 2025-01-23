@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Subsubseries c: Rumford Chemical Works</field>
+---
+>     <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+18c18
+<     <field name="parent_unittitles_teim">Subsubseries c: Rumford Chemical Works</field>
+---
+>     <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+58,59c58,59
+<     <field name="series_sim">Subsubseries c: Rumford Chemical Works</field>
+<     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries c: Rumford Chemical Works &gt;&gt; Durant, Henry Fowle: [Boston, MA]</field>
+---
+>     <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+>     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Durant, Henry Fowle: [Boston, MA]</field>

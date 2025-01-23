@@ -1,0 +1,12 @@
+18,25c18,19
+<     <field name="scopecontent_teim">
+<       Folder: Morris County Golf Club competition, Morristown, NJ
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Danforth Library Building, Paterson, NJ
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Morris County Golf Club competition, Morristown, NJ</field>
+>     <field name="scopecontent_teim">Folder: Danforth Library Building, Paterson, NJ</field>

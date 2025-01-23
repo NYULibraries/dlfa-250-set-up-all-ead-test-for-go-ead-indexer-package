@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Escobar Zafrilla, Ceferino
+<       
+<       Escobar Zafrilla, Pilar
+<     </field>
+<     <field name="unittitle_teim">
+<       Escobar Zafrilla, Ceferino
+<       
+<       Escobar Zafrilla, Pilar
+<     </field>
+---
+>     <field name="unittitle_ssm">Escobar Zafrilla, CeferinoEscobar Zafrilla, Pilar</field>
+>     <field name="unittitle_teim">Escobar Zafrilla, CeferinoEscobar Zafrilla, Pilar</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Escobar Zafrilla, Ceferino
+<       
+<       Escobar Zafrilla, Pilar
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Escobar Zafrilla, CeferinoEscobar Zafrilla, Pilar</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Escobar Zafrilla, Ceferino
+<       
+<       Escobar Zafrilla, Pilar
+<     </field>
+---
+>     <field name="heading_ssm">Escobar Zafrilla, CeferinoEscobar Zafrilla, Pilar</field>

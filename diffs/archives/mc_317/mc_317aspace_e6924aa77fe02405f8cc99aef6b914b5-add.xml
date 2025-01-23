@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Friedman, Joel M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Friedman, Joel M. </field>
+27c27
+<     <field name="series_si">Friedman, Joel M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Friedman, Joel M. </field>

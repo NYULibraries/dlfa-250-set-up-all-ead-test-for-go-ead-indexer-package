@@ -1,0 +1,8 @@
+21,25c21
+<     <field name="scopecontent_teim">
+<       
+<         Click here to link to the Guide to the New-York Historical Society Collection Accession Registers.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Collection Accession Registers.</field>

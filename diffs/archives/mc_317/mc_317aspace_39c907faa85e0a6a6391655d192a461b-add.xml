@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Baden, Dr. Michael M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Baden, Dr. Michael M. </field>
+27c27
+<     <field name="series_si">Baden, Dr. Michael M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Baden, Dr. Michael M. </field>

@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Lopez Lopez, Eusebio
+<       
+<       Lopez Vazquez, Eugenio
+<       
+<       Lopez, Julia (née Gonzalez Pitard)
+<     </field>
+<     <field name="unittitle_teim">
+<       Lopez Lopez, Eusebio
+<       
+<       Lopez Vazquez, Eugenio
+<       
+<       Lopez, Julia (née Gonzalez Pitard)
+<     </field>
+---
+>     <field name="unittitle_ssm">Lopez Lopez, EusebioLopez Vazquez, EugenioLopez, Julia (née Gonzalez Pitard)</field>
+>     <field name="unittitle_teim">Lopez Lopez, EusebioLopez Vazquez, EugenioLopez, Julia (née Gonzalez Pitard)</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Lopez Lopez, Eusebio
+<       
+<       Lopez Vazquez, Eugenio
+<       
+<       Lopez, Julia (née Gonzalez Pitard)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Lopez Lopez, EusebioLopez Vazquez, EugenioLopez, Julia (née Gonzalez Pitard)</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Lopez Lopez, Eusebio
+<       
+<       Lopez Vazquez, Eugenio
+<       
+<       Lopez, Julia (née Gonzalez Pitard)
+<     </field>
+---
+>     <field name="heading_ssm">Lopez Lopez, EusebioLopez Vazquez, EugenioLopez, Julia (née Gonzalez Pitard)</field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Segues Noguero, Ramon
+<       
+<       Segues, Dolores (née Caurat)
+<     </field>
+<     <field name="unittitle_teim">
+<       Segues Noguero, Ramon
+<       
+<       Segues, Dolores (née Caurat)
+<     </field>
+---
+>     <field name="unittitle_ssm">Segues Noguero, RamonSegues, Dolores (née Caurat)</field>
+>     <field name="unittitle_teim">Segues Noguero, RamonSegues, Dolores (née Caurat)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Segues Noguero, Ramon
+<       
+<       Segues, Dolores (née Caurat)
+<     </field>
+<     <field name="heading_ssm">
+<       Segues Noguero, Ramon
+<       
+<       Segues, Dolores (née Caurat)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Segues Noguero, RamonSegues, Dolores (née Caurat)</field>
+>     <field name="heading_ssm">Segues Noguero, RamonSegues, Dolores (née Caurat)</field>

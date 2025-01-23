@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Byrnes, Joseph&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Byrnes, Joseph   </field>
+27c27
+<     <field name="series_si">Byrnes, Joseph&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Byrnes, Joseph   </field>

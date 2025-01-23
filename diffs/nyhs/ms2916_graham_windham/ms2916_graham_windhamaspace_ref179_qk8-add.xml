@@ -1,0 +1,6 @@
+20,22c20
+<     <field name="scopecontent_teim">
+<       The records in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
+<     </field>
+---
+>     <field name="scopecontent_teim">The records in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.</field>

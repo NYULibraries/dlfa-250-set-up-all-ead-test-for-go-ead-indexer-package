@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Guiraud Pujol, José
+<       
+<       Guiraud Pujol, Dolores
+<     </field>
+<     <field name="unittitle_teim">
+<       Guiraud Pujol, José
+<       
+<       Guiraud Pujol, Dolores
+<     </field>
+---
+>     <field name="unittitle_ssm">Guiraud Pujol, JoséGuiraud Pujol, Dolores</field>
+>     <field name="unittitle_teim">Guiraud Pujol, JoséGuiraud Pujol, Dolores</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Guiraud Pujol, José
+<       
+<       Guiraud Pujol, Dolores
+<     </field>
+<     <field name="heading_ssm">
+<       Guiraud Pujol, José
+<       
+<       Guiraud Pujol, Dolores
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Guiraud Pujol, JoséGuiraud Pujol, Dolores</field>
+>     <field name="heading_ssm">Guiraud Pujol, JoséGuiraud Pujol, Dolores</field>

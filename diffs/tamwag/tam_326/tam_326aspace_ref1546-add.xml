@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Rovira Bernades, Isidoro
+<       
+<       Rovira Bernades, Consuelo (née Esteban)
+<     </field>
+<     <field name="unittitle_teim">
+<       Rovira Bernades, Isidoro
+<       
+<       Rovira Bernades, Consuelo (née Esteban)
+<     </field>
+---
+>     <field name="unittitle_ssm">Rovira Bernades, IsidoroRovira Bernades, Consuelo (née Esteban)</field>
+>     <field name="unittitle_teim">Rovira Bernades, IsidoroRovira Bernades, Consuelo (née Esteban)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Rovira Bernades, Isidoro
+<       
+<       Rovira Bernades, Consuelo (née Esteban)
+<     </field>
+<     <field name="heading_ssm">
+<       Rovira Bernades, Isidoro
+<       
+<       Rovira Bernades, Consuelo (née Esteban)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Rovira Bernades, IsidoroRovira Bernades, Consuelo (née Esteban)</field>
+>     <field name="heading_ssm">Rovira Bernades, IsidoroRovira Bernades, Consuelo (née Esteban)</field>

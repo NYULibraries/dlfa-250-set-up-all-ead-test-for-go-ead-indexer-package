@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Escudero Sierra, Antonia
+<       
+<       Escudero Sierra, Gregorio
+<     </field>
+<     <field name="unittitle_teim">
+<       Escudero Sierra, Antonia
+<       
+<       Escudero Sierra, Gregorio
+<     </field>
+---
+>     <field name="unittitle_ssm">Escudero Sierra, AntoniaEscudero Sierra, Gregorio</field>
+>     <field name="unittitle_teim">Escudero Sierra, AntoniaEscudero Sierra, Gregorio</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Escudero Sierra, Antonia
+<       
+<       Escudero Sierra, Gregorio
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Escudero Sierra, AntoniaEscudero Sierra, Gregorio</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Escudero Sierra, Antonia
+<       
+<       Escudero Sierra, Gregorio
+<     </field>
+---
+>     <field name="heading_ssm">Escudero Sierra, AntoniaEscudero Sierra, Gregorio</field>

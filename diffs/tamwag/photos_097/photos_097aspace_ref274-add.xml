@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Union Officers / Staff</field>
+---
+>     <field name="parent_unittitles_ssm">Awards</field>
+18c18
+<     <field name="parent_unittitles_teim">Union Officers / Staff</field>
+---
+>     <field name="parent_unittitles_teim">Awards</field>
+42,43c42,43
+<     <field name="series_sim">Union Officers / Staff</field>
+<     <field name="series_si">Prints &gt;&gt; Organizations &gt;&gt; Prepaid Legal &gt;&gt; Union Officers / Staff &gt;&gt; Harry Van Arsdale</field>
+---
+>     <field name="series_sim">Awards</field>
+>     <field name="series_si">Prints &gt;&gt; Organizations &gt;&gt; Prepaid Legal &gt;&gt; Awards &gt;&gt; Harry Van Arsdale</field>

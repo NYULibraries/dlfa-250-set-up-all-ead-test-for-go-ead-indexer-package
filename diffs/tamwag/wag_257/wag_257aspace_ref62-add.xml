@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;America&lt;/em&gt;
+<       &lt;em&gt;Hurrah&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       America
+<       Hurrah
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;America&lt;/em&gt;&lt;em&gt;Hurrah&lt;/em&gt;</field>
+>     <field name="unittitle_teim">AmericaHurrah</field>
+43,50c37,38
+<     <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; 
+<       &lt;em&gt;America&lt;/em&gt;
+<       &lt;em&gt;Hurrah&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       America
+<       Hurrah
+<     </field>
+---
+>     <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; &lt;em&gt;America&lt;/em&gt;&lt;em&gt;Hurrah&lt;/em&gt;</field>
+>     <field name="heading_ssm">AmericaHurrah</field>

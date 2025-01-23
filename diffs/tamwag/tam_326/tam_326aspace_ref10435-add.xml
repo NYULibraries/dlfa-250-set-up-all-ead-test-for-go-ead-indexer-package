@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Herrera Garcia, Enrique
+<       
+<       Herrera, Josefa (née Quevedo Diaz)
+<     </field>
+<     <field name="unittitle_teim">
+<       Herrera Garcia, Enrique
+<       
+<       Herrera, Josefa (née Quevedo Diaz)
+<     </field>
+---
+>     <field name="unittitle_ssm">Herrera Garcia, EnriqueHerrera, Josefa (née Quevedo Diaz)</field>
+>     <field name="unittitle_teim">Herrera Garcia, EnriqueHerrera, Josefa (née Quevedo Diaz)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Herrera Garcia, Enrique
+<       
+<       Herrera, Josefa (née Quevedo Diaz)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Herrera Garcia, EnriqueHerrera, Josefa (née Quevedo Diaz)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Herrera Garcia, Enrique
+<       
+<       Herrera, Josefa (née Quevedo Diaz)
+<     </field>
+---
+>     <field name="heading_ssm">Herrera Garcia, EnriqueHerrera, Josefa (née Quevedo Diaz)</field>

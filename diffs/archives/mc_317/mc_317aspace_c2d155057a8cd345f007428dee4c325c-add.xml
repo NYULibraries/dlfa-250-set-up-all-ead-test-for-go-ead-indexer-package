@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wooding, Rev. Nathaniel H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wooding, Rev. Nathaniel H. </field>
+27c27
+<     <field name="series_si">Wooding, Rev. Nathaniel H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wooding, Rev. Nathaniel H. </field>

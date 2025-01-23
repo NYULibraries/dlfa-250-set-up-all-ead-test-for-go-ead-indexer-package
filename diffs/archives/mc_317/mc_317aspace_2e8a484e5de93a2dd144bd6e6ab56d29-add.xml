@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burlingame, Lloyd&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burlingame, Lloyd   </field>
+27c27
+<     <field name="series_si">Burlingame, Lloyd&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burlingame, Lloyd   </field>

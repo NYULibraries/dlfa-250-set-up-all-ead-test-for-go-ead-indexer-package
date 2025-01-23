@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Ottman, Frederick R.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Ottman, Frederick R. </field>
+27c27
+<     <field name="series_si">Ottman, Frederick R.&amp;nbsp;</field>
+---
+>     <field name="series_si">Ottman, Frederick R. </field>

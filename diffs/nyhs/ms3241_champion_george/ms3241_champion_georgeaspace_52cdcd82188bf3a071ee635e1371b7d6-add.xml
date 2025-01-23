@@ -1,0 +1,20 @@
+12,17c12,13
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;Publications—&lt;em&gt;Bankers Magazine&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Publications—Bankers Magazine
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;Bankers Magazine&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">Publications—Bankers Magazine</field>
+32,37c28,29
+<     <field name="series_si">
+<       &lt;strong&gt;Publications—&lt;em&gt;Bankers Magazine&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Publications—Bankers Magazine
+<     </field>
+---
+>     <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;Bankers Magazine&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="heading_ssm">Publications—Bankers Magazine</field>

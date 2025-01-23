@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Subsubseries b: Wellesley College</field>
+---
+>     <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+18c18
+<     <field name="parent_unittitles_teim">Subsubseries b: Wellesley College</field>
+---
+>     <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+58,59c58,59
+<     <field name="series_sim">Subsubseries b: Wellesley College</field>
+<     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Clark, Pastor FG: Gloucester, MA</field>
+---
+>     <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+>     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Clark, Pastor FG: Gloucester, MA</field>

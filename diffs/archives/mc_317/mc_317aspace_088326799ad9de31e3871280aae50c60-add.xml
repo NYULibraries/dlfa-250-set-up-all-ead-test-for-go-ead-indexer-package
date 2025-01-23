@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Menzel, Herbert Dr.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Menzel, Herbert Dr. </field>
+27c27
+<     <field name="series_si">Menzel, Herbert Dr.&amp;nbsp;</field>
+---
+>     <field name="series_si">Menzel, Herbert Dr. </field>

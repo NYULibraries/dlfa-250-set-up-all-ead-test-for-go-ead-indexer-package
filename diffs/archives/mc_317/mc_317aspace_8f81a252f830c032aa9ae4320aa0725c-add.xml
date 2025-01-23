@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Caldwell, Amanda&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Caldwell, Amanda   </field>
+27c27
+<     <field name="series_si">Caldwell, Amanda&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Caldwell, Amanda   </field>

@@ -1,0 +1,12 @@
+15,17c15
+<     <field name="scopecontent_teim">
+<       Biographical Note
+<     </field>
+---
+>     <field name="scopecontent_teim">Biographical Note</field>
+20,22c18
+<     <field name="scopecontent_teim">
+<       Arrangement
+<     </field>
+---
+>     <field name="scopecontent_teim">Arrangement</field>

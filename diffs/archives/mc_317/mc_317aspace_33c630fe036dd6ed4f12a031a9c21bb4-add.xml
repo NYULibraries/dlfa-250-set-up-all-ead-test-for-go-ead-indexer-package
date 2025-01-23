@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tillett, William S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tillett, William S. </field>
+27c27
+<     <field name="series_si">Tillett, William S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tillett, William S. </field>

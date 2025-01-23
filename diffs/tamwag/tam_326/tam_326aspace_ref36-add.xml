@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Maldonado Diaz, Nemesio
+<       
+<       Maldonado, Juana (née Lopez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Maldonado Diaz, Nemesio
+<       
+<       Maldonado, Juana (née Lopez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Maldonado Diaz, NemesioMaldonado, Juana (née Lopez)</field>
+>     <field name="unittitle_teim">Maldonado Diaz, NemesioMaldonado, Juana (née Lopez)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Maldonado Diaz, Nemesio
+<       
+<       Maldonado, Juana (née Lopez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Maldonado Diaz, NemesioMaldonado, Juana (née Lopez)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Maldonado Diaz, Nemesio
+<       
+<       Maldonado, Juana (née Lopez)
+<     </field>
+---
+>     <field name="heading_ssm">Maldonado Diaz, NemesioMaldonado, Juana (née Lopez)</field>

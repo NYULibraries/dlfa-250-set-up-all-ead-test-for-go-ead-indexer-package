@@ -1,0 +1,8 @@
+16,20c16
+<     <field name="scopecontent_teim">
+<       
+<         Click here to link to the Guide to the Time Inc. Subject Files.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Subject Files.</field>

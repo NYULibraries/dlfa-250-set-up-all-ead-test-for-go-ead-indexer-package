@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tompkins, Leslie J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tompkins, Leslie J. </field>
+27c27
+<     <field name="series_si">Tompkins, Leslie J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tompkins, Leslie J. </field>

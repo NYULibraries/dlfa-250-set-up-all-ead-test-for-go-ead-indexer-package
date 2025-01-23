@@ -1,0 +1,6 @@
+19,21c19
+<     <field name="scopecontent_teim">
+<       Description of the original 13 bundles:
+<     </field>
+---
+>     <field name="scopecontent_teim">Description of the original 13 bundles:</field>

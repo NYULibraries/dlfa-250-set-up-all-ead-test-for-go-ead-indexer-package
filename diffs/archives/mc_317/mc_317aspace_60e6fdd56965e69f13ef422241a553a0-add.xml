@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Connors, Michael&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Connors, Michael </field>
+27c27
+<     <field name="series_si">Connors, Michael&amp;nbsp;</field>
+---
+>     <field name="series_si">Connors, Michael </field>

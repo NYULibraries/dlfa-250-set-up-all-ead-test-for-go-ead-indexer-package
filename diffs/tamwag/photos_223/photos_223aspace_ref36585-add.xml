@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Weathermen&amp;nbsp;(Weather Underground Organization) - Greenwich Village Explosion (New York, New York) - Prints</field>
+---
+>     <field name="unittitle_ssm">Weathermen (Weather Underground Organization) - Greenwich Village Explosion (New York, New York) - Prints</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Weathermen&amp;nbsp;(Weather Underground Organization) - Greenwich Village Explosion (New York, New York) - Prints</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Weathermen (Weather Underground Organization) - Greenwich Village Explosion (New York, New York) - Prints</field>

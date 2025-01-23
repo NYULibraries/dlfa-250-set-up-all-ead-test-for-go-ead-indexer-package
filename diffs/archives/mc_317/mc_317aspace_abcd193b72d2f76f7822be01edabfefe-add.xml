@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Edwards, Harold&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Edwards, Harold </field>
+27c27
+<     <field name="series_si">Edwards, Harold&amp;nbsp;</field>
+---
+>     <field name="series_si">Edwards, Harold </field>

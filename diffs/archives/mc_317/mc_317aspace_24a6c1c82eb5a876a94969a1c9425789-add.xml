@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wotherspoon, W. W.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wotherspoon, W. W. </field>
+27c27
+<     <field name="series_si">Wotherspoon, W. W.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wotherspoon, W. W. </field>

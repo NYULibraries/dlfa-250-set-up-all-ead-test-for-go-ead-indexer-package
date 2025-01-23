@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Buckler, William&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Buckler, William   </field>
+27c27
+<     <field name="series_si">Buckler, William&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Buckler, William   </field>

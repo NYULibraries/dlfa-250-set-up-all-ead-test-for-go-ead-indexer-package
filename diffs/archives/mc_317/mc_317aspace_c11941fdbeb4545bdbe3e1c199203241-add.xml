@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Smith, Judith Ann&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Smith, Judith Ann </field>
+27c27
+<     <field name="series_si">Smith, Judith Ann&amp;nbsp;</field>
+---
+>     <field name="series_si">Smith, Judith Ann </field>

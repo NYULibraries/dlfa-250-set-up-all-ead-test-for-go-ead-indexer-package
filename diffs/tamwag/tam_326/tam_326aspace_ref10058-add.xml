@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Escartin Coch, Mariano
+<       
+<       Escartin Coch, Carmen
+<     </field>
+<     <field name="unittitle_teim">
+<       Escartin Coch, Mariano
+<       
+<       Escartin Coch, Carmen
+<     </field>
+---
+>     <field name="unittitle_ssm">Escartin Coch, MarianoEscartin Coch, Carmen</field>
+>     <field name="unittitle_teim">Escartin Coch, MarianoEscartin Coch, Carmen</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Escartin Coch, Mariano
+<       
+<       Escartin Coch, Carmen
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Escartin Coch, MarianoEscartin Coch, Carmen</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Escartin Coch, Mariano
+<       
+<       Escartin Coch, Carmen
+<     </field>
+---
+>     <field name="heading_ssm">Escartin Coch, MarianoEscartin Coch, Carmen</field>

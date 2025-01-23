@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Anderson, George&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Anderson, George </field>
+27c27
+<     <field name="series_si">Anderson, George&amp;nbsp;</field>
+---
+>     <field name="series_si">Anderson, George </field>

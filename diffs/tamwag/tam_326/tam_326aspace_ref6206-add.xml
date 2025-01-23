@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Sagues Ramis, Domingo
+<       
+<       Sagues, Francisca (née Foj)
+<     </field>
+<     <field name="unittitle_teim">
+<       Sagues Ramis, Domingo
+<       
+<       Sagues, Francisca (née Foj)
+<     </field>
+---
+>     <field name="unittitle_ssm">Sagues Ramis, DomingoSagues, Francisca (née Foj)</field>
+>     <field name="unittitle_teim">Sagues Ramis, DomingoSagues, Francisca (née Foj)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Sagues Ramis, Domingo
+<       
+<       Sagues, Francisca (née Foj)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Sagues Ramis, DomingoSagues, Francisca (née Foj)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Sagues Ramis, Domingo
+<       
+<       Sagues, Francisca (née Foj)
+<     </field>
+---
+>     <field name="heading_ssm">Sagues Ramis, DomingoSagues, Francisca (née Foj)</field>

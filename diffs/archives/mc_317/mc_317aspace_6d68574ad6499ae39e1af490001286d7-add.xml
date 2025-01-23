@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Leadbeater, Reuben R.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Leadbeater, Reuben R. </field>
+27c27
+<     <field name="series_si">Leadbeater, Reuben R.&amp;nbsp;</field>
+---
+>     <field name="series_si">Leadbeater, Reuben R. </field>

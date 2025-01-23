@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Armstrong, George&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Armstrong, George </field>
+27c27
+<     <field name="series_si">Armstrong, George&amp;nbsp;</field>
+---
+>     <field name="series_si">Armstrong, George </field>

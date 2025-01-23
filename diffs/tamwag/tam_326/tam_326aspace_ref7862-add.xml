@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Zaldivar Gajate, Victor
+<       
+<       Zaldivar Gajate, Marguerite
+<     </field>
+<     <field name="unittitle_teim">
+<       Zaldivar Gajate, Victor
+<       
+<       Zaldivar Gajate, Marguerite
+<     </field>
+---
+>     <field name="unittitle_ssm">Zaldivar Gajate, VictorZaldivar Gajate, Marguerite</field>
+>     <field name="unittitle_teim">Zaldivar Gajate, VictorZaldivar Gajate, Marguerite</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Zaldivar Gajate, Victor
+<       
+<       Zaldivar Gajate, Marguerite
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Zaldivar Gajate, VictorZaldivar Gajate, Marguerite</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Zaldivar Gajate, Victor
+<       
+<       Zaldivar Gajate, Marguerite
+<     </field>
+---
+>     <field name="heading_ssm">Zaldivar Gajate, VictorZaldivar Gajate, Marguerite</field>

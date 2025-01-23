@@ -1,0 +1,6 @@
+25,27c25
+<     <field name="phystech_teim">
+<        Description:
+<     </field>
+---
+>     <field name="phystech_teim"> Description:</field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Siuranet Sole, Enrique
+<       
+<       Siuranet Sole, Luisa
+<     </field>
+<     <field name="unittitle_teim">
+<       Siuranet Sole, Enrique
+<       
+<       Siuranet Sole, Luisa
+<     </field>
+---
+>     <field name="unittitle_ssm">Siuranet Sole, EnriqueSiuranet Sole, Luisa</field>
+>     <field name="unittitle_teim">Siuranet Sole, EnriqueSiuranet Sole, Luisa</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Siuranet Sole, Enrique
+<       
+<       Siuranet Sole, Luisa
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Siuranet Sole, EnriqueSiuranet Sole, Luisa</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Siuranet Sole, Enrique
+<       
+<       Siuranet Sole, Luisa
+<     </field>
+---
+>     <field name="heading_ssm">Siuranet Sole, EnriqueSiuranet Sole, Luisa</field>

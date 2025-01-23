@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Alegre Bara, Maria
+<       
+<       Alegre, Emile
+<     </field>
+<     <field name="unittitle_teim">
+<       Alegre Bara, Maria
+<       
+<       Alegre, Emile
+<     </field>
+---
+>     <field name="unittitle_ssm">Alegre Bara, MariaAlegre, Emile</field>
+>     <field name="unittitle_teim">Alegre Bara, MariaAlegre, Emile</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series C: Spanish Refugee Aid New Case Files &gt;&gt; 
+<       Alegre Bara, Maria
+<       
+<       Alegre, Emile
+<     </field>
+<     <field name="heading_ssm">
+<       Alegre Bara, Maria
+<       
+<       Alegre, Emile
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series C: Spanish Refugee Aid New Case Files &gt;&gt; Alegre Bara, MariaAlegre, Emile</field>
+>     <field name="heading_ssm">Alegre Bara, MariaAlegre, Emile</field>

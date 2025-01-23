@@ -1,0 +1,24 @@
+11c11
+<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+14,15c14,15
+<     <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:6b: Intermediate and Junior High Schools</field>
+<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:6f: Miscellaneous</field>
+>     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+18c18
+<     <field name="parent_unittitles_teim">Sub-sub-subseries I:A:6b: Intermediate and Junior High Schools</field>
+---
+>     <field name="parent_unittitles_teim">Sub-sub-subseries I:A:6f: Miscellaneous</field>
+41c41
+<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+44,45c44,45
+<     <field name="series_sim">Sub-sub-subseries I:A:6b: Intermediate and Junior High Schools</field>
+<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6b: Intermediate and Junior High Schools &gt;&gt; IS 8 Queens, early school session</field>
+---
+>     <field name="series_sim">Sub-sub-subseries I:A:6f: Miscellaneous</field>
+>     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; IS 8 Queens, early school session</field>

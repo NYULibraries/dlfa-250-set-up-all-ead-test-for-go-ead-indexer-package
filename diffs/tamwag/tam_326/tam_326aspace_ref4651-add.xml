@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ribot Lluchi, Benito
+<       
+<       Ribot Lluchi, Izabel
+<     </field>
+<     <field name="unittitle_teim">
+<       Ribot Lluchi, Benito
+<       
+<       Ribot Lluchi, Izabel
+<     </field>
+---
+>     <field name="unittitle_ssm">Ribot Lluchi, BenitoRibot Lluchi, Izabel</field>
+>     <field name="unittitle_teim">Ribot Lluchi, BenitoRibot Lluchi, Izabel</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ribot Lluchi, Benito
+<       
+<       Ribot Lluchi, Izabel
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ribot Lluchi, BenitoRibot Lluchi, Izabel</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Ribot Lluchi, Benito
+<       
+<       Ribot Lluchi, Izabel
+<     </field>
+---
+>     <field name="heading_ssm">Ribot Lluchi, BenitoRibot Lluchi, Izabel</field>

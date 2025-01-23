@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Frommer, Dr. Harvey '57C, '62Ed. '72Ed&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Frommer, Dr. Harvey '57C, '62Ed. '72Ed </field>
+27c27
+<     <field name="series_si">Frommer, Dr. Harvey '57C, '62Ed. '72Ed&amp;nbsp;</field>
+---
+>     <field name="series_si">Frommer, Dr. Harvey '57C, '62Ed. '72Ed </field>

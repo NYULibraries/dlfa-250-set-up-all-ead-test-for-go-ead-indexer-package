@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Goldstein, David H. 33M&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Goldstein, David H. 33M </field>
+27c27
+<     <field name="series_si">Goldstein, David H. 33M&amp;nbsp;</field>
+---
+>     <field name="series_si">Goldstein, David H. 33M </field>

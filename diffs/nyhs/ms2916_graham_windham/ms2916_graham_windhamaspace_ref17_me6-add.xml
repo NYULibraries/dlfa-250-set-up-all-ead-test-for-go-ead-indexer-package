@@ -1,0 +1,7 @@
+27,30c27
+<     <field name="scopecontent_teim">
+<       Financial Records are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Financial Records are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.</field>

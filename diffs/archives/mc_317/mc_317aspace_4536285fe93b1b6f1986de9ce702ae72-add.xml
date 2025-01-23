@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wing Jr., Rev. John D.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wing Jr., Rev. John D. </field>
+27c27
+<     <field name="series_si">Wing Jr., Rev. John D.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wing Jr., Rev. John D. </field>

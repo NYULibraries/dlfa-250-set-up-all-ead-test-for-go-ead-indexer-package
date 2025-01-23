@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Yolles, Dr. Stanley F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Yolles, Dr. Stanley F. </field>
+27c27
+<     <field name="series_si">Yolles, Dr. Stanley F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Yolles, Dr. Stanley F. </field>

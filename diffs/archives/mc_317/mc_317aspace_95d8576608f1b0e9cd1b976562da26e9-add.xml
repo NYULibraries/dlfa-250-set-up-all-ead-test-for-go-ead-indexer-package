@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burnham, Robert A.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burnham, Robert A.   </field>
+27c27
+<     <field name="series_si">Burnham, Robert A.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burnham, Robert A.   </field>

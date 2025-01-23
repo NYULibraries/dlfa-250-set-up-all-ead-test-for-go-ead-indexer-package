@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carpenter, Fran&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carpenter, Fran   </field>
+27c27
+<     <field name="series_si">Carpenter, Fran&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carpenter, Fran   </field>

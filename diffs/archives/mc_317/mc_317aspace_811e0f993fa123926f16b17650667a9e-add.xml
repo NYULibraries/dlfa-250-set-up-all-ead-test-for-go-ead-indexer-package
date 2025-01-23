@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Strax, Lisa R.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Strax, Lisa R. </field>
+27c27
+<     <field name="series_si">Strax, Lisa R.&amp;nbsp;</field>
+---
+>     <field name="series_si">Strax, Lisa R. </field>

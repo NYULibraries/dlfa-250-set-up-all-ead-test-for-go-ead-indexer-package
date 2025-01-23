@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Maestro Herrero, Francisco
+<       
+<       Maestro, Maria (née Casanova)
+<     </field>
+<     <field name="unittitle_teim">
+<       Maestro Herrero, Francisco
+<       
+<       Maestro, Maria (née Casanova)
+<     </field>
+---
+>     <field name="unittitle_ssm">Maestro Herrero, FranciscoMaestro, Maria (née Casanova)</field>
+>     <field name="unittitle_teim">Maestro Herrero, FranciscoMaestro, Maria (née Casanova)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Maestro Herrero, Francisco
+<       
+<       Maestro, Maria (née Casanova)
+<     </field>
+<     <field name="heading_ssm">
+<       Maestro Herrero, Francisco
+<       
+<       Maestro, Maria (née Casanova)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Maestro Herrero, FranciscoMaestro, Maria (née Casanova)</field>
+>     <field name="heading_ssm">Maestro Herrero, FranciscoMaestro, Maria (née Casanova)</field>

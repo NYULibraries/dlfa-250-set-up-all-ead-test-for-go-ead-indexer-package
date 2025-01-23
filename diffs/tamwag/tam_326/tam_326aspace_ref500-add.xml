@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Hevia Díaz, Cándido
+<       
+<       Hevia Díaz, Ines
+<     </field>
+<     <field name="unittitle_teim">
+<       Hevia Díaz, Cándido
+<       
+<       Hevia Díaz, Ines
+<     </field>
+---
+>     <field name="unittitle_ssm">Hevia Díaz, CándidoHevia Díaz, Ines</field>
+>     <field name="unittitle_teim">Hevia Díaz, CándidoHevia Díaz, Ines</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Hevia Díaz, Cándido
+<       
+<       Hevia Díaz, Ines
+<     </field>
+<     <field name="heading_ssm">
+<       Hevia Díaz, Cándido
+<       
+<       Hevia Díaz, Ines
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Hevia Díaz, CándidoHevia Díaz, Ines</field>
+>     <field name="heading_ssm">Hevia Díaz, CándidoHevia Díaz, Ines</field>

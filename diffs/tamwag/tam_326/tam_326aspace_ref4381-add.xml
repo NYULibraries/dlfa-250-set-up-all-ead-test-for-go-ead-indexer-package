@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Orts Belmonte, José
+<       
+<       Orts Belmonte, Francisco
+<     </field>
+<     <field name="unittitle_teim">
+<       Orts Belmonte, José
+<       
+<       Orts Belmonte, Francisco
+<     </field>
+---
+>     <field name="unittitle_ssm">Orts Belmonte, JoséOrts Belmonte, Francisco</field>
+>     <field name="unittitle_teim">Orts Belmonte, JoséOrts Belmonte, Francisco</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Orts Belmonte, José
+<       
+<       Orts Belmonte, Francisco
+<     </field>
+<     <field name="heading_ssm">
+<       Orts Belmonte, José
+<       
+<       Orts Belmonte, Francisco
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Orts Belmonte, JoséOrts Belmonte, Francisco</field>
+>     <field name="heading_ssm">Orts Belmonte, JoséOrts Belmonte, Francisco</field>

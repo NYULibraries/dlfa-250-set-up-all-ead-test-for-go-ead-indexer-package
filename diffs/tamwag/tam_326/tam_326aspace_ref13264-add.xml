@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ketley, Era Nin
+<       
+<       Nin, Olga
+<     </field>
+<     <field name="unittitle_teim">
+<       Ketley, Era Nin
+<       
+<       Nin, Olga
+<     </field>
+---
+>     <field name="unittitle_ssm">Ketley, Era NinNin, Olga</field>
+>     <field name="unittitle_teim">Ketley, Era NinNin, Olga</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ketley, Era Nin
+<       
+<       Nin, Olga
+<     </field>
+<     <field name="heading_ssm">
+<       Ketley, Era Nin
+<       
+<       Nin, Olga
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ketley, Era NinNin, Olga</field>
+>     <field name="heading_ssm">Ketley, Era NinNin, Olga</field>

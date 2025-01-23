@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Aguilar, Teofila (née Cadeua)
+<       
+<       Aguilar Meseguer, Sylvestre
+<     </field>
+<     <field name="unittitle_teim">
+<       Aguilar, Teofila (née Cadeua)
+<       
+<       Aguilar Meseguer, Sylvestre
+<     </field>
+---
+>     <field name="unittitle_ssm">Aguilar, Teofila (née Cadeua)Aguilar Meseguer, Sylvestre</field>
+>     <field name="unittitle_teim">Aguilar, Teofila (née Cadeua)Aguilar Meseguer, Sylvestre</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Aguilar, Teofila (née Cadeua)
+<       
+<       Aguilar Meseguer, Sylvestre
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Aguilar, Teofila (née Cadeua)Aguilar Meseguer, Sylvestre</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Aguilar, Teofila (née Cadeua)
+<       
+<       Aguilar Meseguer, Sylvestre
+<     </field>
+---
+>     <field name="heading_ssm">Aguilar, Teofila (née Cadeua)Aguilar Meseguer, Sylvestre</field>

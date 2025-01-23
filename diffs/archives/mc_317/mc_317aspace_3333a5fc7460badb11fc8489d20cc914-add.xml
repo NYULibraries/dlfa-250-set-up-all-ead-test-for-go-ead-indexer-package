@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Berger, Bruce&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Berger, Bruce </field>
+27c27
+<     <field name="series_si">Berger, Bruce&amp;nbsp;</field>
+---
+>     <field name="series_si">Berger, Bruce </field>

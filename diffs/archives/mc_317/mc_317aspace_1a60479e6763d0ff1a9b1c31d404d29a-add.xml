@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Beejack, Barbara&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Beejack, Barbara </field>
+27c27
+<     <field name="series_si">Beejack, Barbara&amp;nbsp;</field>
+---
+>     <field name="series_si">Beejack, Barbara </field>

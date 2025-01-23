@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">&lt;em&gt;My Life is Baseball&lt;/em&gt; (drafts of book's &lt;em&gt; first and last chapters, clippings and Silverman's score cards)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;My Life is Baseball&lt;/em&gt; (drafts of book's &lt;em&gt;&lt;/em&gt; first and last chapters, clippings and Silverman's score cards)</field>
+39c39
+<     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;My Life is Baseball&lt;/em&gt; (drafts of book's &lt;em&gt; first and last chapters, clippings and Silverman's score cards)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;My Life is Baseball&lt;/em&gt; (drafts of book's &lt;em&gt;&lt;/em&gt; first and last chapters, clippings and Silverman's score cards)</field>

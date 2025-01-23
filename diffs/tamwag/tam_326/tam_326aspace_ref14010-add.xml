@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ariño, Luisa
+<       
+<       Ariño, Enrique
+<     </field>
+<     <field name="unittitle_teim">
+<       Ariño, Luisa
+<       
+<       Ariño, Enrique
+<     </field>
+---
+>     <field name="unittitle_ssm">Ariño, LuisaAriño, Enrique</field>
+>     <field name="unittitle_teim">Ariño, LuisaAriño, Enrique</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; 
+<       Ariño, Luisa
+<       
+<       Ariño, Enrique
+<     </field>
+<     <field name="heading_ssm">
+<       Ariño, Luisa
+<       
+<       Ariño, Enrique
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; Ariño, LuisaAriño, Enrique</field>
+>     <field name="heading_ssm">Ariño, LuisaAriño, Enrique</field>

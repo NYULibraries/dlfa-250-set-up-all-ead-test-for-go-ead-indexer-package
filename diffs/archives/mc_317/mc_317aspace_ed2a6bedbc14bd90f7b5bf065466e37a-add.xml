@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Clements, Robert J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Clements, Robert J. </field>
+27c27
+<     <field name="series_si">Clements, Robert J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Clements, Robert J. </field>

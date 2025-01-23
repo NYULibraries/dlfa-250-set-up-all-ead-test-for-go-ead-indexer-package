@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Gimenez Ferrer, Roberto
+<       
+<       Gimenez Ferrer, Paquita
+<     </field>
+<     <field name="unittitle_teim">
+<       Gimenez Ferrer, Roberto
+<       
+<       Gimenez Ferrer, Paquita
+<     </field>
+---
+>     <field name="unittitle_ssm">Gimenez Ferrer, RobertoGimenez Ferrer, Paquita</field>
+>     <field name="unittitle_teim">Gimenez Ferrer, RobertoGimenez Ferrer, Paquita</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Gimenez Ferrer, Roberto
+<       
+<       Gimenez Ferrer, Paquita
+<     </field>
+<     <field name="heading_ssm">
+<       Gimenez Ferrer, Roberto
+<       
+<       Gimenez Ferrer, Paquita
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Gimenez Ferrer, RobertoGimenez Ferrer, Paquita</field>
+>     <field name="heading_ssm">Gimenez Ferrer, RobertoGimenez Ferrer, Paquita</field>

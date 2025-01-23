@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;
+<       &lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Moerder, Hoffnung der Frauen: Ein
+<       Explodistisches Schauspiel nach Oskar Kokoscha
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;&lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Moerder, Hoffnung der Frauen: EinExplodistisches Schauspiel nach Oskar Kokoscha</field>
+45,52c39,40
+<     <field name="series_si">Series VIII: Posters &gt;&gt; 
+<       &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;
+<       &lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Moerder, Hoffnung der Frauen: Ein
+<       Explodistisches Schauspiel nach Oskar Kokoscha
+<     </field>
+---
+>     <field name="series_si">Series VIII: Posters &gt;&gt; &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;&lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;</field>
+>     <field name="heading_ssm">Moerder, Hoffnung der Frauen: EinExplodistisches Schauspiel nach Oskar Kokoscha</field>

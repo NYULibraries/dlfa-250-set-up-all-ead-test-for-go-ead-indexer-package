@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Clark, John H. '65G.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Clark, John H. '65G. </field>
+27c27
+<     <field name="series_si">Clark, John H. '65G.&amp;nbsp;</field>
+---
+>     <field name="series_si">Clark, John H. '65G. </field>

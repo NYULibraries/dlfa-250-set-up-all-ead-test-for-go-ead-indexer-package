@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Manasé Calvo, Pascual
+<       
+<       Manasé, Isabel (née Jerez Baeza)
+<     </field>
+<     <field name="unittitle_teim">
+<       Manasé Calvo, Pascual
+<       
+<       Manasé, Isabel (née Jerez Baeza)
+<     </field>
+---
+>     <field name="unittitle_ssm">Manasé Calvo, PascualManasé, Isabel (née Jerez Baeza)</field>
+>     <field name="unittitle_teim">Manasé Calvo, PascualManasé, Isabel (née Jerez Baeza)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Manasé Calvo, Pascual
+<       
+<       Manasé, Isabel (née Jerez Baeza)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Manasé Calvo, PascualManasé, Isabel (née Jerez Baeza)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Manasé Calvo, Pascual
+<       
+<       Manasé, Isabel (née Jerez Baeza)
+<     </field>
+---
+>     <field name="heading_ssm">Manasé Calvo, PascualManasé, Isabel (née Jerez Baeza)</field>

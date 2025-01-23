@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Garbi, Francisco
+<       
+<       Monllor, Eusebia
+<     </field>
+<     <field name="unittitle_teim">
+<       Garbi, Francisco
+<       
+<       Monllor, Eusebia
+<     </field>
+---
+>     <field name="unittitle_ssm">Garbi, FranciscoMonllor, Eusebia</field>
+>     <field name="unittitle_teim">Garbi, FranciscoMonllor, Eusebia</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Garbi, Francisco
+<       
+<       Monllor, Eusebia
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Garbi, FranciscoMonllor, Eusebia</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Garbi, Francisco
+<       
+<       Monllor, Eusebia
+<     </field>
+---
+>     <field name="heading_ssm">Garbi, FranciscoMonllor, Eusebia</field>

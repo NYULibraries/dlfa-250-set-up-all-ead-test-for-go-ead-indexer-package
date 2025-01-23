@@ -1,0 +1,18 @@
+24,31c24,25
+<     <field name="scopecontent_teim">
+<       Folder: Clubs 1 of 2
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Clubs 2 of 2
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Clubs 1 of 2</field>
+>     <field name="scopecontent_teim">Folder: Clubs 2 of 2</field>
+47,49c41
+<     <field name="scopecontent_teim">
+<       Folder: Union Club "Old Fogy"
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Union Club "Old Fogy"</field>

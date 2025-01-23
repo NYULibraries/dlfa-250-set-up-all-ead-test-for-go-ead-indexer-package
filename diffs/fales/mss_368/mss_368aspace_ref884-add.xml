@@ -1,0 +1,12 @@
+8,9c8,9
+<     <field name="parent_unittitles_ssm">Series VIII: Art&amp;nbsp;</field>
+<     <field name="parent_unittitles_teim">Series VIII: Art&amp;nbsp;</field>
+---
+>     <field name="parent_unittitles_ssm">Series VIII: Art </field>
+>     <field name="parent_unittitles_teim">Series VIII: Art </field>
+31,32c31,32
+<     <field name="series_sim">Series VIII: Art&amp;nbsp;</field>
+<     <field name="series_si">Series VIII: Art&amp;nbsp; &gt;&gt; Hand-made Egg Shaped Ornament; Alice and the White Rabbit</field>
+---
+>     <field name="series_sim">Series VIII: Art </field>
+>     <field name="series_si">Series VIII: Art  &gt;&gt; Hand-made Egg Shaped Ornament; Alice and the White Rabbit</field>

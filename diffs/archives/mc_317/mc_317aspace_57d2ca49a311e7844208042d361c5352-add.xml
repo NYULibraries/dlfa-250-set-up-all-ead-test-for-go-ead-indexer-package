@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Conant, James&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Conant, James </field>
+27c27
+<     <field name="series_si">Conant, James&amp;nbsp;</field>
+---
+>     <field name="series_si">Conant, James </field>

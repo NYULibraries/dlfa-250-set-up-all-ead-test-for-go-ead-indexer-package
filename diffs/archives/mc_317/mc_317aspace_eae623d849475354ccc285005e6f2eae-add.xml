@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Van Mook, Dr. H. J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Van Mook, Dr. H. J. </field>
+27c27
+<     <field name="series_si">Van Mook, Dr. H. J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Van Mook, Dr. H. J. </field>

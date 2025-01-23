@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Perez, Anna
+<       
+<       Perez, Alfonso
+<     </field>
+<     <field name="unittitle_teim">
+<       Perez, Anna
+<       
+<       Perez, Alfonso
+<     </field>
+---
+>     <field name="unittitle_ssm">Perez, AnnaPerez, Alfonso</field>
+>     <field name="unittitle_teim">Perez, AnnaPerez, Alfonso</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Perez, Anna
+<       
+<       Perez, Alfonso
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Perez, AnnaPerez, Alfonso</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Perez, Anna
+<       
+<       Perez, Alfonso
+<     </field>
+---
+>     <field name="heading_ssm">Perez, AnnaPerez, Alfonso</field>

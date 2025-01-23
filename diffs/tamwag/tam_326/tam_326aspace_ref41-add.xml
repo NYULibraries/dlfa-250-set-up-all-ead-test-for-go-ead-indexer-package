@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Galan Ingalaturre, Blas
+<       
+<       Galan, Josefa
+<     </field>
+<     <field name="unittitle_teim">
+<       Galan Ingalaturre, Blas
+<       
+<       Galan, Josefa
+<     </field>
+---
+>     <field name="unittitle_ssm">Galan Ingalaturre, BlasGalan, Josefa</field>
+>     <field name="unittitle_teim">Galan Ingalaturre, BlasGalan, Josefa</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Galan Ingalaturre, Blas
+<       
+<       Galan, Josefa
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Galan Ingalaturre, BlasGalan, Josefa</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Galan Ingalaturre, Blas
+<       
+<       Galan, Josefa
+<     </field>
+---
+>     <field name="heading_ssm">Galan Ingalaturre, BlasGalan, Josefa</field>

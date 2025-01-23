@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Martinez Palau, Jaime
+<       
+<       Martinez, Amparo (née Eotoloi)
+<     </field>
+<     <field name="unittitle_teim">
+<       Martinez Palau, Jaime
+<       
+<       Martinez, Amparo (née Eotoloi)
+<     </field>
+---
+>     <field name="unittitle_ssm">Martinez Palau, JaimeMartinez, Amparo (née Eotoloi)</field>
+>     <field name="unittitle_teim">Martinez Palau, JaimeMartinez, Amparo (née Eotoloi)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Martinez Palau, Jaime
+<       
+<       Martinez, Amparo (née Eotoloi)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Martinez Palau, JaimeMartinez, Amparo (née Eotoloi)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Martinez Palau, Jaime
+<       
+<       Martinez, Amparo (née Eotoloi)
+<     </field>
+---
+>     <field name="heading_ssm">Martinez Palau, JaimeMartinez, Amparo (née Eotoloi)</field>

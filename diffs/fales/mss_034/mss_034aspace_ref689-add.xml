@@ -1,0 +1,20 @@
+16,21c16,17
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)</field>
+34,39c30,31
+<     <field name="series_si">Series I &gt;&gt; 
+<       &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)
+<     </field>
+---
+>     <field name="series_si">Series I &gt;&gt; &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;</field>
+>     <field name="heading_ssm">See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)</field>

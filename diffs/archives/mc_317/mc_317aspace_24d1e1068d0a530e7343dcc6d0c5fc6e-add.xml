@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bachman, Rima&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bachman, Rima </field>
+27c27
+<     <field name="series_si">Bachman, Rima&amp;nbsp;</field>
+---
+>     <field name="series_si">Bachman, Rima </field>

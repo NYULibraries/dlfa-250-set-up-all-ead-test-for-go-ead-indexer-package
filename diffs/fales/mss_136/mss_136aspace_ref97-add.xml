@@ -1,0 +1,24 @@
+19,26c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Sport Magazine&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="unittitle_teim">
+<       Sport Magazine
+<       
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Sport Magazine&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Sport Magazine</field>
+45,52c39,40
+<     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; 
+<       &lt;em&gt;Sport Magazine&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="heading_ssm">
+<       Sport Magazine
+<       
+<     </field>
+---
+>     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;Sport Magazine&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="heading_ssm">Sport Magazine</field>

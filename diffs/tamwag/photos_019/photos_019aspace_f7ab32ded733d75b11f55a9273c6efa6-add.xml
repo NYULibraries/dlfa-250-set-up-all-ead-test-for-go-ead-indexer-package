@@ -1,0 +1,16 @@
+11c11
+<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+15c15
+<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+41c41
+<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+---
+>     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+45c45
+<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Queens School Contract Signing</field>
+---
+>     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Queens School Contract Signing</field>

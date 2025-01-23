@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lebeau, David J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Lebeau, David J. </field>
+27c27
+<     <field name="series_si">Lebeau, David J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Lebeau, David J. </field>

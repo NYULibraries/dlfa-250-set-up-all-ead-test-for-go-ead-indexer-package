@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Montes Riesco, Maria
+<       
+<       Montes Riesco, Justo
+<     </field>
+<     <field name="unittitle_teim">
+<       Montes Riesco, Maria
+<       
+<       Montes Riesco, Justo
+<     </field>
+---
+>     <field name="unittitle_ssm">Montes Riesco, MariaMontes Riesco, Justo</field>
+>     <field name="unittitle_teim">Montes Riesco, MariaMontes Riesco, Justo</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Montes Riesco, Maria
+<       
+<       Montes Riesco, Justo
+<     </field>
+<     <field name="heading_ssm">
+<       Montes Riesco, Maria
+<       
+<       Montes Riesco, Justo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Montes Riesco, MariaMontes Riesco, Justo</field>
+>     <field name="heading_ssm">Montes Riesco, MariaMontes Riesco, Justo</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Turner, Leo J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Turner, Leo J. </field>
+27c27
+<     <field name="series_si">Turner, Leo J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Turner, Leo J. </field>

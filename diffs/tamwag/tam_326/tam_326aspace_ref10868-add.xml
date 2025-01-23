@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vaquer Ferrer, Vicente
+<       
+<       Vaquer, Adela (née Paradeda Vilaseca)
+<     </field>
+<     <field name="unittitle_teim">
+<       Vaquer Ferrer, Vicente
+<       
+<       Vaquer, Adela (née Paradeda Vilaseca)
+<     </field>
+---
+>     <field name="unittitle_ssm">Vaquer Ferrer, VicenteVaquer, Adela (née Paradeda Vilaseca)</field>
+>     <field name="unittitle_teim">Vaquer Ferrer, VicenteVaquer, Adela (née Paradeda Vilaseca)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vaquer Ferrer, Vicente
+<       
+<       Vaquer, Adela (née Paradeda Vilaseca)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vaquer Ferrer, VicenteVaquer, Adela (née Paradeda Vilaseca)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vaquer Ferrer, Vicente
+<       
+<       Vaquer, Adela (née Paradeda Vilaseca)
+<     </field>
+---
+>     <field name="heading_ssm">Vaquer Ferrer, VicenteVaquer, Adela (née Paradeda Vilaseca)</field>

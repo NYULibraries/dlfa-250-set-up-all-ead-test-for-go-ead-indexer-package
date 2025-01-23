@@ -1,0 +1,140 @@
+19,84c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946&lt;/em&gt;
+<       
+<       &lt;em&gt;New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1946&lt;/em&gt;
+<       
+<       &lt;em&gt;The Production of Nucleons by the Cosmic Radiation: Jun. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;Comments on F. H. J. Figge: Jun. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;On the Rise of the Wire. 19 Potential in Counters: Sep. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;Electronic Techniques in Nuclear Science: Dec. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;Detecting Atomic Particles: Jun. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949&lt;/em&gt;
+<       
+<       &lt;em&gt;Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949&lt;/em&gt;
+<       
+<       &lt;em&gt;The Genesis of Cosmic Radiation: Jan. 1950&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946
+<       
+<       New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946
+<       
+<       Cosmic Ray Investigations at New York University: Dec. 1946
+<       
+<       The Production of Nucleons by the Cosmic Radiation: Jun. 1947
+<       
+<       Comments on F. H. J. Figge: Jun. 1947
+<       
+<       On the Rise of the Wire. 19 Potential in Counters: Sep. 1947
+<       
+<       A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947
+<       
+<       Electronic Techniques in Nuclear Science: Dec. 1947
+<       
+<       The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948
+<       
+<       The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948
+<       
+<       The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948
+<       
+<       Detecting Atomic Particles: Jun. 1948
+<       
+<       A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949
+<       
+<       Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949
+<       
+<       The Genesis of Cosmic Radiation: Jan. 1950
+<       
+<       Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946&lt;/em&gt;&lt;em&gt;New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946&lt;/em&gt;&lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1946&lt;/em&gt;&lt;em&gt;The Production of Nucleons by the Cosmic Radiation: Jun. 1947&lt;/em&gt;&lt;em&gt;Comments on F. H. J. Figge: Jun. 1947&lt;/em&gt;&lt;em&gt;On the Rise of the Wire. 19 Potential in Counters: Sep. 1947&lt;/em&gt;&lt;em&gt;A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947&lt;/em&gt;&lt;em&gt;Electronic Techniques in Nuclear Science: Dec. 1947&lt;/em&gt;&lt;em&gt;The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948&lt;/em&gt;&lt;em&gt;The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948&lt;/em&gt;&lt;em&gt;The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948&lt;/em&gt;&lt;em&gt;Detecting Atomic Particles: Jun. 1948&lt;/em&gt;&lt;em&gt;A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949&lt;/em&gt;&lt;em&gt;Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949&lt;/em&gt;&lt;em&gt;The Genesis of Cosmic Radiation: Jan. 1950&lt;/em&gt;&lt;em&gt;Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950&lt;/em&gt;</field>
+>     <field name="unittitle_teim">The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946Cosmic Ray Investigations at New York University: Dec. 1946The Production of Nucleons by the Cosmic Radiation: Jun. 1947Comments on F. H. J. Figge: Jun. 1947On the Rise of the Wire. 19 Potential in Counters: Sep. 1947A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947Electronic Techniques in Nuclear Science: Dec. 1947The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948Detecting Atomic Particles: Jun. 1948A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949The Genesis of Cosmic Radiation: Jan. 1950Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950</field>
+133,198c69,70
+<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+<       &lt;em&gt;The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946&lt;/em&gt;
+<       
+<       &lt;em&gt;New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1946&lt;/em&gt;
+<       
+<       &lt;em&gt;The Production of Nucleons by the Cosmic Radiation: Jun. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;Comments on F. H. J. Figge: Jun. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;On the Rise of the Wire. 19 Potential in Counters: Sep. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;Electronic Techniques in Nuclear Science: Dec. 1947&lt;/em&gt;
+<       
+<       &lt;em&gt;The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;Detecting Atomic Particles: Jun. 1948&lt;/em&gt;
+<       
+<       &lt;em&gt;A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949&lt;/em&gt;
+<       
+<       &lt;em&gt;Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949&lt;/em&gt;
+<       
+<       &lt;em&gt;The Genesis of Cosmic Radiation: Jan. 1950&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946
+<       
+<       New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946
+<       
+<       Cosmic Ray Investigations at New York University: Dec. 1946
+<       
+<       The Production of Nucleons by the Cosmic Radiation: Jun. 1947
+<       
+<       Comments on F. H. J. Figge: Jun. 1947
+<       
+<       On the Rise of the Wire. 19 Potential in Counters: Sep. 1947
+<       
+<       A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947
+<       
+<       Electronic Techniques in Nuclear Science: Dec. 1947
+<       
+<       The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948
+<       
+<       The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948
+<       
+<       The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948
+<       
+<       Detecting Atomic Particles: Jun. 1948
+<       
+<       A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949
+<       
+<       Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949
+<       
+<       The Genesis of Cosmic Radiation: Jan. 1950
+<       
+<       Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950
+<     </field>
+---
+>     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946&lt;/em&gt;&lt;em&gt;New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946&lt;/em&gt;&lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1946&lt;/em&gt;&lt;em&gt;The Production of Nucleons by the Cosmic Radiation: Jun. 1947&lt;/em&gt;&lt;em&gt;Comments on F. H. J. Figge: Jun. 1947&lt;/em&gt;&lt;em&gt;On the Rise of the Wire. 19 Potential in Counters: Sep. 1947&lt;/em&gt;&lt;em&gt;A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947&lt;/em&gt;&lt;em&gt;Electronic Techniques in Nuclear Science: Dec. 1947&lt;/em&gt;&lt;em&gt;The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948&lt;/em&gt;&lt;em&gt;The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948&lt;/em&gt;&lt;em&gt;The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948&lt;/em&gt;&lt;em&gt;Detecting Atomic Particles: Jun. 1948&lt;/em&gt;&lt;em&gt;A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949&lt;/em&gt;&lt;em&gt;Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949&lt;/em&gt;&lt;em&gt;The Genesis of Cosmic Radiation: Jan. 1950&lt;/em&gt;&lt;em&gt;Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950&lt;/em&gt;</field>
+>     <field name="heading_ssm">The Energy Distribution and Number of Cosmic. Ray Neutrons in the Free Atmosphere, SAK and B. Hamermesh: Mar. 1946New Cosmic Ray Radiosonde Techniques, SAK and B. Hamermesh: May. 1946Cosmic Ray Investigations at New York University: Dec. 1946The Production of Nucleons by the Cosmic Radiation: Jun. 1947Comments on F. H. J. Figge: Jun. 1947On the Rise of the Wire. 19 Potential in Counters: Sep. 1947A Photoelectric Hygrometer, SAK, Bernard Hamermesh, and Frederick Reines: Sep. 1947Electronic Techniques in Nuclear Science: Dec. 1947The Production of Nuclear Disruptions by the Cosmic Radiation: Jan. 1948The Production of Nucleons by the Cosmic Radiation. II, SAK and A. Coras: May. 1948The Energy Distribution of Neutrons in the Atmosphere, SAK, M.S. George, and J.W. Kerr: May. 1948Detecting Atomic Particles: Jun. 1948A Critique of Ionization Measurements of Nuclear Disruptions Produced by Cosmic Radiation: Jan. 1949Tests of Self-Regenerating Fillings for Geiger Counters, SAK and A.D. Krumbein: Nov. 1949The Genesis of Cosmic Radiation: Jan. 1950Cosmic Radiation and the Maintenance of a Potential Gradient in the Atmosphere: Jan. 1950</field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Foz Bel, Miguel
+<       
+<       Foz Bel, Pilar
+<     </field>
+<     <field name="unittitle_teim">
+<       Foz Bel, Miguel
+<       
+<       Foz Bel, Pilar
+<     </field>
+---
+>     <field name="unittitle_ssm">Foz Bel, MiguelFoz Bel, Pilar</field>
+>     <field name="unittitle_teim">Foz Bel, MiguelFoz Bel, Pilar</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Foz Bel, Miguel
+<       
+<       Foz Bel, Pilar
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Foz Bel, MiguelFoz Bel, Pilar</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Foz Bel, Miguel
+<       
+<       Foz Bel, Pilar
+<     </field>
+---
+>     <field name="heading_ssm">Foz Bel, MiguelFoz Bel, Pilar</field>

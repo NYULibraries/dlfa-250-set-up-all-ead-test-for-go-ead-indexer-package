@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Taylor, Grant E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Taylor, Grant E. </field>
+27c27
+<     <field name="series_si">Taylor, Grant E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Taylor, Grant E. </field>

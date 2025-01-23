@@ -1,0 +1,32 @@
+19,30c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Wilfred "Chief" Parriette, Room 168
+<       
+<       
+<       Wayne Smith, Room 94
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;&lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Wilfred "Chief" Parriette, Room 168Wayne Smith, Room 94</field>
+47,58c37,38
+<     <field name="series_si">Series I. Photographs &gt;&gt; THE PROVIDENCE HOTEL &gt;&gt; 
+<       &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Wilfred "Chief" Parriette, Room 168
+<       
+<       
+<       Wayne Smith, Room 94
+<     </field>
+---
+>     <field name="series_si">Series I. Photographs &gt;&gt; THE PROVIDENCE HOTEL &gt;&gt; &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;&lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;</field>
+>     <field name="heading_ssm">Wilfred "Chief" Parriette, Room 168Wayne Smith, Room 94</field>

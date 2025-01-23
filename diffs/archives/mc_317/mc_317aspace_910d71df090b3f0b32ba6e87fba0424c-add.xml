@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dennis, Walter&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dennis, Walter </field>
+27c27
+<     <field name="series_si">Dennis, Walter&amp;nbsp;</field>
+---
+>     <field name="series_si">Dennis, Walter </field>

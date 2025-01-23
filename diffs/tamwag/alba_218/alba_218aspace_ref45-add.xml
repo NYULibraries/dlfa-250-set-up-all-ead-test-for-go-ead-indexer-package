@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">&lt;em&gt;Volunteer for Liberty&lt;/em&gt;, &lt;em&gt;(some with &amp;lt;title render="italic"/&amp;gt;annotations by Friedman)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Volunteer for Liberty&lt;/em&gt;, &lt;em&gt;&lt;/em&gt;(some with &lt;em&gt;&lt;/em&gt;annotations by Friedman)</field>
+37c37
+<     <field name="series_si">Series II: Subject Files, 1931- &gt;&gt; &lt;em&gt;Volunteer for Liberty&lt;/em&gt;, &lt;em&gt;(some with &amp;lt;title render="italic"/&amp;gt;annotations by Friedman)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series II: Subject Files, 1931- &gt;&gt; &lt;em&gt;Volunteer for Liberty&lt;/em&gt;, &lt;em&gt;&lt;/em&gt;(some with &lt;em&gt;&lt;/em&gt;annotations by Friedman)</field>

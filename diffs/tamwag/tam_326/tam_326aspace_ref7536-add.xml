@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Calvo Garcia, Agapito
+<       
+<       Calvo Garcia, Consuelo
+<     </field>
+<     <field name="unittitle_teim">
+<       Calvo Garcia, Agapito
+<       
+<       Calvo Garcia, Consuelo
+<     </field>
+---
+>     <field name="unittitle_ssm">Calvo Garcia, AgapitoCalvo Garcia, Consuelo</field>
+>     <field name="unittitle_teim">Calvo Garcia, AgapitoCalvo Garcia, Consuelo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Calvo Garcia, Agapito
+<       
+<       Calvo Garcia, Consuelo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Calvo Garcia, AgapitoCalvo Garcia, Consuelo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Calvo Garcia, Agapito
+<       
+<       Calvo Garcia, Consuelo
+<     </field>
+---
+>     <field name="heading_ssm">Calvo Garcia, AgapitoCalvo Garcia, Consuelo</field>

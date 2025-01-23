@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Butler, Benjamin F.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Butler, Benjamin F.   </field>
+27c27
+<     <field name="series_si">Butler, Benjamin F.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Butler, Benjamin F.   </field>

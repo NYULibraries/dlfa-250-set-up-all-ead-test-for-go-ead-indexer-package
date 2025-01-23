@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">1. Paris, 1976&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">1. Paris, 1976 </field>
+33c33
+<     <field name="series_si">Series III: Writings &gt;&gt; III.A. Rafa Nasiri's Journals &gt;&gt; 1. Paris, 1976&amp;nbsp;</field>
+---
+>     <field name="series_si">Series III: Writings &gt;&gt; III.A. Rafa Nasiri's Journals &gt;&gt; 1. Paris, 1976 </field>

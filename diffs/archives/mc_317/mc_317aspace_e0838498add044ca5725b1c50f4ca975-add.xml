@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dellaverson, Gary&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dellaverson, Gary </field>
+27c27
+<     <field name="series_si">Dellaverson, Gary&amp;nbsp;</field>
+---
+>     <field name="series_si">Dellaverson, Gary </field>

@@ -1,0 +1,6 @@
+20,22c20
+<     <field name="scopecontent_teim">
+<       Access to database on HINY computer terminal.
+<     </field>
+---
+>     <field name="scopecontent_teim">Access to database on HINY computer terminal.</field>

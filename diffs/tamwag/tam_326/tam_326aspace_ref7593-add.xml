@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Mengual Fernando, Pascual
+<       
+<       Mengual, Consuelo (née Granero Mezquita)
+<     </field>
+<     <field name="unittitle_teim">
+<       Mengual Fernando, Pascual
+<       
+<       Mengual, Consuelo (née Granero Mezquita)
+<     </field>
+---
+>     <field name="unittitle_ssm">Mengual Fernando, PascualMengual, Consuelo (née Granero Mezquita)</field>
+>     <field name="unittitle_teim">Mengual Fernando, PascualMengual, Consuelo (née Granero Mezquita)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Mengual Fernando, Pascual
+<       
+<       Mengual, Consuelo (née Granero Mezquita)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Mengual Fernando, PascualMengual, Consuelo (née Granero Mezquita)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Mengual Fernando, Pascual
+<       
+<       Mengual, Consuelo (née Granero Mezquita)
+<     </field>
+---
+>     <field name="heading_ssm">Mengual Fernando, PascualMengual, Consuelo (née Granero Mezquita)</field>

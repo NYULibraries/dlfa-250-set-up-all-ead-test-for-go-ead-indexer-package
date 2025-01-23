@@ -1,0 +1,20 @@
+12,17c12,13
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;Publications—&lt;em&gt;Reserve City Bankers Bulletin&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Publications—Reserve City Bankers Bulletin
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;Reserve City Bankers Bulletin&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">Publications—Reserve City Bankers Bulletin</field>
+38,43c34,35
+<     <field name="series_si">
+<       &lt;strong&gt;Publications—&lt;em&gt;Reserve City Bankers Bulletin&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Publications—Reserve City Bankers Bulletin
+<     </field>
+---
+>     <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;Reserve City Bankers Bulletin&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="heading_ssm">Publications—Reserve City Bankers Bulletin</field>

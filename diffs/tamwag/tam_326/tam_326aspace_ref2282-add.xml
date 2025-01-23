@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Fernandez Esteban, Antonio
+<       
+<       Fernandez Esteban, Julia
+<     </field>
+<     <field name="unittitle_teim">
+<       Fernandez Esteban, Antonio
+<       
+<       Fernandez Esteban, Julia
+<     </field>
+---
+>     <field name="unittitle_ssm">Fernandez Esteban, AntonioFernandez Esteban, Julia</field>
+>     <field name="unittitle_teim">Fernandez Esteban, AntonioFernandez Esteban, Julia</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Fernandez Esteban, Antonio
+<       
+<       Fernandez Esteban, Julia
+<     </field>
+<     <field name="heading_ssm">
+<       Fernandez Esteban, Antonio
+<       
+<       Fernandez Esteban, Julia
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Fernandez Esteban, AntonioFernandez Esteban, Julia</field>
+>     <field name="heading_ssm">Fernandez Esteban, AntonioFernandez Esteban, Julia</field>

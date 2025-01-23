@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Searey, Dr. Warren A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Searey, Dr. Warren A. </field>
+27c27
+<     <field name="series_si">Searey, Dr. Warren A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Searey, Dr. Warren A. </field>

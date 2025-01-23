@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Borini, Dr. Mario P. ISS GBA, '49 C&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Borini, Dr. Mario P. ISS GBA, '49 C </field>
+27c27
+<     <field name="series_si">Borini, Dr. Mario P. ISS GBA, '49 C&amp;nbsp;</field>
+---
+>     <field name="series_si">Borini, Dr. Mario P. ISS GBA, '49 C </field>

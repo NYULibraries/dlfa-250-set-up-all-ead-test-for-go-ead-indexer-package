@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Hall, John W.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Hall, John W. </field>
+27c27
+<     <field name="series_si">Hall, John W.&amp;nbsp;</field>
+---
+>     <field name="series_si">Hall, John W. </field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Miguel Bravo, Lydie
+<       
+<       Miguel Bravo, André
+<     </field>
+<     <field name="unittitle_teim">
+<       Miguel Bravo, Lydie
+<       
+<       Miguel Bravo, André
+<     </field>
+---
+>     <field name="unittitle_ssm">Miguel Bravo, LydieMiguel Bravo, André</field>
+>     <field name="unittitle_teim">Miguel Bravo, LydieMiguel Bravo, André</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Miguel Bravo, Lydie
+<       
+<       Miguel Bravo, André
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Miguel Bravo, LydieMiguel Bravo, André</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Miguel Bravo, Lydie
+<       
+<       Miguel Bravo, André
+<     </field>
+---
+>     <field name="heading_ssm">Miguel Bravo, LydieMiguel Bravo, André</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bry, Gerard&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bry, Gerard   </field>
+27c27
+<     <field name="series_si">Bry, Gerard&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bry, Gerard   </field>

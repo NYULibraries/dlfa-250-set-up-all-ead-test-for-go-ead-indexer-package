@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Research:&amp;nbsp;Daily Worker, archival records (copies)</field>
+---
+>     <field name="unittitle_ssm">Research: Daily Worker, archival records (copies)</field>
+24c24
+<     <field name="series_si">Research:&amp;nbsp;Daily Worker, archival records (copies)</field>
+---
+>     <field name="series_si">Research: Daily Worker, archival records (copies)</field>

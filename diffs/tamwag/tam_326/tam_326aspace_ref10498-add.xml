@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Palomo, Isabel (née Macias-Gonzalez)
+<       
+<       Palomo Rojas, Evaristo
+<     </field>
+<     <field name="unittitle_teim">
+<       Palomo, Isabel (née Macias-Gonzalez)
+<       
+<       Palomo Rojas, Evaristo
+<     </field>
+---
+>     <field name="unittitle_ssm">Palomo, Isabel (née Macias-Gonzalez)Palomo Rojas, Evaristo</field>
+>     <field name="unittitle_teim">Palomo, Isabel (née Macias-Gonzalez)Palomo Rojas, Evaristo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Palomo, Isabel (née Macias-Gonzalez)
+<       
+<       Palomo Rojas, Evaristo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Palomo, Isabel (née Macias-Gonzalez)Palomo Rojas, Evaristo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Palomo, Isabel (née Macias-Gonzalez)
+<       
+<       Palomo Rojas, Evaristo
+<     </field>
+---
+>     <field name="heading_ssm">Palomo, Isabel (née Macias-Gonzalez)Palomo Rojas, Evaristo</field>

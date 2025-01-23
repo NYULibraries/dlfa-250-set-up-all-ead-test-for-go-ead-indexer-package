@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">ii. women</field>
+---
+>     <field name="parent_unittitles_ssm">iv. officers at Villa La Pietra [1915/16]</field>
+18c18
+<     <field name="parent_unittitles_teim">ii. women</field>
+---
+>     <field name="parent_unittitles_teim">iv. officers at Villa La Pietra [1915/16]</field>
+46,47c46,47
+<     <field name="series_sim">ii. women</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; ii. women &gt;&gt; Ladies (and a man) in a garden</field>
+---
+>     <field name="series_sim">iv. officers at Villa La Pietra [1915/16]</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; iv. officers at Villa La Pietra [1915/16] &gt;&gt; Ladies (and a man) in a garden</field>

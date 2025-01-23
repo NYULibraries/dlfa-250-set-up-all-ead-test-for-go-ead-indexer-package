@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Perez, Gloria
+<       
+<       Fraile Perez, Harmodio
+<     </field>
+<     <field name="unittitle_teim">
+<       Perez, Gloria
+<       
+<       Fraile Perez, Harmodio
+<     </field>
+---
+>     <field name="unittitle_ssm">Perez, GloriaFraile Perez, Harmodio</field>
+>     <field name="unittitle_teim">Perez, GloriaFraile Perez, Harmodio</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Perez, Gloria
+<       
+<       Fraile Perez, Harmodio
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Perez, GloriaFraile Perez, Harmodio</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Perez, Gloria
+<       
+<       Fraile Perez, Harmodio
+<     </field>
+---
+>     <field name="heading_ssm">Perez, GloriaFraile Perez, Harmodio</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Buechner, C. Fred&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Buechner, C. Fred   </field>
+27c27
+<     <field name="series_si">Buechner, C. Fred&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Buechner, C. Fred   </field>

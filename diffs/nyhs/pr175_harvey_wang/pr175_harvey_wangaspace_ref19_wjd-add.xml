@@ -1,0 +1,68 @@
+19,48c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Tony Bell, Room 23A&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Cashmere, Bed 214&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Tony Massa &amp;amp; Michael Buchalew, Bed 177 and 178&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Reception area, The Sunshine Hotel&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Anthony Coppola, Room 4B&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Tony Bell, Room 23A
+<       
+<       
+<       Cashmere, Bed 214
+<       
+<       
+<       Tony Massa &amp; Michael Buchalew, Bed 177 and 178
+<       
+<       
+<       Reception area, The Sunshine Hotel
+<       
+<       
+<       Anthony Coppola, Room 4B
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Tony Bell, Room 23A&lt;/em&gt;&lt;em&gt;Cashmere, Bed 214&lt;/em&gt;&lt;em&gt;Tony Massa &amp;amp; Michael Buchalew, Bed 177 and 178&lt;/em&gt;&lt;em&gt;Reception area, The Sunshine Hotel&lt;/em&gt;&lt;em&gt;Anthony Coppola, Room 4B&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Tony Bell, Room 23ACashmere, Bed 214Tony Massa &amp; Michael Buchalew, Bed 177 and 178Reception area, The Sunshine HotelAnthony Coppola, Room 4B</field>
+71,100c43,44
+<     <field name="series_si">Series I. Photographs &gt;&gt; THE SUNSHINE HOTEL &gt;&gt; 
+<       &lt;em&gt;Tony Bell, Room 23A&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Cashmere, Bed 214&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Tony Massa &amp;amp; Michael Buchalew, Bed 177 and 178&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Reception area, The Sunshine Hotel&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Anthony Coppola, Room 4B&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Tony Bell, Room 23A
+<       
+<       
+<       Cashmere, Bed 214
+<       
+<       
+<       Tony Massa &amp; Michael Buchalew, Bed 177 and 178
+<       
+<       
+<       Reception area, The Sunshine Hotel
+<       
+<       
+<       Anthony Coppola, Room 4B
+<     </field>
+---
+>     <field name="series_si">Series I. Photographs &gt;&gt; THE SUNSHINE HOTEL &gt;&gt; &lt;em&gt;Tony Bell, Room 23A&lt;/em&gt;&lt;em&gt;Cashmere, Bed 214&lt;/em&gt;&lt;em&gt;Tony Massa &amp;amp; Michael Buchalew, Bed 177 and 178&lt;/em&gt;&lt;em&gt;Reception area, The Sunshine Hotel&lt;/em&gt;&lt;em&gt;Anthony Coppola, Room 4B&lt;/em&gt;</field>
+>     <field name="heading_ssm">Tony Bell, Room 23ACashmere, Bed 214Tony Massa &amp; Michael Buchalew, Bed 177 and 178Reception area, The Sunshine HotelAnthony Coppola, Room 4B</field>

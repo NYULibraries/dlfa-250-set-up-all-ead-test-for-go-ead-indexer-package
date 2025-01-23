@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zorn, Vera S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zorn, Vera S. </field>
+27c27
+<     <field name="series_si">Zorn, Vera S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zorn, Vera S. </field>

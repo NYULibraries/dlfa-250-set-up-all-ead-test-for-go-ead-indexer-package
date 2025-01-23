@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Perpiña Steidel, Amedée
+<       
+<       Perpiña Sabater, Amadeo
+<       
+<       Steidel, Maria
+<     </field>
+<     <field name="unittitle_teim">
+<       Perpiña Steidel, Amedée
+<       
+<       Perpiña Sabater, Amadeo
+<       
+<       Steidel, Maria
+<     </field>
+---
+>     <field name="unittitle_ssm">Perpiña Steidel, AmedéePerpiña Sabater, AmadeoSteidel, Maria</field>
+>     <field name="unittitle_teim">Perpiña Steidel, AmedéePerpiña Sabater, AmadeoSteidel, Maria</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Perpiña Steidel, Amedée
+<       
+<       Perpiña Sabater, Amadeo
+<       
+<       Steidel, Maria
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Perpiña Steidel, AmedéePerpiña Sabater, AmadeoSteidel, Maria</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Perpiña Steidel, Amedée
+<       
+<       Perpiña Sabater, Amadeo
+<       
+<       Steidel, Maria
+<     </field>
+---
+>     <field name="heading_ssm">Perpiña Steidel, AmedéePerpiña Sabater, AmadeoSteidel, Maria</field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Navarro, Justo
+<       
+<       Navarro, Julia (née Vacas&amp;amp;gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Navarro, Justo
+<       
+<       Navarro, Julia (née Vacas&amp;gt;
+<     </field>
+---
+>     <field name="unittitle_ssm">Navarro, JustoNavarro, Julia (née Vacas&amp;amp;gt;</field>
+>     <field name="unittitle_teim">Navarro, JustoNavarro, Julia (née Vacas&amp;gt;</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Navarro, Justo
+<       
+<       Navarro, Julia (née Vacas&amp;amp;gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Navarro, Justo
+<       
+<       Navarro, Julia (née Vacas&amp;gt;
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Navarro, JustoNavarro, Julia (née Vacas&amp;amp;gt;</field>
+>     <field name="heading_ssm">Navarro, JustoNavarro, Julia (née Vacas&amp;gt;</field>

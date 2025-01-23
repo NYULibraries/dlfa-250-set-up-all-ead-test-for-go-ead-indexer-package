@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Alias Pino, Juan José
+<       
+<       Alias Pino, Maria
+<     </field>
+<     <field name="unittitle_teim">
+<       Alias Pino, Juan José
+<       
+<       Alias Pino, Maria
+<     </field>
+---
+>     <field name="unittitle_ssm">Alias Pino, Juan JoséAlias Pino, Maria</field>
+>     <field name="unittitle_teim">Alias Pino, Juan JoséAlias Pino, Maria</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Alias Pino, Juan José
+<       
+<       Alias Pino, Maria
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Alias Pino, Juan JoséAlias Pino, Maria</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Alias Pino, Juan José
+<       
+<       Alias Pino, Maria
+<     </field>
+---
+>     <field name="heading_ssm">Alias Pino, Juan JoséAlias Pino, Maria</field>

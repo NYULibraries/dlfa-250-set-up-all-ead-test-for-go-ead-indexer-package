@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">XLVIII. Camera dei Genitori</field>
+---
+>     <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
+18c18
+<     <field name="parent_unittitles_teim">XLVIII. Camera dei Genitori</field>
+---
+>     <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
+46,47c46,47
+<     <field name="series_sim">XLVIII. Camera dei Genitori</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; XLVIII. Camera dei Genitori &gt;&gt; XLVIII.-1a. general view</field>
+---
+>     <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; XLVIII.-1a. general view</field>

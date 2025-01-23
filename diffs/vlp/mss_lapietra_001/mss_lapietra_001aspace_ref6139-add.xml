@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Folder 1. Album labelled "I."</field>
+---
+>     <field name="parent_unittitles_ssm">6. Interiors taken by Anna Marx, 1986</field>
+18c18
+<     <field name="parent_unittitles_teim">Folder 1. Album labelled "I."</field>
+---
+>     <field name="parent_unittitles_teim">6. Interiors taken by Anna Marx, 1986</field>
+46,47c46,47
+<     <field name="series_sim">Folder 1. Album labelled "I."</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; Folder 1. Album labelled "I." &gt;&gt; Photocopy made in 2004 of a print of the interior of Villa La Pietra</field>
+---
+>     <field name="series_sim">6. Interiors taken by Anna Marx, 1986</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 6. Interiors taken by Anna Marx, 1986 &gt;&gt; Photocopy made in 2004 of a print of the interior of Villa La Pietra</field>

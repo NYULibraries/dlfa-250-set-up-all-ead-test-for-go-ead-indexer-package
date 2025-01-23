@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Spearhead: The Pan-African Review&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="unittitle_teim">
+<       Spearhead: The Pan-African Review
+<       
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Spearhead: The Pan-African Review&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Spearhead: The Pan-African Review</field>
+41,48c35,36
+<     <field name="series_si">Series IV: African Pamphlets and Periodicals, 1956-1972 &gt;&gt; 
+<       &lt;em&gt;Spearhead: The Pan-African Review&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="heading_ssm">
+<       Spearhead: The Pan-African Review
+<       
+<     </field>
+---
+>     <field name="series_si">Series IV: African Pamphlets and Periodicals, 1956-1972 &gt;&gt; &lt;em&gt;Spearhead: The Pan-African Review&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="heading_ssm">Spearhead: The Pan-African Review</field>

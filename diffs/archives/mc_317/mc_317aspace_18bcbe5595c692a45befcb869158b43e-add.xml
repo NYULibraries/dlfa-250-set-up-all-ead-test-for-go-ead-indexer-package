@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Knowlton, Daniel C.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Knowlton, Daniel C. </field>
+27c27
+<     <field name="series_si">Knowlton, Daniel C.&amp;nbsp;</field>
+---
+>     <field name="series_si">Knowlton, Daniel C. </field>

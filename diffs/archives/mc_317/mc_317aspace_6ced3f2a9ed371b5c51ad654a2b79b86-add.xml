@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Coughlan, Joseph D.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Coughlan, Joseph D. </field>
+27c27
+<     <field name="series_si">Coughlan, Joseph D.&amp;nbsp;</field>
+---
+>     <field name="series_si">Coughlan, Joseph D. </field>

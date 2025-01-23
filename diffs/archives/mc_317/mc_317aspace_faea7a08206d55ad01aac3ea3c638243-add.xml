@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zlatchin, Philip J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zlatchin, Philip J. </field>
+27c27
+<     <field name="series_si">Zlatchin, Philip J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zlatchin, Philip J. </field>

@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">i. Viale</field>
+---
+>     <field name="parent_unittitles_ssm">vii. Pomario</field>
+18c18
+<     <field name="parent_unittitles_teim">i. Viale</field>
+---
+>     <field name="parent_unittitles_teim">vii. Pomario</field>
+46,47c46,47
+<     <field name="series_sim">i. Viale</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; i. Viale &gt;&gt; Viale</field>
+---
+>     <field name="series_sim">vii. Pomario</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; vii. Pomario &gt;&gt; Viale</field>

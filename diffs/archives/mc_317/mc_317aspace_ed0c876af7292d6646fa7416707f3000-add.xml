@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Stoker, James J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Stoker, James J. </field>
+27c27
+<     <field name="series_si">Stoker, James J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Stoker, James J. </field>

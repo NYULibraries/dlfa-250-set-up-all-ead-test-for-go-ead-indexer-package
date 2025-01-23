@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Woods, Joseph G.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Woods, Joseph G. </field>
+27c27
+<     <field name="series_si">Woods, Joseph G.&amp;nbsp;</field>
+---
+>     <field name="series_si">Woods, Joseph G. </field>

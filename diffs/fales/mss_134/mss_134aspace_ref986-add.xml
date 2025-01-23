@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Woman's Day: The Only 25&lt;/em&gt;
+<       &lt;em&gt;Recipes You'll Ever Need&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Woman's Day: The Only 25
+<       Recipes You'll Ever Need
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Woman's Day: The Only 25&lt;/em&gt;&lt;em&gt;Recipes You'll Ever Need&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Woman's Day: The Only 25Recipes You'll Ever Need</field>
+43,50c37,38
+<     <field name="series_si">Series IV: Brownstone's Notes &gt;&gt; 
+<       &lt;em&gt;Woman's Day: The Only 25&lt;/em&gt;
+<       &lt;em&gt;Recipes You'll Ever Need&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Woman's Day: The Only 25
+<       Recipes You'll Ever Need
+<     </field>
+---
+>     <field name="series_si">Series IV: Brownstone's Notes &gt;&gt; &lt;em&gt;Woman's Day: The Only 25&lt;/em&gt;&lt;em&gt;Recipes You'll Ever Need&lt;/em&gt;</field>
+>     <field name="heading_ssm">Woman's Day: The Only 25Recipes You'll Ever Need</field>

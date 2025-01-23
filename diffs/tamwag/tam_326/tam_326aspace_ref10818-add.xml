@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Sarinena Diestre, Gregorio
+<       
+<       Sarinena, Teresa (née Calvo)
+<     </field>
+<     <field name="unittitle_teim">
+<       Sarinena Diestre, Gregorio
+<       
+<       Sarinena, Teresa (née Calvo)
+<     </field>
+---
+>     <field name="unittitle_ssm">Sarinena Diestre, GregorioSarinena, Teresa (née Calvo)</field>
+>     <field name="unittitle_teim">Sarinena Diestre, GregorioSarinena, Teresa (née Calvo)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Sarinena Diestre, Gregorio
+<       
+<       Sarinena, Teresa (née Calvo)
+<     </field>
+<     <field name="heading_ssm">
+<       Sarinena Diestre, Gregorio
+<       
+<       Sarinena, Teresa (née Calvo)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Sarinena Diestre, GregorioSarinena, Teresa (née Calvo)</field>
+>     <field name="heading_ssm">Sarinena Diestre, GregorioSarinena, Teresa (née Calvo)</field>

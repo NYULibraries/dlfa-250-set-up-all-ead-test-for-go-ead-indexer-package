@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vera Gamban, Antonio
+<       
+<       Vera, Ana (née Navarro)
+<     </field>
+<     <field name="unittitle_teim">
+<       Vera Gamban, Antonio
+<       
+<       Vera, Ana (née Navarro)
+<     </field>
+---
+>     <field name="unittitle_ssm">Vera Gamban, AntonioVera, Ana (née Navarro)</field>
+>     <field name="unittitle_teim">Vera Gamban, AntonioVera, Ana (née Navarro)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vera Gamban, Antonio
+<       
+<       Vera, Ana (née Navarro)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vera Gamban, AntonioVera, Ana (née Navarro)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vera Gamban, Antonio
+<       
+<       Vera, Ana (née Navarro)
+<     </field>
+---
+>     <field name="heading_ssm">Vera Gamban, AntonioVera, Ana (née Navarro)</field>

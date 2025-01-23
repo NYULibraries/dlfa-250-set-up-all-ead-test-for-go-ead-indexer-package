@@ -1,0 +1,16 @@
+23,33c23,25
+<     <field name="scopecontent_teim">
+<       Folder: New York Stock Exchange
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Gallatin National Bank
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: CCNY
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: New York Stock Exchange</field>
+>     <field name="scopecontent_teim">Folder: Gallatin National Bank</field>
+>     <field name="scopecontent_teim">Folder: CCNY</field>

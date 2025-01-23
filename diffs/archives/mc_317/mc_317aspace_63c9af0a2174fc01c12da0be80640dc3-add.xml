@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Goldsmith, Yvonne P. '72 SCE&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Goldsmith, Yvonne P. '72 SCE </field>
+27c27
+<     <field name="series_si">Goldsmith, Yvonne P. '72 SCE&amp;nbsp;</field>
+---
+>     <field name="series_si">Goldsmith, Yvonne P. '72 SCE </field>

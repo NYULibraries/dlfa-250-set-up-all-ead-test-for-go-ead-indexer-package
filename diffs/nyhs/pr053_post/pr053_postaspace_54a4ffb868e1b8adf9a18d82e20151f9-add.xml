@@ -1,0 +1,24 @@
+18,29c18,20
+<     <field name="scopecontent_teim">
+<       Folder: Miscellaneous Buildings
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Great Hall, College of the City of New York
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: District of Columbia, photos, misc.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Miscellaneous Buildings</field>
+>     <field name="scopecontent_teim">Folder: Great Hall, College of the City of New York</field>
+>     <field name="scopecontent_teim">Folder: District of Columbia, photos, misc.</field>
+40,43c31
+<     <field name="scopecontent_teim">
+<       Folder: New York Hospital
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: New York Hospital</field>

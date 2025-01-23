@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Oliveras, Madeleine (née Canet-Soy)
+<       
+<       Oliveras Torallas, Primitivo
+<     </field>
+<     <field name="unittitle_teim">
+<       Oliveras, Madeleine (née Canet-Soy)
+<       
+<       Oliveras Torallas, Primitivo
+<     </field>
+---
+>     <field name="unittitle_ssm">Oliveras, Madeleine (née Canet-Soy)Oliveras Torallas, Primitivo</field>
+>     <field name="unittitle_teim">Oliveras, Madeleine (née Canet-Soy)Oliveras Torallas, Primitivo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Oliveras, Madeleine (née Canet-Soy)
+<       
+<       Oliveras Torallas, Primitivo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Oliveras, Madeleine (née Canet-Soy)Oliveras Torallas, Primitivo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Oliveras, Madeleine (née Canet-Soy)
+<       
+<       Oliveras Torallas, Primitivo
+<     </field>
+---
+>     <field name="heading_ssm">Oliveras, Madeleine (née Canet-Soy)Oliveras Torallas, Primitivo</field>

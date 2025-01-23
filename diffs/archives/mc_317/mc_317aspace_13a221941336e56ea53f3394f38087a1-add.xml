@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Stratton, Dr. Julius A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Stratton, Dr. Julius A. </field>
+27c27
+<     <field name="series_si">Stratton, Dr. Julius A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Stratton, Dr. Julius A. </field>

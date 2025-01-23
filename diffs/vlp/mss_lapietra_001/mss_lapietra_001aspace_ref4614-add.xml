@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">XXXI. Sala del Crocifisso</field>
+---
+>     <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
+18c18
+<     <field name="parent_unittitles_teim">XXXI. Sala del Crocifisso</field>
+---
+>     <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
+46,47c46,47
+<     <field name="series_sim">XXXI. Sala del Crocifisso</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; XXXI. Sala del Crocifisso &gt;&gt; XXXI. C.9.-1.</field>
+---
+>     <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; XXXI. C.9.-1.</field>

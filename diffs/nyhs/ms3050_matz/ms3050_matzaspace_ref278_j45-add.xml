@@ -1,0 +1,20 @@
+16,21c16,17
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;Wood, Anthony: &lt;em&gt;Preserving New York&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Wood, Anthony: Preserving New York
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;Wood, Anthony: &lt;em&gt;Preserving New York&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">Wood, Anthony: Preserving New York</field>
+35,40c31,32
+<     <field name="series_si">Series I. Historic Preservation and quality of life issues &gt;&gt; 
+<       &lt;strong&gt;Wood, Anthony: &lt;em&gt;Preserving New York&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Wood, Anthony: Preserving New York
+<     </field>
+---
+>     <field name="series_si">Series I. Historic Preservation and quality of life issues &gt;&gt; &lt;strong&gt;Wood, Anthony: &lt;em&gt;Preserving New York&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="heading_ssm">Wood, Anthony: Preserving New York</field>

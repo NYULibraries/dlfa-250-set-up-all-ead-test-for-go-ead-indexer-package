@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Pujol Balana, Ramon
+<       
+<       Pujol Balana, Fermina
+<     </field>
+<     <field name="unittitle_teim">
+<       Pujol Balana, Ramon
+<       
+<       Pujol Balana, Fermina
+<     </field>
+---
+>     <field name="unittitle_ssm">Pujol Balana, RamonPujol Balana, Fermina</field>
+>     <field name="unittitle_teim">Pujol Balana, RamonPujol Balana, Fermina</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Pujol Balana, Ramon
+<       
+<       Pujol Balana, Fermina
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Pujol Balana, RamonPujol Balana, Fermina</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Pujol Balana, Ramon
+<       
+<       Pujol Balana, Fermina
+<     </field>
+---
+>     <field name="heading_ssm">Pujol Balana, RamonPujol Balana, Fermina</field>

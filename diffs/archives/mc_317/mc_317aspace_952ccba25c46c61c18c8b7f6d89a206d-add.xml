@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tischman, John L.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tischman, John L. </field>
+27c27
+<     <field name="series_si">Tischman, John L.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tischman, John L. </field>

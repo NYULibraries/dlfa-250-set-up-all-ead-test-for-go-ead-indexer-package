@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">&lt;em&gt;Let My People Come:&lt;/em&gt;Never officially opened at the Village &lt;em&gt;Gate in New York then "closed" [moved to Broadway]&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Let My People Come:&lt;/em&gt;Never officially opened at the Village &lt;em&gt;&lt;/em&gt;Gate in New York then "closed" [moved to Broadway]</field>
+38c38
+<     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries H: Special Production Contract [also referred to/bonded as "Dramatic/Musical, Special Contract"] &gt;&gt; &lt;em&gt;Let My People Come:&lt;/em&gt;Never officially opened at the Village &lt;em&gt;Gate in New York then "closed" [moved to Broadway]&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries H: Special Production Contract [also referred to/bonded as "Dramatic/Musical, Special Contract"] &gt;&gt; &lt;em&gt;Let My People Come:&lt;/em&gt;Never officially opened at the Village &lt;em&gt;&lt;/em&gt;Gate in New York then "closed" [moved to Broadway]</field>

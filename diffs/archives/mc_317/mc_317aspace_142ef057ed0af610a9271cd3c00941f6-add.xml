@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carpenter, Lewis Van&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carpenter, Lewis Van   </field>
+27c27
+<     <field name="series_si">Carpenter, Lewis Van&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carpenter, Lewis Van   </field>

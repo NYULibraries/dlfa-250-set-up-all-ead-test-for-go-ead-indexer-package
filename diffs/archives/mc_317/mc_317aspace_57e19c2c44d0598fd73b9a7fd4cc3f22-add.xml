@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Freitag, Werner&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Freitag, Werner </field>
+27c27
+<     <field name="series_si">Freitag, Werner&amp;nbsp;</field>
+---
+>     <field name="series_si">Freitag, Werner </field>

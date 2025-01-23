@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wirtschafter, Tom M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wirtschafter, Tom M. </field>
+27c27
+<     <field name="series_si">Wirtschafter, Tom M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wirtschafter, Tom M. </field>

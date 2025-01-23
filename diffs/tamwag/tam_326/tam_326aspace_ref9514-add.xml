@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Mas Moix, Jaime
+<       
+<       Mas, Enriqueta (née Roma)
+<     </field>
+<     <field name="unittitle_teim">
+<       Mas Moix, Jaime
+<       
+<       Mas, Enriqueta (née Roma)
+<     </field>
+---
+>     <field name="unittitle_ssm">Mas Moix, JaimeMas, Enriqueta (née Roma)</field>
+>     <field name="unittitle_teim">Mas Moix, JaimeMas, Enriqueta (née Roma)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Mas Moix, Jaime
+<       
+<       Mas, Enriqueta (née Roma)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Mas Moix, JaimeMas, Enriqueta (née Roma)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Mas Moix, Jaime
+<       
+<       Mas, Enriqueta (née Roma)
+<     </field>
+---
+>     <field name="heading_ssm">Mas Moix, JaimeMas, Enriqueta (née Roma)</field>

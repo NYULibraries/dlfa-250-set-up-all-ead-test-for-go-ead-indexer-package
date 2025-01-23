@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carras, Dr. W. Gabriel&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carras, Dr. W. Gabriel   </field>
+27c27
+<     <field name="series_si">Carras, Dr. W. Gabriel&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carras, Dr. W. Gabriel   </field>

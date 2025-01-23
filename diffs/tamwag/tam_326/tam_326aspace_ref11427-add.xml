@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Planas, Francisco
+<       
+<       Planas, Marie-Louis Léonie (née Pouget)
+<     </field>
+<     <field name="unittitle_teim">
+<       Planas, Francisco
+<       
+<       Planas, Marie-Louis Léonie (née Pouget)
+<     </field>
+---
+>     <field name="unittitle_ssm">Planas, FranciscoPlanas, Marie-Louis Léonie (née Pouget)</field>
+>     <field name="unittitle_teim">Planas, FranciscoPlanas, Marie-Louis Léonie (née Pouget)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Planas, Francisco
+<       
+<       Planas, Marie-Louis Léonie (née Pouget)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Planas, FranciscoPlanas, Marie-Louis Léonie (née Pouget)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Planas, Francisco
+<       
+<       Planas, Marie-Louis Léonie (née Pouget)
+<     </field>
+---
+>     <field name="heading_ssm">Planas, FranciscoPlanas, Marie-Louis Léonie (née Pouget)</field>

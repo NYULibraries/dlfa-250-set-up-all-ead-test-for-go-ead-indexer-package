@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Fernandez Granados, Sebastian
+<       
+<       Fernandez, Purificacion (née Sanchez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Fernandez Granados, Sebastian
+<       
+<       Fernandez, Purificacion (née Sanchez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Fernandez Granados, SebastianFernandez, Purificacion (née Sanchez)</field>
+>     <field name="unittitle_teim">Fernandez Granados, SebastianFernandez, Purificacion (née Sanchez)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Fernandez Granados, Sebastian
+<       
+<       Fernandez, Purificacion (née Sanchez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Fernandez Granados, SebastianFernandez, Purificacion (née Sanchez)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Fernandez Granados, Sebastian
+<       
+<       Fernandez, Purificacion (née Sanchez)
+<     </field>
+---
+>     <field name="heading_ssm">Fernandez Granados, SebastianFernandez, Purificacion (née Sanchez)</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Amsterdam, Hon Birdie&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Amsterdam, Hon Birdie </field>
+27c27
+<     <field name="series_si">Amsterdam, Hon Birdie&amp;nbsp;</field>
+---
+>     <field name="series_si">Amsterdam, Hon Birdie </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Stout, F. D.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Stout, F. D. </field>
+27c27
+<     <field name="series_si">Stout, F. D.&amp;nbsp;</field>
+---
+>     <field name="series_si">Stout, F. D. </field>

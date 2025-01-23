@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Hevia Naval, Isidro
+<       
+<       Lluch, Carmen
+<       
+<       Grillet, Maya
+<     </field>
+<     <field name="unittitle_teim">
+<       Hevia Naval, Isidro
+<       
+<       Lluch, Carmen
+<       
+<       Grillet, Maya
+<     </field>
+---
+>     <field name="unittitle_ssm">Hevia Naval, IsidroLluch, CarmenGrillet, Maya</field>
+>     <field name="unittitle_teim">Hevia Naval, IsidroLluch, CarmenGrillet, Maya</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Hevia Naval, Isidro
+<       
+<       Lluch, Carmen
+<       
+<       Grillet, Maya
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Hevia Naval, IsidroLluch, CarmenGrillet, Maya</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Hevia Naval, Isidro
+<       
+<       Lluch, Carmen
+<       
+<       Grillet, Maya
+<     </field>
+---
+>     <field name="heading_ssm">Hevia Naval, IsidroLluch, CarmenGrillet, Maya</field>

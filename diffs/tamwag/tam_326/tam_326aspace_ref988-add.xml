@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Puente, Argentina
+<       
+<       Puente, Mariano
+<     </field>
+<     <field name="unittitle_teim">
+<       Puente, Argentina
+<       
+<       Puente, Mariano
+<     </field>
+---
+>     <field name="unittitle_ssm">Puente, ArgentinaPuente, Mariano</field>
+>     <field name="unittitle_teim">Puente, ArgentinaPuente, Mariano</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Puente, Argentina
+<       
+<       Puente, Mariano
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Puente, ArgentinaPuente, Mariano</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Puente, Argentina
+<       
+<       Puente, Mariano
+<     </field>
+---
+>     <field name="heading_ssm">Puente, ArgentinaPuente, Mariano</field>

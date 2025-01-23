@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Strom, Gordon H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Strom, Gordon H. </field>
+27c27
+<     <field name="series_si">Strom, Gordon H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Strom, Gordon H. </field>

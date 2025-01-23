@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bunten, Mildred Stocking&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bunten, Mildred Stocking   </field>
+27c27
+<     <field name="series_si">Bunten, Mildred Stocking&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bunten, Mildred Stocking   </field>

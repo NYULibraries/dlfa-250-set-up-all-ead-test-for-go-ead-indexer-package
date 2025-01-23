@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wagner Jr., Robert F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wagner Jr., Robert F. </field>
+27c27
+<     <field name="series_si">Wagner Jr., Robert F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wagner Jr., Robert F. </field>

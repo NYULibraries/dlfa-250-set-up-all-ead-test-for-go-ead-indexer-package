@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bueno de Mesquita, Bruce&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bueno de Mesquita, Bruce   </field>
+27c27
+<     <field name="series_si">Bueno de Mesquita, Bruce&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bueno de Mesquita, Bruce   </field>

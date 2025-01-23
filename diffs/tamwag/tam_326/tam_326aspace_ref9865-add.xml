@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Caraballo, Miguel
+<       
+<       Caraballo, Antonia
+<     </field>
+<     <field name="unittitle_teim">
+<       Caraballo, Miguel
+<       
+<       Caraballo, Antonia
+<     </field>
+---
+>     <field name="unittitle_ssm">Caraballo, MiguelCaraballo, Antonia</field>
+>     <field name="unittitle_teim">Caraballo, MiguelCaraballo, Antonia</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Caraballo, Miguel
+<       
+<       Caraballo, Antonia
+<     </field>
+<     <field name="heading_ssm">
+<       Caraballo, Miguel
+<       
+<       Caraballo, Antonia
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Caraballo, MiguelCaraballo, Antonia</field>
+>     <field name="heading_ssm">Caraballo, MiguelCaraballo, Antonia</field>

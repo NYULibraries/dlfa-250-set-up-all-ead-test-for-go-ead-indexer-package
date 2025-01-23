@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Munoz Fernandez, Antonio
+<       
+<       Munoz Fernandez, Leonie (née Montero)
+<     </field>
+<     <field name="unittitle_teim">
+<       Munoz Fernandez, Antonio
+<       
+<       Munoz Fernandez, Leonie (née Montero)
+<     </field>
+---
+>     <field name="unittitle_ssm">Munoz Fernandez, AntonioMunoz Fernandez, Leonie (née Montero)</field>
+>     <field name="unittitle_teim">Munoz Fernandez, AntonioMunoz Fernandez, Leonie (née Montero)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Munoz Fernandez, Antonio
+<       
+<       Munoz Fernandez, Leonie (née Montero)
+<     </field>
+<     <field name="heading_ssm">
+<       Munoz Fernandez, Antonio
+<       
+<       Munoz Fernandez, Leonie (née Montero)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Munoz Fernandez, AntonioMunoz Fernandez, Leonie (née Montero)</field>
+>     <field name="heading_ssm">Munoz Fernandez, AntonioMunoz Fernandez, Leonie (née Montero)</field>

@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">United Artists Entertainment LLC&amp;nbsp;(UA)</field>
+---
+>     <field name="unittitle_ssm">United Artists Entertainment LLC (UA)</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; United Artists Entertainment LLC&amp;nbsp;(UA)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; United Artists Entertainment LLC (UA)</field>

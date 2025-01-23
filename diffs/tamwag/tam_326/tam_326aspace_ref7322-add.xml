@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Marin Oliva, Concepcion
+<       
+<       Marin Oliva, Rafael
+<     </field>
+<     <field name="unittitle_teim">
+<       Marin Oliva, Concepcion
+<       
+<       Marin Oliva, Rafael
+<     </field>
+---
+>     <field name="unittitle_ssm">Marin Oliva, ConcepcionMarin Oliva, Rafael</field>
+>     <field name="unittitle_teim">Marin Oliva, ConcepcionMarin Oliva, Rafael</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Marin Oliva, Concepcion
+<       
+<       Marin Oliva, Rafael
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Marin Oliva, ConcepcionMarin Oliva, Rafael</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Marin Oliva, Concepcion
+<       
+<       Marin Oliva, Rafael
+<     </field>
+---
+>     <field name="heading_ssm">Marin Oliva, ConcepcionMarin Oliva, Rafael</field>

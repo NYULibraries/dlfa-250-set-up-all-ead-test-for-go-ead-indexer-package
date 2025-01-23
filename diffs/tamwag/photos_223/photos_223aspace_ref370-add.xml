@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Amerasinghe, Hamilton Shirley&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Amerasinghe, Hamilton Shirley </field>
+31c31
+<     <field name="series_si">Series I: Biographical Files &gt;&gt; Amerasinghe, Hamilton Shirley&amp;nbsp;</field>
+---
+>     <field name="series_si">Series I: Biographical Files &gt;&gt; Amerasinghe, Hamilton Shirley </field>

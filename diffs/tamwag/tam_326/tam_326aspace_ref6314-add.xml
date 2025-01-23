@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Satue Costa, Valentina
+<       
+<       Satue Costa, Ramon
+<     </field>
+<     <field name="unittitle_teim">
+<       Satue Costa, Valentina
+<       
+<       Satue Costa, Ramon
+<     </field>
+---
+>     <field name="unittitle_ssm">Satue Costa, ValentinaSatue Costa, Ramon</field>
+>     <field name="unittitle_teim">Satue Costa, ValentinaSatue Costa, Ramon</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Satue Costa, Valentina
+<       
+<       Satue Costa, Ramon
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Satue Costa, ValentinaSatue Costa, Ramon</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Satue Costa, Valentina
+<       
+<       Satue Costa, Ramon
+<     </field>
+---
+>     <field name="heading_ssm">Satue Costa, ValentinaSatue Costa, Ramon</field>

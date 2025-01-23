@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Brilmayer, Lea&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Brilmayer, Lea </field>
+27c27
+<     <field name="series_si">Brilmayer, Lea&amp;nbsp;</field>
+---
+>     <field name="series_si">Brilmayer, Lea </field>

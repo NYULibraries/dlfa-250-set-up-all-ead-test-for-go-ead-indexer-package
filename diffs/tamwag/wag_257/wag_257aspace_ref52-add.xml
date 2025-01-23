@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Alice&lt;/em&gt;
+<       &lt;em&gt;in Wonderland&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Alice
+<       in Wonderland
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Alice&lt;/em&gt;&lt;em&gt;in Wonderland&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Alicein Wonderland</field>
+43,50c37,38
+<     <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; 
+<       &lt;em&gt;Alice&lt;/em&gt;
+<       &lt;em&gt;in Wonderland&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Alice
+<       in Wonderland
+<     </field>
+---
+>     <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; &lt;em&gt;Alice&lt;/em&gt;&lt;em&gt;in Wonderland&lt;/em&gt;</field>
+>     <field name="heading_ssm">Alicein Wonderland</field>

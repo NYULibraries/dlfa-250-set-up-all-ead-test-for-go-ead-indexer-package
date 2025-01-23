@@ -1,0 +1,24 @@
+19,26c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt; Southern Exposure &lt;/em&gt;
+<       
+<     </field>
+<     <field name="unittitle_teim">
+<        Southern Exposure 
+<       
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt; Southern Exposure &lt;/em&gt;</field>
+>     <field name="unittitle_teim"> Southern Exposure </field>
+42,49c36,37
+<     <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; 
+<       &lt;em&gt; Southern Exposure &lt;/em&gt;
+<       
+<     </field>
+<     <field name="heading_ssm">
+<        Southern Exposure 
+<       
+<     </field>
+---
+>     <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; &lt;em&gt; Southern Exposure &lt;/em&gt;</field>
+>     <field name="heading_ssm"> Southern Exposure </field>

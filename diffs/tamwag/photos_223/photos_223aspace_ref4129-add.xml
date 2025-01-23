@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Right-to-work&amp;nbsp;Law</field>
+---
+>     <field name="unittitle_ssm">Right-to-work Law</field>
+32c32
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Right-to-work&amp;nbsp;Law</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Right-to-work Law</field>

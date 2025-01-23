@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Chapman, Herrick Easton&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Chapman, Herrick Easton </field>
+27c27
+<     <field name="series_si">Chapman, Herrick Easton&amp;nbsp;</field>
+---
+>     <field name="series_si">Chapman, Herrick Easton </field>

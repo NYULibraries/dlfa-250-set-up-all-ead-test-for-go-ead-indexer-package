@@ -1,0 +1,43 @@
+18,41c18,23
+<     <field name="scopecontent_teim">
+<       Folder: City College of New York
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Library CCNY
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: CCNY
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: CCNY
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: CCNY
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Library CCNY
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: City College of New York</field>
+>     <field name="scopecontent_teim">Folder: Library CCNY</field>
+>     <field name="scopecontent_teim">Folder: CCNY</field>
+>     <field name="scopecontent_teim">Folder: CCNY</field>
+>     <field name="scopecontent_teim">Folder: CCNY</field>
+>     <field name="scopecontent_teim">Folder: Library CCNY</field>
+43,49c25,26
+<     <field name="scopecontent_teim">
+<       Folder: Plans for George Washington University
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Brooklyn Academy of Music
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Plans for George Washington University</field>
+>     <field name="scopecontent_teim">Folder: Brooklyn Academy of Music</field>

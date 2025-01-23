@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Salten, David G.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Salten, David G. </field>
+27c27
+<     <field name="series_si">Salten, David G.&amp;nbsp;</field>
+---
+>     <field name="series_si">Salten, David G. </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carnicke, Sharon M.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carnicke, Sharon M.   </field>
+27c27
+<     <field name="series_si">Carnicke, Sharon M.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carnicke, Sharon M.   </field>

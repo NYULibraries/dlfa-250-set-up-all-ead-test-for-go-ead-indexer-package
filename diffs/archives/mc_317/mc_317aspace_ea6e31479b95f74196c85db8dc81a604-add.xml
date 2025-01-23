@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Schwartz, Leonard S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Schwartz, Leonard S. </field>
+27c27
+<     <field name="series_si">Schwartz, Leonard S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Schwartz, Leonard S. </field>

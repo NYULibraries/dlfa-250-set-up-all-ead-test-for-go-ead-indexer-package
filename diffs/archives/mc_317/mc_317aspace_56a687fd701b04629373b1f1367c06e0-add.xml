@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Gould, Alexander '69 MBA&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Gould, Alexander '69 MBA </field>
+27c27
+<     <field name="series_si">Gould, Alexander '69 MBA&amp;nbsp;</field>
+---
+>     <field name="series_si">Gould, Alexander '69 MBA </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burnell, Luis A.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burnell, Luis A.   </field>
+27c27
+<     <field name="series_si">Burnell, Luis A.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burnell, Luis A.   </field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Figueras Rusinol, Juan
+<       
+<       Figueras, Teresa (née Cos Caseli)
+<     </field>
+<     <field name="unittitle_teim">
+<       Figueras Rusinol, Juan
+<       
+<       Figueras, Teresa (née Cos Caseli)
+<     </field>
+---
+>     <field name="unittitle_ssm">Figueras Rusinol, JuanFigueras, Teresa (née Cos Caseli)</field>
+>     <field name="unittitle_teim">Figueras Rusinol, JuanFigueras, Teresa (née Cos Caseli)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Figueras Rusinol, Juan
+<       
+<       Figueras, Teresa (née Cos Caseli)
+<     </field>
+<     <field name="heading_ssm">
+<       Figueras Rusinol, Juan
+<       
+<       Figueras, Teresa (née Cos Caseli)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Figueras Rusinol, JuanFigueras, Teresa (née Cos Caseli)</field>
+>     <field name="heading_ssm">Figueras Rusinol, JuanFigueras, Teresa (née Cos Caseli)</field>

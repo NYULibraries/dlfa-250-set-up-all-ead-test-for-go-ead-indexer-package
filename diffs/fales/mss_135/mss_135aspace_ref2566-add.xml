@@ -1,0 +1,24 @@
+19,26c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;
+<       &lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Gallery of Masterpieces: Mona Lisa
+<       Gallery of Masterpieces: The Massacre of Chios
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;&lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Gallery of Masterpieces: Mona LisaGallery of Masterpieces: The Massacre of Chios</field>
+42,49c36,37
+<     <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries E: Books &gt;&gt; 
+<       &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;
+<       &lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Gallery of Masterpieces: Mona Lisa
+<       Gallery of Masterpieces: The Massacre of Chios
+<     </field>
+---
+>     <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries E: Books &gt;&gt; &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;&lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;</field>
+>     <field name="heading_ssm">Gallery of Masterpieces: Mona LisaGallery of Masterpieces: The Massacre of Chios</field>

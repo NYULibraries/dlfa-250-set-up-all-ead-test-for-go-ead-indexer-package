@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">The American Press&amp;nbsp;(newsletter), article on Liggett murder</field>
+---
+>     <field name="unittitle_ssm">The American Press (newsletter), article on Liggett murder</field>
+24c24
+<     <field name="series_si">The American Press&amp;nbsp;(newsletter), article on Liggett murder</field>
+---
+>     <field name="series_si">The American Press (newsletter), article on Liggett murder</field>

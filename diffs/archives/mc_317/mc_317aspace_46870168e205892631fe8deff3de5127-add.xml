@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bruno, Dr. Micheal&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bruno, Dr. Micheal   </field>
+27c27
+<     <field name="series_si">Bruno, Dr. Micheal&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bruno, Dr. Micheal   </field>

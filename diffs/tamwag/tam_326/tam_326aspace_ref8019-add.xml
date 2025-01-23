@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Capdevila Merino, Juan
+<       
+<       Capdevila, Marina (née Barreda)
+<     </field>
+<     <field name="unittitle_teim">
+<       Capdevila Merino, Juan
+<       
+<       Capdevila, Marina (née Barreda)
+<     </field>
+---
+>     <field name="unittitle_ssm">Capdevila Merino, JuanCapdevila, Marina (née Barreda)</field>
+>     <field name="unittitle_teim">Capdevila Merino, JuanCapdevila, Marina (née Barreda)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Capdevila Merino, Juan
+<       
+<       Capdevila, Marina (née Barreda)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Capdevila Merino, JuanCapdevila, Marina (née Barreda)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Capdevila Merino, Juan
+<       
+<       Capdevila, Marina (née Barreda)
+<     </field>
+---
+>     <field name="heading_ssm">Capdevila Merino, JuanCapdevila, Marina (née Barreda)</field>

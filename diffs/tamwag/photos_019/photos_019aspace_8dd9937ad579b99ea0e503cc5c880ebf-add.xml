@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Series I:&amp;nbsp;&lt;em&gt;New York Teacher&lt;/em&gt;&amp;nbsp;Photograph Files</field>
+---
+>     <field name="unittitle_ssm">Series I: &lt;em&gt;New York Teacher&lt;/em&gt; Photograph Files</field>
+28c28
+<     <field name="series_si">Series I:&amp;nbsp;&lt;em&gt;New York Teacher&lt;/em&gt;&amp;nbsp;Photograph Files</field>
+---
+>     <field name="series_si">Series I: &lt;em&gt;New York Teacher&lt;/em&gt; Photograph Files</field>

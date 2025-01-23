@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Val Montull, Andres
+<       
+<       Vall, Felisa (née Rausa)
+<     </field>
+<     <field name="unittitle_teim">
+<       Val Montull, Andres
+<       
+<       Vall, Felisa (née Rausa)
+<     </field>
+---
+>     <field name="unittitle_ssm">Val Montull, AndresVall, Felisa (née Rausa)</field>
+>     <field name="unittitle_teim">Val Montull, AndresVall, Felisa (née Rausa)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Val Montull, Andres
+<       
+<       Vall, Felisa (née Rausa)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Val Montull, AndresVall, Felisa (née Rausa)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Val Montull, Andres
+<       
+<       Vall, Felisa (née Rausa)
+<     </field>
+---
+>     <field name="heading_ssm">Val Montull, AndresVall, Felisa (née Rausa)</field>

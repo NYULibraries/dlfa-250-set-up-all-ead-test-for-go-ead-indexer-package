@@ -1,0 +1,84 @@
+19,56c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966&lt;/em&gt;
+<       
+<       &lt;em&gt;Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970&lt;/em&gt;
+<       
+<       &lt;em&gt;A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966
+<       
+<       Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966
+<       
+<       Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967
+<       
+<       Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969
+<       
+<       The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969
+<       
+<       The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969
+<       
+<       Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969
+<       
+<       Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970
+<       
+<       A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966&lt;/em&gt;&lt;em&gt;Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966&lt;/em&gt;&lt;em&gt;Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967&lt;/em&gt;&lt;em&gt;Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969&lt;/em&gt;&lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;&lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;&lt;em&gt;Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969&lt;/em&gt;&lt;em&gt;Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970&lt;/em&gt;&lt;em&gt;A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968</field>
+91,128c55,56
+<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+<       &lt;em&gt;Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966&lt;/em&gt;
+<       
+<       &lt;em&gt;Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967&lt;/em&gt;
+<       
+<       &lt;em&gt;Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969&lt;/em&gt;
+<       
+<       &lt;em&gt;Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970&lt;/em&gt;
+<       
+<       &lt;em&gt;A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966
+<       
+<       Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966
+<       
+<       Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967
+<       
+<       Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969
+<       
+<       The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969
+<       
+<       The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969
+<       
+<       Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969
+<       
+<       Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970
+<       
+<       A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968
+<     </field>
+---
+>     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966&lt;/em&gt;&lt;em&gt;Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966&lt;/em&gt;&lt;em&gt;Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967&lt;/em&gt;&lt;em&gt;Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969&lt;/em&gt;&lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;&lt;em&gt;The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969&lt;/em&gt;&lt;em&gt;Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969&lt;/em&gt;&lt;em&gt;Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970&lt;/em&gt;&lt;em&gt;A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968&lt;/em&gt;</field>
+>     <field name="heading_ssm">Cosmic Ray Neutrons (from Essays in Honor of Hans A. Bethe): 1966Fast Neutron Latitude Variations in the Atmosphere at Solar Minimum, SAK, S.S. Holt and R.B. Mendell: Nov. 1966Cosmic-ray fast-neutron flux measurements in the atmosphere at various latitudes, SAK, R.B. Mendell, M. Merker, and W. Sandie: Jun. 1967Cosmic Ray Atmospheric Neutron Measurements at High Elevations over a Sunspot Cycle, SAK and Rosalind B. Mendell: 1969The Flux of Fast Neutrons in the Atmosphere. 1. The Effect of Solar Modulation of Galactic Cosmic Rays, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969The Flux of Fast Neutrons in the Atmosphere. 2. Solar Flare Effects, SAK, R.B. Mendell, M. Merker and E.S. Light: 1969Analysis of Annual and Semi-Annual Periodicities in Neutron Monitor Data, SAK and S.M. Schneider: 1969Investigation of Cosmic-Ray Produced Fast Neutrons in the Atmosphere, SAK, R.B. Mendell, M. Merker and E.S. Light: 1970A Literature Survey of Recent Articles on Geiger Mueller Counters and Gas-discharge Phenomena Associated with their Operation, SAK and S. Wistosky Sep. 1968</field>

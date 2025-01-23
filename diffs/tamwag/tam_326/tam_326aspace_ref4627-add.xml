@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Moreno Cecilia, Manuel
+<       
+<       Moreno, Dolores (née Porta)
+<     </field>
+<     <field name="unittitle_teim">
+<       Moreno Cecilia, Manuel
+<       
+<       Moreno, Dolores (née Porta)
+<     </field>
+---
+>     <field name="unittitle_ssm">Moreno Cecilia, ManuelMoreno, Dolores (née Porta)</field>
+>     <field name="unittitle_teim">Moreno Cecilia, ManuelMoreno, Dolores (née Porta)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Moreno Cecilia, Manuel
+<       
+<       Moreno, Dolores (née Porta)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Moreno Cecilia, ManuelMoreno, Dolores (née Porta)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Moreno Cecilia, Manuel
+<       
+<       Moreno, Dolores (née Porta)
+<     </field>
+---
+>     <field name="heading_ssm">Moreno Cecilia, ManuelMoreno, Dolores (née Porta)</field>

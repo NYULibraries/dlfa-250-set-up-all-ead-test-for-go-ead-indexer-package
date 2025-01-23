@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Ferre de Valencia, Francisco
+<       
+<       Ferre, Maria Luz (née Rueda)
+<     </field>
+<     <field name="unittitle_teim">
+<       Ferre de Valencia, Francisco
+<       
+<       Ferre, Maria Luz (née Rueda)
+<     </field>
+---
+>     <field name="unittitle_ssm">Ferre de Valencia, FranciscoFerre, Maria Luz (née Rueda)</field>
+>     <field name="unittitle_teim">Ferre de Valencia, FranciscoFerre, Maria Luz (née Rueda)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ferre de Valencia, Francisco
+<       
+<       Ferre, Maria Luz (née Rueda)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ferre de Valencia, FranciscoFerre, Maria Luz (née Rueda)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Ferre de Valencia, Francisco
+<       
+<       Ferre, Maria Luz (née Rueda)
+<     </field>
+---
+>     <field name="heading_ssm">Ferre de Valencia, FranciscoFerre, Maria Luz (née Rueda)</field>

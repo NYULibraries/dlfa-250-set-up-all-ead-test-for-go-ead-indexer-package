@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Gilman, David&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Gilman, David </field>
+27c27
+<     <field name="series_si">Gilman, David&amp;nbsp;</field>
+---
+>     <field name="series_si">Gilman, David </field>

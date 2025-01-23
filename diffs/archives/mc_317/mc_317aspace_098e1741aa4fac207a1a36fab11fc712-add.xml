@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Georgiou, Constantine&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Georgiou, Constantine </field>
+27c27
+<     <field name="series_si">Georgiou, Constantine&amp;nbsp;</field>
+---
+>     <field name="series_si">Georgiou, Constantine </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burnet, James Brown&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burnet, James Brown   </field>
+27c27
+<     <field name="series_si">Burnet, James Brown&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burnet, James Brown   </field>

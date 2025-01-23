@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Stovall, Robert H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Stovall, Robert H. </field>
+27c27
+<     <field name="series_si">Stovall, Robert H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Stovall, Robert H. </field>

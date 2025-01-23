@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Menendez, Aurelia
+<       
+<       Menendez, Candelaria
+<     </field>
+<     <field name="unittitle_teim">
+<       Menendez, Aurelia
+<       
+<       Menendez, Candelaria
+<     </field>
+---
+>     <field name="unittitle_ssm">Menendez, AureliaMenendez, Candelaria</field>
+>     <field name="unittitle_teim">Menendez, AureliaMenendez, Candelaria</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Menendez, Aurelia
+<       
+<       Menendez, Candelaria
+<     </field>
+<     <field name="heading_ssm">
+<       Menendez, Aurelia
+<       
+<       Menendez, Candelaria
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Menendez, AureliaMenendez, Candelaria</field>
+>     <field name="heading_ssm">Menendez, AureliaMenendez, Candelaria</field>

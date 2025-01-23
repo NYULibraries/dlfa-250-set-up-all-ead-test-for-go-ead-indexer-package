@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Maset Martinez, Francisco
+<       
+<       Maset, Amelia (née Sarrio Sanchez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Maset Martinez, Francisco
+<       
+<       Maset, Amelia (née Sarrio Sanchez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Maset Martinez, FranciscoMaset, Amelia (née Sarrio Sanchez)</field>
+>     <field name="unittitle_teim">Maset Martinez, FranciscoMaset, Amelia (née Sarrio Sanchez)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Maset Martinez, Francisco
+<       
+<       Maset, Amelia (née Sarrio Sanchez)
+<     </field>
+<     <field name="heading_ssm">
+<       Maset Martinez, Francisco
+<       
+<       Maset, Amelia (née Sarrio Sanchez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Maset Martinez, FranciscoMaset, Amelia (née Sarrio Sanchez)</field>
+>     <field name="heading_ssm">Maset Martinez, FranciscoMaset, Amelia (née Sarrio Sanchez)</field>

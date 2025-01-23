@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Rius Dominguez, Juan
+<       
+<       Rius, Marguerita (née Deloustal)
+<     </field>
+<     <field name="unittitle_teim">
+<       Rius Dominguez, Juan
+<       
+<       Rius, Marguerita (née Deloustal)
+<     </field>
+---
+>     <field name="unittitle_ssm">Rius Dominguez, JuanRius, Marguerita (née Deloustal)</field>
+>     <field name="unittitle_teim">Rius Dominguez, JuanRius, Marguerita (née Deloustal)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Rius Dominguez, Juan
+<       
+<       Rius, Marguerita (née Deloustal)
+<     </field>
+<     <field name="heading_ssm">
+<       Rius Dominguez, Juan
+<       
+<       Rius, Marguerita (née Deloustal)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Rius Dominguez, JuanRius, Marguerita (née Deloustal)</field>
+>     <field name="heading_ssm">Rius Dominguez, JuanRius, Marguerita (née Deloustal)</field>

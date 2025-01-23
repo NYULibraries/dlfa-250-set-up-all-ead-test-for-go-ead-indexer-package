@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Noll, Carl V.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Noll, Carl V. </field>
+27c27
+<     <field name="series_si">Noll, Carl V.&amp;nbsp;</field>
+---
+>     <field name="series_si">Noll, Carl V. </field>

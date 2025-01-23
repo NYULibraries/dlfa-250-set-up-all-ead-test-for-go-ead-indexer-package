@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Pina Menarquez, Asuncion
+<       
+<       Pina Menarquez, Antonio
+<     </field>
+<     <field name="unittitle_teim">
+<       Pina Menarquez, Asuncion
+<       
+<       Pina Menarquez, Antonio
+<     </field>
+---
+>     <field name="unittitle_ssm">Pina Menarquez, AsuncionPina Menarquez, Antonio</field>
+>     <field name="unittitle_teim">Pina Menarquez, AsuncionPina Menarquez, Antonio</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Pina Menarquez, Asuncion
+<       
+<       Pina Menarquez, Antonio
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Pina Menarquez, AsuncionPina Menarquez, Antonio</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Pina Menarquez, Asuncion
+<       
+<       Pina Menarquez, Antonio
+<     </field>
+---
+>     <field name="heading_ssm">Pina Menarquez, AsuncionPina Menarquez, Antonio</field>

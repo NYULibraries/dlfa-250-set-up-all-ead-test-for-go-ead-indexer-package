@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Martos, Alida (née Pons)
+<       
+<       Martos Perez, Marguerite
+<       
+<       Martos Perez, Luis
+<     </field>
+<     <field name="unittitle_teim">
+<       Martos, Alida (née Pons)
+<       
+<       Martos Perez, Marguerite
+<       
+<       Martos Perez, Luis
+<     </field>
+---
+>     <field name="unittitle_ssm">Martos, Alida (née Pons)Martos Perez, MargueriteMartos Perez, Luis</field>
+>     <field name="unittitle_teim">Martos, Alida (née Pons)Martos Perez, MargueriteMartos Perez, Luis</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Martos, Alida (née Pons)
+<       
+<       Martos Perez, Marguerite
+<       
+<       Martos Perez, Luis
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Martos, Alida (née Pons)Martos Perez, MargueriteMartos Perez, Luis</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Martos, Alida (née Pons)
+<       
+<       Martos Perez, Marguerite
+<       
+<       Martos Perez, Luis
+<     </field>
+---
+>     <field name="heading_ssm">Martos, Alida (née Pons)Martos Perez, MargueriteMartos Perez, Luis</field>

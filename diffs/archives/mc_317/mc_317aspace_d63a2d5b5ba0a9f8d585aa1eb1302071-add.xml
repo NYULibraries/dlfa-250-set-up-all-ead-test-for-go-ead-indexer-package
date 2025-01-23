@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Neuberg, Carl A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Neuberg, Carl A. </field>
+27c27
+<     <field name="series_si">Neuberg, Carl A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Neuberg, Carl A. </field>

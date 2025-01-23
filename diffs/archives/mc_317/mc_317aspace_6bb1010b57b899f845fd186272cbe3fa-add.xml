@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lane, Dr. Howard&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Lane, Dr. Howard </field>
+27c27
+<     <field name="series_si">Lane, Dr. Howard&amp;nbsp;</field>
+---
+>     <field name="series_si">Lane, Dr. Howard </field>

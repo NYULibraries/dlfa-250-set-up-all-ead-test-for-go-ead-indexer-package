@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Fredenthal, Peter C. '54A, '64L&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Fredenthal, Peter C. '54A, '64L </field>
+27c27
+<     <field name="series_si">Fredenthal, Peter C. '54A, '64L&amp;nbsp;</field>
+---
+>     <field name="series_si">Fredenthal, Peter C. '54A, '64L </field>

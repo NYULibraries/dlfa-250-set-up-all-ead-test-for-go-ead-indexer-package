@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vidal, Enriqueta
+<       
+<       Vidal, Antonio
+<     </field>
+<     <field name="unittitle_teim">
+<       Vidal, Enriqueta
+<       
+<       Vidal, Antonio
+<     </field>
+---
+>     <field name="unittitle_ssm">Vidal, EnriquetaVidal, Antonio</field>
+>     <field name="unittitle_teim">Vidal, EnriquetaVidal, Antonio</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vidal, Enriqueta
+<       
+<       Vidal, Antonio
+<     </field>
+<     <field name="heading_ssm">
+<       Vidal, Enriqueta
+<       
+<       Vidal, Antonio
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vidal, EnriquetaVidal, Antonio</field>
+>     <field name="heading_ssm">Vidal, EnriquetaVidal, Antonio</field>

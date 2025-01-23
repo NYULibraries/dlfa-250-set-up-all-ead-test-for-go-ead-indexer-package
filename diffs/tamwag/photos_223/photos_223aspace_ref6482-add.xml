@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Labor Organizations - Upholsterers International Union&amp;nbsp;of North America</field>
+---
+>     <field name="unittitle_ssm">Labor Organizations - Upholsterers International Union of North America</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Upholsterers International Union&amp;nbsp;of North America</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Upholsterers International Union of North America</field>

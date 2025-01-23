@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Sanchez Puertas, José
+<       
+<       Sanchez, Alberte (née Hernandez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Sanchez Puertas, José
+<       
+<       Sanchez, Alberte (née Hernandez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Sanchez Puertas, JoséSanchez, Alberte (née Hernandez)</field>
+>     <field name="unittitle_teim">Sanchez Puertas, JoséSanchez, Alberte (née Hernandez)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Sanchez Puertas, José
+<       
+<       Sanchez, Alberte (née Hernandez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Sanchez Puertas, JoséSanchez, Alberte (née Hernandez)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Sanchez Puertas, José
+<       
+<       Sanchez, Alberte (née Hernandez)
+<     </field>
+---
+>     <field name="heading_ssm">Sanchez Puertas, JoséSanchez, Alberte (née Hernandez)</field>

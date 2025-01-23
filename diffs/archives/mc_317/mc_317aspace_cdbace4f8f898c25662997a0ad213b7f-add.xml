@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Woodruff, Charles E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Woodruff, Charles E. </field>
+27c27
+<     <field name="series_si">Woodruff, Charles E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Woodruff, Charles E. </field>

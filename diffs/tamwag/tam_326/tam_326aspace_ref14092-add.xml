@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Lorenzo, Juan (II)
+<       
+<       Lorenzo, Hede (II)
+<     </field>
+<     <field name="unittitle_teim">
+<       Lorenzo, Juan (II)
+<       
+<       Lorenzo, Hede (II)
+<     </field>
+---
+>     <field name="unittitle_ssm">Lorenzo, Juan (II)Lorenzo, Hede (II)</field>
+>     <field name="unittitle_teim">Lorenzo, Juan (II)Lorenzo, Hede (II)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; 
+<       Lorenzo, Juan (II)
+<       
+<       Lorenzo, Hede (II)
+<     </field>
+<     <field name="heading_ssm">
+<       Lorenzo, Juan (II)
+<       
+<       Lorenzo, Hede (II)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; Lorenzo, Juan (II)Lorenzo, Hede (II)</field>
+>     <field name="heading_ssm">Lorenzo, Juan (II)Lorenzo, Hede (II)</field>

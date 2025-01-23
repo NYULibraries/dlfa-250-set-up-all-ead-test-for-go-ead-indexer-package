@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">National Afro-American Labor Council&amp;nbsp;(NALC)</field>
+---
+>     <field name="unittitle_ssm">National Afro-American Labor Council (NALC)</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; National Afro-American Labor Council&amp;nbsp;(NALC)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; National Afro-American Labor Council (NALC)</field>

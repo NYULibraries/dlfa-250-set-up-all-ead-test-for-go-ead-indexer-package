@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tyree, Marshall J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tyree, Marshall J. </field>
+27c27
+<     <field name="series_si">Tyree, Marshall J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tyree, Marshall J. </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Brush, William W.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Brush, William W.   </field>
+27c27
+<     <field name="series_si">Brush, William W.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Brush, William W.   </field>

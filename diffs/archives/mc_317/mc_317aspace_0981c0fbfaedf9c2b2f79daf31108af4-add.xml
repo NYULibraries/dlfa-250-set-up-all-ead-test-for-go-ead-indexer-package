@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Susser, Malcom E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Susser, Malcom E. </field>
+27c27
+<     <field name="series_si">Susser, Malcom E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Susser, Malcom E. </field>

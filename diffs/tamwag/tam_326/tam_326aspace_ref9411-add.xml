@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vivancos Ardil, Fulgencio
+<       
+<       Vivancos, Aguilina (née Gendre Pamias)
+<     </field>
+<     <field name="unittitle_teim">
+<       Vivancos Ardil, Fulgencio
+<       
+<       Vivancos, Aguilina (née Gendre Pamias)
+<     </field>
+---
+>     <field name="unittitle_ssm">Vivancos Ardil, FulgencioVivancos, Aguilina (née Gendre Pamias)</field>
+>     <field name="unittitle_teim">Vivancos Ardil, FulgencioVivancos, Aguilina (née Gendre Pamias)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vivancos Ardil, Fulgencio
+<       
+<       Vivancos, Aguilina (née Gendre Pamias)
+<     </field>
+<     <field name="heading_ssm">
+<       Vivancos Ardil, Fulgencio
+<       
+<       Vivancos, Aguilina (née Gendre Pamias)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vivancos Ardil, FulgencioVivancos, Aguilina (née Gendre Pamias)</field>
+>     <field name="heading_ssm">Vivancos Ardil, FulgencioVivancos, Aguilina (née Gendre Pamias)</field>

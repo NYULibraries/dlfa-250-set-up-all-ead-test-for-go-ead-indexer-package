@@ -1,0 +1,36 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Ruiz Cobo, Severo (II)
+<       
+<       Ruiz Nello, Luisa (II)
+<       
+<       Ruiz, Eduarda (née Vega Sanchez) (II)
+<     </field>
+<     <field name="unittitle_teim">
+<       Ruiz Cobo, Severo (II)
+<       
+<       Ruiz Nello, Luisa (II)
+<       
+<       Ruiz, Eduarda (née Vega Sanchez) (II)
+<     </field>
+---
+>     <field name="unittitle_ssm">Ruiz Cobo, Severo (II)Ruiz Nello, Luisa (II)Ruiz, Eduarda (née Vega Sanchez) (II)</field>
+>     <field name="unittitle_teim">Ruiz Cobo, Severo (II)Ruiz Nello, Luisa (II)Ruiz, Eduarda (née Vega Sanchez) (II)</field>
+65,78c53,54
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Ruiz Cobo, Severo (II)
+<       
+<       Ruiz Nello, Luisa (II)
+<       
+<       Ruiz, Eduarda (née Vega Sanchez) (II)
+<     </field>
+<     <field name="heading_ssm">
+<       Ruiz Cobo, Severo (II)
+<       
+<       Ruiz Nello, Luisa (II)
+<       
+<       Ruiz, Eduarda (née Vega Sanchez) (II)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Ruiz Cobo, Severo (II)Ruiz Nello, Luisa (II)Ruiz, Eduarda (née Vega Sanchez) (II)</field>
+>     <field name="heading_ssm">Ruiz Cobo, Severo (II)Ruiz Nello, Luisa (II)Ruiz, Eduarda (née Vega Sanchez) (II)</field>

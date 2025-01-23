@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Eggnog: A History of Eggnog, and a&lt;/em&gt;
+<       &lt;em&gt;Collection of Recipes for Festive Occasions Around the Clock, and Round the Calendar&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Eggnog: A History of Eggnog, and a
+<       Collection of Recipes for Festive Occasions Around the Clock, and Round the Calendar
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Eggnog: A History of Eggnog, and a&lt;/em&gt;&lt;em&gt;Collection of Recipes for Festive Occasions Around the Clock, and Round the Calendar&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Eggnog: A History of Eggnog, and aCollection of Recipes for Festive Occasions Around the Clock, and Round the Calendar</field>
+43,50c37,38
+<     <field name="series_si">Series VI: Photocopied Books &gt;&gt; 
+<       &lt;em&gt;Eggnog: A History of Eggnog, and a&lt;/em&gt;
+<       &lt;em&gt;Collection of Recipes for Festive Occasions Around the Clock, and Round the Calendar&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Eggnog: A History of Eggnog, and a
+<       Collection of Recipes for Festive Occasions Around the Clock, and Round the Calendar
+<     </field>
+---
+>     <field name="series_si">Series VI: Photocopied Books &gt;&gt; &lt;em&gt;Eggnog: A History of Eggnog, and a&lt;/em&gt;&lt;em&gt;Collection of Recipes for Festive Occasions Around the Clock, and Round the Calendar&lt;/em&gt;</field>
+>     <field name="heading_ssm">Eggnog: A History of Eggnog, and aCollection of Recipes for Festive Occasions Around the Clock, and Round the Calendar</field>

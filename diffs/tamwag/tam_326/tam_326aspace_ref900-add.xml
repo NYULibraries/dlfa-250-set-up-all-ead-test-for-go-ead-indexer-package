@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Moral de Andres, Antonio
+<       
+<       Garcia Blanco, Ana
+<     </field>
+<     <field name="unittitle_teim">
+<       Moral de Andres, Antonio
+<       
+<       Garcia Blanco, Ana
+<     </field>
+---
+>     <field name="unittitle_ssm">Moral de Andres, AntonioGarcia Blanco, Ana</field>
+>     <field name="unittitle_teim">Moral de Andres, AntonioGarcia Blanco, Ana</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Moral de Andres, Antonio
+<       
+<       Garcia Blanco, Ana
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Moral de Andres, AntonioGarcia Blanco, Ana</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Moral de Andres, Antonio
+<       
+<       Garcia Blanco, Ana
+<     </field>
+---
+>     <field name="heading_ssm">Moral de Andres, AntonioGarcia Blanco, Ana</field>

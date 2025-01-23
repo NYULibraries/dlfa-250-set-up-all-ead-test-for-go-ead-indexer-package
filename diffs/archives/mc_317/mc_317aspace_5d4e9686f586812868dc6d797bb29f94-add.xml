@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dales, Samuel&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dales, Samuel </field>
+27c27
+<     <field name="series_si">Dales, Samuel&amp;nbsp;</field>
+---
+>     <field name="series_si">Dales, Samuel </field>

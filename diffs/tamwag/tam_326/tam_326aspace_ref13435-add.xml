@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Moreno, Magdalena (née Olive)
+<       
+<       Moreno Sieso, Amadeo
+<     </field>
+<     <field name="unittitle_teim">
+<       Moreno, Magdalena (née Olive)
+<       
+<       Moreno Sieso, Amadeo
+<     </field>
+---
+>     <field name="unittitle_ssm">Moreno, Magdalena (née Olive)Moreno Sieso, Amadeo</field>
+>     <field name="unittitle_teim">Moreno, Magdalena (née Olive)Moreno Sieso, Amadeo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; 
+<       Moreno, Magdalena (née Olive)
+<       
+<       Moreno Sieso, Amadeo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; Moreno, Magdalena (née Olive)Moreno Sieso, Amadeo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Moreno, Magdalena (née Olive)
+<       
+<       Moreno Sieso, Amadeo
+<     </field>
+---
+>     <field name="heading_ssm">Moreno, Magdalena (née Olive)Moreno Sieso, Amadeo</field>

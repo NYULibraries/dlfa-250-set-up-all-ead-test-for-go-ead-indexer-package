@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Gutierrez Carracedo, Victor
+<       
+<       Licenziato, Lucienne
+<     </field>
+<     <field name="unittitle_teim">
+<       Gutierrez Carracedo, Victor
+<       
+<       Licenziato, Lucienne
+<     </field>
+---
+>     <field name="unittitle_ssm">Gutierrez Carracedo, VictorLicenziato, Lucienne</field>
+>     <field name="unittitle_teim">Gutierrez Carracedo, VictorLicenziato, Lucienne</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Gutierrez Carracedo, Victor
+<       
+<       Licenziato, Lucienne
+<     </field>
+<     <field name="heading_ssm">
+<       Gutierrez Carracedo, Victor
+<       
+<       Licenziato, Lucienne
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Gutierrez Carracedo, VictorLicenziato, Lucienne</field>
+>     <field name="heading_ssm">Gutierrez Carracedo, VictorLicenziato, Lucienne</field>

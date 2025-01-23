@@ -1,0 +1,20 @@
+12,17c12,13
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;Publications—&lt;em&gt;U.S. News &amp;amp; World Report&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Publications—U.S. News &amp; World Report
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;U.S. News &amp;amp; World Report&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">Publications—U.S. News &amp; World Report</field>
+33,38c29,30
+<     <field name="series_si">
+<       &lt;strong&gt;Publications—&lt;em&gt;U.S. News &amp;amp; World Report&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Publications—U.S. News &amp; World Report
+<     </field>
+---
+>     <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;U.S. News &amp;amp; World Report&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="heading_ssm">Publications—U.S. News &amp; World Report</field>

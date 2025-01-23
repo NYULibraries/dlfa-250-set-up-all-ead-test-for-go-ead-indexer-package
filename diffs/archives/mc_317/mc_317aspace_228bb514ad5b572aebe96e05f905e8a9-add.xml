@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wolitzer, Steven B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wolitzer, Steven B. </field>
+27c27
+<     <field name="series_si">Wolitzer, Steven B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wolitzer, Steven B. </field>

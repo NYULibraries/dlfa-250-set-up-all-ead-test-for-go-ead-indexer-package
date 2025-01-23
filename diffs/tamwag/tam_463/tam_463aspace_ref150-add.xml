@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Research: Walter Liggett and&amp;nbsp;The Daily Alaskan</field>
+---
+>     <field name="unittitle_ssm">Research: Walter Liggett and The Daily Alaskan</field>
+24c24
+<     <field name="series_si">Research: Walter Liggett and&amp;nbsp;The Daily Alaskan</field>
+---
+>     <field name="series_si">Research: Walter Liggett and The Daily Alaskan</field>

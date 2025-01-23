@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Astor, Brooke&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Astor, Brooke </field>
+27c27
+<     <field name="series_si">Astor, Brooke&amp;nbsp;</field>
+---
+>     <field name="series_si">Astor, Brooke </field>

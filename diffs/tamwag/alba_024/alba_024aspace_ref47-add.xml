@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Book: &lt;em&gt;Spain&lt;/em&gt;&lt;em&gt;Again&lt;/em&gt;: Front Matter &lt;em&gt;(typescript) pp. 1-100&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">Book: &lt;em&gt;Spain&lt;/em&gt;&lt;em&gt;Again&lt;/em&gt;: Front Matter &lt;em&gt;&lt;/em&gt;(typescript) pp. 1-100</field>
+37c37
+<     <field name="series_si">Series II: Writings, 1939; 1946-1984 &gt;&gt; Book: &lt;em&gt;Spain&lt;/em&gt;&lt;em&gt;Again&lt;/em&gt;: Front Matter &lt;em&gt;(typescript) pp. 1-100&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series II: Writings, 1939; 1946-1984 &gt;&gt; Book: &lt;em&gt;Spain&lt;/em&gt;&lt;em&gt;Again&lt;/em&gt;: Front Matter &lt;em&gt;&lt;/em&gt;(typescript) pp. 1-100</field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       del Tio Espina, Gregoria
+<       
+<       del Tio Espina, Celestino
+<     </field>
+<     <field name="unittitle_teim">
+<       del Tio Espina, Gregoria
+<       
+<       del Tio Espina, Celestino
+<     </field>
+---
+>     <field name="unittitle_ssm">del Tio Espina, Gregoriadel Tio Espina, Celestino</field>
+>     <field name="unittitle_teim">del Tio Espina, Gregoriadel Tio Espina, Celestino</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       del Tio Espina, Gregoria
+<       
+<       del Tio Espina, Celestino
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; del Tio Espina, Gregoriadel Tio Espina, Celestino</field>
+66,70c54
+<     <field name="heading_ssm">
+<       del Tio Espina, Gregoria
+<       
+<       del Tio Espina, Celestino
+<     </field>
+---
+>     <field name="heading_ssm">del Tio Espina, Gregoriadel Tio Espina, Celestino</field>

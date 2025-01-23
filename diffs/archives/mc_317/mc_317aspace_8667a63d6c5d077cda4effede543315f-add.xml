@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Larsen, William F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Larsen, William F. </field>
+27c27
+<     <field name="series_si">Larsen, William F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Larsen, William F. </field>

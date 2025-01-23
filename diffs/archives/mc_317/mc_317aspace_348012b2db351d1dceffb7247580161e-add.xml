@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lapan, Dr. Arthur&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Lapan, Dr. Arthur </field>
+27c27
+<     <field name="series_si">Lapan, Dr. Arthur&amp;nbsp;</field>
+---
+>     <field name="series_si">Lapan, Dr. Arthur </field>

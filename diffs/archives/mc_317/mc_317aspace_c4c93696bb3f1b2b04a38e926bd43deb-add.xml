@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zimmerman, Arthur M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zimmerman, Arthur M. </field>
+27c27
+<     <field name="series_si">Zimmerman, Arthur M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zimmerman, Arthur M. </field>

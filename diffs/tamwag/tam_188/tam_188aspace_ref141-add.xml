@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">&lt;em&gt;Philip Alexander Bell and the San Francisco Elevator,&lt;/em&gt;By John H. Telfer (San Francisco Negro and Cultural Society, California History Series, Monograph # 9) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Philip Alexander Bell and the San Francisco Elevator,&lt;/em&gt;By John H. Telfer (San Francisco Negro and Cultural Society, California History Series, Monograph # 9) &lt;em&gt;&lt;/em&gt;</field>
+35c35
+<     <field name="series_si">Series III: Political Activities &gt;&gt; &lt;em&gt;Philip Alexander Bell and the San Francisco Elevator,&lt;/em&gt;By John H. Telfer (San Francisco Negro and Cultural Society, California History Series, Monograph # 9) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series III: Political Activities &gt;&gt; &lt;em&gt;Philip Alexander Bell and the San Francisco Elevator,&lt;/em&gt;By John H. Telfer (San Francisco Negro and Cultural Society, California History Series, Monograph # 9) &lt;em&gt;&lt;/em&gt;</field>

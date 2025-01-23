@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Theobald, H. R.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Theobald, H. R. </field>
+27c27
+<     <field name="series_si">Theobald, H. R.&amp;nbsp;</field>
+---
+>     <field name="series_si">Theobald, H. R. </field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Valles Ano, José
+<       
+<       Lopez, Emmanuelle
+<     </field>
+<     <field name="unittitle_teim">
+<       Valles Ano, José
+<       
+<       Lopez, Emmanuelle
+<     </field>
+---
+>     <field name="unittitle_ssm">Valles Ano, JoséLopez, Emmanuelle</field>
+>     <field name="unittitle_teim">Valles Ano, JoséLopez, Emmanuelle</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Valles Ano, José
+<       
+<       Lopez, Emmanuelle
+<     </field>
+<     <field name="heading_ssm">
+<       Valles Ano, José
+<       
+<       Lopez, Emmanuelle
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Valles Ano, JoséLopez, Emmanuelle</field>
+>     <field name="heading_ssm">Valles Ano, JoséLopez, Emmanuelle</field>

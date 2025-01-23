@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Gannon, Joseph W. '55&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Gannon, Joseph W. '55 </field>
+27c27
+<     <field name="series_si">Gannon, Joseph W. '55&amp;nbsp;</field>
+---
+>     <field name="series_si">Gannon, Joseph W. '55 </field>

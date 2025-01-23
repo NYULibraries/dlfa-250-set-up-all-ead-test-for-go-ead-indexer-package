@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Hampel, Chester,&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Hampel, Chester, </field>
+27c27
+<     <field name="series_si">Hampel, Chester,&amp;nbsp;</field>
+---
+>     <field name="series_si">Hampel, Chester, </field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Zungia Herran, Angel
+<       
+<       Zungia, Teresa (née Gimeno)
+<     </field>
+<     <field name="unittitle_teim">
+<       Zungia Herran, Angel
+<       
+<       Zungia, Teresa (née Gimeno)
+<     </field>
+---
+>     <field name="unittitle_ssm">Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
+>     <field name="unittitle_teim">Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Zungia Herran, Angel
+<       
+<       Zungia, Teresa (née Gimeno)
+<     </field>
+<     <field name="heading_ssm">
+<       Zungia Herran, Angel
+<       
+<       Zungia, Teresa (née Gimeno)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
+>     <field name="heading_ssm">Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>

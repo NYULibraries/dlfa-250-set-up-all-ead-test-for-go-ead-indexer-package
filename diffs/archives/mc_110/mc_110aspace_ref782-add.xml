@@ -1,0 +1,52 @@
+19,40c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929&lt;/em&gt;
+<       
+<       &lt;em&gt;Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929&lt;/em&gt;
+<       
+<       &lt;em&gt;A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930&lt;/em&gt;
+<       
+<       &lt;em&gt;Scattering of Light in Sodium Vapor: Jan. 1930&lt;/em&gt;
+<       
+<       &lt;em&gt;Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929
+<       
+<       Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929
+<       
+<       A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930
+<       
+<       Scattering of Light in Sodium Vapor: Jan. 1930
+<       
+<       Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929&lt;/em&gt;&lt;em&gt;Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929&lt;/em&gt;&lt;em&gt;A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930&lt;/em&gt;&lt;em&gt;Scattering of Light in Sodium Vapor: Jan. 1930&lt;/em&gt;&lt;em&gt;Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930Scattering of Light in Sodium Vapor: Jan. 1930Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930</field>
+67,88c47,48
+<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+<       &lt;em&gt;Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929&lt;/em&gt;
+<       
+<       &lt;em&gt;Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929&lt;/em&gt;
+<       
+<       &lt;em&gt;A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930&lt;/em&gt;
+<       
+<       &lt;em&gt;Scattering of Light in Sodium Vapor: Jan. 1930&lt;/em&gt;
+<       
+<       &lt;em&gt;Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929
+<       
+<       Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929
+<       
+<       A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930
+<       
+<       Scattering of Light in Sodium Vapor: Jan. 1930
+<       
+<       Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930
+<     </field>
+---
+>     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929&lt;/em&gt;&lt;em&gt;Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929&lt;/em&gt;&lt;em&gt;A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930&lt;/em&gt;&lt;em&gt;Scattering of Light in Sodium Vapor: Jan. 1930&lt;/em&gt;&lt;em&gt;Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930&lt;/em&gt;</field>
+>     <field name="heading_ssm">Refractive Index of Sodium Vapor and Width of D1 in Absorptions: Apr. 1929Dispersion and Absorption Line Width in the Alkali Vapors: Aug. 1929A Sensitive Method for Determining Refractive Indices, SAK and J. Q. Stewart: Jun. 1930Scattering of Light in Sodium Vapor: Jan. 1930Distinction between Scattering and Absorption, SAK and John Q. Stewart: Jan. 1930</field>

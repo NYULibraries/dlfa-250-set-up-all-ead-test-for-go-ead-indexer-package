@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Abrams, Jane&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Abrams, Jane  </field>
+27c27
+<     <field name="series_si">Abrams, Jane&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Abrams, Jane  </field>

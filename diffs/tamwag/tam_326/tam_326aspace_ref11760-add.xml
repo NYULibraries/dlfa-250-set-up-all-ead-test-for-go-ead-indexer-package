@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Pozo Gimeno, Feliciano
+<       
+<       Pozo, Dolores (née Galera)
+<     </field>
+<     <field name="unittitle_teim">
+<       Pozo Gimeno, Feliciano
+<       
+<       Pozo, Dolores (née Galera)
+<     </field>
+---
+>     <field name="unittitle_ssm">Pozo Gimeno, FelicianoPozo, Dolores (née Galera)</field>
+>     <field name="unittitle_teim">Pozo Gimeno, FelicianoPozo, Dolores (née Galera)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Pozo Gimeno, Feliciano
+<       
+<       Pozo, Dolores (née Galera)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Pozo Gimeno, FelicianoPozo, Dolores (née Galera)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Pozo Gimeno, Feliciano
+<       
+<       Pozo, Dolores (née Galera)
+<     </field>
+---
+>     <field name="heading_ssm">Pozo Gimeno, FelicianoPozo, Dolores (née Galera)</field>

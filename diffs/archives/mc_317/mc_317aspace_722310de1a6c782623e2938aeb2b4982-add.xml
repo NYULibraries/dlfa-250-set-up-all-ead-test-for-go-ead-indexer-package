@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Sutter, James E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Sutter, James E. </field>
+27c27
+<     <field name="series_si">Sutter, James E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Sutter, James E. </field>

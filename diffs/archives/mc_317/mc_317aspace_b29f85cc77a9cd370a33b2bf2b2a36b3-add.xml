@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burns, Gerald P.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burns, Gerald P.   </field>
+27c27
+<     <field name="series_si">Burns, Gerald P.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burns, Gerald P.   </field>

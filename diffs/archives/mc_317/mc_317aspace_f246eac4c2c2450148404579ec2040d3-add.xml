@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burrows, David&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burrows, David   </field>
+27c27
+<     <field name="series_si">Burrows, David&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burrows, David   </field>

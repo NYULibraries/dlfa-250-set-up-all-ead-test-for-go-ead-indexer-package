@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Borras, Carolina (née Navarra)
+<       
+<       Borras Ibars, Agustin
+<     </field>
+<     <field name="unittitle_teim">
+<       Borras, Carolina (née Navarra)
+<       
+<       Borras Ibars, Agustin
+<     </field>
+---
+>     <field name="unittitle_ssm">Borras, Carolina (née Navarra)Borras Ibars, Agustin</field>
+>     <field name="unittitle_teim">Borras, Carolina (née Navarra)Borras Ibars, Agustin</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Borras, Carolina (née Navarra)
+<       
+<       Borras Ibars, Agustin
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Borras, Carolina (née Navarra)Borras Ibars, Agustin</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Borras, Carolina (née Navarra)
+<       
+<       Borras Ibars, Agustin
+<     </field>
+---
+>     <field name="heading_ssm">Borras, Carolina (née Navarra)Borras Ibars, Agustin</field>

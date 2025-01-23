@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Subsubseries c: Rumford Chemical Works</field>
+---
+>     <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+18c18
+<     <field name="parent_unittitles_teim">Subsubseries c: Rumford Chemical Works</field>
+---
+>     <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+60,61c60,61
+<     <field name="series_sim">Subsubseries c: Rumford Chemical Works</field>
+<     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries c: Rumford Chemical Works &gt;&gt; Wilson, George Francis: Pawtucket &amp;amp; Providence, RI; Philadelphia, PA
+---
+>     <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+>     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Wilson, George Francis: Pawtucket &amp;amp; Providence, RI; Philadelphia, PA

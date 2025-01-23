@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Javierre Citoler, Mariano
+<       
+<       Javierre, Pilar (née Buil)
+<     </field>
+<     <field name="unittitle_teim">
+<       Javierre Citoler, Mariano
+<       
+<       Javierre, Pilar (née Buil)
+<     </field>
+---
+>     <field name="unittitle_ssm">Javierre Citoler, MarianoJavierre, Pilar (née Buil)</field>
+>     <field name="unittitle_teim">Javierre Citoler, MarianoJavierre, Pilar (née Buil)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Javierre Citoler, Mariano
+<       
+<       Javierre, Pilar (née Buil)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Javierre Citoler, MarianoJavierre, Pilar (née Buil)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Javierre Citoler, Mariano
+<       
+<       Javierre, Pilar (née Buil)
+<     </field>
+---
+>     <field name="heading_ssm">Javierre Citoler, MarianoJavierre, Pilar (née Buil)</field>

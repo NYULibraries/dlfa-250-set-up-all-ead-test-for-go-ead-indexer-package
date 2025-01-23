@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Brooklyn and Bushwick</field>
+---
+>     <field name="parent_unittitles_ssm">Index to Maps and Surveys (Bound Volume)</field>
+18c18
+<     <field name="parent_unittitles_teim">Brooklyn and Bushwick</field>
+---
+>     <field name="parent_unittitles_teim">Index to Maps and Surveys (Bound Volume)</field>
+44,45c44,45
+<     <field name="series_sim">Brooklyn and Bushwick</field>
+<     <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Brooklyn and Bushwick &gt;&gt; Smith, Samuel</field>
+---
+>     <field name="series_sim">Index to Maps and Surveys (Bound Volume)</field>
+>     <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Index to Maps and Surveys (Bound Volume) &gt;&gt; Smith, Samuel</field>

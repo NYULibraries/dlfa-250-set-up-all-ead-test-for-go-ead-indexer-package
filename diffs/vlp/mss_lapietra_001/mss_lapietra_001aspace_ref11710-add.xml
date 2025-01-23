@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">i. men</field>
+---
+>     <field name="parent_unittitles_ssm">iv. officers at Villa La Pietra [1915/16]</field>
+18c18
+<     <field name="parent_unittitles_teim">i. men</field>
+---
+>     <field name="parent_unittitles_teim">iv. officers at Villa La Pietra [1915/16]</field>
+46,47c46,47
+<     <field name="series_sim">i. men</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; i. men &gt;&gt; Man in the interior of Villa La Pietra</field>
+---
+>     <field name="series_sim">iv. officers at Villa La Pietra [1915/16]</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; iv. officers at Villa La Pietra [1915/16] &gt;&gt; Man in the interior of Villa La Pietra</field>

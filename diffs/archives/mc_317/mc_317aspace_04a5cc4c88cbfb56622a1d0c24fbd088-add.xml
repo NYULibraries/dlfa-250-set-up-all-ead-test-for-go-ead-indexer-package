@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dunnigan, Frank J. 40C&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dunnigan, Frank J. 40C </field>
+27c27
+<     <field name="series_si">Dunnigan, Frank J. 40C&amp;nbsp;</field>
+---
+>     <field name="series_si">Dunnigan, Frank J. 40C </field>

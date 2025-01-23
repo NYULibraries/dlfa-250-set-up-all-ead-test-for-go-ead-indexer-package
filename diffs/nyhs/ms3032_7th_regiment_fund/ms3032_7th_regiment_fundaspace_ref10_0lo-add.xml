@@ -1,0 +1,6 @@
+19,21c19
+<     <field name="scopecontent_teim">
+<       The State of New York v. The Seventh Regiment Fund, Inc., and The Members of the Board of Directors of the Seventh Regiment Fund, Inc., individually and as Directors, The Members of the Board of Officers of the 107th Infantry Regiment, New York National Guard, a/k/a THE HHC, 107th Brigade, a/k/a THE HHC, 205th Support Group, individually.
+<     </field>
+---
+>     <field name="scopecontent_teim">The State of New York v. The Seventh Regiment Fund, Inc., and The Members of the Board of Directors of the Seventh Regiment Fund, Inc., individually and as Directors, The Members of the Board of Officers of the 107th Infantry Regiment, New York National Guard, a/k/a THE HHC, 107th Brigade, a/k/a THE HHC, 205th Support Group, individually.</field>

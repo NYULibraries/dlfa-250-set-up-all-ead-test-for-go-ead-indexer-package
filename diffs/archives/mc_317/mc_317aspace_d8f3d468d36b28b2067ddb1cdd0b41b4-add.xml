@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bueker, Elmer D.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bueker, Elmer D.   </field>
+27c27
+<     <field name="series_si">Bueker, Elmer D.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bueker, Elmer D.   </field>

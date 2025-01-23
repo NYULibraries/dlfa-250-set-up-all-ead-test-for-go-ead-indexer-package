@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Brandaleone, Harold&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Brandaleone, Harold </field>
+27c27
+<     <field name="series_si">Brandaleone, Harold&amp;nbsp;</field>
+---
+>     <field name="series_si">Brandaleone, Harold </field>

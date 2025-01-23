@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Hoekstra, Robert Jr.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Hoekstra, Robert Jr. </field>
+27c27
+<     <field name="series_si">Hoekstra, Robert Jr.&amp;nbsp;</field>
+---
+>     <field name="series_si">Hoekstra, Robert Jr. </field>

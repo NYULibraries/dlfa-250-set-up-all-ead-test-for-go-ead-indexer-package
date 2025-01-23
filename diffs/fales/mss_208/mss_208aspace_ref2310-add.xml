@@ -1,0 +1,18 @@
+14,15c14
+<     <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family
+< </field>
+---
+>     <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+19,20c18
+<     <field name="parent_unittitles_teim">Subsubseries a: Academic and Family
+< </field>
+---
+>     <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+60,63c58,59
+<     <field name="series_sim">Subsubseries a: Academic and Family
+< </field>
+<     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+<  &gt;&gt; Horsford, Maria Charity &amp;amp; Maria Horsford Byam: Moscow, NY</field>
+---
+>     <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
+>     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Horsford, Maria Charity &amp;amp; Maria Horsford Byam: Moscow, NY</field>

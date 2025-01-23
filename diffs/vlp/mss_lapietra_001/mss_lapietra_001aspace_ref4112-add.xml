@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">XX. Salone</field>
+---
+>     <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
+18c18
+<     <field name="parent_unittitles_teim">XX. Salone</field>
+---
+>     <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
+46,47c46,47
+<     <field name="series_sim">XX. Salone</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; XX. Salone &gt;&gt; XX.-23f. general view</field>
+---
+>     <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; XX.-23f. general view</field>

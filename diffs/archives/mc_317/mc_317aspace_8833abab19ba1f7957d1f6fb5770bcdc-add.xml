@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Sullivan, Dennis P.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Sullivan, Dennis P. </field>
+27c27
+<     <field name="series_si">Sullivan, Dennis P.&amp;nbsp;</field>
+---
+>     <field name="series_si">Sullivan, Dennis P. </field>

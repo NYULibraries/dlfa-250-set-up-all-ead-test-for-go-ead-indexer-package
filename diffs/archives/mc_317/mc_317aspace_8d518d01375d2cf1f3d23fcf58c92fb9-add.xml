@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Backman, Jules&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Backman, Jules </field>
+27c27
+<     <field name="series_si">Backman, Jules&amp;nbsp;</field>
+---
+>     <field name="series_si">Backman, Jules </field>

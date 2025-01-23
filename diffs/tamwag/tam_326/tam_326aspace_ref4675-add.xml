@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Morelló Torer, Joaquin
+<       
+<       Morelló, Matilde (née Escudero)
+<     </field>
+<     <field name="unittitle_teim">
+<       Morelló Torer, Joaquin
+<       
+<       Morelló, Matilde (née Escudero)
+<     </field>
+---
+>     <field name="unittitle_ssm">Morelló Torer, JoaquinMorelló, Matilde (née Escudero)</field>
+>     <field name="unittitle_teim">Morelló Torer, JoaquinMorelló, Matilde (née Escudero)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Morelló Torer, Joaquin
+<       
+<       Morelló, Matilde (née Escudero)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Morelló Torer, JoaquinMorelló, Matilde (née Escudero)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Morelló Torer, Joaquin
+<       
+<       Morelló, Matilde (née Escudero)
+<     </field>
+---
+>     <field name="heading_ssm">Morelló Torer, JoaquinMorelló, Matilde (née Escudero)</field>

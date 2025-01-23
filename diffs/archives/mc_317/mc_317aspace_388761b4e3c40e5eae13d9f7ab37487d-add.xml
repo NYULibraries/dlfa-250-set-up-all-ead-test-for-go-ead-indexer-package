@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carosso, Vincent P.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carosso, Vincent P.   </field>
+27c27
+<     <field name="series_si">Carosso, Vincent P.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carosso, Vincent P.   </field>

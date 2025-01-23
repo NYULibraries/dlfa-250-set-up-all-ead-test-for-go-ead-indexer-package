@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Offit, Avodah&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Offit, Avodah </field>
+27c27
+<     <field name="series_si">Offit, Avodah&amp;nbsp;</field>
+---
+>     <field name="series_si">Offit, Avodah </field>

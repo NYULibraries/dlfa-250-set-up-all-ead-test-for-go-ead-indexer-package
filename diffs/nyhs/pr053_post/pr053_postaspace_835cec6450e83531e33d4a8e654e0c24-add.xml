@@ -1,0 +1,21 @@
+18,32c18,21
+<     <field name="scopecontent_teim">
+<       Folder: C.C. Bragg residence, Avondale, OH
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Train, Arthur C., 120 E. 70th St., 2 color renderings
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: United States Post Office, New Haven, CT Elevations, plans, sections
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Long Island Historical Society, Pierrepont St. elevation
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: C.C. Bragg residence, Avondale, OH</field>
+>     <field name="scopecontent_teim">Folder: Train, Arthur C., 120 E. 70th St., 2 color renderings</field>
+>     <field name="scopecontent_teim">Folder: United States Post Office, New Haven, CT Elevations, plans, sections</field>
+>     <field name="scopecontent_teim">Folder: Long Island Historical Society, Pierrepont St. elevation</field>

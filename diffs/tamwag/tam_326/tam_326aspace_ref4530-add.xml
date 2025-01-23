@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Bellavista Giral, Ladislao
+<       
+<       Bellavista Giral, Secundina
+<     </field>
+<     <field name="unittitle_teim">
+<       Bellavista Giral, Ladislao
+<       
+<       Bellavista Giral, Secundina
+<     </field>
+---
+>     <field name="unittitle_ssm">Bellavista Giral, LadislaoBellavista Giral, Secundina</field>
+>     <field name="unittitle_teim">Bellavista Giral, LadislaoBellavista Giral, Secundina</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Bellavista Giral, Ladislao
+<       
+<       Bellavista Giral, Secundina
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Bellavista Giral, LadislaoBellavista Giral, Secundina</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Bellavista Giral, Ladislao
+<       
+<       Bellavista Giral, Secundina
+<     </field>
+---
+>     <field name="heading_ssm">Bellavista Giral, LadislaoBellavista Giral, Secundina</field>

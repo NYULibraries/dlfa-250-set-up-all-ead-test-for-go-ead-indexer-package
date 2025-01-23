@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Sagols, Marguerite (née Luer)
+<       
+<       Sagols Rudo, Juan
+<     </field>
+<     <field name="unittitle_teim">
+<       Sagols, Marguerite (née Luer)
+<       
+<       Sagols Rudo, Juan
+<     </field>
+---
+>     <field name="unittitle_ssm">Sagols, Marguerite (née Luer)Sagols Rudo, Juan</field>
+>     <field name="unittitle_teim">Sagols, Marguerite (née Luer)Sagols Rudo, Juan</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Sagols, Marguerite (née Luer)
+<       
+<       Sagols Rudo, Juan
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Sagols, Marguerite (née Luer)Sagols Rudo, Juan</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Sagols, Marguerite (née Luer)
+<       
+<       Sagols Rudo, Juan
+<     </field>
+---
+>     <field name="heading_ssm">Sagols, Marguerite (née Luer)Sagols Rudo, Juan</field>

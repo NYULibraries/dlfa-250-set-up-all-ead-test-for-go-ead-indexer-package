@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">New York Times&amp;nbsp;articles on "Prairie Radicalism" (copies)</field>
+---
+>     <field name="unittitle_ssm">New York Times articles on "Prairie Radicalism" (copies)</field>
+24c24
+<     <field name="series_si">New York Times&amp;nbsp;articles on "Prairie Radicalism" (copies)</field>
+---
+>     <field name="series_si">New York Times articles on "Prairie Radicalism" (copies)</field>

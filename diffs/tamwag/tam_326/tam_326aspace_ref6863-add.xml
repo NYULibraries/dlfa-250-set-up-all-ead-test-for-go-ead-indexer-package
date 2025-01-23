@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Orti Artiga, Joaquin
+<       
+<       Orti Artiga, Marta
+<     </field>
+<     <field name="unittitle_teim">
+<       Orti Artiga, Joaquin
+<       
+<       Orti Artiga, Marta
+<     </field>
+---
+>     <field name="unittitle_ssm">Orti Artiga, JoaquinOrti Artiga, Marta</field>
+>     <field name="unittitle_teim">Orti Artiga, JoaquinOrti Artiga, Marta</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Orti Artiga, Joaquin
+<       
+<       Orti Artiga, Marta
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Orti Artiga, JoaquinOrti Artiga, Marta</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Orti Artiga, Joaquin
+<       
+<       Orti Artiga, Marta
+<     </field>
+---
+>     <field name="heading_ssm">Orti Artiga, JoaquinOrti Artiga, Marta</field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cintas Carrion, Ramòn
+<       
+<       Cintas, Ana Maria (née Carrion)
+<     </field>
+<     <field name="unittitle_teim">
+<       Cintas Carrion, Ramòn
+<       
+<       Cintas, Ana Maria (née Carrion)
+<     </field>
+---
+>     <field name="unittitle_ssm">Cintas Carrion, RamònCintas, Ana Maria (née Carrion)</field>
+>     <field name="unittitle_teim">Cintas Carrion, RamònCintas, Ana Maria (née Carrion)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cintas Carrion, Ramòn
+<       
+<       Cintas, Ana Maria (née Carrion)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cintas Carrion, RamònCintas, Ana Maria (née Carrion)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Cintas Carrion, Ramòn
+<       
+<       Cintas, Ana Maria (née Carrion)
+<     </field>
+---
+>     <field name="heading_ssm">Cintas Carrion, RamònCintas, Ana Maria (née Carrion)</field>

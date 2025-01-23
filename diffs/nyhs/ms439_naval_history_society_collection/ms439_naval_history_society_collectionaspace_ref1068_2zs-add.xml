@@ -1,0 +1,6 @@
+23,25c23
+<     <field name="scopecontent_teim">
+<       Historical Note
+<     </field>
+---
+>     <field name="scopecontent_teim">Historical Note</field>

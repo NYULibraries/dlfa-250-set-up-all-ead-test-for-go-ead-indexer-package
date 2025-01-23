@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vives Folch, Giberta
+<       
+<       Vives Folch, Eduardo
+<     </field>
+<     <field name="unittitle_teim">
+<       Vives Folch, Giberta
+<       
+<       Vives Folch, Eduardo
+<     </field>
+---
+>     <field name="unittitle_ssm">Vives Folch, GibertaVives Folch, Eduardo</field>
+>     <field name="unittitle_teim">Vives Folch, GibertaVives Folch, Eduardo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vives Folch, Giberta
+<       
+<       Vives Folch, Eduardo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vives Folch, GibertaVives Folch, Eduardo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vives Folch, Giberta
+<       
+<       Vives Folch, Eduardo
+<     </field>
+---
+>     <field name="heading_ssm">Vives Folch, GibertaVives Folch, Eduardo</field>

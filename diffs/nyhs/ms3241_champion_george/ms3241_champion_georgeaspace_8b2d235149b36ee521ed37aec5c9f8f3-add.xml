@@ -1,0 +1,20 @@
+12,17c12,13
+<     <field name="unittitle_ssm">
+<       &lt;strong&gt;Publications—&lt;em&gt;Northwestern Banker&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Publications—Northwestern Banker
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;Northwestern Banker&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="unittitle_teim">Publications—Northwestern Banker</field>
+30,35c26,27
+<     <field name="series_si">
+<       &lt;strong&gt;Publications—&lt;em&gt;Northwestern Banker&lt;/em&gt;&lt;/strong&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Publications—Northwestern Banker
+<     </field>
+---
+>     <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;Northwestern Banker&lt;/em&gt;&lt;/strong&gt;</field>
+>     <field name="heading_ssm">Publications—Northwestern Banker</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Swigel, Erwin O.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Swigel, Erwin O. </field>
+27c27
+<     <field name="series_si">Swigel, Erwin O.&amp;nbsp;</field>
+---
+>     <field name="series_si">Swigel, Erwin O. </field>

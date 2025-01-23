@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Cameroon Times&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="unittitle_teim">
+<       Cameroon Times
+<       
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Cameroon Times&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Cameroon Times</field>
+38,45c32,33
+<     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; 
+<       &lt;em&gt;Cameroon Times&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="heading_ssm">
+<       Cameroon Times
+<       
+<     </field>
+---
+>     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;Cameroon Times&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="heading_ssm">Cameroon Times</field>

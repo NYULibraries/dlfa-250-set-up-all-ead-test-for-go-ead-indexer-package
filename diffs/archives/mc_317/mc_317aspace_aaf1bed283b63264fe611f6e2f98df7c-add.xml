@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Adler, Alexis&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Adler, Alexis </field>
+27c27
+<     <field name="series_si">Adler, Alexis&amp;nbsp;</field>
+---
+>     <field name="series_si">Adler, Alexis </field>

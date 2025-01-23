@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Thompson, Dr. Douglass S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Thompson, Dr. Douglass S. </field>
+27c27
+<     <field name="series_si">Thompson, Dr. Douglass S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Thompson, Dr. Douglass S. </field>

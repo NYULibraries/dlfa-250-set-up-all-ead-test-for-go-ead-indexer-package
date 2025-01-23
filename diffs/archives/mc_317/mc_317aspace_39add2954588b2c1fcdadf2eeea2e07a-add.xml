@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Woodard, Beaman O.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Woodard, Beaman O. </field>
+27c27
+<     <field name="series_si">Woodard, Beaman O.&amp;nbsp;</field>
+---
+>     <field name="series_si">Woodard, Beaman O. </field>

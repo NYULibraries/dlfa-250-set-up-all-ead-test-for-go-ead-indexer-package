@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Photocopies of the&amp;nbsp;Daily Worker</field>
+---
+>     <field name="unittitle_ssm">Photocopies of the Daily Worker</field>
+24c24
+<     <field name="series_si">Photocopies of the&amp;nbsp;Daily Worker</field>
+---
+>     <field name="series_si">Photocopies of the Daily Worker</field>

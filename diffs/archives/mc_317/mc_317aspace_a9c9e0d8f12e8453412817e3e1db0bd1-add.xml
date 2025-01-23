@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Kouri, Pentti J.K.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Kouri, Pentti J.K. </field>
+27c27
+<     <field name="series_si">Kouri, Pentti J.K.&amp;nbsp;</field>
+---
+>     <field name="series_si">Kouri, Pentti J.K. </field>

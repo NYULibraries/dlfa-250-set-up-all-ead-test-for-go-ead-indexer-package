@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zimmerman, Diane L.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zimmerman, Diane L. </field>
+27c27
+<     <field name="series_si">Zimmerman, Diane L.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zimmerman, Diane L. </field>

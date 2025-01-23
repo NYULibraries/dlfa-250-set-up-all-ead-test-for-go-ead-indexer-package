@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Assael, Henry&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Assael, Henry </field>
+27c27
+<     <field name="series_si">Assael, Henry&amp;nbsp;</field>
+---
+>     <field name="series_si">Assael, Henry </field>

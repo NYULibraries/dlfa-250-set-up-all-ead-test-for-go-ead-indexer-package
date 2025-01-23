@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bullowa, Emilie&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bullowa, Emilie   </field>
+27c27
+<     <field name="series_si">Bullowa, Emilie&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bullowa, Emilie   </field>

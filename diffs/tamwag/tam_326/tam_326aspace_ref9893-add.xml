@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Capdevilla Puignou, Santiago
+<       
+<       Capdevilla, Francisca (née Garreta Serrat)
+<     </field>
+<     <field name="unittitle_teim">
+<       Capdevilla Puignou, Santiago
+<       
+<       Capdevilla, Francisca (née Garreta Serrat)
+<     </field>
+---
+>     <field name="unittitle_ssm">Capdevilla Puignou, SantiagoCapdevilla, Francisca (née Garreta Serrat)</field>
+>     <field name="unittitle_teim">Capdevilla Puignou, SantiagoCapdevilla, Francisca (née Garreta Serrat)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Capdevilla Puignou, Santiago
+<       
+<       Capdevilla, Francisca (née Garreta Serrat)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Capdevilla Puignou, SantiagoCapdevilla, Francisca (née Garreta Serrat)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Capdevilla Puignou, Santiago
+<       
+<       Capdevilla, Francisca (née Garreta Serrat)
+<     </field>
+---
+>     <field name="heading_ssm">Capdevilla Puignou, SantiagoCapdevilla, Francisca (née Garreta Serrat)</field>

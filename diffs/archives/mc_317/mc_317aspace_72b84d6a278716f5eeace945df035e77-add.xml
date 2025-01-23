@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Doino, William D. '65 Law&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Doino, William D. '65 Law </field>
+27c27
+<     <field name="series_si">Doino, William D. '65 Law&amp;nbsp;</field>
+---
+>     <field name="series_si">Doino, William D. '65 Law </field>

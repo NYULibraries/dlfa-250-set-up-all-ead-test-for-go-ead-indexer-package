@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Luongo, John&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Luongo, John </field>
+27c27
+<     <field name="series_si">Luongo, John&amp;nbsp;</field>
+---
+>     <field name="series_si">Luongo, John </field>

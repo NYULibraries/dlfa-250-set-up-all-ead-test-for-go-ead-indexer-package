@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">&lt;em&gt;Jacques Brel is Alive and Well and Living in Paris:&lt;/em&gt;Cleveland, Ohio &lt;em&gt;"closed"&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Jacques Brel is Alive and Well and Living in Paris:&lt;/em&gt;Cleveland, Ohio &lt;em&gt;&lt;/em&gt;"closed"</field>
+38c38
+<     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries I: Café Contract &gt;&gt; &lt;em&gt;Jacques Brel is Alive and Well and Living in Paris:&lt;/em&gt;Cleveland, Ohio &lt;em&gt;"closed"&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries I: Café Contract &gt;&gt; &lt;em&gt;Jacques Brel is Alive and Well and Living in Paris:&lt;/em&gt;Cleveland, Ohio &lt;em&gt;&lt;/em&gt;"closed"</field>

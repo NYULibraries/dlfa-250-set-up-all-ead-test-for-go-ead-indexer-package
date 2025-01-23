@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Yiannakos, Andrew E. K.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Yiannakos, Andrew E. K. </field>
+27c27
+<     <field name="series_si">Yiannakos, Andrew E. K.&amp;nbsp;</field>
+---
+>     <field name="series_si">Yiannakos, Andrew E. K. </field>

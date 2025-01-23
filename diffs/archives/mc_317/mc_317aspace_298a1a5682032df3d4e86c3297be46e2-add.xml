@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Woodruff, Hale A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Woodruff, Hale A. </field>
+27c27
+<     <field name="series_si">Woodruff, Hale A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Woodruff, Hale A. </field>

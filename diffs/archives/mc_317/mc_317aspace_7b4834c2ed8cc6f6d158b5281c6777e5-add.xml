@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Strumpf, Manny M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Strumpf, Manny M. </field>
+27c27
+<     <field name="series_si">Strumpf, Manny M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Strumpf, Manny M. </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burneson, Samuel Thomas&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burneson, Samuel Thomas   </field>
+27c27
+<     <field name="series_si">Burneson, Samuel Thomas&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burneson, Samuel Thomas   </field>

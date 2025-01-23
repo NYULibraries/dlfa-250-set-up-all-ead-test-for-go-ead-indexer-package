@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wosh, Peter J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wosh, Peter J. </field>
+27c27
+<     <field name="series_si">Wosh, Peter J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wosh, Peter J. </field>

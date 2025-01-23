@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Orozco Martinez, Gines
+<       
+<       Orozco, Ida (née Correale)
+<     </field>
+<     <field name="unittitle_teim">
+<       Orozco Martinez, Gines
+<       
+<       Orozco, Ida (née Correale)
+<     </field>
+---
+>     <field name="unittitle_ssm">Orozco Martinez, GinesOrozco, Ida (née Correale)</field>
+>     <field name="unittitle_teim">Orozco Martinez, GinesOrozco, Ida (née Correale)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Orozco Martinez, Gines
+<       
+<       Orozco, Ida (née Correale)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Orozco Martinez, GinesOrozco, Ida (née Correale)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Orozco Martinez, Gines
+<       
+<       Orozco, Ida (née Correale)
+<     </field>
+---
+>     <field name="heading_ssm">Orozco Martinez, GinesOrozco, Ida (née Correale)</field>

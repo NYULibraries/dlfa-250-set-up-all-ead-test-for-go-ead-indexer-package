@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zurcher, Arnold J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zurcher, Arnold J. </field>
+27c27
+<     <field name="series_si">Zurcher, Arnold J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zurcher, Arnold J. </field>

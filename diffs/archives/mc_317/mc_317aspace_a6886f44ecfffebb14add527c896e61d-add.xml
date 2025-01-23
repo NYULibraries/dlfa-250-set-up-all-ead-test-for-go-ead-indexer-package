@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Thompson, Williard M.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Thompson, Williard M. </field>
+27c27
+<     <field name="series_si">Thompson, Williard M.&amp;nbsp;</field>
+---
+>     <field name="series_si">Thompson, Williard M. </field>

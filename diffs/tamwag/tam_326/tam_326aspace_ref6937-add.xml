@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Garcia del Apio, Pio Luis
+<       
+<       Garcia, Carmen (née Gracia)
+<       
+<       Garcia del Apio, José
+<     </field>
+<     <field name="unittitle_teim">
+<       Garcia del Apio, Pio Luis
+<       
+<       Garcia, Carmen (née Gracia)
+<       
+<       Garcia del Apio, José
+<     </field>
+---
+>     <field name="unittitle_ssm">Garcia del Apio, Pio LuisGarcia, Carmen (née Gracia)Garcia del Apio, José</field>
+>     <field name="unittitle_teim">Garcia del Apio, Pio LuisGarcia, Carmen (née Gracia)Garcia del Apio, José</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Garcia del Apio, Pio Luis
+<       
+<       Garcia, Carmen (née Gracia)
+<       
+<       Garcia del Apio, José
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Garcia del Apio, Pio LuisGarcia, Carmen (née Gracia)Garcia del Apio, José</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Garcia del Apio, Pio Luis
+<       
+<       Garcia, Carmen (née Gracia)
+<       
+<       Garcia del Apio, José
+<     </field>
+---
+>     <field name="heading_ssm">Garcia del Apio, Pio LuisGarcia, Carmen (née Gracia)Garcia del Apio, José</field>

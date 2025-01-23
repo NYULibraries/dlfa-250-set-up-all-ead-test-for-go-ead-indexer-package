@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Golen, Helen '49W&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Golen, Helen '49W </field>
+27c27
+<     <field name="series_si">Golen, Helen '49W&amp;nbsp;</field>
+---
+>     <field name="series_si">Golen, Helen '49W </field>

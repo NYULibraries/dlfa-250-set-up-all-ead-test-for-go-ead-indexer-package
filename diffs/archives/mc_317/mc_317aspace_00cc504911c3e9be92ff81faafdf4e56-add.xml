@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Winograd, Barry N.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Winograd, Barry N. </field>
+27c27
+<     <field name="series_si">Winograd, Barry N.&amp;nbsp;</field>
+---
+>     <field name="series_si">Winograd, Barry N. </field>

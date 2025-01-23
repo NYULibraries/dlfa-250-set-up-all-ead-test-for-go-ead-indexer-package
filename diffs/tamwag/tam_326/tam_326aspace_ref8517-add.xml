@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cervia Sabate, Narciso
+<       
+<       Cervia, Leandre (née Munoz)
+<     </field>
+<     <field name="unittitle_teim">
+<       Cervia Sabate, Narciso
+<       
+<       Cervia, Leandre (née Munoz)
+<     </field>
+---
+>     <field name="unittitle_ssm">Cervia Sabate, NarcisoCervia, Leandre (née Munoz)</field>
+>     <field name="unittitle_teim">Cervia Sabate, NarcisoCervia, Leandre (née Munoz)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cervia Sabate, Narciso
+<       
+<       Cervia, Leandre (née Munoz)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cervia Sabate, NarcisoCervia, Leandre (née Munoz)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Cervia Sabate, Narciso
+<       
+<       Cervia, Leandre (née Munoz)
+<     </field>
+---
+>     <field name="heading_ssm">Cervia Sabate, NarcisoCervia, Leandre (née Munoz)</field>

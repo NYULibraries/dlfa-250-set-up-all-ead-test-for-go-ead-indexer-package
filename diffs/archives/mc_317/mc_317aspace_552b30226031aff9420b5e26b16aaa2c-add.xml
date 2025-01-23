@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Errico, Elizabeth Haggerty '69, '76&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Errico, Elizabeth Haggerty '69, '76 </field>
+27c27
+<     <field name="series_si">Errico, Elizabeth Haggerty '69, '76&amp;nbsp;</field>
+---
+>     <field name="series_si">Errico, Elizabeth Haggerty '69, '76 </field>

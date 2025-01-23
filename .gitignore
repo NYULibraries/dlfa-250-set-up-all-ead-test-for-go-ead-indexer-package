@@ -11,10 +11,6 @@ go-ead-indexer
 logs/*
 !logs/.gitkeep
 
-# Diffs of golden files vs. actual files.
-diffs/*
-!diffs/.gitkeep
-
 # Temporary files for diff'ing of golden files vs. actual values.
 tmp/*
 !tmp/actual/

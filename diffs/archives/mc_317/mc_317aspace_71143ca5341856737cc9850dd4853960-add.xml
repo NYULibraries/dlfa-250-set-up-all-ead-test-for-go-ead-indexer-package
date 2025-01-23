@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Mann, Thomas&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Mann, Thomas </field>
+27c27
+<     <field name="series_si">Mann, Thomas&amp;nbsp;</field>
+---
+>     <field name="series_si">Mann, Thomas </field>

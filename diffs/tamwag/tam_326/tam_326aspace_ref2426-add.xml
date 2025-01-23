@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Murillo Mendez, Miguel
+<       
+<       Murillo, Isabel (née Marquez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Murillo Mendez, Miguel
+<       
+<       Murillo, Isabel (née Marquez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Murillo Mendez, MiguelMurillo, Isabel (née Marquez)</field>
+>     <field name="unittitle_teim">Murillo Mendez, MiguelMurillo, Isabel (née Marquez)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Murillo Mendez, Miguel
+<       
+<       Murillo, Isabel (née Marquez)
+<     </field>
+<     <field name="heading_ssm">
+<       Murillo Mendez, Miguel
+<       
+<       Murillo, Isabel (née Marquez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Murillo Mendez, MiguelMurillo, Isabel (née Marquez)</field>
+>     <field name="heading_ssm">Murillo Mendez, MiguelMurillo, Isabel (née Marquez)</field>

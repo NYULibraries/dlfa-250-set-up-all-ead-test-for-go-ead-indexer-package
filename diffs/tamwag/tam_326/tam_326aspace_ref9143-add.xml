@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Pallares, Maria (née Sanchez)
+<       
+<       Pallares Llambrich, José
+<     </field>
+<     <field name="unittitle_teim">
+<       Pallares, Maria (née Sanchez)
+<       
+<       Pallares Llambrich, José
+<     </field>
+---
+>     <field name="unittitle_ssm">Pallares, Maria (née Sanchez)Pallares Llambrich, José</field>
+>     <field name="unittitle_teim">Pallares, Maria (née Sanchez)Pallares Llambrich, José</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Pallares, Maria (née Sanchez)
+<       
+<       Pallares Llambrich, José
+<     </field>
+<     <field name="heading_ssm">
+<       Pallares, Maria (née Sanchez)
+<       
+<       Pallares Llambrich, José
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Pallares, Maria (née Sanchez)Pallares Llambrich, José</field>
+>     <field name="heading_ssm">Pallares, Maria (née Sanchez)Pallares Llambrich, José</field>

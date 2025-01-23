@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Mira Lopez, Emilio
+<       
+<       Mira, Remedios (née Gava)
+<     </field>
+<     <field name="unittitle_teim">
+<       Mira Lopez, Emilio
+<       
+<       Mira, Remedios (née Gava)
+<     </field>
+---
+>     <field name="unittitle_ssm">Mira Lopez, EmilioMira, Remedios (née Gava)</field>
+>     <field name="unittitle_teim">Mira Lopez, EmilioMira, Remedios (née Gava)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Mira Lopez, Emilio
+<       
+<       Mira, Remedios (née Gava)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Mira Lopez, EmilioMira, Remedios (née Gava)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Mira Lopez, Emilio
+<       
+<       Mira, Remedios (née Gava)
+<     </field>
+---
+>     <field name="heading_ssm">Mira Lopez, EmilioMira, Remedios (née Gava)</field>

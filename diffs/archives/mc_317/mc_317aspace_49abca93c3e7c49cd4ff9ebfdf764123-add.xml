@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Deng, Francis&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Deng, Francis </field>
+27c27
+<     <field name="series_si">Deng, Francis&amp;nbsp;</field>
+---
+>     <field name="series_si">Deng, Francis </field>

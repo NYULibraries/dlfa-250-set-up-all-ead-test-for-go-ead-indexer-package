@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Christensen, T.G.S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Christensen, T.G.S. </field>
+27c27
+<     <field name="series_si">Christensen, T.G.S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Christensen, T.G.S. </field>

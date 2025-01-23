@@ -1,0 +1,13 @@
+20,22c20
+<     <field name="scopecontent_teim">
+<       
+<         Date ranges by page number
+---
+>     <field name="scopecontent_teim">Date ranges by page number
+26,29c24
+<         
+< 
+<       
+<     </field>
+---
+> </field>

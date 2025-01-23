@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cabanero Zaporta, Juan
+<       
+<       Cabanero, Rufina (née Arnal)
+<     </field>
+<     <field name="unittitle_teim">
+<       Cabanero Zaporta, Juan
+<       
+<       Cabanero, Rufina (née Arnal)
+<     </field>
+---
+>     <field name="unittitle_ssm">Cabanero Zaporta, JuanCabanero, Rufina (née Arnal)</field>
+>     <field name="unittitle_teim">Cabanero Zaporta, JuanCabanero, Rufina (née Arnal)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cabanero Zaporta, Juan
+<       
+<       Cabanero, Rufina (née Arnal)
+<     </field>
+<     <field name="heading_ssm">
+<       Cabanero Zaporta, Juan
+<       
+<       Cabanero, Rufina (née Arnal)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cabanero Zaporta, JuanCabanero, Rufina (née Arnal)</field>
+>     <field name="heading_ssm">Cabanero Zaporta, JuanCabanero, Rufina (née Arnal)</field>

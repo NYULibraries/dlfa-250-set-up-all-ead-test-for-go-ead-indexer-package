@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Antonoff, Stanley J&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Antonoff, Stanley J </field>
+27c27
+<     <field name="series_si">Antonoff, Stanley J&amp;nbsp;</field>
+---
+>     <field name="series_si">Antonoff, Stanley J </field>

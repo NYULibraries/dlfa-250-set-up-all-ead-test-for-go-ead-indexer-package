@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zimmer, Charles B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zimmer, Charles B. </field>
+27c27
+<     <field name="series_si">Zimmer, Charles B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zimmer, Charles B. </field>

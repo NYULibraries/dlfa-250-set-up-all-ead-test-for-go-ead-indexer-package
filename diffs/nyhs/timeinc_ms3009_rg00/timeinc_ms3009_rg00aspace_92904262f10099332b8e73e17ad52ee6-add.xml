@@ -1,0 +1,8 @@
+15,19c15
+<     <field name="scopecontent_teim">
+<       
+<         Click here to link to the Guide to the Time Inc. Life Editorial Records.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Life Editorial Records.</field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Sainz, Maria Casta (née Magana)
+<       
+<       Sainz Uttaran, Valentin
+<     </field>
+<     <field name="unittitle_teim">
+<       Sainz, Maria Casta (née Magana)
+<       
+<       Sainz Uttaran, Valentin
+<     </field>
+---
+>     <field name="unittitle_ssm">Sainz, Maria Casta (née Magana)Sainz Uttaran, Valentin</field>
+>     <field name="unittitle_teim">Sainz, Maria Casta (née Magana)Sainz Uttaran, Valentin</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Sainz, Maria Casta (née Magana)
+<       
+<       Sainz Uttaran, Valentin
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Sainz, Maria Casta (née Magana)Sainz Uttaran, Valentin</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Sainz, Maria Casta (née Magana)
+<       
+<       Sainz Uttaran, Valentin
+<     </field>
+---
+>     <field name="heading_ssm">Sainz, Maria Casta (née Magana)Sainz Uttaran, Valentin</field>

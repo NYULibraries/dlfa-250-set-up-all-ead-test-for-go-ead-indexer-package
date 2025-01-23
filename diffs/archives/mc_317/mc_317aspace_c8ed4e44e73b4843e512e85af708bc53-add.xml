@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lewis, Tayler -&amp;nbsp; "The Conservative Scholar"</field>
+---
+>     <field name="unittitle_ssm">Lewis, Tayler -  "The Conservative Scholar"</field>
+27c27
+<     <field name="series_si">Lewis, Tayler -&amp;nbsp; "The Conservative Scholar"</field>
+---
+>     <field name="series_si">Lewis, Tayler -  "The Conservative Scholar"</field>

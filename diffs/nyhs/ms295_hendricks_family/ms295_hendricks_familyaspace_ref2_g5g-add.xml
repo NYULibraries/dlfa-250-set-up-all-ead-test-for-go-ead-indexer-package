@@ -1,0 +1,18 @@
+19,30c19,22
+<     <field name="scopecontent_teim">
+<       Subseries II.A. Ledgers and letterbooks
+<     </field>
+<     <field name="scopecontent_teim">
+<       Subseries II.B. Correspondence
+<     </field>
+<     <field name="scopecontent_teim">
+<       Subseries II.C. Material on Paul Revere
+<     </field>
+<     <field name="scopecontent_teim">
+<       Subseries II.D. Estate-related papers
+<     </field>
+---
+>     <field name="scopecontent_teim">Subseries II.A. Ledgers and letterbooks</field>
+>     <field name="scopecontent_teim">Subseries II.B. Correspondence</field>
+>     <field name="scopecontent_teim">Subseries II.C. Material on Paul Revere</field>
+>     <field name="scopecontent_teim">Subseries II.D. Estate-related papers</field>

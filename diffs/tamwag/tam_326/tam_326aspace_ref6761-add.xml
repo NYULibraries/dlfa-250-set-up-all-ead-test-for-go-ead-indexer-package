@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Somalo, Emiliano
+<       
+<       Somalo, Engracia (neé Felipe)
+<     </field>
+<     <field name="unittitle_teim">
+<       Somalo, Emiliano
+<       
+<       Somalo, Engracia (neé Felipe)
+<     </field>
+---
+>     <field name="unittitle_ssm">Somalo, EmilianoSomalo, Engracia (neé Felipe)</field>
+>     <field name="unittitle_teim">Somalo, EmilianoSomalo, Engracia (neé Felipe)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Somalo, Emiliano
+<       
+<       Somalo, Engracia (neé Felipe)
+<     </field>
+<     <field name="heading_ssm">
+<       Somalo, Emiliano
+<       
+<       Somalo, Engracia (neé Felipe)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Somalo, EmilianoSomalo, Engracia (neé Felipe)</field>
+>     <field name="heading_ssm">Somalo, EmilianoSomalo, Engracia (neé Felipe)</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Beitelman, Dr. Martin E. '48 D&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Beitelman, Dr. Martin E. '48 D </field>
+27c27
+<     <field name="series_si">Beitelman, Dr. Martin E. '48 D&amp;nbsp;</field>
+---
+>     <field name="series_si">Beitelman, Dr. Martin E. '48 D </field>

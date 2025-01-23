@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">XV. Salottino, Saletta con Grottesche (or Saletta delle Grottesche)</field>
+---
+>     <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
+18c18
+<     <field name="parent_unittitles_teim">XV. Salottino, Saletta con Grottesche (or Saletta delle Grottesche)</field>
+---
+>     <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
+46,47c46,47
+<     <field name="series_sim">XV. Salottino, Saletta con Grottesche (or Saletta delle Grottesche)</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; XV. Salottino, Saletta con Grottesche (or Saletta delle Grottesche) &gt;&gt; XV. B.9.</field>
+---
+>     <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; XV. B.9.</field>

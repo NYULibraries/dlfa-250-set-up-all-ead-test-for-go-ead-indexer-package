@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bryan, W.G.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bryan, W.G.   </field>
+27c27
+<     <field name="series_si">Bryan, W.G.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bryan, W.G.   </field>

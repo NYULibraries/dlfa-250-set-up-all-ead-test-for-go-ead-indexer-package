@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">King, Reverend Dr. Martin Luther&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">King, Reverend Dr. Martin Luther </field>
+27c27
+<     <field name="series_si">King, Reverend Dr. Martin Luther&amp;nbsp;</field>
+---
+>     <field name="series_si">King, Reverend Dr. Martin Luther </field>

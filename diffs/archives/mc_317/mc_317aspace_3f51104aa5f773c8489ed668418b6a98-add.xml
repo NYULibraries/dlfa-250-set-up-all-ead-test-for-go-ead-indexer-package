@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Soscie, Dr. Marie A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Soscie, Dr. Marie A. </field>
+27c27
+<     <field name="series_si">Soscie, Dr. Marie A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Soscie, Dr. Marie A. </field>

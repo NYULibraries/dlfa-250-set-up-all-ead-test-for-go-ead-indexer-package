@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Kohler, Robert H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Kohler, Robert H. </field>
+27c27
+<     <field name="series_si">Kohler, Robert H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Kohler, Robert H. </field>

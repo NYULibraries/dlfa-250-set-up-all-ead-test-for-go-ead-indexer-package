@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">&lt;em&gt;A Statement from Veterans to Youth&lt;/em&gt; : Vietnam Veterans United&amp;nbsp;to Prevent World War III, New York, NY</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;A Statement from Veterans to Youth&lt;/em&gt; : Vietnam Veterans United to Prevent World War III, New York, NY</field>
+28c28
+<     <field name="series_si">&lt;em&gt;A Statement from Veterans to Youth&lt;/em&gt; : Vietnam Veterans United&amp;nbsp;to Prevent World War III, New York, NY</field>
+---
+>     <field name="series_si">&lt;em&gt;A Statement from Veterans to Youth&lt;/em&gt; : Vietnam Veterans United to Prevent World War III, New York, NY</field>

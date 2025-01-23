@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Buchmann, Hans&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Buchmann, Hans   </field>
+27c27
+<     <field name="series_si">Buchmann, Hans&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Buchmann, Hans   </field>

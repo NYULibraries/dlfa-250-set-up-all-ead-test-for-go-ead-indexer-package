@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Del Rio, Jesusa (née Lazaro Garcia)
+<       
+<       Del Rio Marti, Lorenzo
+<     </field>
+<     <field name="unittitle_teim">
+<       Del Rio, Jesusa (née Lazaro Garcia)
+<       
+<       Del Rio Marti, Lorenzo
+<     </field>
+---
+>     <field name="unittitle_ssm">Del Rio, Jesusa (née Lazaro Garcia)Del Rio Marti, Lorenzo</field>
+>     <field name="unittitle_teim">Del Rio, Jesusa (née Lazaro Garcia)Del Rio Marti, Lorenzo</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Del Rio, Jesusa (née Lazaro Garcia)
+<       
+<       Del Rio Marti, Lorenzo
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Del Rio, Jesusa (née Lazaro Garcia)Del Rio Marti, Lorenzo</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Del Rio, Jesusa (née Lazaro Garcia)
+<       
+<       Del Rio Marti, Lorenzo
+<     </field>
+---
+>     <field name="heading_ssm">Del Rio, Jesusa (née Lazaro Garcia)Del Rio Marti, Lorenzo</field>

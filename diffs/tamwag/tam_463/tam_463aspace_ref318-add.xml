@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Daily Worker&amp;nbsp;articles</field>
+---
+>     <field name="unittitle_ssm">Daily Worker articles</field>
+24c24
+<     <field name="series_si">Daily Worker&amp;nbsp;articles</field>
+---
+>     <field name="series_si">Daily Worker articles</field>

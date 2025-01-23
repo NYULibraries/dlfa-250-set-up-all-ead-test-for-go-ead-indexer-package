@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vega Navarro, Miguel
+<       
+<       Vega Navarro, Maria
+<     </field>
+<     <field name="unittitle_teim">
+<       Vega Navarro, Miguel
+<       
+<       Vega Navarro, Maria
+<     </field>
+---
+>     <field name="unittitle_ssm">Vega Navarro, MiguelVega Navarro, Maria</field>
+>     <field name="unittitle_teim">Vega Navarro, MiguelVega Navarro, Maria</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vega Navarro, Miguel
+<       
+<       Vega Navarro, Maria
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vega Navarro, MiguelVega Navarro, Maria</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vega Navarro, Miguel
+<       
+<       Vega Navarro, Maria
+<     </field>
+---
+>     <field name="heading_ssm">Vega Navarro, MiguelVega Navarro, Maria</field>

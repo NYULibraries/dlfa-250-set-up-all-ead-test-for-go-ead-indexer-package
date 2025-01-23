@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carey, Susan&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carey, Susan   </field>
+27c27
+<     <field name="series_si">Carey, Susan&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carey, Susan   </field>

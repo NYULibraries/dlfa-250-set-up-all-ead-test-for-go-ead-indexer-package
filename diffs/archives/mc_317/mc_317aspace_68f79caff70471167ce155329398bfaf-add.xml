@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Townshend, Frank W.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Townshend, Frank W. </field>
+27c27
+<     <field name="series_si">Townshend, Frank W.&amp;nbsp;</field>
+---
+>     <field name="series_si">Townshend, Frank W. </field>

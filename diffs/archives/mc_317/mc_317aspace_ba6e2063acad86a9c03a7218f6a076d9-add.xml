@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Varadhan, S. R.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Varadhan, S. R. </field>
+27c27
+<     <field name="series_si">Varadhan, S. R.&amp;nbsp;</field>
+---
+>     <field name="series_si">Varadhan, S. R. </field>

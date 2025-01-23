@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">&lt;em&gt;&amp;lt;emph render="underline"&amp;gt;In Process&amp;lt;/emph&amp;gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;&lt;em&gt;In Process&lt;/em&gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
+41c41
+<     <field name="series_si">Series VII: Public Art Fund - Press, Publications, and Promotional Material &gt;&gt; Subseries VII.E: In Process Magazine &gt;&gt; &lt;em&gt;&amp;lt;emph render="underline"&amp;gt;In Process&amp;lt;/emph&amp;gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
+---
+>     <field name="series_si">Series VII: Public Art Fund - Press, Publications, and Promotional Material &gt;&gt; Subseries VII.E: In Process Magazine &gt;&gt; &lt;em&gt;&lt;em&gt;In Process&lt;/em&gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>

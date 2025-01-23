@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Cardone, Vincent&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Cardone, Vincent   </field>
+27c27
+<     <field name="series_si">Cardone, Vincent&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Cardone, Vincent   </field>

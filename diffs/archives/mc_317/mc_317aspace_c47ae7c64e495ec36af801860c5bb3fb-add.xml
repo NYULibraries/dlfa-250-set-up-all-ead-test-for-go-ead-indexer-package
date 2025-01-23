@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Alfieri, Rosario P. ('69 q.d)&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Alfieri, Rosario P. ('69 q.d)  </field>
+27c27
+<     <field name="series_si">Alfieri, Rosario P. ('69 q.d)&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Alfieri, Rosario P. ('69 q.d)  </field>

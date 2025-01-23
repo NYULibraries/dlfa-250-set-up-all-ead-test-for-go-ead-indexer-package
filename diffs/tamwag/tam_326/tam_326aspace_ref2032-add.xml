@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Liedana, Maria (née Lizana)
+<       
+<       Liedana Claver, Francisco
+<     </field>
+<     <field name="unittitle_teim">
+<       Liedana, Maria (née Lizana)
+<       
+<       Liedana Claver, Francisco
+<     </field>
+---
+>     <field name="unittitle_ssm">Liedana, Maria (née Lizana)Liedana Claver, Francisco</field>
+>     <field name="unittitle_teim">Liedana, Maria (née Lizana)Liedana Claver, Francisco</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Liedana, Maria (née Lizana)
+<       
+<       Liedana Claver, Francisco
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Liedana, Maria (née Lizana)Liedana Claver, Francisco</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Liedana, Maria (née Lizana)
+<       
+<       Liedana Claver, Francisco
+<     </field>
+---
+>     <field name="heading_ssm">Liedana, Maria (née Lizana)Liedana Claver, Francisco</field>

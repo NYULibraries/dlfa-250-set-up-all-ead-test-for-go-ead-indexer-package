@@ -1,0 +1,8 @@
+19,23c19
+<     <field name="scopecontent_teim">
+<       
+<         Click here to link to the Guide to the New-York Historical Society Celebratory and Memorial Event Records.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Celebratory and Memorial Event Records.</field>

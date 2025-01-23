@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Agnen, Hugh E. (STERN)&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Agnen, Hugh E. (STERN) </field>
+27c27
+<     <field name="series_si">Agnen, Hugh E. (STERN)&amp;nbsp;</field>
+---
+>     <field name="series_si">Agnen, Hugh E. (STERN) </field>

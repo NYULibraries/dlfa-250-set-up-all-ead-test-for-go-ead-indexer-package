@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Aldama Lopez, Ramon
+<       
+<       Aldama, Polanco (née Perez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Aldama Lopez, Ramon
+<       
+<       Aldama, Polanco (née Perez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Aldama Lopez, RamonAldama, Polanco (née Perez)</field>
+>     <field name="unittitle_teim">Aldama Lopez, RamonAldama, Polanco (née Perez)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Aldama Lopez, Ramon
+<       
+<       Aldama, Polanco (née Perez)
+<     </field>
+<     <field name="heading_ssm">
+<       Aldama Lopez, Ramon
+<       
+<       Aldama, Polanco (née Perez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Aldama Lopez, RamonAldama, Polanco (née Perez)</field>
+>     <field name="heading_ssm">Aldama Lopez, RamonAldama, Polanco (née Perez)</field>

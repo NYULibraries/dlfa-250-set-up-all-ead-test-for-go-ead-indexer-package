@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Budick, Isadore&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Budick, Isadore   </field>
+27c27
+<     <field name="series_si">Budick, Isadore&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Budick, Isadore   </field>

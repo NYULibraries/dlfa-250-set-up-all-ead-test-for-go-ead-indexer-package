@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cervera Bort, Santiago
+<       
+<       Cervera, Maria (née Cabanes)
+<     </field>
+<     <field name="unittitle_teim">
+<       Cervera Bort, Santiago
+<       
+<       Cervera, Maria (née Cabanes)
+<     </field>
+---
+>     <field name="unittitle_ssm">Cervera Bort, SantiagoCervera, Maria (née Cabanes)</field>
+>     <field name="unittitle_teim">Cervera Bort, SantiagoCervera, Maria (née Cabanes)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cervera Bort, Santiago
+<       
+<       Cervera, Maria (née Cabanes)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cervera Bort, SantiagoCervera, Maria (née Cabanes)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Cervera Bort, Santiago
+<       
+<       Cervera, Maria (née Cabanes)
+<     </field>
+---
+>     <field name="heading_ssm">Cervera Bort, SantiagoCervera, Maria (née Cabanes)</field>

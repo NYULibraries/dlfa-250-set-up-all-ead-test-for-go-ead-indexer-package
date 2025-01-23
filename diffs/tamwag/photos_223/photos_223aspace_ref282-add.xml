@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Allen, James E. (James Edward)&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Allen, James E. (James Edward) </field>
+35c35
+<     <field name="series_si">Series I: Biographical Files &gt;&gt; Allen, James E. (James Edward)&amp;nbsp;</field>
+---
+>     <field name="series_si">Series I: Biographical Files &gt;&gt; Allen, James E. (James Edward) </field>

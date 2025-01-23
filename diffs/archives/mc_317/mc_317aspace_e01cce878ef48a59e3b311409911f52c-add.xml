@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Newsom, Carroll V.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Newsom, Carroll V. </field>
+27c27
+<     <field name="series_si">Newsom, Carroll V.&amp;nbsp;</field>
+---
+>     <field name="series_si">Newsom, Carroll V. </field>

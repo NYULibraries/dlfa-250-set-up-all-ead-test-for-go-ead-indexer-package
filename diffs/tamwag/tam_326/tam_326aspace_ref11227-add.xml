@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Aso Ferrando, Baldomers
+<       
+<       Buira Valdovinos, Serafina
+<     </field>
+<     <field name="unittitle_teim">
+<       Aso Ferrando, Baldomers
+<       
+<       Buira Valdovinos, Serafina
+<     </field>
+---
+>     <field name="unittitle_ssm">Aso Ferrando, BaldomersBuira Valdovinos, Serafina</field>
+>     <field name="unittitle_teim">Aso Ferrando, BaldomersBuira Valdovinos, Serafina</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Aso Ferrando, Baldomers
+<       
+<       Buira Valdovinos, Serafina
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Aso Ferrando, BaldomersBuira Valdovinos, Serafina</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Aso Ferrando, Baldomers
+<       
+<       Buira Valdovinos, Serafina
+<     </field>
+---
+>     <field name="heading_ssm">Aso Ferrando, BaldomersBuira Valdovinos, Serafina</field>

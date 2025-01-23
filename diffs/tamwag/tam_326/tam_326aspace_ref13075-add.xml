@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Bonilla Castilla, Francisco
+<       
+<       Bonilla, Francisca (née Llonch)
+<     </field>
+<     <field name="unittitle_teim">
+<       Bonilla Castilla, Francisco
+<       
+<       Bonilla, Francisca (née Llonch)
+<     </field>
+---
+>     <field name="unittitle_ssm">Bonilla Castilla, FranciscoBonilla, Francisca (née Llonch)</field>
+>     <field name="unittitle_teim">Bonilla Castilla, FranciscoBonilla, Francisca (née Llonch)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Bonilla Castilla, Francisco
+<       
+<       Bonilla, Francisca (née Llonch)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Bonilla Castilla, FranciscoBonilla, Francisca (née Llonch)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Bonilla Castilla, Francisco
+<       
+<       Bonilla, Francisca (née Llonch)
+<     </field>
+---
+>     <field name="heading_ssm">Bonilla Castilla, FranciscoBonilla, Francisca (née Llonch)</field>

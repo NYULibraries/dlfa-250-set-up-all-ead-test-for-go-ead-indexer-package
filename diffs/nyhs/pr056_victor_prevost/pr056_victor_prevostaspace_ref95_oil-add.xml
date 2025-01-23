@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Statuary at Crystal Palace [&amp;lt;emph render="italic"&amp;gt;Fisher Boy&amp;lt;/emph&amp;gt; by Hiram Powers]</field>
+---
+>     <field name="unittitle_ssm">Statuary at Crystal Palace [&lt;em&gt;Fisher Boy&lt;/em&gt; by Hiram Powers]</field>
+32c32
+<     <field name="series_si">Series I: Original Negatives &gt;&gt; Statuary at Crystal Palace [&amp;lt;emph render="italic"&amp;gt;Fisher Boy&amp;lt;/emph&amp;gt; by Hiram Powers]</field>
+---
+>     <field name="series_si">Series I: Original Negatives &gt;&gt; Statuary at Crystal Palace [&lt;em&gt;Fisher Boy&lt;/em&gt; by Hiram Powers]</field>

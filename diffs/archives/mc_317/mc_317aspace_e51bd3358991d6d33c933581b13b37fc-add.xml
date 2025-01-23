@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tobin, Dr. Daniel F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tobin, Dr. Daniel F. </field>
+27c27
+<     <field name="series_si">Tobin, Dr. Daniel F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tobin, Dr. Daniel F. </field>

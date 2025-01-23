@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Isas Gutierrez, Antonio
+<       
+<       Ureta Sierra, Adoracion
+<     </field>
+<     <field name="unittitle_teim">
+<       Isas Gutierrez, Antonio
+<       
+<       Ureta Sierra, Adoracion
+<     </field>
+---
+>     <field name="unittitle_ssm">Isas Gutierrez, AntonioUreta Sierra, Adoracion</field>
+>     <field name="unittitle_teim">Isas Gutierrez, AntonioUreta Sierra, Adoracion</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Isas Gutierrez, Antonio
+<       
+<       Ureta Sierra, Adoracion
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Isas Gutierrez, AntonioUreta Sierra, Adoracion</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Isas Gutierrez, Antonio
+<       
+<       Ureta Sierra, Adoracion
+<     </field>
+---
+>     <field name="heading_ssm">Isas Gutierrez, AntonioUreta Sierra, Adoracion</field>

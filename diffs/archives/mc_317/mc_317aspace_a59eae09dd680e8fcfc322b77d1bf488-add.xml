@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Donovan, Bernard '34ed '57ed&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Donovan, Bernard '34ed '57ed </field>
+27c27
+<     <field name="series_si">Donovan, Bernard '34ed '57ed&amp;nbsp;</field>
+---
+>     <field name="series_si">Donovan, Bernard '34ed '57ed </field>

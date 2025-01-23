@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bullen, James&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bullen, James   </field>
+27c27
+<     <field name="series_si">Bullen, James&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bullen, James   </field>

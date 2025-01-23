@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Begun, Martin S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Begun, Martin S. </field>
+27c27
+<     <field name="series_si">Begun, Martin S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Begun, Martin S. </field>

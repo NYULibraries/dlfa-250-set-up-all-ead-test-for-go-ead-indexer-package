@@ -1,0 +1,12 @@
+24,31c24,25
+<     <field name="scopecontent_teim">
+<       Folder: Cleveland Trust Co., 4th Floor plans, basement to 3rd floor
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Governor Clinton Hotel, blueprints originally in tube 161
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Cleveland Trust Co., 4th Floor plans, basement to 3rd floor</field>
+>     <field name="scopecontent_teim">Folder: Governor Clinton Hotel, blueprints originally in tube 161</field>

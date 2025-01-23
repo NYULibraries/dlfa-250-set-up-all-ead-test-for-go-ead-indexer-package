@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">Daily World&amp;nbsp;Staff Conference (Unity Center, New York, NY)</field>
+---
+>     <field name="unittitle_ssm">Daily World Staff Conference (Unity Center, New York, NY)</field>
+42c42
+<     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; Daily World&amp;nbsp;Staff Conference (Unity Center, New York, NY)</field>
+---
+>     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; Daily World Staff Conference (Unity Center, New York, NY)</field>

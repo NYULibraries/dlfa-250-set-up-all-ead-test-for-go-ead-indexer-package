@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">5a. Album of Color prints of Villa la Pietra</field>
+---
+>     <field name="parent_unittitles_ssm">6. Interiors taken by Anna Marx, 1986</field>
+18c18
+<     <field name="parent_unittitles_teim">5a. Album of Color prints of Villa la Pietra</field>
+---
+>     <field name="parent_unittitles_teim">6. Interiors taken by Anna Marx, 1986</field>
+46,47c46,47
+<     <field name="series_sim">5a. Album of Color prints of Villa la Pietra</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 5a. Album of Color prints of Villa la Pietra &gt;&gt; Album of Color prints of Villa la Pietra</field>
+---
+>     <field name="series_sim">6. Interiors taken by Anna Marx, 1986</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 6. Interiors taken by Anna Marx, 1986 &gt;&gt; Album of Color prints of Villa la Pietra</field>

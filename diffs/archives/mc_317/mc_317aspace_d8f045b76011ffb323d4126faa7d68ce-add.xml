@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Ballenger, Lois T. '49 Ed&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Ballenger, Lois T. '49 Ed </field>
+27c27
+<     <field name="series_si">Ballenger, Lois T. '49 Ed&amp;nbsp;</field>
+---
+>     <field name="series_si">Ballenger, Lois T. '49 Ed </field>

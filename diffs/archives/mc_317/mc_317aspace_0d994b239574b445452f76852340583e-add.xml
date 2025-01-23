@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Cameron, AGW&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Cameron, AGW   </field>
+27c27
+<     <field name="series_si">Cameron, AGW&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Cameron, AGW   </field>

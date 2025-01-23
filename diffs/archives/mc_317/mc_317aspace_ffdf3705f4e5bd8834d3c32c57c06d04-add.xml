@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Appel, Jack I.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Appel, Jack I. </field>
+27c27
+<     <field name="series_si">Appel, Jack I.&amp;nbsp;</field>
+---
+>     <field name="series_si">Appel, Jack I. </field>

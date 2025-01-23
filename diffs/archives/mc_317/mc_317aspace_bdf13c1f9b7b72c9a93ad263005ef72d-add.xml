@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Affron, Charles&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Affron, Charles  </field>
+27c27
+<     <field name="series_si">Affron, Charles&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Affron, Charles  </field>

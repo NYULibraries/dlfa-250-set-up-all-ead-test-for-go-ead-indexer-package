@@ -1,0 +1,6 @@
+7,9c7
+<     <field name="unittitle_ssm">
+<   &lt;em&gt;Trente-deux reproductions des maquettes en couleurs, d'après les originaux des costumes &amp;amp; décor par Picasso pour le ballet "Le Tricorne"&lt;/em&gt;
+< </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Trente-deux reproductions des maquettes en couleurs, d'après les originaux des costumes &amp;amp; décor par Picasso pour le ballet "Le Tricorne"&lt;/em&gt;</field>

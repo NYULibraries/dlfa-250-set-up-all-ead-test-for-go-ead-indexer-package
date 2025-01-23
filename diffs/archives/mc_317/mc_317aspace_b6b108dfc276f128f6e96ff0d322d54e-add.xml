@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Capazzola, Dr. John M.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Capazzola, Dr. John M.   </field>
+27c27
+<     <field name="series_si">Capazzola, Dr. John M.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Capazzola, Dr. John M.   </field>

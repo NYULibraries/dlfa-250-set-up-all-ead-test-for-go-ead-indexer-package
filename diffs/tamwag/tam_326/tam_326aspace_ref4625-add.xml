@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Lopez, Teodoro
+<       
+<       Lopez, Consuelo (née Fuentes)
+<     </field>
+<     <field name="unittitle_teim">
+<       Lopez, Teodoro
+<       
+<       Lopez, Consuelo (née Fuentes)
+<     </field>
+---
+>     <field name="unittitle_ssm">Lopez, TeodoroLopez, Consuelo (née Fuentes)</field>
+>     <field name="unittitle_teim">Lopez, TeodoroLopez, Consuelo (née Fuentes)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Lopez, Teodoro
+<       
+<       Lopez, Consuelo (née Fuentes)
+<     </field>
+<     <field name="heading_ssm">
+<       Lopez, Teodoro
+<       
+<       Lopez, Consuelo (née Fuentes)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Lopez, TeodoroLopez, Consuelo (née Fuentes)</field>
+>     <field name="heading_ssm">Lopez, TeodoroLopez, Consuelo (née Fuentes)</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Freiwald, Dorothy Pearce W5C '48, '63 Ed.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Freiwald, Dorothy Pearce W5C '48, '63 Ed. </field>
+27c27
+<     <field name="series_si">Freiwald, Dorothy Pearce W5C '48, '63 Ed.&amp;nbsp;</field>
+---
+>     <field name="series_si">Freiwald, Dorothy Pearce W5C '48, '63 Ed. </field>

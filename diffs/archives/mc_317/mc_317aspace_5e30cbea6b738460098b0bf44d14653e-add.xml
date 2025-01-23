@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Valentino, Dr. Martin F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Valentino, Dr. Martin F. </field>
+27c27
+<     <field name="series_si">Valentino, Dr. Martin F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Valentino, Dr. Martin F. </field>

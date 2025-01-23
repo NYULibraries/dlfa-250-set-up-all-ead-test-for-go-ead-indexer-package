@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       de la Parra Gomez, Valentin
+<       
+<       de la Parra, Bernadine (née Heras)
+<     </field>
+<     <field name="unittitle_teim">
+<       de la Parra Gomez, Valentin
+<       
+<       de la Parra, Bernadine (née Heras)
+<     </field>
+---
+>     <field name="unittitle_ssm">de la Parra Gomez, Valentinde la Parra, Bernadine (née Heras)</field>
+>     <field name="unittitle_teim">de la Parra Gomez, Valentinde la Parra, Bernadine (née Heras)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; 
+<       de la Parra Gomez, Valentin
+<       
+<       de la Parra, Bernadine (née Heras)
+<     </field>
+<     <field name="heading_ssm">
+<       de la Parra Gomez, Valentin
+<       
+<       de la Parra, Bernadine (née Heras)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; de la Parra Gomez, Valentinde la Parra, Bernadine (née Heras)</field>
+>     <field name="heading_ssm">de la Parra Gomez, Valentinde la Parra, Bernadine (née Heras)</field>

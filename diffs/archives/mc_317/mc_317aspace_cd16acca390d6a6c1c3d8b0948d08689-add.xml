@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Nicholson, Arthur F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Nicholson, Arthur F. </field>
+27c27
+<     <field name="series_si">Nicholson, Arthur F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Nicholson, Arthur F. </field>

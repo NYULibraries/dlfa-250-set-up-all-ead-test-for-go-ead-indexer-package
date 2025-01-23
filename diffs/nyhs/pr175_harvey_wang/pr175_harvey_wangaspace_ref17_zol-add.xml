@@ -1,0 +1,56 @@
+19,42c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Paul Greer, Room 44&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Mike Galto, Owner, The Andrews Hotel
+<       
+<       
+<       Chris Schmidt, Room 127
+<       
+<       
+<       Paul Greer, Room 44
+<       
+<       
+<       Staircase, The Andrews Hotel
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;&lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;&lt;em&gt;Paul Greer, Room 44&lt;/em&gt;&lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Mike Galto, Owner, The Andrews HotelChris Schmidt, Room 127Paul Greer, Room 44Staircase, The Andrews Hotel</field>
+63,86c41,42
+<     <field name="series_si">Series I. Photographs &gt;&gt; THE ANDREWS HOTEL &gt;&gt; 
+<       &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Paul Greer, Room 44&lt;/em&gt;
+<       
+<       
+<       &lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Mike Galto, Owner, The Andrews Hotel
+<       
+<       
+<       Chris Schmidt, Room 127
+<       
+<       
+<       Paul Greer, Room 44
+<       
+<       
+<       Staircase, The Andrews Hotel
+<     </field>
+---
+>     <field name="series_si">Series I. Photographs &gt;&gt; THE ANDREWS HOTEL &gt;&gt; &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;&lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;&lt;em&gt;Paul Greer, Room 44&lt;/em&gt;&lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;</field>
+>     <field name="heading_ssm">Mike Galto, Owner, The Andrews HotelChris Schmidt, Room 127Paul Greer, Room 44Staircase, The Andrews Hotel</field>

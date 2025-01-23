@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Obrador, Martin
+<       
+<       Obrador, Monserrat
+<     </field>
+<     <field name="unittitle_teim">
+<       Obrador, Martin
+<       
+<       Obrador, Monserrat
+<     </field>
+---
+>     <field name="unittitle_ssm">Obrador, MartinObrador, Monserrat</field>
+>     <field name="unittitle_teim">Obrador, MartinObrador, Monserrat</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Obrador, Martin
+<       
+<       Obrador, Monserrat
+<     </field>
+<     <field name="heading_ssm">
+<       Obrador, Martin
+<       
+<       Obrador, Monserrat
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Obrador, MartinObrador, Monserrat</field>
+>     <field name="heading_ssm">Obrador, MartinObrador, Monserrat</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lang, Professor Theodore&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Lang, Professor Theodore </field>
+27c27
+<     <field name="series_si">Lang, Professor Theodore&amp;nbsp;</field>
+---
+>     <field name="series_si">Lang, Professor Theodore </field>

@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">&lt;em&gt;West African Pilot&lt;/em&gt;(Nigeria) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;West African Pilot&lt;/em&gt;(Nigeria) &lt;em&gt;&lt;/em&gt;</field>
+35c35
+<     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;West African Pilot&lt;/em&gt;(Nigeria) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;West African Pilot&lt;/em&gt;(Nigeria) &lt;em&gt;&lt;/em&gt;</field>

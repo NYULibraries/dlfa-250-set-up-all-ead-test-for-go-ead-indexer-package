@@ -1,0 +1,6 @@
+23,25c23
+<     <field name="scopecontent_teim">
+<       Other partner association volumes
+<     </field>
+---
+>     <field name="scopecontent_teim">Other partner association volumes</field>

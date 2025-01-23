@@ -1,0 +1,20 @@
+19,24c19,20
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;&lt;em&gt;Fortune&lt;/em&gt; Magazine Commercials&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Fortune Magazine Commercials
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;&lt;em&gt;Fortune&lt;/em&gt; Magazine Commercials&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Fortune Magazine Commercials</field>
+45,50c41,42
+<     <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.E. Miscellaneous &gt;&gt; 
+<       &lt;em&gt;&lt;em&gt;Fortune&lt;/em&gt; Magazine Commercials&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Fortune Magazine Commercials
+<     </field>
+---
+>     <field name="series_si">Series V. Audiovisual  [RESTRICTED] &gt;&gt; Subseries V.E. Miscellaneous &gt;&gt; &lt;em&gt;&lt;em&gt;Fortune&lt;/em&gt; Magazine Commercials&lt;/em&gt;</field>
+>     <field name="heading_ssm">Fortune Magazine Commercials</field>

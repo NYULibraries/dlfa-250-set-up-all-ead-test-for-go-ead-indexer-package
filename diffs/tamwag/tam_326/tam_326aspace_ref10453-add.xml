@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Villar Galvez, Francisco
+<       
+<       Villar, Maria (née Pradas)
+<     </field>
+<     <field name="unittitle_teim">
+<       Villar Galvez, Francisco
+<       
+<       Villar, Maria (née Pradas)
+<     </field>
+---
+>     <field name="unittitle_ssm">Villar Galvez, FranciscoVillar, Maria (née Pradas)</field>
+>     <field name="unittitle_teim">Villar Galvez, FranciscoVillar, Maria (née Pradas)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Villar Galvez, Francisco
+<       
+<       Villar, Maria (née Pradas)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Villar Galvez, FranciscoVillar, Maria (née Pradas)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Villar Galvez, Francisco
+<       
+<       Villar, Maria (née Pradas)
+<     </field>
+---
+>     <field name="heading_ssm">Villar Galvez, FranciscoVillar, Maria (née Pradas)</field>

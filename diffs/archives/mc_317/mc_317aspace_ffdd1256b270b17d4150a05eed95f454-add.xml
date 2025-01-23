@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tarrants, William A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tarrants, William A. </field>
+27c27
+<     <field name="series_si">Tarrants, William A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tarrants, William A. </field>

@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Montoya, Maria (née Segura)
+<       
+<       Montoya Castellanos, Pascasio
+<     </field>
+<     <field name="unittitle_teim">
+<       Montoya, Maria (née Segura)
+<       
+<       Montoya Castellanos, Pascasio
+<     </field>
+---
+>     <field name="unittitle_ssm">Montoya, Maria (née Segura)Montoya Castellanos, Pascasio</field>
+>     <field name="unittitle_teim">Montoya, Maria (née Segura)Montoya Castellanos, Pascasio</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Montoya, Maria (née Segura)
+<       
+<       Montoya Castellanos, Pascasio
+<     </field>
+<     <field name="heading_ssm">
+<       Montoya, Maria (née Segura)
+<       
+<       Montoya Castellanos, Pascasio
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Montoya, Maria (née Segura)Montoya Castellanos, Pascasio</field>
+>     <field name="heading_ssm">Montoya, Maria (née Segura)Montoya Castellanos, Pascasio</field>

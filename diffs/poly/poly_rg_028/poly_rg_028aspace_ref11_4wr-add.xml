@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Agosta, Vito &amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Agosta, Vito   </field>
+35c35
+<     <field name="series_si">A &gt;&gt; Agosta, Vito &amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">A &gt;&gt; Agosta, Vito   </field>

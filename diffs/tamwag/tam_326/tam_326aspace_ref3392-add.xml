@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Oliveros Gallan, Demetrio
+<       
+<       Oliveros Gallan, Valentina
+<     </field>
+<     <field name="unittitle_teim">
+<       Oliveros Gallan, Demetrio
+<       
+<       Oliveros Gallan, Valentina
+<     </field>
+---
+>     <field name="unittitle_ssm">Oliveros Gallan, DemetrioOliveros Gallan, Valentina</field>
+>     <field name="unittitle_teim">Oliveros Gallan, DemetrioOliveros Gallan, Valentina</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Oliveros Gallan, Demetrio
+<       
+<       Oliveros Gallan, Valentina
+<     </field>
+<     <field name="heading_ssm">
+<       Oliveros Gallan, Demetrio
+<       
+<       Oliveros Gallan, Valentina
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Oliveros Gallan, DemetrioOliveros Gallan, Valentina</field>
+>     <field name="heading_ssm">Oliveros Gallan, DemetrioOliveros Gallan, Valentina</field>

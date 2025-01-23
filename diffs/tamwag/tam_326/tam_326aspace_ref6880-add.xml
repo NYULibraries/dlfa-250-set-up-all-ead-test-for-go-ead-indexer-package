@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Muela Iniguez, Victor
+<       
+<       Muela, Marina (née Dominguez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Muela Iniguez, Victor
+<       
+<       Muela, Marina (née Dominguez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Muela Iniguez, VictorMuela, Marina (née Dominguez)</field>
+>     <field name="unittitle_teim">Muela Iniguez, VictorMuela, Marina (née Dominguez)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Muela Iniguez, Victor
+<       
+<       Muela, Marina (née Dominguez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Muela Iniguez, VictorMuela, Marina (née Dominguez)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Muela Iniguez, Victor
+<       
+<       Muela, Marina (née Dominguez)
+<     </field>
+---
+>     <field name="heading_ssm">Muela Iniguez, VictorMuela, Marina (née Dominguez)</field>

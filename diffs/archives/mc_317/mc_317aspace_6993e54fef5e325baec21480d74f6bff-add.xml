@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Lamarsh, John R.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Lamarsh, John R. </field>
+27c27
+<     <field name="series_si">Lamarsh, John R.&amp;nbsp;</field>
+---
+>     <field name="series_si">Lamarsh, John R. </field>

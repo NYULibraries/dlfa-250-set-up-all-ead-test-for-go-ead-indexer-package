@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Garfield, Shoshanna&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Garfield, Shoshanna </field>
+27c27
+<     <field name="series_si">Garfield, Shoshanna&amp;nbsp;</field>
+---
+>     <field name="series_si">Garfield, Shoshanna </field>

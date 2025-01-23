@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vasquez, Julia (née Rodriguez Martin)
+<       
+<       Vasquez Puebla, José
+<     </field>
+<     <field name="unittitle_teim">
+<       Vasquez, Julia (née Rodriguez Martin)
+<       
+<       Vasquez Puebla, José
+<     </field>
+---
+>     <field name="unittitle_ssm">Vasquez, Julia (née Rodriguez Martin)Vasquez Puebla, José</field>
+>     <field name="unittitle_teim">Vasquez, Julia (née Rodriguez Martin)Vasquez Puebla, José</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vasquez, Julia (née Rodriguez Martin)
+<       
+<       Vasquez Puebla, José
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vasquez, Julia (née Rodriguez Martin)Vasquez Puebla, José</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vasquez, Julia (née Rodriguez Martin)
+<       
+<       Vasquez Puebla, José
+<     </field>
+---
+>     <field name="heading_ssm">Vasquez, Julia (née Rodriguez Martin)Vasquez Puebla, José</field>

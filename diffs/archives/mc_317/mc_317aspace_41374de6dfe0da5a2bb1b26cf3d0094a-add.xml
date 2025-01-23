@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zentner, Arnold S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zentner, Arnold S. </field>
+27c27
+<     <field name="series_si">Zentner, Arnold S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zentner, Arnold S. </field>

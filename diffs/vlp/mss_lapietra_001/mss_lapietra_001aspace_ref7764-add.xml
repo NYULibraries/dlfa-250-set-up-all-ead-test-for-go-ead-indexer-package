@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">2. Oversize green canvas album (unlabelled) containing photographs numbered 99-200</field>
+---
+>     <field name="parent_unittitles_ssm">6. Interiors taken by Anna Marx, 1986</field>
+18c18
+<     <field name="parent_unittitles_teim">2. Oversize green canvas album (unlabelled) containing photographs numbered 99-200</field>
+---
+>     <field name="parent_unittitles_teim">6. Interiors taken by Anna Marx, 1986</field>
+46,47c46,47
+<     <field name="series_sim">2. Oversize green canvas album (unlabelled) containing photographs numbered 99-200</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 2. Oversize green canvas album (unlabelled) containing photographs numbered 99-200 &gt;&gt; Duplicate of II.B.1.LVI. C.1.-2.19.-77.</field>
+---
+>     <field name="series_sim">6. Interiors taken by Anna Marx, 1986</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 6. Interiors taken by Anna Marx, 1986 &gt;&gt; Duplicate of II.B.1.LVI. C.1.-2.19.-77.</field>

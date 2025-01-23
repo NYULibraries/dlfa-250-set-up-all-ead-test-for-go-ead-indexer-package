@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vidal, Carmen
+<       
+<       Vidal Palau, Rigoberto
+<     </field>
+<     <field name="unittitle_teim">
+<       Vidal, Carmen
+<       
+<       Vidal Palau, Rigoberto
+<     </field>
+---
+>     <field name="unittitle_ssm">Vidal, CarmenVidal Palau, Rigoberto</field>
+>     <field name="unittitle_teim">Vidal, CarmenVidal Palau, Rigoberto</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vidal, Carmen
+<       
+<       Vidal Palau, Rigoberto
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vidal, CarmenVidal Palau, Rigoberto</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vidal, Carmen
+<       
+<       Vidal Palau, Rigoberto
+<     </field>
+---
+>     <field name="heading_ssm">Vidal, CarmenVidal Palau, Rigoberto</field>

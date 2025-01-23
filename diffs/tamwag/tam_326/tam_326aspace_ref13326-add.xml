@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Gruart Casanovas, Martin
+<       
+<       Gruart, Maria (née Sureda)
+<     </field>
+<     <field name="unittitle_teim">
+<       Gruart Casanovas, Martin
+<       
+<       Gruart, Maria (née Sureda)
+<     </field>
+---
+>     <field name="unittitle_ssm">Gruart Casanovas, MartinGruart, Maria (née Sureda)</field>
+>     <field name="unittitle_teim">Gruart Casanovas, MartinGruart, Maria (née Sureda)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; 
+<       Gruart Casanovas, Martin
+<       
+<       Gruart, Maria (née Sureda)
+<     </field>
+<     <field name="heading_ssm">
+<       Gruart Casanovas, Martin
+<       
+<       Gruart, Maria (née Sureda)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series B: International Rescue Case Files &gt;&gt; Gruart Casanovas, MartinGruart, Maria (née Sureda)</field>
+>     <field name="heading_ssm">Gruart Casanovas, MartinGruart, Maria (née Sureda)</field>

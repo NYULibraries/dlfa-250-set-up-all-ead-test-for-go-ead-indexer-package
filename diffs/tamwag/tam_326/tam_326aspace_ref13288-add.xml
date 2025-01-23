@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Bellarmina, Maestre
+<       
+<       Bellarmina, Alonso
+<       
+<       Naval, Elvira
+<     </field>
+<     <field name="unittitle_teim">
+<       Bellarmina, Maestre
+<       
+<       Bellarmina, Alonso
+<       
+<       Naval, Elvira
+<     </field>
+---
+>     <field name="unittitle_ssm">Bellarmina, MaestreBellarmina, AlonsoNaval, Elvira</field>
+>     <field name="unittitle_teim">Bellarmina, MaestreBellarmina, AlonsoNaval, Elvira</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Bellarmina, Maestre
+<       
+<       Bellarmina, Alonso
+<       
+<       Naval, Elvira
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Bellarmina, MaestreBellarmina, AlonsoNaval, Elvira</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Bellarmina, Maestre
+<       
+<       Bellarmina, Alonso
+<       
+<       Naval, Elvira
+<     </field>
+---
+>     <field name="heading_ssm">Bellarmina, MaestreBellarmina, AlonsoNaval, Elvira</field>

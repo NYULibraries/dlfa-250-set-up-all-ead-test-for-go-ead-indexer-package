@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Research:&amp;nbsp;Grand Forks American&amp;nbsp;articles (copies)</field>
+---
+>     <field name="unittitle_ssm">Research: Grand Forks American articles (copies)</field>
+24c24
+<     <field name="series_si">Research:&amp;nbsp;Grand Forks American&amp;nbsp;articles (copies)</field>
+---
+>     <field name="series_si">Research: Grand Forks American articles (copies)</field>

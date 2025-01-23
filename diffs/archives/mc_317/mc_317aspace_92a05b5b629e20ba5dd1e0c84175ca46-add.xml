@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Sullivan, John F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Sullivan, John F. </field>
+27c27
+<     <field name="series_si">Sullivan, John F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Sullivan, John F. </field>

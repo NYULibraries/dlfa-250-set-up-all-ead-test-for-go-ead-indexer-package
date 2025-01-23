@@ -1,0 +1,12 @@
+15,17c15
+<     <field name="scopecontent_teim">
+<       Chronology of Naval History Society Publications
+<     </field>
+---
+>     <field name="scopecontent_teim">Chronology of Naval History Society Publications</field>
+34,36c32
+<     <field name="scopecontent_teim">
+<       Arrangement
+<     </field>
+---
+>     <field name="scopecontent_teim">Arrangement</field>

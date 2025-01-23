@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Lopez, Juana (née Pena Bravo)
+<       
+<       Lopez Cordon, Fernando
+<     </field>
+<     <field name="unittitle_teim">
+<       Lopez, Juana (née Pena Bravo)
+<       
+<       Lopez Cordon, Fernando
+<     </field>
+---
+>     <field name="unittitle_ssm">Lopez, Juana (née Pena Bravo)Lopez Cordon, Fernando</field>
+>     <field name="unittitle_teim">Lopez, Juana (née Pena Bravo)Lopez Cordon, Fernando</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Lopez, Juana (née Pena Bravo)
+<       
+<       Lopez Cordon, Fernando
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Lopez, Juana (née Pena Bravo)Lopez Cordon, Fernando</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Lopez, Juana (née Pena Bravo)
+<       
+<       Lopez Cordon, Fernando
+<     </field>
+---
+>     <field name="heading_ssm">Lopez, Juana (née Pena Bravo)Lopez Cordon, Fernando</field>

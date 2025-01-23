@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Berman, William 28' D.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Berman, William 28' D. </field>
+27c27
+<     <field name="series_si">Berman, William 28' D.&amp;nbsp;</field>
+---
+>     <field name="series_si">Berman, William 28' D. </field>

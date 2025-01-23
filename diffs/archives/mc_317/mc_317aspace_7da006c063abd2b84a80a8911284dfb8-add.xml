@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Abrams, Joan D.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Abrams, Joan D.   </field>
+27c27
+<     <field name="series_si">Abrams, Joan D.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Abrams, Joan D.   </field>

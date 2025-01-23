@@ -1,0 +1,16 @@
+18,28c18,20
+<     <field name="scopecontent_teim">
+<       Folder: Travellers Insurance, Hartford, CT (2 folders)
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Boys High School, Reading, PA
+<       
+<     </field>
+<     <field name="scopecontent_teim">
+<       Folder: Bank of Pittsburgh
+<     </field>
+---
+>     <field name="scopecontent_teim">Folder: Travellers Insurance, Hartford, CT (2 folders)</field>
+>     <field name="scopecontent_teim">Folder: Boys High School, Reading, PA</field>
+>     <field name="scopecontent_teim">Folder: Bank of Pittsburgh</field>

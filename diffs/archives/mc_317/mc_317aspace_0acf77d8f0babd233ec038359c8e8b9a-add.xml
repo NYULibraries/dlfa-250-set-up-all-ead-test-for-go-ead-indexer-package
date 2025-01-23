@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Eames, David B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Eames, David B. </field>
+27c27
+<     <field name="series_si">Eames, David B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Eames, David B. </field>

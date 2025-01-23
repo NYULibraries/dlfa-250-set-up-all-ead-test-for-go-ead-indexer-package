@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Mexican American Legal Defense and Education Fund&amp;nbsp;(MALDEF)</field>
+---
+>     <field name="unittitle_ssm">Mexican American Legal Defense and Education Fund (MALDEF)</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Mexican American Legal Defense and Education Fund&amp;nbsp;(MALDEF)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Mexican American Legal Defense and Education Fund (MALDEF)</field>

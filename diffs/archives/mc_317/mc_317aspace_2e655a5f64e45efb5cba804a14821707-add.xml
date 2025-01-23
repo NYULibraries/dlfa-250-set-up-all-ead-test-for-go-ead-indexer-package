@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Canfield, Cass.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Canfield, Cass.   </field>
+27c27
+<     <field name="series_si">Canfield, Cass.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Canfield, Cass.   </field>

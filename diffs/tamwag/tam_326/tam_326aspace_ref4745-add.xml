@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Bussot Rourich, Dimas
+<       
+<       Bussot, Amparo (née Ferrer)
+<     </field>
+<     <field name="unittitle_teim">
+<       Bussot Rourich, Dimas
+<       
+<       Bussot, Amparo (née Ferrer)
+<     </field>
+---
+>     <field name="unittitle_ssm">Bussot Rourich, DimasBussot, Amparo (née Ferrer)</field>
+>     <field name="unittitle_teim">Bussot Rourich, DimasBussot, Amparo (née Ferrer)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Bussot Rourich, Dimas
+<       
+<       Bussot, Amparo (née Ferrer)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Bussot Rourich, DimasBussot, Amparo (née Ferrer)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Bussot Rourich, Dimas
+<       
+<       Bussot, Amparo (née Ferrer)
+<     </field>
+---
+>     <field name="heading_ssm">Bussot Rourich, DimasBussot, Amparo (née Ferrer)</field>

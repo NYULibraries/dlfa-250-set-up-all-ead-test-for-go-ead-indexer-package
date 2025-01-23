@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Winn, M. B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Winn, M. B. </field>
+27c27
+<     <field name="series_si">Winn, M. B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Winn, M. B. </field>

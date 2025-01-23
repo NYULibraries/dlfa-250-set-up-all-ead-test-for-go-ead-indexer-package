@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Tenreiro Leira, Antonio
+<       
+<       Tenreiro, Maria del Carmen (née Cueli Jocha)
+<     </field>
+<     <field name="unittitle_teim">
+<       Tenreiro Leira, Antonio
+<       
+<       Tenreiro, Maria del Carmen (née Cueli Jocha)
+<     </field>
+---
+>     <field name="unittitle_ssm">Tenreiro Leira, AntonioTenreiro, Maria del Carmen (née Cueli Jocha)</field>
+>     <field name="unittitle_teim">Tenreiro Leira, AntonioTenreiro, Maria del Carmen (née Cueli Jocha)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Tenreiro Leira, Antonio
+<       
+<       Tenreiro, Maria del Carmen (née Cueli Jocha)
+<     </field>
+<     <field name="heading_ssm">
+<       Tenreiro Leira, Antonio
+<       
+<       Tenreiro, Maria del Carmen (née Cueli Jocha)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Tenreiro Leira, AntonioTenreiro, Maria del Carmen (née Cueli Jocha)</field>
+>     <field name="heading_ssm">Tenreiro Leira, AntonioTenreiro, Maria del Carmen (née Cueli Jocha)</field>

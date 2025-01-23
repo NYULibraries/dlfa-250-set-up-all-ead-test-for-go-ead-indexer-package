@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">LX. Camera Verde</field>
+---
+>     <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
+18c18
+<     <field name="parent_unittitles_teim">LX. Camera Verde</field>
+---
+>     <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
+46,47c46,47
+<     <field name="series_sim">LX. Camera Verde</field>
+<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LX. Camera Verde &gt;&gt; LX.-4. general view</field>
+---
+>     <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
+>     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; LX.-4. general view</field>

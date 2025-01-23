@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Butts, Calvin (Reverend)&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Butts, Calvin (Reverend)   </field>
+27c27
+<     <field name="series_si">Butts, Calvin (Reverend)&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Butts, Calvin (Reverend)   </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bernstein, Richard S. Esq., '64 L&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bernstein, Richard S. Esq., '64 L </field>
+27c27
+<     <field name="series_si">Bernstein, Richard S. Esq., '64 L&amp;nbsp;</field>
+---
+>     <field name="series_si">Bernstein, Richard S. Esq., '64 L </field>

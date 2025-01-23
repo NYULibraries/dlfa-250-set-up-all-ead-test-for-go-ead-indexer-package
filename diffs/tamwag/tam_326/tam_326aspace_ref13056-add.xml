@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Huerta Dominguez, Emilio
+<       
+<       Laroche, Liliane
+<     </field>
+<     <field name="unittitle_teim">
+<       Huerta Dominguez, Emilio
+<       
+<       Laroche, Liliane
+<     </field>
+---
+>     <field name="unittitle_ssm">Huerta Dominguez, EmilioLaroche, Liliane</field>
+>     <field name="unittitle_teim">Huerta Dominguez, EmilioLaroche, Liliane</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Huerta Dominguez, Emilio
+<       
+<       Laroche, Liliane
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Huerta Dominguez, EmilioLaroche, Liliane</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Huerta Dominguez, Emilio
+<       
+<       Laroche, Liliane
+<     </field>
+---
+>     <field name="heading_ssm">Huerta Dominguez, EmilioLaroche, Liliane</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Korman,&amp;nbsp; Eleanore Z.</field>
+---
+>     <field name="unittitle_ssm">Korman,  Eleanore Z.</field>
+27c27
+<     <field name="series_si">Korman,&amp;nbsp; Eleanore Z.</field>
+---
+>     <field name="series_si">Korman,  Eleanore Z.</field>

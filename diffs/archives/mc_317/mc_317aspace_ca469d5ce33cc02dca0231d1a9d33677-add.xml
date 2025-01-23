@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Kugelman, Irwin J.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Kugelman, Irwin J. </field>
+27c27
+<     <field name="series_si">Kugelman, Irwin J.&amp;nbsp;</field>
+---
+>     <field name="series_si">Kugelman, Irwin J. </field>

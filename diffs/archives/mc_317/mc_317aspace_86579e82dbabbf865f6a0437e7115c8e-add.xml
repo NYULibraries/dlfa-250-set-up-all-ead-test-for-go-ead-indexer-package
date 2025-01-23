@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Buteaux, Dr. Raymond D.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Buteaux, Dr. Raymond D.   </field>
+27c27
+<     <field name="series_si">Buteaux, Dr. Raymond D.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Buteaux, Dr. Raymond D.   </field>

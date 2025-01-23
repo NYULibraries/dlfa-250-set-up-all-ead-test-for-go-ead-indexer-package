@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Technology II (Heights)</field>
+---
+>     <field name="parent_unittitles_ssm">Washington Square - Properties</field>
+18c18
+<     <field name="parent_unittitles_teim">Technology II (Heights)</field>
+---
+>     <field name="parent_unittitles_teim">Washington Square - Properties</field>
+46,47c46,47
+<     <field name="series_sim">Technology II (Heights)</field>
+<     <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries C: 1965 - 1966 &gt;&gt; Sub-Subseries D: Space and Buildings &gt;&gt; Technology II (Heights) &gt;&gt; Letter from Hamilton P. Smith to Chancellor Russell D. Niles</field>
+---
+>     <field name="series_sim">Washington Square - Properties</field>
+>     <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries C: 1965 - 1966 &gt;&gt; Sub-Subseries D: Space and Buildings &gt;&gt; Washington Square - Properties &gt;&gt; Letter from Hamilton P. Smith to Chancellor Russell D. Niles</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Reiner, Theodore S.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Reiner, Theodore S. </field>
+27c27
+<     <field name="series_si">Reiner, Theodore S.&amp;nbsp;</field>
+---
+>     <field name="series_si">Reiner, Theodore S. </field>

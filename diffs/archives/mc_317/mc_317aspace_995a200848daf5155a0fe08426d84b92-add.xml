@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dinas, George C. '55&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dinas, George C. '55 </field>
+27c27
+<     <field name="series_si">Dinas, George C. '55&amp;nbsp;</field>
+---
+>     <field name="series_si">Dinas, George C. '55 </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Sofaer, Hon. Abraham D.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Sofaer, Hon. Abraham D. </field>
+27c27
+<     <field name="series_si">Sofaer, Hon. Abraham D.&amp;nbsp;</field>
+---
+>     <field name="series_si">Sofaer, Hon. Abraham D. </field>

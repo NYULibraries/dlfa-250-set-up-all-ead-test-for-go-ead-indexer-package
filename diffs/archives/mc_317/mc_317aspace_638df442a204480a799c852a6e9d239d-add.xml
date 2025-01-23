@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burke, John F.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burke, John F.   </field>
+27c27
+<     <field name="series_si">Burke, John F.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burke, John F.   </field>

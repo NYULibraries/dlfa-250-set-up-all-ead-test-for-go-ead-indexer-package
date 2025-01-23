@@ -1,0 +1,18 @@
+21,23c21
+<     <field name="scopecontent_teim">
+<       Historical Note
+<     </field>
+---
+>     <field name="scopecontent_teim">Historical Note</field>
+25,27c23
+<     <field name="scopecontent_teim">
+<       Arrangement
+<     </field>
+---
+>     <field name="scopecontent_teim">Arrangement</field>
+29,31c25
+<     <field name="scopecontent_teim">
+<       Related Material at The New-York Historical Society
+<     </field>
+---
+>     <field name="scopecontent_teim">Related Material at The New-York Historical Society</field>

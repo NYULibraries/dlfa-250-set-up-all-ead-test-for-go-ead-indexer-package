@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Thach, Charles&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Thach, Charles </field>
+27c27
+<     <field name="series_si">Thach, Charles&amp;nbsp;</field>
+---
+>     <field name="series_si">Thach, Charles </field>

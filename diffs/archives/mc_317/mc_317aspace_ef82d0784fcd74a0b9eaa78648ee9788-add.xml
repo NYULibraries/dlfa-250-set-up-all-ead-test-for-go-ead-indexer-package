@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Cappell, Sylvain&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Cappell, Sylvain   </field>
+27c27
+<     <field name="series_si">Cappell, Sylvain&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Cappell, Sylvain   </field>

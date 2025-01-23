@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Anto Gracia, Emilio
+<       
+<       Anto Gracia, Aurora
+<     </field>
+<     <field name="unittitle_teim">
+<       Anto Gracia, Emilio
+<       
+<       Anto Gracia, Aurora
+<     </field>
+---
+>     <field name="unittitle_ssm">Anto Gracia, EmilioAnto Gracia, Aurora</field>
+>     <field name="unittitle_teim">Anto Gracia, EmilioAnto Gracia, Aurora</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Anto Gracia, Emilio
+<       
+<       Anto Gracia, Aurora
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Anto Gracia, EmilioAnto Gracia, Aurora</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Anto Gracia, Emilio
+<       
+<       Anto Gracia, Aurora
+<     </field>
+---
+>     <field name="heading_ssm">Anto Gracia, EmilioAnto Gracia, Aurora</field>

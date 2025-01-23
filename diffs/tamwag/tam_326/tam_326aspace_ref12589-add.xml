@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Marques, Florencio
+<       
+<       Marques, Marie
+<     </field>
+<     <field name="unittitle_teim">
+<       Marques, Florencio
+<       
+<       Marques, Marie
+<     </field>
+---
+>     <field name="unittitle_ssm">Marques, FlorencioMarques, Marie</field>
+>     <field name="unittitle_teim">Marques, FlorencioMarques, Marie</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Marques, Florencio
+<       
+<       Marques, Marie
+<     </field>
+<     <field name="heading_ssm">
+<       Marques, Florencio
+<       
+<       Marques, Marie
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Marques, FlorencioMarques, Marie</field>
+>     <field name="heading_ssm">Marques, FlorencioMarques, Marie</field>

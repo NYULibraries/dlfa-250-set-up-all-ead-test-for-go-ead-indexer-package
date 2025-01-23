@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Flores Bautista, Eustaquio
+<       
+<       Flores, Carlota (née Blanco)
+<     </field>
+<     <field name="unittitle_teim">
+<       Flores Bautista, Eustaquio
+<       
+<       Flores, Carlota (née Blanco)
+<     </field>
+---
+>     <field name="unittitle_ssm">Flores Bautista, EustaquioFlores, Carlota (née Blanco)</field>
+>     <field name="unittitle_teim">Flores Bautista, EustaquioFlores, Carlota (née Blanco)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Flores Bautista, Eustaquio
+<       
+<       Flores, Carlota (née Blanco)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Flores Bautista, EustaquioFlores, Carlota (née Blanco)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Flores Bautista, Eustaquio
+<       
+<       Flores, Carlota (née Blanco)
+<     </field>
+---
+>     <field name="heading_ssm">Flores Bautista, EustaquioFlores, Carlota (née Blanco)</field>

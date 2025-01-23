@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Phoenix, Lawros,&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Phoenix, Lawros, </field>
+27c27
+<     <field name="series_si">Phoenix, Lawros,&amp;nbsp;</field>
+---
+>     <field name="series_si">Phoenix, Lawros, </field>

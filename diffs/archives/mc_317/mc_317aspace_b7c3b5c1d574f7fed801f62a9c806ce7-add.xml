@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Zorbaugh, Geraldine B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Zorbaugh, Geraldine B. </field>
+27c27
+<     <field name="series_si">Zorbaugh, Geraldine B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Zorbaugh, Geraldine B. </field>

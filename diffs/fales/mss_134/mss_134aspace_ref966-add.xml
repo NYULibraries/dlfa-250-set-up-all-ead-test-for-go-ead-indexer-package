@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;The Everybody-Bring-a-Dish&lt;/em&gt;
+<       &lt;em&gt;Cookbook&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       The Everybody-Bring-a-Dish
+<       Cookbook
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;The Everybody-Bring-a-Dish&lt;/em&gt;&lt;em&gt;Cookbook&lt;/em&gt;</field>
+>     <field name="unittitle_teim">The Everybody-Bring-a-DishCookbook</field>
+43,50c37,38
+<     <field name="series_si">Series IV: Brownstone's Notes &gt;&gt; 
+<       &lt;em&gt;The Everybody-Bring-a-Dish&lt;/em&gt;
+<       &lt;em&gt;Cookbook&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       The Everybody-Bring-a-Dish
+<       Cookbook
+<     </field>
+---
+>     <field name="series_si">Series IV: Brownstone's Notes &gt;&gt; &lt;em&gt;The Everybody-Bring-a-Dish&lt;/em&gt;&lt;em&gt;Cookbook&lt;/em&gt;</field>
+>     <field name="heading_ssm">The Everybody-Bring-a-DishCookbook</field>

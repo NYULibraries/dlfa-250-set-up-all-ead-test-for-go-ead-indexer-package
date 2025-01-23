@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carleton, Peter&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carleton, Peter   </field>
+27c27
+<     <field name="series_si">Carleton, Peter&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carleton, Peter   </field>

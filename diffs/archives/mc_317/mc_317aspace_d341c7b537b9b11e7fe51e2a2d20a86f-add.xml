@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Cartter, Alan Murray&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Cartter, Alan Murray   </field>
+27c27
+<     <field name="series_si">Cartter, Alan Murray&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Cartter, Alan Murray   </field>

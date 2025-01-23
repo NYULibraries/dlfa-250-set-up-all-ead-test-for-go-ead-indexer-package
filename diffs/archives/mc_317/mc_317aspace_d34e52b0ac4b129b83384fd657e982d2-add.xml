@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Ferrero di Rocaferrera, Guiseppe M. Dr.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Ferrero di Rocaferrera, Guiseppe M. Dr. </field>
+27c27
+<     <field name="series_si">Ferrero di Rocaferrera, Guiseppe M. Dr.&amp;nbsp;</field>
+---
+>     <field name="series_si">Ferrero di Rocaferrera, Guiseppe M. Dr. </field>

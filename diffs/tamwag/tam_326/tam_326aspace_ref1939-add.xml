@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Vallejo Ortego, Pedro
+<       
+<       Vallejo, Laura (née Gabancho)
+<     </field>
+<     <field name="unittitle_teim">
+<       Vallejo Ortego, Pedro
+<       
+<       Vallejo, Laura (née Gabancho)
+<     </field>
+---
+>     <field name="unittitle_ssm">Vallejo Ortego, PedroVallejo, Laura (née Gabancho)</field>
+>     <field name="unittitle_teim">Vallejo Ortego, PedroVallejo, Laura (née Gabancho)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Vallejo Ortego, Pedro
+<       
+<       Vallejo, Laura (née Gabancho)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Vallejo Ortego, PedroVallejo, Laura (née Gabancho)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Vallejo Ortego, Pedro
+<       
+<       Vallejo, Laura (née Gabancho)
+<     </field>
+---
+>     <field name="heading_ssm">Vallejo Ortego, PedroVallejo, Laura (née Gabancho)</field>

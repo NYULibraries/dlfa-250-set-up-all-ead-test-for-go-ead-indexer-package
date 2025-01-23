@@ -1,0 +1,24 @@
+12,19c12,13
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;
+<       Paul Weiler
+<     </field>
+<     <field name="unittitle_teim">
+<       The Future of Labor and Employment Law
+<       Paul Weiler
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;Paul Weiler</field>
+>     <field name="unittitle_teim">The Future of Labor and Employment LawPaul Weiler</field>
+40,47c34,35
+<     <field name="series_si">
+<       &lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;
+<       Paul Weiler
+<     </field>
+<     <field name="heading_ssm">
+<       The Future of Labor and Employment Law
+<       Paul Weiler
+<     </field>
+---
+>     <field name="series_si">&lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;Paul Weiler</field>
+>     <field name="heading_ssm">The Future of Labor and Employment LawPaul Weiler</field>

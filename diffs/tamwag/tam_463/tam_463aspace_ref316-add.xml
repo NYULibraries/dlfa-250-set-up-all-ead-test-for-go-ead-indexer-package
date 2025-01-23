@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Research:&amp;nbsp;Chicago Tribune&amp;nbsp;articles about the murder of Liggett</field>
+---
+>     <field name="unittitle_ssm">Research: Chicago Tribune articles about the murder of Liggett</field>
+24c24
+<     <field name="series_si">Research:&amp;nbsp;Chicago Tribune&amp;nbsp;articles about the murder of Liggett</field>
+---
+>     <field name="series_si">Research: Chicago Tribune articles about the murder of Liggett</field>

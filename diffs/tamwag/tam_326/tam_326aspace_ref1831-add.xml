@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Burillo, Mariano
+<       
+<       Burillo, Francisca (née Lopez [?])
+<     </field>
+<     <field name="unittitle_teim">
+<       Burillo, Mariano
+<       
+<       Burillo, Francisca (née Lopez [?])
+<     </field>
+---
+>     <field name="unittitle_ssm">Burillo, MarianoBurillo, Francisca (née Lopez [?])</field>
+>     <field name="unittitle_teim">Burillo, MarianoBurillo, Francisca (née Lopez [?])</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Burillo, Mariano
+<       
+<       Burillo, Francisca (née Lopez [?])
+<     </field>
+<     <field name="heading_ssm">
+<       Burillo, Mariano
+<       
+<       Burillo, Francisca (née Lopez [?])
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Burillo, MarianoBurillo, Francisca (née Lopez [?])</field>
+>     <field name="heading_ssm">Burillo, MarianoBurillo, Francisca (née Lopez [?])</field>

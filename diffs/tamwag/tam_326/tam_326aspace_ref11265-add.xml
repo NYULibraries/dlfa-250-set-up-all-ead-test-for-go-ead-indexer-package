@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Cubilo Portella, Salvador
+<       
+<       Cubilo, Antoinette (née Pinos Clement)
+<     </field>
+<     <field name="unittitle_teim">
+<       Cubilo Portella, Salvador
+<       
+<       Cubilo, Antoinette (née Pinos Clement)
+<     </field>
+---
+>     <field name="unittitle_ssm">Cubilo Portella, SalvadorCubilo, Antoinette (née Pinos Clement)</field>
+>     <field name="unittitle_teim">Cubilo Portella, SalvadorCubilo, Antoinette (née Pinos Clement)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Cubilo Portella, Salvador
+<       
+<       Cubilo, Antoinette (née Pinos Clement)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cubilo Portella, SalvadorCubilo, Antoinette (née Pinos Clement)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Cubilo Portella, Salvador
+<       
+<       Cubilo, Antoinette (née Pinos Clement)
+<     </field>
+---
+>     <field name="heading_ssm">Cubilo Portella, SalvadorCubilo, Antoinette (née Pinos Clement)</field>

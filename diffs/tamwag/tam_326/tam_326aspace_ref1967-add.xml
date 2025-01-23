@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Domenech Escoda, Higinio
+<       
+<       Domenech, Maria (née Nadal Amaya)
+<     </field>
+<     <field name="unittitle_teim">
+<       Domenech Escoda, Higinio
+<       
+<       Domenech, Maria (née Nadal Amaya)
+<     </field>
+---
+>     <field name="unittitle_ssm">Domenech Escoda, HiginioDomenech, Maria (née Nadal Amaya)</field>
+>     <field name="unittitle_teim">Domenech Escoda, HiginioDomenech, Maria (née Nadal Amaya)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Domenech Escoda, Higinio
+<       
+<       Domenech, Maria (née Nadal Amaya)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Domenech Escoda, HiginioDomenech, Maria (née Nadal Amaya)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Domenech Escoda, Higinio
+<       
+<       Domenech, Maria (née Nadal Amaya)
+<     </field>
+---
+>     <field name="heading_ssm">Domenech Escoda, HiginioDomenech, Maria (née Nadal Amaya)</field>

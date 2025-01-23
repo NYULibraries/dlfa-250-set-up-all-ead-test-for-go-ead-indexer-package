@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">National Council of the Churches of Christ in the USA&amp;nbsp;(NCC)</field>
+---
+>     <field name="unittitle_ssm">National Council of the Churches of Christ in the USA (NCC)</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; National Council of the Churches of Christ in the USA&amp;nbsp;(NCC)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; National Council of the Churches of Christ in the USA (NCC)</field>

@@ -1,0 +1,12 @@
+19,21c19
+<     <field name="scopecontent_teim">
+<       Cablegrams
+<     </field>
+---
+>     <field name="scopecontent_teim">Cablegrams</field>
+33,35c31
+<     <field name="scopecontent_teim">
+<       Reports
+<     </field>
+---
+>     <field name="scopecontent_teim">Reports</field>

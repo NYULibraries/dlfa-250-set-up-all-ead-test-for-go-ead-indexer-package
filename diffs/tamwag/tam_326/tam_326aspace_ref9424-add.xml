@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Utreras Cortez, Bartolome
+<       
+<       Utreras Cortez, Celestina
+<     </field>
+<     <field name="unittitle_teim">
+<       Utreras Cortez, Bartolome
+<       
+<       Utreras Cortez, Celestina
+<     </field>
+---
+>     <field name="unittitle_ssm">Utreras Cortez, BartolomeUtreras Cortez, Celestina</field>
+>     <field name="unittitle_teim">Utreras Cortez, BartolomeUtreras Cortez, Celestina</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Utreras Cortez, Bartolome
+<       
+<       Utreras Cortez, Celestina
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Utreras Cortez, BartolomeUtreras Cortez, Celestina</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Utreras Cortez, Bartolome
+<       
+<       Utreras Cortez, Celestina
+<     </field>
+---
+>     <field name="heading_ssm">Utreras Cortez, BartolomeUtreras Cortez, Celestina</field>

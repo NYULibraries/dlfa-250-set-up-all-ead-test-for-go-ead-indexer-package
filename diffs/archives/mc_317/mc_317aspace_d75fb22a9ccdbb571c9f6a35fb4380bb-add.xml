@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Symons, George E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Symons, George E. </field>
+27c27
+<     <field name="series_si">Symons, George E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Symons, George E. </field>

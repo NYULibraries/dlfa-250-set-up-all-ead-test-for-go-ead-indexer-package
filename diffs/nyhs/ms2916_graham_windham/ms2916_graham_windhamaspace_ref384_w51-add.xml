@@ -1,0 +1,7 @@
+23,26c23
+<     <field name="scopecontent_teim">
+<       Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
+<       
+<     </field>
+---
+>     <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>

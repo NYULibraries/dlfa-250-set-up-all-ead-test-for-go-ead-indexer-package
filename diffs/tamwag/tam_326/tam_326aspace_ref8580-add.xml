@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Lison Lorenzo, Aurelio
+<       
+<       Lison Lorenzo, Alice (née de Loma)
+<     </field>
+<     <field name="unittitle_teim">
+<       Lison Lorenzo, Aurelio
+<       
+<       Lison Lorenzo, Alice (née de Loma)
+<     </field>
+---
+>     <field name="unittitle_ssm">Lison Lorenzo, AurelioLison Lorenzo, Alice (née de Loma)</field>
+>     <field name="unittitle_teim">Lison Lorenzo, AurelioLison Lorenzo, Alice (née de Loma)</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Lison Lorenzo, Aurelio
+<       
+<       Lison Lorenzo, Alice (née de Loma)
+<     </field>
+<     <field name="heading_ssm">
+<       Lison Lorenzo, Aurelio
+<       
+<       Lison Lorenzo, Alice (née de Loma)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Lison Lorenzo, AurelioLison Lorenzo, Alice (née de Loma)</field>
+>     <field name="heading_ssm">Lison Lorenzo, AurelioLison Lorenzo, Alice (née de Loma)</field>

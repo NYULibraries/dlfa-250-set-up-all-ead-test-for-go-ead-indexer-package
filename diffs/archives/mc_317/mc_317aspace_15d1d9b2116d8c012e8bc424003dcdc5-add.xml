@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Fusfeld, Herbert I.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Fusfeld, Herbert I. </field>
+27c27
+<     <field name="series_si">Fusfeld, Herbert I.&amp;nbsp;</field>
+---
+>     <field name="series_si">Fusfeld, Herbert I. </field>

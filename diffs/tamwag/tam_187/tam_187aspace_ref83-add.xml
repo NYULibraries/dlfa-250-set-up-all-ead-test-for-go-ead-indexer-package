@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;AfroAmerican Communicator&lt;/em&gt;
+<       &lt;em&gt; &lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       AfroAmerican Communicator
+<        
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;AfroAmerican Communicator&lt;/em&gt;&lt;em&gt; &lt;/em&gt;</field>
+>     <field name="unittitle_teim">AfroAmerican Communicator </field>
+45,52c39,40
+<     <field name="series_si">Series II. Topical Files &gt;&gt; 
+<       &lt;em&gt;AfroAmerican Communicator&lt;/em&gt;
+<       &lt;em&gt; &lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       AfroAmerican Communicator
+<        
+<     </field>
+---
+>     <field name="series_si">Series II. Topical Files &gt;&gt; &lt;em&gt;AfroAmerican Communicator&lt;/em&gt;&lt;em&gt; &lt;/em&gt;</field>
+>     <field name="heading_ssm">AfroAmerican Communicator </field>

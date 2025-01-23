@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Liberian Age&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="unittitle_teim">
+<       Liberian Age
+<       
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Liberian Age&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Liberian Age</field>
+41,48c35,36
+<     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; 
+<       &lt;em&gt;Liberian Age&lt;/em&gt;
+<       &lt;em&gt;
+<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+<     <field name="heading_ssm">
+<       Liberian Age
+<       
+<     </field>
+---
+>     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;Liberian Age&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
+>     <field name="heading_ssm">Liberian Age</field>

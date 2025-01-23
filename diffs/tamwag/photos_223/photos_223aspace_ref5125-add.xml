@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Workshops for People's Art&amp;nbsp;(New York, New York)</field>
+---
+>     <field name="unittitle_ssm">Workshops for People's Art (New York, New York)</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Workshops for People's Art&amp;nbsp;(New York, New York)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Workshops for People's Art (New York, New York)</field>

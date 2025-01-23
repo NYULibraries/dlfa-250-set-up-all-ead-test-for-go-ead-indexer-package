@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carbonara, E. Vernon&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carbonara, E. Vernon   </field>
+27c27
+<     <field name="series_si">Carbonara, E. Vernon&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carbonara, E. Vernon   </field>

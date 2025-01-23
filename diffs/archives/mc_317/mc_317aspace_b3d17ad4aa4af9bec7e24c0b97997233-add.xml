@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Adelman, Joseph A.&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Adelman, Joseph A.  </field>
+27c27
+<     <field name="series_si">Adelman, Joseph A.&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Adelman, Joseph A.  </field>

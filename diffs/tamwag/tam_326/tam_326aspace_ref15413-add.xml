@@ -1,0 +1,8 @@
+19c19
+<     <field name="unittitle_ssm">&lt;em&gt;Comptes: Ledger&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;&lt;/em&gt;Comptes: Ledger</field>
+41c41
+<     <field name="series_si">Series III: Toulouse Office Records. 1953-2006. &gt;&gt; Subseries C: Financial Records &gt;&gt; &lt;em&gt;Comptes: Ledger&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series III: Toulouse Office Records. 1953-2006. &gt;&gt; Subseries C: Financial Records &gt;&gt; &lt;em&gt;&lt;/em&gt;Comptes: Ledger</field>

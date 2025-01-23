@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Thuillier, R. H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Thuillier, R. H. </field>
+27c27
+<     <field name="series_si">Thuillier, R. H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Thuillier, R. H. </field>

@@ -1,0 +1,70 @@
+17,22c17,18
+<     <field name="scopecontent_teim">
+<       Early Program Events:
+<     </field>
+<     <field name="scopecontent_teim">
+<       1987 Kathy Condon
+<     </field>
+---
+>     <field name="scopecontent_teim">Early Program Events:</field>
+>     <field name="scopecontent_teim">1987 Kathy Condon</field>
+59,61c55
+<     <field name="scopecontent_teim">
+<       1989 Kathy Condon, Folk Art and Artists Series:
+<     </field>
+---
+>     <field name="scopecontent_teim">1989 Kathy Condon, Folk Art and Artists Series:</field>
+124,126c118
+<     <field name="scopecontent_teim">
+<       1991 Sean Galvin, Folk Art and Artists Series:
+<     </field>
+---
+>     <field name="scopecontent_teim">1991 Sean Galvin, Folk Art and Artists Series:</field>
+143,145c135
+<     <field name="scopecontent_teim">
+<       1992 Jessica Payne, Folk Arts Series:
+<     </field>
+---
+>     <field name="scopecontent_teim">1992 Jessica Payne, Folk Arts Series:</field>
+160,162c150
+<     <field name="scopecontent_teim">
+<       1993 Justine McGovern, Folk Arts '93:
+<     </field>
+---
+>     <field name="scopecontent_teim">1993 Justine McGovern, Folk Arts '93:</field>
+182,184c170
+<     <field name="scopecontent_teim">
+<       1994 Justine McGovern, Folk Arts '94:
+<     </field>
+---
+>     <field name="scopecontent_teim">1994 Justine McGovern, Folk Arts '94:</field>
+202,204c188
+<     <field name="scopecontent_teim">
+<       1995 Ilana Abramovitch, Folk Arts '95:
+<     </field>
+---
+>     <field name="scopecontent_teim">1995 Ilana Abramovitch, Folk Arts '95:</field>
+226,228c210
+<     <field name="scopecontent_teim">
+<       1996 Richard Wolf, Folk Arts Series 1996:
+<     </field>
+---
+>     <field name="scopecontent_teim">1996 Richard Wolf, Folk Arts Series 1996:</field>
+264,266c246
+<     <field name="scopecontent_teim">
+<       1997 Emily Botein, Folk Arts '97:
+<     </field>
+---
+>     <field name="scopecontent_teim">1997 Emily Botein, Folk Arts '97:</field>
+281,283c261
+<     <field name="scopecontent_teim">
+<       1998 Nancy Groce, BAC Folk Arts Series: Constructing Harmony: Traditional Music and Musical Instrument Making in Brooklyn
+<     </field>
+---
+>     <field name="scopecontent_teim">1998 Nancy Groce, BAC Folk Arts Series: Constructing Harmony: Traditional Music and Musical Instrument Making in Brooklyn</field>
+302,304c280
+<     <field name="scopecontent_teim">
+<       1999 Nancy Groce, BAC Folk Arts Series: Constructing Harmony:
+<     </field>
+---
+>     <field name="scopecontent_teim">1999 Nancy Groce, BAC Folk Arts Series: Constructing Harmony:</field>

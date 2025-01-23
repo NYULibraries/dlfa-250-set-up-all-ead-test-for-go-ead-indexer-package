@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Brace, Paul&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Brace, Paul </field>
+27c27
+<     <field name="series_si">Brace, Paul&amp;nbsp;</field>
+---
+>     <field name="series_si">Brace, Paul </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tate, Jack B.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tate, Jack B. </field>
+27c27
+<     <field name="series_si">Tate, Jack B.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tate, Jack B. </field>

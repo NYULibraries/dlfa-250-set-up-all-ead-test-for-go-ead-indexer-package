@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Carrillo Recio, Maximo
+<       
+<       Carrillo Recio, Josefa (née Garcia)
+<     </field>
+<     <field name="unittitle_teim">
+<       Carrillo Recio, Maximo
+<       
+<       Carrillo Recio, Josefa (née Garcia)
+<     </field>
+---
+>     <field name="unittitle_ssm">Carrillo Recio, MaximoCarrillo Recio, Josefa (née Garcia)</field>
+>     <field name="unittitle_teim">Carrillo Recio, MaximoCarrillo Recio, Josefa (née Garcia)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Carrillo Recio, Maximo
+<       
+<       Carrillo Recio, Josefa (née Garcia)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Carrillo Recio, MaximoCarrillo Recio, Josefa (née Garcia)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Carrillo Recio, Maximo
+<       
+<       Carrillo Recio, Josefa (née Garcia)
+<     </field>
+---
+>     <field name="heading_ssm">Carrillo Recio, MaximoCarrillo Recio, Josefa (née Garcia)</field>

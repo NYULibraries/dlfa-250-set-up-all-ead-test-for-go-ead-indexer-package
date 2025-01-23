@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Catacosinoas, William J. '51C, '52 GBA, '62 GBA&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Catacosinoas, William J. '51C, '52 GBA, '62 GBA </field>
+27c27
+<     <field name="series_si">Catacosinoas, William J. '51C, '52 GBA, '62 GBA&amp;nbsp;</field>
+---
+>     <field name="series_si">Catacosinoas, William J. '51C, '52 GBA, '62 GBA </field>

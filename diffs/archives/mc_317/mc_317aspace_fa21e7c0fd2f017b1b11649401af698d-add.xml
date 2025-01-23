@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Beaman, Florence&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Beaman, Florence </field>
+27c27
+<     <field name="series_si">Beaman, Florence&amp;nbsp;</field>
+---
+>     <field name="series_si">Beaman, Florence </field>

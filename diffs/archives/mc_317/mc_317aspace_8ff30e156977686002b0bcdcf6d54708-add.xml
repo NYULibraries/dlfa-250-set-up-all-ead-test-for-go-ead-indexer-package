@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Carlock, James G.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Carlock, James G.   </field>
+27c27
+<     <field name="series_si">Carlock, James G.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Carlock, James G.   </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Arm, Adolph '49 and '60 ED&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Arm, Adolph '49 and '60 ED  </field>
+27c27
+<     <field name="series_si">Arm, Adolph '49 and '60 ED&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Arm, Adolph '49 and '60 ED  </field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bitting Tanaskovic, Mary, '68 C, '71 GBA&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bitting Tanaskovic, Mary, '68 C, '71 GBA </field>
+27c27
+<     <field name="series_si">Bitting Tanaskovic, Mary, '68 C, '71 GBA&amp;nbsp;</field>
+---
+>     <field name="series_si">Bitting Tanaskovic, Mary, '68 C, '71 GBA </field>

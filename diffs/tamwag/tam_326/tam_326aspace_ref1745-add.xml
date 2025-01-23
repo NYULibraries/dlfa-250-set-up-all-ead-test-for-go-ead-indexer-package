@@ -1,0 +1,38 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Rincon Garcia, Antonio (II)
+<       
+<       Rincon, Estefania (née Montoya) (II)
+<       
+<       Rincon Garcia, Mariano (II)
+<     </field>
+<     <field name="unittitle_teim">
+<       Rincon Garcia, Antonio (II)
+<       
+<       Rincon, Estefania (née Montoya) (II)
+<       
+<       Rincon Garcia, Mariano (II)
+<     </field>
+---
+>     <field name="unittitle_ssm">Rincon Garcia, Antonio (II)Rincon, Estefania (née Montoya) (II)Rincon Garcia, Mariano (II)</field>
+>     <field name="unittitle_teim">Rincon Garcia, Antonio (II)Rincon, Estefania (née Montoya) (II)Rincon Garcia, Mariano (II)</field>
+67,73c55
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Rincon Garcia, Antonio (II)
+<       
+<       Rincon, Estefania (née Montoya) (II)
+<       
+<       Rincon Garcia, Mariano (II)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Rincon Garcia, Antonio (II)Rincon, Estefania (née Montoya) (II)Rincon Garcia, Mariano (II)</field>
+76,82c58
+<     <field name="heading_ssm">
+<       Rincon Garcia, Antonio (II)
+<       
+<       Rincon, Estefania (née Montoya) (II)
+<       
+<       Rincon Garcia, Mariano (II)
+<     </field>
+---
+>     <field name="heading_ssm">Rincon Garcia, Antonio (II)Rincon, Estefania (née Montoya) (II)Rincon Garcia, Mariano (II)</field>

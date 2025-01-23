@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Morales Comacho, Joseph
+<       
+<       Morales Comacho, Francisca
+<     </field>
+<     <field name="unittitle_teim">
+<       Morales Comacho, Joseph
+<       
+<       Morales Comacho, Francisca
+<     </field>
+---
+>     <field name="unittitle_ssm">Morales Comacho, JosephMorales Comacho, Francisca</field>
+>     <field name="unittitle_teim">Morales Comacho, JosephMorales Comacho, Francisca</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Morales Comacho, Joseph
+<       
+<       Morales Comacho, Francisca
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Morales Comacho, JosephMorales Comacho, Francisca</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Morales Comacho, Joseph
+<       
+<       Morales Comacho, Francisca
+<     </field>
+---
+>     <field name="heading_ssm">Morales Comacho, JosephMorales Comacho, Francisca</field>

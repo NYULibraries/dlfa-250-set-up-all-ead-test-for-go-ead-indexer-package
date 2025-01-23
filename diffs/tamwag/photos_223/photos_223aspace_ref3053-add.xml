@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">House Internal Security Committee&amp;nbsp;(United States House of Representatives Internal Security Committee)</field>
+---
+>     <field name="unittitle_ssm">House Internal Security Committee (United States House of Representatives Internal Security Committee)</field>
+35c35
+<     <field name="series_si">Series II: Subject Files &gt;&gt; House Internal Security Committee&amp;nbsp;(United States House of Representatives Internal Security Committee)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; House Internal Security Committee (United States House of Representatives Internal Security Committee)</field>

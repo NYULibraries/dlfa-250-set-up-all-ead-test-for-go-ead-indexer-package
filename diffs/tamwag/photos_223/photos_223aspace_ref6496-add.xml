@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Labor Organizations - Writers Guild of America&amp;nbsp;(WGA)</field>
+---
+>     <field name="unittitle_ssm">Labor Organizations - Writers Guild of America (WGA)</field>
+43c43
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Writers Guild of America&amp;nbsp;(WGA)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - Writers Guild of America (WGA)</field>

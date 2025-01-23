@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Tonsor, Charles A. Jr.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Tonsor, Charles A. Jr. </field>
+27c27
+<     <field name="series_si">Tonsor, Charles A. Jr.&amp;nbsp;</field>
+---
+>     <field name="series_si">Tonsor, Charles A. Jr. </field>

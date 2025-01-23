@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dolby, Kirkmon K.'73 GBA&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dolby, Kirkmon K.'73 GBA </field>
+27c27
+<     <field name="series_si">Dolby, Kirkmon K.'73 GBA&amp;nbsp;</field>
+---
+>     <field name="series_si">Dolby, Kirkmon K.'73 GBA </field>

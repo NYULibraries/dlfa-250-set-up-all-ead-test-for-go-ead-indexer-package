@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Piquer Micolau, Faustino
+<       
+<       Piquer, Maria del Pilar (née Cebrian)
+<     </field>
+<     <field name="unittitle_teim">
+<       Piquer Micolau, Faustino
+<       
+<       Piquer, Maria del Pilar (née Cebrian)
+<     </field>
+---
+>     <field name="unittitle_ssm">Piquer Micolau, FaustinoPiquer, Maria del Pilar (née Cebrian)</field>
+>     <field name="unittitle_teim">Piquer Micolau, FaustinoPiquer, Maria del Pilar (née Cebrian)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Piquer Micolau, Faustino
+<       
+<       Piquer, Maria del Pilar (née Cebrian)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Piquer Micolau, FaustinoPiquer, Maria del Pilar (née Cebrian)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Piquer Micolau, Faustino
+<       
+<       Piquer, Maria del Pilar (née Cebrian)
+<     </field>
+---
+>     <field name="heading_ssm">Piquer Micolau, FaustinoPiquer, Maria del Pilar (née Cebrian)</field>

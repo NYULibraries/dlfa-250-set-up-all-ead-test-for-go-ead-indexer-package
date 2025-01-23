@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">Metropolitan Council on Housing&amp;nbsp;(New York, New York)</field>
+---
+>     <field name="unittitle_ssm">Metropolitan Council on Housing (New York, New York)</field>
+55c55
+<     <field name="series_si">Series II: Subject Files &gt;&gt; Metropolitan Council on Housing&amp;nbsp;(New York, New York)</field>
+---
+>     <field name="series_si">Series II: Subject Files &gt;&gt; Metropolitan Council on Housing (New York, New York)</field>

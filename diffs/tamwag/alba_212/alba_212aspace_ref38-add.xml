@@ -1,0 +1,28 @@
+16,25c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Infantry Day in the 92&lt;/em&gt;
+<       &lt;em&gt;nd&lt;/em&gt;
+<       &lt;em&gt;Division&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Infantry Day in the 92
+<       nd
+<       Division
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Infantry Day in the 92&lt;/em&gt;&lt;em&gt;nd&lt;/em&gt;&lt;em&gt;Division&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Infantry Day in the 92ndDivision</field>
+44,53c36,37
+<     <field name="series_si">Series III: Armed Forces Periodicals &gt;&gt; 
+<       &lt;em&gt;Infantry Day in the 92&lt;/em&gt;
+<       &lt;em&gt;nd&lt;/em&gt;
+<       &lt;em&gt;Division&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Infantry Day in the 92
+<       nd
+<       Division
+<     </field>
+---
+>     <field name="series_si">Series III: Armed Forces Periodicals &gt;&gt; &lt;em&gt;Infantry Day in the 92&lt;/em&gt;&lt;em&gt;nd&lt;/em&gt;&lt;em&gt;Division&lt;/em&gt;</field>
+>     <field name="heading_ssm">Infantry Day in the 92ndDivision</field>

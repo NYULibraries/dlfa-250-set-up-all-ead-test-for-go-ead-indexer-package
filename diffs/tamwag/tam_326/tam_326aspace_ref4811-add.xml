@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Garcia Rodriguez, Edouard
+<       
+<       Garcia, Carmen (née Gil Navarro)
+<     </field>
+<     <field name="unittitle_teim">
+<       Garcia Rodriguez, Edouard
+<       
+<       Garcia, Carmen (née Gil Navarro)
+<     </field>
+---
+>     <field name="unittitle_ssm">Garcia Rodriguez, EdouardGarcia, Carmen (née Gil Navarro)</field>
+>     <field name="unittitle_teim">Garcia Rodriguez, EdouardGarcia, Carmen (née Gil Navarro)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Garcia Rodriguez, Edouard
+<       
+<       Garcia, Carmen (née Gil Navarro)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Garcia Rodriguez, EdouardGarcia, Carmen (née Gil Navarro)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Garcia Rodriguez, Edouard
+<       
+<       Garcia, Carmen (née Gil Navarro)
+<     </field>
+---
+>     <field name="heading_ssm">Garcia Rodriguez, EdouardGarcia, Carmen (née Gil Navarro)</field>

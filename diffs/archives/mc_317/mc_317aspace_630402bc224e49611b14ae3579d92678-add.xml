@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Vanderbilt, Arthur T.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Vanderbilt, Arthur T. </field>
+27c27
+<     <field name="series_si">Vanderbilt, Arthur T.&amp;nbsp;</field>
+---
+>     <field name="series_si">Vanderbilt, Arthur T. </field>

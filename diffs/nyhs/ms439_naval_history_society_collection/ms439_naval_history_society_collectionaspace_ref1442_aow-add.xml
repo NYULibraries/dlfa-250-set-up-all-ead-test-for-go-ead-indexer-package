@@ -1,0 +1,18 @@
+15,17c15
+<     <field name="scopecontent_teim">
+<       Historical Note
+<     </field>
+---
+>     <field name="scopecontent_teim">Historical Note</field>
+21,23c19
+<     <field name="scopecontent_teim">
+<       Chronology of the Naval History Society
+<     </field>
+---
+>     <field name="scopecontent_teim">Chronology of the Naval History Society</field>
+41,43c37
+<     <field name="scopecontent_teim">
+<       Arrangement
+<     </field>
+---
+>     <field name="scopecontent_teim">Arrangement</field>

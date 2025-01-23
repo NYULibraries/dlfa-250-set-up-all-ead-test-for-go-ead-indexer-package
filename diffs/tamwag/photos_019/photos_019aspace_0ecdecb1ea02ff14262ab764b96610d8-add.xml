@@ -1,0 +1,18 @@
+9,12c9,12
+<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+<     <field name="parent_unittitles_ssm">Subseries I:T: Published&amp;nbsp;New York Teacher&amp;nbsp;Photographs</field>
+<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+<     <field name="parent_unittitles_teim">Subseries I:T: Published&amp;nbsp;New York Teacher&amp;nbsp;Photographs</field>
+---
+>     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+>     <field name="parent_unittitles_ssm">Subseries I:T: Published New York Teacher Photographs</field>
+>     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+>     <field name="parent_unittitles_teim">Subseries I:T: Published New York Teacher Photographs</field>
+39,41c39,41
+<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
+<     <field name="series_sim">Subseries I:T: Published&amp;nbsp;New York Teacher&amp;nbsp;Photographs</field>
+<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:T: Published&amp;nbsp;New York Teacher&amp;nbsp;Photographs &gt;&gt; 
+---
+>     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+>     <field name="series_sim">Subseries I:T: Published New York Teacher Photographs</field>
+>     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:T: Published New York Teacher Photographs &gt;&gt; 

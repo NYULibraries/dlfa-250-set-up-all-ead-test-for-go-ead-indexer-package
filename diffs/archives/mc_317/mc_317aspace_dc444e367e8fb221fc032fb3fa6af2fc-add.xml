@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bober, Lawrence H.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bober, Lawrence H. </field>
+27c27
+<     <field name="series_si">Bober, Lawrence H.&amp;nbsp;</field>
+---
+>     <field name="series_si">Bober, Lawrence H. </field>

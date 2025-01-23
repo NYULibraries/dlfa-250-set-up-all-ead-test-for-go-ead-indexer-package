@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Maxwell, Douglas F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Maxwell, Douglas F. </field>
+27c27
+<     <field name="series_si">Maxwell, Douglas F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Maxwell, Douglas F. </field>

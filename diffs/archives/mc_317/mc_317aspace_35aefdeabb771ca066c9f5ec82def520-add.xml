@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Buttine, John B.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Buttine, John B.   </field>
+27c27
+<     <field name="series_si">Buttine, John B.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Buttine, John B.   </field>

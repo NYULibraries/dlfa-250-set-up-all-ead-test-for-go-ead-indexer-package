@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Barbato, Joseph A.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Barbato, Joseph A. </field>
+27c27
+<     <field name="series_si">Barbato, Joseph A.&amp;nbsp;</field>
+---
+>     <field name="series_si">Barbato, Joseph A. </field>

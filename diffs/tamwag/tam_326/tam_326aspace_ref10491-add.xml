@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Tordesillas Gonsales, Nemesio
+<       
+<       Tordesillas, Belarmina (née Garcia Alvarez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Tordesillas Gonsales, Nemesio
+<       
+<       Tordesillas, Belarmina (née Garcia Alvarez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Tordesillas Gonsales, NemesioTordesillas, Belarmina (née Garcia Alvarez)</field>
+>     <field name="unittitle_teim">Tordesillas Gonsales, NemesioTordesillas, Belarmina (née Garcia Alvarez)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Tordesillas Gonsales, Nemesio
+<       
+<       Tordesillas, Belarmina (née Garcia Alvarez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Tordesillas Gonsales, NemesioTordesillas, Belarmina (née Garcia Alvarez)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Tordesillas Gonsales, Nemesio
+<       
+<       Tordesillas, Belarmina (née Garcia Alvarez)
+<     </field>
+---
+>     <field name="heading_ssm">Tordesillas Gonsales, NemesioTordesillas, Belarmina (née Garcia Alvarez)</field>

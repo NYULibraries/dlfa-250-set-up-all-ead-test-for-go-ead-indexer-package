@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Nigrelli, Roses F. Dr.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Nigrelli, Roses F. Dr. </field>
+27c27
+<     <field name="series_si">Nigrelli, Roses F. Dr.&amp;nbsp;</field>
+---
+>     <field name="series_si">Nigrelli, Roses F. Dr. </field>

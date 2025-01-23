@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Friedlander, Percy '20E.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Friedlander, Percy '20E. </field>
+27c27
+<     <field name="series_si">Friedlander, Percy '20E.&amp;nbsp;</field>
+---
+>     <field name="series_si">Friedlander, Percy '20E. </field>

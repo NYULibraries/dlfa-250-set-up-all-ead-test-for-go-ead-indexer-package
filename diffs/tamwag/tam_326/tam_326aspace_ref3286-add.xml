@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Riesco Gonzalez, Ventura
+<       
+<       Riesco Gonzalez, Maria Elvira
+<     </field>
+<     <field name="unittitle_teim">
+<       Riesco Gonzalez, Ventura
+<       
+<       Riesco Gonzalez, Maria Elvira
+<     </field>
+---
+>     <field name="unittitle_ssm">Riesco Gonzalez, VenturaRiesco Gonzalez, Maria Elvira</field>
+>     <field name="unittitle_teim">Riesco Gonzalez, VenturaRiesco Gonzalez, Maria Elvira</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Riesco Gonzalez, Ventura
+<       
+<       Riesco Gonzalez, Maria Elvira
+<     </field>
+<     <field name="heading_ssm">
+<       Riesco Gonzalez, Ventura
+<       
+<       Riesco Gonzalez, Maria Elvira
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Riesco Gonzalez, VenturaRiesco Gonzalez, Maria Elvira</field>
+>     <field name="heading_ssm">Riesco Gonzalez, VenturaRiesco Gonzalez, Maria Elvira</field>

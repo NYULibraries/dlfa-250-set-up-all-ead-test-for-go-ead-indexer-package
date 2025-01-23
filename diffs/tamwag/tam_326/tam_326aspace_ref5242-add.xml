@@ -1,0 +1,36 @@
+19,32c19,20
+<     <field name="unittitle_ssm">
+<       Barellas, Joaquina (née Castillon)
+<       
+<       Ariso Llestre, José
+<       
+<       Ariso, Manuela (née Barellas)
+<     </field>
+<     <field name="unittitle_teim">
+<       Barellas, Joaquina (née Castillon)
+<       
+<       Ariso Llestre, José
+<       
+<       Ariso, Manuela (née Barellas)
+<     </field>
+---
+>     <field name="unittitle_ssm">Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
+>     <field name="unittitle_teim">Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
+65,78c53,54
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Barellas, Joaquina (née Castillon)
+<       
+<       Ariso Llestre, José
+<       
+<       Ariso, Manuela (née Barellas)
+<     </field>
+<     <field name="heading_ssm">
+<       Barellas, Joaquina (née Castillon)
+<       
+<       Ariso Llestre, José
+<       
+<       Ariso, Manuela (née Barellas)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
+>     <field name="heading_ssm">Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>

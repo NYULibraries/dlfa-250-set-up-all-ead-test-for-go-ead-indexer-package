@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">Subseries B: Promotional Material</field>
+---
+>     <field name="parent_unittitles_ssm">Subseries D: Merchandise</field>
+18c18
+<     <field name="parent_unittitles_teim">Subseries B: Promotional Material</field>
+---
+>     <field name="parent_unittitles_teim">Subseries D: Merchandise</field>
+45,46c45,46
+<     <field name="series_sim">Subseries B: Promotional Material</field>
+<     <field name="series_si">Oversize Series VI: Stolen Moments: Red Hot + Cool &gt;&gt; Subseries C: Photographic Material &gt;&gt; Oversize Series VII: Red Hot + Bothered &gt;&gt; Subseries B: Promotional Material &gt;&gt; Posters - Red Hot + Bothered</field>
+---
+>     <field name="series_sim">Subseries D: Merchandise</field>
+>     <field name="series_si">Oversize Series VI: Stolen Moments: Red Hot + Cool &gt;&gt; Subseries C: Photographic Material &gt;&gt; Oversize Series VII: Red Hot + Bothered &gt;&gt; Subseries D: Merchandise &gt;&gt; Posters - Red Hot + Bothered</field>

@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Jarvinen, Villo O.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Jarvinen, Villo O. </field>
+27c27
+<     <field name="series_si">Jarvinen, Villo O.&amp;nbsp;</field>
+---
+>     <field name="series_si">Jarvinen, Villo O. </field>

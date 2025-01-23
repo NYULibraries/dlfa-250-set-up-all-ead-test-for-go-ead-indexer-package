@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bell, Dr. A. Milton '47 W. '51 D&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bell, Dr. A. Milton '47 W. '51 D </field>
+27c27
+<     <field name="series_si">Bell, Dr. A. Milton '47 W. '51 D&amp;nbsp;</field>
+---
+>     <field name="series_si">Bell, Dr. A. Milton '47 W. '51 D </field>

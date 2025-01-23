@@ -1,0 +1,6 @@
+19,21c19
+<     <field name="scopecontent_teim">
+<       RELEASES RESTRICTED TO N-YHS STAFF USE ONLY
+<     </field>
+---
+>     <field name="scopecontent_teim">RELEASES RESTRICTED TO N-YHS STAFF USE ONLY</field>

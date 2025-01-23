@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Burtt, Rachleff&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Burtt, Rachleff   </field>
+27c27
+<     <field name="series_si">Burtt, Rachleff&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Burtt, Rachleff   </field>

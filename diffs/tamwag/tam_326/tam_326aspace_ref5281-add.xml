@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Palacios, Gregoria (née Revuelta)
+<       
+<       Palacios Abula, Jesus
+<     </field>
+<     <field name="unittitle_teim">
+<       Palacios, Gregoria (née Revuelta)
+<       
+<       Palacios Abula, Jesus
+<     </field>
+---
+>     <field name="unittitle_ssm">Palacios, Gregoria (née Revuelta)Palacios Abula, Jesus</field>
+>     <field name="unittitle_teim">Palacios, Gregoria (née Revuelta)Palacios Abula, Jesus</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Palacios, Gregoria (née Revuelta)
+<       
+<       Palacios Abula, Jesus
+<     </field>
+<     <field name="heading_ssm">
+<       Palacios, Gregoria (née Revuelta)
+<       
+<       Palacios Abula, Jesus
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Palacios, Gregoria (née Revuelta)Palacios Abula, Jesus</field>
+>     <field name="heading_ssm">Palacios, Gregoria (née Revuelta)Palacios Abula, Jesus</field>

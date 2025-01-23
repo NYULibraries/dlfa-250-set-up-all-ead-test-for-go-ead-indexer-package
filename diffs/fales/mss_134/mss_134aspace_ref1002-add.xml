@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;The Makings of Eggnog: A History&lt;/em&gt;
+<       &lt;em&gt;with Recipes&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       The Makings of Eggnog: A History
+<       with Recipes
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;The Makings of Eggnog: A History&lt;/em&gt;&lt;em&gt;with Recipes&lt;/em&gt;</field>
+>     <field name="unittitle_teim">The Makings of Eggnog: A Historywith Recipes</field>
+43,50c37,38
+<     <field name="series_si">Series VI: Photocopied Books &gt;&gt; 
+<       &lt;em&gt;The Makings of Eggnog: A History&lt;/em&gt;
+<       &lt;em&gt;with Recipes&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       The Makings of Eggnog: A History
+<       with Recipes
+<     </field>
+---
+>     <field name="series_si">Series VI: Photocopied Books &gt;&gt; &lt;em&gt;The Makings of Eggnog: A History&lt;/em&gt;&lt;em&gt;with Recipes&lt;/em&gt;</field>
+>     <field name="heading_ssm">The Makings of Eggnog: A Historywith Recipes</field>

@@ -1,0 +1,14 @@
+14c14
+<     <field name="parent_unittitles_ssm">iii. Relations of AA</field>
+---
+>     <field name="parent_unittitles_ssm">iv. AA's painting activity</field>
+18c18
+<     <field name="parent_unittitles_teim">iii. Relations of AA</field>
+---
+>     <field name="parent_unittitles_teim">iv. AA's painting activity</field>
+46,47c46,47
+<     <field name="series_sim">iii. Relations of AA</field>
+<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iii. Relations of AA &gt;&gt; [(Eugene Arthur) Roger Acton, father of AA]</field>
+---
+>     <field name="series_sim">iv. AA's painting activity</field>
+>     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iv. AA's painting activity &gt;&gt; [(Eugene Arthur) Roger Acton, father of AA]</field>

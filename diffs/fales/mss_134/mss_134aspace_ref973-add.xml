@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Martha Washington's Rules for&lt;/em&gt;
+<       &lt;em&gt;Cooking&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Martha Washington's Rules for
+<       Cooking
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Martha Washington's Rules for&lt;/em&gt;&lt;em&gt;Cooking&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Martha Washington's Rules forCooking</field>
+43,50c37,38
+<     <field name="series_si">Series IV: Brownstone's Notes &gt;&gt; 
+<       &lt;em&gt;Martha Washington's Rules for&lt;/em&gt;
+<       &lt;em&gt;Cooking&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Martha Washington's Rules for
+<       Cooking
+<     </field>
+---
+>     <field name="series_si">Series IV: Brownstone's Notes &gt;&gt; &lt;em&gt;Martha Washington's Rules for&lt;/em&gt;&lt;em&gt;Cooking&lt;/em&gt;</field>
+>     <field name="heading_ssm">Martha Washington's Rules forCooking</field>

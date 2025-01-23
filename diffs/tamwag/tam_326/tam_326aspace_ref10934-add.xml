@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Moulet Langa, Manuel
+<       
+<       Moulet, Maria (née Gomez Lopez)
+<     </field>
+<     <field name="unittitle_teim">
+<       Moulet Langa, Manuel
+<       
+<       Moulet, Maria (née Gomez Lopez)
+<     </field>
+---
+>     <field name="unittitle_ssm">Moulet Langa, ManuelMoulet, Maria (née Gomez Lopez)</field>
+>     <field name="unittitle_teim">Moulet Langa, ManuelMoulet, Maria (née Gomez Lopez)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Moulet Langa, Manuel
+<       
+<       Moulet, Maria (née Gomez Lopez)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Moulet Langa, ManuelMoulet, Maria (née Gomez Lopez)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Moulet Langa, Manuel
+<       
+<       Moulet, Maria (née Gomez Lopez)
+<     </field>
+---
+>     <field name="heading_ssm">Moulet Langa, ManuelMoulet, Maria (née Gomez Lopez)</field>

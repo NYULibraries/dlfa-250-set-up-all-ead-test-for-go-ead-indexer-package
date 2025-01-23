@@ -1,0 +1,28 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Fernandez Fernandez, Estelvino
+<       
+<       Fernandez Fernandez, Maria de los Angeles
+<     </field>
+<     <field name="unittitle_teim">
+<       Fernandez Fernandez, Estelvino
+<       
+<       Fernandez Fernandez, Maria de los Angeles
+<     </field>
+---
+>     <field name="unittitle_ssm">Fernandez Fernandez, EstelvinoFernandez Fernandez, Maria de los Angeles</field>
+>     <field name="unittitle_teim">Fernandez Fernandez, EstelvinoFernandez Fernandez, Maria de los Angeles</field>
+57,66c49,50
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Fernandez Fernandez, Estelvino
+<       
+<       Fernandez Fernandez, Maria de los Angeles
+<     </field>
+<     <field name="heading_ssm">
+<       Fernandez Fernandez, Estelvino
+<       
+<       Fernandez Fernandez, Maria de los Angeles
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Fernandez Fernandez, EstelvinoFernandez Fernandez, Maria de los Angeles</field>
+>     <field name="heading_ssm">Fernandez Fernandez, EstelvinoFernandez Fernandez, Maria de los Angeles</field>

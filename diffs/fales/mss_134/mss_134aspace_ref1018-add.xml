@@ -1,0 +1,24 @@
+16,23c16,17
+<     <field name="unittitle_ssm">
+<       &lt;em&gt;Recipes of American and Other&lt;/em&gt;
+<       &lt;em&gt;Iced Drinks&lt;/em&gt;
+<     </field>
+<     <field name="unittitle_teim">
+<       Recipes of American and Other
+<       Iced Drinks
+<     </field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;Recipes of American and Other&lt;/em&gt;&lt;em&gt;Iced Drinks&lt;/em&gt;</field>
+>     <field name="unittitle_teim">Recipes of American and OtherIced Drinks</field>
+43,50c37,38
+<     <field name="series_si">Series VI: Photocopied Books &gt;&gt; 
+<       &lt;em&gt;Recipes of American and Other&lt;/em&gt;
+<       &lt;em&gt;Iced Drinks&lt;/em&gt;
+<     </field>
+<     <field name="heading_ssm">
+<       Recipes of American and Other
+<       Iced Drinks
+<     </field>
+---
+>     <field name="series_si">Series VI: Photocopied Books &gt;&gt; &lt;em&gt;Recipes of American and Other&lt;/em&gt;&lt;em&gt;Iced Drinks&lt;/em&gt;</field>
+>     <field name="heading_ssm">Recipes of American and OtherIced Drinks</field>

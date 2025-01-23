@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Bunim, Joseph J.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Bunim, Joseph J.   </field>
+27c27
+<     <field name="series_si">Bunim, Joseph J.&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
+---
+>     <field name="series_si">Bunim, Joseph J.   </field>

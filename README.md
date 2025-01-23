@@ -30,3 +30,10 @@ Outputs:
 * _logs/_: datetime-stamped stdout and stderr logs for the test run.
 * _tmp/actual/_: actual files for test failures.
 
+-----
+
+# Versions of repos used for current diffs 
+
+* go-ead-indexer: [65f5acee86b5c71f86363128d60bc8246488b24f](https://github.com/NYULibraries/go-ead-indexer/tree/65f5acee86b5c71f86363128d60bc8246488b24f)
+* dlfa-188_v1-indexer-http-requests-xml: [aa4808b3d01881c896bd51304e48d95aefb5438b](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests-xml/tree/aa4808b3d01881c896bd51304e48d95aefb5438b)
+* findingaids_eads_v2: [8d1b8fb6bd45327e90857c77bff8afa66358f4e7](https://github.com/NYULibraries/findingaids_eads_v2/tree/8d1b8fb6bd45327e90857c77bff8afa66358f4e7)

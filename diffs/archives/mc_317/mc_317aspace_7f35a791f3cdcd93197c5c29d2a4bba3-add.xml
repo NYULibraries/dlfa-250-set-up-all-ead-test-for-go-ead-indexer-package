@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Wright, Robert F.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Wright, Robert F. </field>
+27c27
+<     <field name="series_si">Wright, Robert F.&amp;nbsp;</field>
+---
+>     <field name="series_si">Wright, Robert F. </field>

@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Peralba Codine, Eugenio
+<       
+<       Sanchez Cubiero, Justa
+<     </field>
+<     <field name="unittitle_teim">
+<       Peralba Codine, Eugenio
+<       
+<       Sanchez Cubiero, Justa
+<     </field>
+---
+>     <field name="unittitle_ssm">Peralba Codine, EugenioSanchez Cubiero, Justa</field>
+>     <field name="unittitle_teim">Peralba Codine, EugenioSanchez Cubiero, Justa</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Peralba Codine, Eugenio
+<       
+<       Sanchez Cubiero, Justa
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Peralba Codine, EugenioSanchez Cubiero, Justa</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Peralba Codine, Eugenio
+<       
+<       Sanchez Cubiero, Justa
+<     </field>
+---
+>     <field name="heading_ssm">Peralba Codine, EugenioSanchez Cubiero, Justa</field>

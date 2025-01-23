@@ -1,0 +1,8 @@
+16c16
+<     <field name="unittitle_ssm">&lt;em&gt;The Norwalk Case&lt;/em&gt;proposed by Hat Corporation of America (booklet) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="unittitle_ssm">&lt;em&gt;The Norwalk Case&lt;/em&gt;proposed by Hat Corporation of America (booklet) &lt;em&gt;&lt;/em&gt;</field>
+35c35
+<     <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;The Norwalk Case&lt;/em&gt;proposed by Hat Corporation of America (booklet) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+---
+>     <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;The Norwalk Case&lt;/em&gt;proposed by Hat Corporation of America (booklet) &lt;em&gt;&lt;/em&gt;</field>

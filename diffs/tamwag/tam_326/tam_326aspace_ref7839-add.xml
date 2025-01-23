@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Garces Aragues, Romualdo
+<       
+<       Garces Aragues, Luisa
+<     </field>
+<     <field name="unittitle_teim">
+<       Garces Aragues, Romualdo
+<       
+<       Garces Aragues, Luisa
+<     </field>
+---
+>     <field name="unittitle_ssm">Garces Aragues, RomualdoGarces Aragues, Luisa</field>
+>     <field name="unittitle_teim">Garces Aragues, RomualdoGarces Aragues, Luisa</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Garces Aragues, Romualdo
+<       
+<       Garces Aragues, Luisa
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Garces Aragues, RomualdoGarces Aragues, Luisa</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Garces Aragues, Romualdo
+<       
+<       Garces Aragues, Luisa
+<     </field>
+---
+>     <field name="heading_ssm">Garces Aragues, RomualdoGarces Aragues, Luisa</field>

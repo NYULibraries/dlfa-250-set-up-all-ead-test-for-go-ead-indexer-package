@@ -1,0 +1,30 @@
+19,28c19,20
+<     <field name="unittitle_ssm">
+<       Perez Mercadal, Bartolomé
+<       
+<       Perez, Clemente (née Arnal)
+<     </field>
+<     <field name="unittitle_teim">
+<       Perez Mercadal, Bartolomé
+<       
+<       Perez, Clemente (née Arnal)
+<     </field>
+---
+>     <field name="unittitle_ssm">Perez Mercadal, BartoloméPerez, Clemente (née Arnal)</field>
+>     <field name="unittitle_teim">Perez Mercadal, BartoloméPerez, Clemente (née Arnal)</field>
+59,63c51
+<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+<       Perez Mercadal, Bartolomé
+<       
+<       Perez, Clemente (née Arnal)
+<     </field>
+---
+>     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Perez Mercadal, BartoloméPerez, Clemente (née Arnal)</field>
+66,70c54
+<     <field name="heading_ssm">
+<       Perez Mercadal, Bartolomé
+<       
+<       Perez, Clemente (née Arnal)
+<     </field>
+---
+>     <field name="heading_ssm">Perez Mercadal, BartoloméPerez, Clemente (née Arnal)</field>

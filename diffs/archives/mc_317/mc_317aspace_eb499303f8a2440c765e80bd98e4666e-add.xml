@@ -1,0 +1,8 @@
+12c12
+<     <field name="unittitle_ssm">Dodson, Leon '67Ed.&amp;nbsp;</field>
+---
+>     <field name="unittitle_ssm">Dodson, Leon '67Ed. </field>
+27c27
+<     <field name="series_si">Dodson, Leon '67Ed.&amp;nbsp;</field>
+---
+>     <field name="series_si">Dodson, Leon '67Ed. </field>

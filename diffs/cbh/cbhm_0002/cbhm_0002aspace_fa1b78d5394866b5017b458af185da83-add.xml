@@ -1,0 +1,6 @@
+15,17c15
+<     <field name="scopecontent_teim">
+<       Half the Sky Festival events included: 
+<     </field>
+---
+>     <field name="scopecontent_teim">Half the Sky Festival events included: </field>
