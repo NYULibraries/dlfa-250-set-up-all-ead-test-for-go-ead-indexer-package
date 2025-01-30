@@ -1,6 +1,0 @@
-25,26d24
-<     <field name="unitdate_teim">1951</field>
-<     <field name="unitdate_teim">1979</field>
-92a91,92
->     <field name="unitdate_teim">1951</field>
->     <field name="unitdate_teim">1979</field>
