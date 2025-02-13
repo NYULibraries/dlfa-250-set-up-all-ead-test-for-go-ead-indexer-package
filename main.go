@@ -6,6 +6,7 @@ import (
 	"go-ead-indexer/pkg/ead"
 	"go-ead-indexer/pkg/ead/collectiondoc"
 	"go-ead-indexer/pkg/ead/component"
+	"go-ead-indexer/pkg/ead/eadutil"
 	"io/fs"
 	"log"
 	"os"
@@ -189,12 +190,17 @@ func testCollectionDocSolrAddMessage(testEAD string,
 	solrAddMessage collectiondoc.SolrAddMessage) error {
 	eadID := parseEADID(testEAD)
 
-	return testSolrAddMessageXML(testEAD, eadID, fmt.Sprintf("%s", solrAddMessage))
+	prettified := eadutil.PrettifySolrAddMessageXML(fmt.Sprintf("%s", solrAddMessage))
+
+	return testSolrAddMessageXML(testEAD, eadID, prettified)
 }
 
 func testComponentSolrAddMessage(testEAD string, fileID string,
 	solrAddMessage component.SolrAddMessage) error {
-	return testSolrAddMessageXML(testEAD, fileID, fmt.Sprintf("%s", solrAddMessage))
+
+	prettified := eadutil.PrettifySolrAddMessageXML(fmt.Sprintf("%s", solrAddMessage))
+
+	return testSolrAddMessageXML(testEAD, fileID, prettified)
 }
 
 func testNoMissingComponents(testEAD string, componentIDs []string) error {
