@@ -297,7 +297,6 @@ func main() {
 		repositoryCode := parseRepositoryCode(testEAD)
 		eadToTest, err := ead.New(repositoryCode, eadXML)
 		if err != nil {
-
 			log.Println(fmt.Sprintf(`ead.New("%s", [EADXML for %s ]) failed: %s`, repositoryCode, testEAD, err))
 		}
 
