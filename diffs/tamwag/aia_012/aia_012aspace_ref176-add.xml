@@ -1,2 +1,11 @@
-57a58
->     <field name="location_ssm">Box: 4, CD: 29, track: 2</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -55,6 +55,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 4, CD: 29, track: 2</field>
++    <field name="location_ssm">Box: 4, CD: 29, track: 2</field>
+     <field name="location_ssm">Box: 2, Cassette: 29</field>
+     <field name="location_si">Box: 2, Cassette: 29</field>
+     <field name="dao_sim">Online Access</field>

@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">&lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&lt;/em&gt;</field>
-35c35
-<     <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">John Pittman Papers</field>
+     <field name="collection_unitid_ssm">TAM.188</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&lt;/em&gt;</field>
+     <field name="unittitle_teim">Ganbatte- Book Review </field>
+     <field name="unitdate_normal_ssm">1905/1987</field>
+     <field name="unitdate_normal_teim">1905/1987</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">John Pittman Papers</field>
+     <field name="collection_unitid_teim">TAM.188</field>
+     <field name="series_sim">Series IV. Writings</field>
+-    <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;Ganbatte&lt;/em&gt;- Book Review &lt;em&gt;&lt;/em&gt;</field>
+     <field name="heading_ssm">Ganbatte- Book Review </field>
+     <field name="unitdate_start_sim">1905</field>
+     <field name="unitdate_start_ssm">1905</field>

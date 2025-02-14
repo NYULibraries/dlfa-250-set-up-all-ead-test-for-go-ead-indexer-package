@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Series&amp;nbsp;II: Asian Pacific American Labor Alliance (APALA)</field>
----
->     <field name="unittitle_ssm">Series II: Asian Pacific American Labor Alliance (APALA)</field>
-29c29
-<     <field name="series_si">Series&amp;nbsp;II: Asian Pacific American Labor Alliance (APALA)</field>
----
->     <field name="series_si">Series II: Asian Pacific American Labor Alliance (APALA)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">May Chen Papers</field>
+     <field name="collection_unitid_ssm">WAG.301</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series&amp;nbsp;II: Asian Pacific American Labor Alliance (APALA)</field>
++    <field name="unittitle_ssm">Series II: Asian Pacific American Labor Alliance (APALA)</field>
+     <field name="unittitle_teim">Series II: Asian Pacific American Labor Alliance (APALA)</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/949342</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/949342</field>
+@@ -26,7 +26,7 @@
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">May Chen Papers</field>
+     <field name="collection_unitid_teim">WAG.301</field>
+-    <field name="series_si">Series&amp;nbsp;II: Asian Pacific American Labor Alliance (APALA)</field>
++    <field name="series_si">Series II: Asian Pacific American Labor Alliance (APALA)</field>
+     <field name="heading_ssm">Series II: Asian Pacific American Labor Alliance (APALA)</field>
+     <field name="unitdate_start_sim">1992</field>
+     <field name="unitdate_start_ssm">1992</field>

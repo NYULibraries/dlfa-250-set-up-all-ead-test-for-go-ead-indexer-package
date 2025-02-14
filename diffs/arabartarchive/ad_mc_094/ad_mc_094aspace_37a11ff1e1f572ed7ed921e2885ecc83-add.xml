@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">5. Photographs of exhibitions at the University of Jordan. Circa 1970s&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">5. Photographs of exhibitions at the University of Jordan. Circa 1970s </field>
-33c33
-<     <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 5. Photographs of exhibitions at the University of Jordan. Circa 1970s&amp;nbsp;</field>
----
->     <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 5. Photographs of exhibitions at the University of Jordan. Circa 1970s </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Ahmad Nawash Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.094</field>
+     <field name="level_sim">subgrp</field>
+-    <field name="unittitle_ssm">5. Photographs of exhibitions at the University of Jordan. Circa 1970s&amp;nbsp;</field>
++    <field name="unittitle_ssm">5. Photographs of exhibitions at the University of Jordan. Circa 1970s </field>
+     <field name="unittitle_teim">5. Photographs of exhibitions at the University of Jordan. Circa 1970s </field>
+     <field name="unitid_teim">cuid330</field>
+     <field name="unitid_ssm">cuid330</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">AD.MC.094</field>
+     <field name="series_sim">Series VII: Photographs</field>
+     <field name="series_sim">VII.A. Exhibition Photographs</field>
+-    <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 5. Photographs of exhibitions at the University of Jordan. Circa 1970s&amp;nbsp;</field>
++    <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 5. Photographs of exhibitions at the University of Jordan. Circa 1970s </field>
+     <field name="heading_ssm">5. Photographs of exhibitions at the University of Jordan. Circa 1970s </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">55</field>

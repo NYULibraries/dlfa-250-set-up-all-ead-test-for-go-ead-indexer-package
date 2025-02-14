@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">iii. groups</field>
----
->     <field name="parent_unittitles_ssm">iv. officers at Villa La Pietra [1915/16]</field>
-18c18
-<     <field name="parent_unittitles_teim">iii. groups</field>
----
->     <field name="parent_unittitles_teim">iv. officers at Villa La Pietra [1915/16]</field>
-46,47c46,47
-<     <field name="series_sim">iii. groups</field>
-<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; iii. groups &gt;&gt; Five ladies [including HMA] in a garden</field>
----
->     <field name="series_sim">iv. officers at Villa La Pietra [1915/16]</field>
->     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; iv. officers at Villa La Pietra [1915/16] &gt;&gt; Five ladies [including HMA] in a garden</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_ssm">Subseries A: The Actons</field>
+     <field name="parent_unittitles_ssm">5 friends of the Actons</field>
+-    <field name="parent_unittitles_ssm">iii. groups</field>
++    <field name="parent_unittitles_ssm">iv. officers at Villa La Pietra [1915/16]</field>
+     <field name="parent_unittitles_teim">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_teim">Subseries A: The Actons</field>
+     <field name="parent_unittitles_teim">5 friends of the Actons</field>
+-    <field name="parent_unittitles_teim">iii. groups</field>
++    <field name="parent_unittitles_teim">iv. officers at Villa La Pietra [1915/16]</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series VIII: Images on glass</field>
+     <field name="series_sim">Subseries A: The Actons</field>
+     <field name="series_sim">5 friends of the Actons</field>
+-    <field name="series_sim">iii. groups</field>
+-    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; iii. groups &gt;&gt; Five ladies [including HMA] in a garden</field>
++    <field name="series_sim">iv. officers at Villa La Pietra [1915/16]</field>
++    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 5 friends of the Actons &gt;&gt; iv. officers at Villa La Pietra [1915/16] &gt;&gt; Five ladies [including HMA] in a garden</field>
+     <field name="heading_ssm">Five ladies [including HMA] in a garden</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>

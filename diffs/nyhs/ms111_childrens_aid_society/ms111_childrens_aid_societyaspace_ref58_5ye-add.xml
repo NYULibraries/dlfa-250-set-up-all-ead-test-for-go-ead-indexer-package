@@ -1,6 +1,14 @@
-24,26c24
-<     <field name="scopecontent_teim">
-<       Name and Location Changes at CAS Facilities
-<     </field>
----
->     <field name="scopecontent_teim">Name and Location Changes at CAS Facilities</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,9 +21,7 @@
+     <field name="scopecontent_teim">Material types in the boxes include pamphlets, invitations, press releases, reports, memos, correspondence, forms, disbound volumes, property surveys, an address book and bank passbooks, newsletters, programs for minstrel shows and other entertainments and events, and some photos and minutes.</field>
+     <field name="scopecontent_teim">Bowdoin Farm School and the Newsboys' Lodging House are particularly well represented in the boxed materials. The materials from Bowdoin Farm School extend late enough to include alumni reunion materials, and materials related to the end of its existence as a CAS program in 1958, as well as a property survey from 1974. See also Series XII - photographs - for a large amount of material related to Bowdoin Farm School. The Newsboys' Lodging House materials include programs for amateur minstrel shows and other entertainments and events. Both Bowdoin Farm School and the Newsboys' Lodging House materials include newsletters. Some materials from Bowdoin Camp, Bowdoin Farm, Brace Farm, and the convalescent homes are housed in a separate oversized (OS) box, noted in the container list.</field>
+     <field name="scopecontent_teim">The Girls Lodging House, Elizabeth Home, Eleventh Ward Lodging House, Tompkins Square Lodging House, and Emergency Shelter for Women and Children are particularly well-represented among the volumes. There are fewer records from the industrial schools.</field>
+-    <field name="scopecontent_teim">
+-      Name and Location Changes at CAS Facilities
+-    </field>
++    <field name="scopecontent_teim">Name and Location Changes at CAS Facilities</field>
+     <field name="scopecontent_teim">Children's Aid Society facilities changed names and locations frequently, and were sometimes known by different names simultaneously. An attempt has been made to arrange facilities by the names by which they seemed most commonly known, with other names noted. The following are specific notes regarding names and arrangement:</field>
+     <field name="scopecontent_teim">Bowdoin Camp is arranged separately and alphabetically before Bowdoin Farm School. The two programs shared the same grounds, but performed different functions. Bowdoin Farm replaced Brace Farm as the CAS farm training program in 1929. After that time, Brace Farm changed its mission to focus on children with special needs, but did not change its name. Some material on Brace Farm School can be found among the material on the Newsboys Lodging House, as the programs served the same population, and boys often attended both facilities.</field>
+     <field name="scopecontent_teim">The Emergency Shelter for Women and Children is listed by that name. In practice, sometimes the word Emergency was not used, at other times the name specified "evicted women and children," and when it first opened in 1901 at 311 East 12th Street, next to the Elizabeth Home at 307-9 East 12th Street, it was also called the Elizabeth Home Annex.</field>

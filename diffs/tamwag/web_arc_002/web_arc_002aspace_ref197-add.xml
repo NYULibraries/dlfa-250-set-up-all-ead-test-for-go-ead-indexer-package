@@ -1,4 +1,19 @@
-27a28
->     <field name="subject_teim">Bricklayers -- Labor unions</field>
-41d41
-<     <field name="subject_teim">Bricklayers -- Labor unions</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,6 +25,7 @@
+     <field name="occupation_teim">Bricklayers -- Labor unions</field>
+     <field name="occupation_ssm">Bricklayers -- Labor unions</field>
+     <field name="occupation_ssm">Bricklayers -- Labor unions</field>
++    <field name="subject_teim">Bricklayers -- Labor unions</field>
+     <field name="dao_teim">International Union of Bricklayers and Allied Craftworkers. Local 7 (New York and New Jersey)</field>
+     <field name="dao_ssm">International Union of Bricklayers and Allied Craftworkers. Local 7 (New York and New Jersey)</field>
+     <field name="ref_ssi">aspace_ref197</field>
+@@ -38,7 +39,6 @@
+     <field name="name_teim">International Union of Bricklayers and Allied Craftworkers. Local 7 (New York, N.Y.)</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Bricklayers -- Labor unions</field>
+-    <field name="subject_teim">Bricklayers -- Labor unions</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">International Union of Bricklayers and Allied Craftworkers. Local 7 (New York and New Jersey) Archived Website</field>

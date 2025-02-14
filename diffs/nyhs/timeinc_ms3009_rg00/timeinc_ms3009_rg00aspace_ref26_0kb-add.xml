@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. News Clippings.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. News Clippings.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 20. Time Inc. News Clippings (1999-2013)</field>
+     <field name="unittitle_teim">RG 20. Time Inc. News Clippings (1999-2013)</field>
+     <field name="scopecontent_teim">The Time Inc. News Clippings contain copies of news articles about Time Warner and AOL Time Warner, its publications, and its subsidiaries collected by the Time Inc. Library and Archives. Corporate Communications compiled some of the clippings packets. </field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. News Clippings.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. News Clippings.</field>
+     <field name="ref_ssi">aspace_ref26_0kb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

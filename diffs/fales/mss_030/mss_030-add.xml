@@ -1,2 +1,11 @@
-31d30
-<     <field name="bioghist_teim"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,6 @@
+     <field name="bioghist_teim">Following a brief marriage and the birth of her son Richard Rainsford, she performed on the cruise ship circuit to Havana. Wanting to spend more time with her only child, Billy began a profitable business of writing song lyrics for notable song writers such as Arthur Gutman, Gilbert Wall, Ray Dallas, and performers such as Spivy LeVoe, Florence Herbert, Harriet Hutchins, Beth Challis, and Irene Bordoni. </field>
+     <field name="bioghist_teim">Later in life Billy went on to own a wholesale antiques shop in upstate New York which she ran with her son and her sister. Billy and Doris then followed Richard's academic career and eventually ended up in Ohio where Billy painted miniature landscapes and wrote her unpublished autobiography 'I Was There Charlie'.</field>
+     <field name="bioghist_teim">Jill "Billy" Rainsford died on July 5, 1994 at the age of 89.</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="acqinfo_teim">The Jill "Billy" Rainsford Papers were donated to New York University in 1995 by her sister Doris Rainsford of Athens, Ohio. The accession number associated with this gift is 1994.030</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">D.W. Griffith, Inc.</field>

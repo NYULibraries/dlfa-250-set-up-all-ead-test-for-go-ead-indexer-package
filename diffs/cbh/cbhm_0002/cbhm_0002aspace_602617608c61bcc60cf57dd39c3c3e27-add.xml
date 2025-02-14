@@ -1,12 +1,25 @@
-28,30c28
-<     <field name="scopecontent_teim">
-<       2004-05 
-<     </field>
----
->     <field name="scopecontent_teim">2004-05 </field>
-55,57c53
-<     <field name="scopecontent_teim">
-<       2008-2009
-<     </field>
----
->     <field name="scopecontent_teim">2008-2009</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,9 +25,7 @@
+     <field name="scopecontent_teim">Gloria Wilson, Conjunto NM, Panamanian, 11/7/2004, cassette tape </field>
+     <field name="scopecontent_teim">Renee Flowers, Gowanus Wildcats, 12/15/2004, cassette tape </field>
+     <field name="scopecontent_teim">Mozghan Motamedi, Iranian/Persian Dance, 12/28/2004, cassette tape </field>
+-    <field name="scopecontent_teim">
+-      2004-05 
+-    </field>
++    <field name="scopecontent_teim">2004-05 </field>
+     <field name="scopecontent_teim">Anup Kumar Das, 2004-05, CD </field>
+     <field name="scopecontent_teim">2005 </field>
+     <field name="scopecontent_teim">Joe Dwyer, Irish stepdance, 1/7/2005, cassette tape </field>
+@@ -52,9 +50,7 @@
+     <field name="scopecontent_teim">Shock-a-Lock, 8/6/2008, DVD </field>
+     <field name="scopecontent_teim">Sady Sullivan, Marie-Basse Wiles, Irina Roizin, Brooklyn Historical Society Collaboration, 2008, DVD (audio only) </field>
+     <field name="scopecontent_teim">Sady Sullivan, Carlos Vasquez, Shock-a-Lock, Donny Golden, Brooklyn Historical Society Collaboration, 8/12/2008, DVD (audio only) </field>
+-    <field name="scopecontent_teim">
+-      2008-2009
+-    </field>
++    <field name="scopecontent_teim">2008-2009</field>
+     <field name="scopecontent_teim">Traditional Dance in Detail, demonstrations and interviews:  Christafo Madimenos, Euston James, Yassar Darwish, Linda Sarsour, Nadia Dieudonne, Melinda Gonzalez, (DVDs) </field>
+     <field name="scopecontent_teim">Traditional Dance in Brooklyn, demonstrations and interviews:  Razvan Gorea, Ralph Casnova, Rita Silva, Vongku Pak, Renee Flowers, Gowanus Wildcats, DVD </field>
+     <field name="scopecontent_teim">Dancing Detail, demonstrations and interviews:  Porter, Matias, DVD </field>

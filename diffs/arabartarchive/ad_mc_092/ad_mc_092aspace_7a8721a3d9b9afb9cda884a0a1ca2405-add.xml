@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">2. "Pioneers and Artists of the 1950's," 1992&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">2. "Pioneers and Artists of the 1950's," 1992 </field>
-33c33
-<     <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.C.	Exhibitions by Other Artists &gt;&gt; 2. "Pioneers and Artists of the 1950's," 1992&amp;nbsp;</field>
----
->     <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.C.	Exhibitions by Other Artists &gt;&gt; 2. "Pioneers and Artists of the 1950's," 1992 </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Rafa Nasiri and May Muzaffar Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.092</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">2. "Pioneers and Artists of the 1950's," 1992&amp;nbsp;</field>
++    <field name="unittitle_ssm">2. "Pioneers and Artists of the 1950's," 1992 </field>
+     <field name="unittitle_teim">2. "Pioneers and Artists of the 1950's," 1992 </field>
+     <field name="unitid_teim">cuid399</field>
+     <field name="unitid_ssm">cuid399</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">AD.MC.092</field>
+     <field name="series_sim">Series IV: Exhibition Materials</field>
+     <field name="series_sim">IV.C.	Exhibitions by Other Artists</field>
+-    <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.C.	Exhibitions by Other Artists &gt;&gt; 2. "Pioneers and Artists of the 1950's," 1992&amp;nbsp;</field>
++    <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.C.	Exhibitions by Other Artists &gt;&gt; 2. "Pioneers and Artists of the 1950's," 1992 </field>
+     <field name="heading_ssm">2. "Pioneers and Artists of the 1950's," 1992 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">63</field>

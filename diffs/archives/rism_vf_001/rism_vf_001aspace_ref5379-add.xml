@@ -1,2 +1,11 @@
-39a40
->     <field name="series_sim">Carriacou Island</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -37,6 +37,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Carriacou Island</field>
++    <field name="series_sim">Carriacou Island</field>
+     <field name="series_si">Carriacou Island &gt;&gt; Carriacou Island &gt;&gt; Carriacou: Gem of the Grenadines</field>
+     <field name="heading_ssm">Carriacou: Gem of the Grenadines</field>
+     <field name="unitdate_start_sim">1988</field>

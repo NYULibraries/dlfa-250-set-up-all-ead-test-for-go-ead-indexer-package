@@ -1,4 +1,19 @@
-49a50
->     <field name="subject_teim">Bankers -- New York (State) -- Kings County</field>
-67d67
-<     <field name="subject_teim">Bankers -- New York (State) -- Kings County</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -47,6 +47,7 @@
+     <field name="persname_teim">McDonald, Edgar</field>
+     <field name="persname_ssm">McDonald, Edgar</field>
+     <field name="persname_ssm">McDonald, Edgar</field>
++    <field name="subject_teim">Bankers -- New York (State) -- Kings County</field>
+     <field name="collection_sim">Edgar McDonald papers</field>
+     <field name="collection_ssm">Edgar McDonald papers</field>
+     <field name="collection_teim">Edgar McDonald papers</field>
+@@ -64,7 +65,6 @@
+     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+     <field name="subject_sim">Bankers -- New York (State) -- Kings County</field>
+-    <field name="subject_teim">Bankers -- New York (State) -- Kings County</field>
+     <field name="material_type_sim">Promissory notes</field>
+     <field name="material_type_sim">Obituaries</field>
+     <field name="material_type_sim">Clippings (information artifacts)</field>

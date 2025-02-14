@@ -1,16 +1,24 @@
-23,33c23,25
-<     <field name="scopecontent_teim">
-<       Folder: New York Stock Exchange
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Gallatin National Bank
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: CCNY
-<     </field>
----
->     <field name="scopecontent_teim">Folder: New York Stock Exchange</field>
->     <field name="scopecontent_teim">Folder: Gallatin National Bank</field>
->     <field name="scopecontent_teim">Folder: CCNY</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,17 +20,9 @@
+ ........Semi-detached houses on Cotton Place; Cradock, VA (2 copies)
+ ........Terrace Group of 5 Houses on Ericsson St.; Cradock, VA (2 copies)
+ ........Other drawings and views</field>
+-    <field name="scopecontent_teim">
+-      Folder: New York Stock Exchange
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Gallatin National Bank
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: CCNY
+-    </field>
++    <field name="scopecontent_teim">Folder: New York Stock Exchange</field>
++    <field name="scopecontent_teim">Folder: Gallatin National Bank</field>
++    <field name="scopecontent_teim">Folder: CCNY</field>
+     <field name="ref_ssi">aspace_519f7dd3c7dd5bb0b48a490fb8632650</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

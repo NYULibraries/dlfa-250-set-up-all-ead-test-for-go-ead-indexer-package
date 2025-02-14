@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Listed alphabetically by author or title.
-<     </field>
----
->     <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Works by others (S)</field>
+     <field name="unittitle_teim">Works by others (S)</field>
+     <field name="unitdate_inclusive_teim">1905</field>
+-    <field name="scopecontent_teim">
+-      Listed alphabetically by author or title.
+-    </field>
++    <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+     <field name="scopecontent_teim">___O. G. Sonneck, Francis Hopkinson: The First American Poet-Composer (1737–1791), and James Lyon: Patriot, Preacher, Psalmodist (1735–1794); Two Studies in Early American Music (1905)</field>
+     <field name="ref_ssi">aspace_28da2344c43c321d693680f0046a7b63</field>
+     <field name="repository_ssi">nyhs</field>

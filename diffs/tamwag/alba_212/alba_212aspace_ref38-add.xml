@@ -1,28 +1,41 @@
-16,25c16,17
-<     <field name="unittitle_ssm">
-<       &lt;em&gt;Infantry Day in the 92&lt;/em&gt;
-<       &lt;em&gt;nd&lt;/em&gt;
-<       &lt;em&gt;Division&lt;/em&gt;
-<     </field>
-<     <field name="unittitle_teim">
-<       Infantry Day in the 92
-<       nd
-<       Division
-<     </field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Infantry Day in the 92&lt;/em&gt;&lt;em&gt;nd&lt;/em&gt;&lt;em&gt;Division&lt;/em&gt;</field>
->     <field name="unittitle_teim">Infantry Day in the 92ndDivision</field>
-44,53c36,37
-<     <field name="series_si">Series III: Armed Forces Periodicals &gt;&gt; 
-<       &lt;em&gt;Infantry Day in the 92&lt;/em&gt;
-<       &lt;em&gt;nd&lt;/em&gt;
-<       &lt;em&gt;Division&lt;/em&gt;
-<     </field>
-<     <field name="heading_ssm">
-<       Infantry Day in the 92
-<       nd
-<       Division
-<     </field>
----
->     <field name="series_si">Series III: Armed Forces Periodicals &gt;&gt; &lt;em&gt;Infantry Day in the 92&lt;/em&gt;&lt;em&gt;nd&lt;/em&gt;&lt;em&gt;Division&lt;/em&gt;</field>
->     <field name="heading_ssm">Infantry Day in the 92ndDivision</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,16 +13,8 @@
+     <field name="collection_ssm">James Bernard Rucker Papers</field>
+     <field name="collection_unitid_ssm">ALBA.212</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Infantry Day in the 92&lt;/em&gt;
+-      &lt;em&gt;nd&lt;/em&gt;
+-      &lt;em&gt;Division&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Infantry Day in the 92
+-      nd
+-      Division
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Infantry Day in the 92&lt;/em&gt;&lt;em&gt;nd&lt;/em&gt;&lt;em&gt;Division&lt;/em&gt;</field>
++    <field name="unittitle_teim">Infantry Day in the 92ndDivision</field>
+     <field name="unitdate_teim">Jun 15, 1944</field>
+     <field name="title_teim">Infantry Day in the 92</field>
+     <field name="title_teim">nd</field>
+@@ -41,16 +33,8 @@
+     <field name="collection_teim">James Bernard Rucker Papers</field>
+     <field name="collection_unitid_teim">ALBA.212</field>
+     <field name="series_sim">Series III: Armed Forces Periodicals</field>
+-    <field name="series_si">Series III: Armed Forces Periodicals &gt;&gt; 
+-      &lt;em&gt;Infantry Day in the 92&lt;/em&gt;
+-      &lt;em&gt;nd&lt;/em&gt;
+-      &lt;em&gt;Division&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Infantry Day in the 92
+-      nd
+-      Division
+-    </field>
++    <field name="series_si">Series III: Armed Forces Periodicals &gt;&gt; &lt;em&gt;Infantry Day in the 92&lt;/em&gt;&lt;em&gt;nd&lt;/em&gt;&lt;em&gt;Division&lt;/em&gt;</field>
++    <field name="heading_ssm">Infantry Day in the 92ndDivision</field>
+     <field name="unitdate_ssm">Jun 15, 1944</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">34</field>

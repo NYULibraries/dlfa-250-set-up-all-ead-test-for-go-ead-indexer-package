@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Technology II (Heights)</field>
----
->     <field name="parent_unittitles_ssm">Washington Square - Properties</field>
-18c18
-<     <field name="parent_unittitles_teim">Technology II (Heights)</field>
----
->     <field name="parent_unittitles_teim">Washington Square - Properties</field>
-46,47c46,47
-<     <field name="series_sim">Technology II (Heights)</field>
-<     <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries C: 1965 - 1966 &gt;&gt; Sub-Subseries D: Space and Buildings &gt;&gt; Technology II (Heights) &gt;&gt; Letter from Martin L. Beck to Hamilton P. Smith</field>
----
->     <field name="series_sim">Washington Square - Properties</field>
->     <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries C: 1965 - 1966 &gt;&gt; Sub-Subseries D: Space and Buildings &gt;&gt; Washington Square - Properties &gt;&gt; Letter from Martin L. Beck to Hamilton P. Smith</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series IV: Russell D. Niles</field>
+     <field name="parent_unittitles_ssm">Subseries C: 1965 - 1966</field>
+     <field name="parent_unittitles_ssm">Sub-Subseries D: Space and Buildings</field>
+-    <field name="parent_unittitles_ssm">Technology II (Heights)</field>
++    <field name="parent_unittitles_ssm">Washington Square - Properties</field>
+     <field name="parent_unittitles_teim">Series IV: Russell D. Niles</field>
+     <field name="parent_unittitles_teim">Subseries C: 1965 - 1966</field>
+     <field name="parent_unittitles_teim">Sub-Subseries D: Space and Buildings</field>
+-    <field name="parent_unittitles_teim">Technology II (Heights)</field>
++    <field name="parent_unittitles_teim">Washington Square - Properties</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Records of the Office of the Chancellor and Executive Vice President (David D. Henry and Carroll V. Newsom, John E. Ivey, Jr., George D. Stoddard, and Russell D. Niles)</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series IV: Russell D. Niles</field>
+     <field name="series_sim">Subseries C: 1965 - 1966</field>
+     <field name="series_sim">Sub-Subseries D: Space and Buildings</field>
+-    <field name="series_sim">Technology II (Heights)</field>
+-    <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries C: 1965 - 1966 &gt;&gt; Sub-Subseries D: Space and Buildings &gt;&gt; Technology II (Heights) &gt;&gt; Letter from Martin L. Beck to Hamilton P. Smith</field>
++    <field name="series_sim">Washington Square - Properties</field>
++    <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries C: 1965 - 1966 &gt;&gt; Sub-Subseries D: Space and Buildings &gt;&gt; Washington Square - Properties &gt;&gt; Letter from Martin L. Beck to Hamilton P. Smith</field>
+     <field name="heading_ssm">Letter from Martin L. Beck to Hamilton P. Smith</field>
+     <field name="unitdate_ssm">1964</field>
+     <field name="date_range_sim">undated &amp; other</field>

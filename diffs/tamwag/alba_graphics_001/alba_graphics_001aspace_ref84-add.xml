@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">"Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]&amp;nbsp; Socorro Rojo Internacional.&amp;nbsp; H: 28 x W: 20 inches.</field>
----
->     <field name="unittitle_ssm">"Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]  Socorro Rojo Internacional.  H: 28 x W: 20 inches.</field>
-41c41
-<     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]&amp;nbsp; Socorro Rojo Internacional.&amp;nbsp; H: 28 x W: 20 inches.</field>
----
->     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]  Socorro Rojo Internacional.  H: 28 x W: 20 inches.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Spanish Civil War Poster Collection </field>
+     <field name="collection_unitid_ssm">ALBA.GRAPHICS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]&amp;nbsp; Socorro Rojo Internacional.&amp;nbsp; H: 28 x W: 20 inches.</field>
++    <field name="unittitle_ssm">"Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]  Socorro Rojo Internacional.  H: 28 x W: 20 inches.</field>
+     <field name="unittitle_teim">"Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]  Socorro Rojo Internacional.  H: 28 x W: 20 inches.</field>
+     <field name="unitid_teim">cuid33558</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/28972</field>
+@@ -38,7 +38,7 @@
+     <field name="collection_unitid_teim">ALBA.GRAPHICS.001</field>
+     <field name="series_sim">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003.</field>
+     <field name="series_sim">Subseries I:A: Civil War Era: Spain, 1936-1938.</field>
+-    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]&amp;nbsp; Socorro Rojo Internacional.&amp;nbsp; H: 28 x W: 20 inches.</field>
++    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]  Socorro Rojo Internacional.  H: 28 x W: 20 inches.</field>
+     <field name="heading_ssm">"Españoles: !Acudid en ayuda de las víctimas del fascismo en las regiones invadidas!" [Published by]  Socorro Rojo Internacional.  H: 28 x W: 20 inches.</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>

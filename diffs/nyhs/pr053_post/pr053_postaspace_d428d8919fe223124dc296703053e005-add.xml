@@ -1,7 +1,15 @@
-18,21c18
-<     <field name="scopecontent_teim">
-<       Folder: Theatre and Office Building for William Fox, 47th and Broadway, New York City
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Theatre and Office Building for William Fox, 47th and Broadway, New York City</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,10 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">[2NW, Unit 8A, Case 40, Drawer 10: Fox Theater &amp;amp; Foreign Material Owned by Post]</field>
+     <field name="unittitle_teim">[2NW, Unit 8A, Case 40, Drawer 10: Fox Theater &amp; Foreign Material Owned by Post]</field>
+-    <field name="scopecontent_teim">
+-      Folder: Theatre and Office Building for William Fox, 47th and Broadway, New York City
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: Theatre and Office Building for William Fox, 47th and Broadway, New York City</field>
+     <field name="scopecontent_teim">Folder: Foreign Material
+ ........01.	Interiors, from book
+ ........02.	Unlabeled outdoor plan

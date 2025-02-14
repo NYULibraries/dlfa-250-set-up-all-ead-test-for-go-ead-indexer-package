@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the New-York Historical Society Bequests, Gifts &amp; Related Matters Record Group.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Bequests, Gifts &amp; Related Matters Record Group.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">NYHS-RG 16. Bequests, gifts &amp;amp; related matters (1852-1992)</field>
+     <field name="unittitle_teim">NYHS-RG 16. Bequests, gifts &amp; related matters (1852-1992)</field>
+     <field name="scopecontent_teim">The New-York Historical Society bequests, gifts &amp; related matters record group (NYHS-RG 16) primarily includes records concerning estates in which N-YHS was named as a beneficiary. Most of these instances resulted in N-YHS receiving museum objects, manuscripts, books, or other items or a financial legacy. The record group also includes files of some donations of objects and funds from donors during their lifetimes, as well as some purchases. The record group includes files on some of the most important patrons and objects in N-YHS's history. The record group is restricted in part, but generally records from 1960 and earlier are available.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the New-York Historical Society Bequests, Gifts &amp; Related Matters Record Group.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Bequests, Gifts &amp; Related Matters Record Group.</field>
+     <field name="ref_ssi">aspace_ref64_qu4</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

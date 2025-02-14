@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">9. Solo exhibition at Library of University of Jordan, Amman, 1977&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">9. Solo exhibition at Library of University of Jordan, Amman, 1977 </field>
-33c33
-<     <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 9. Solo exhibition at Library of University of Jordan, Amman, 1977&amp;nbsp;</field>
----
->     <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 9. Solo exhibition at Library of University of Jordan, Amman, 1977 </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Ahmad Nawash Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.094</field>
+     <field name="level_sim">subgrp</field>
+-    <field name="unittitle_ssm">9. Solo exhibition at Library of University of Jordan, Amman, 1977&amp;nbsp;</field>
++    <field name="unittitle_ssm">9. Solo exhibition at Library of University of Jordan, Amman, 1977 </field>
+     <field name="unittitle_teim">9. Solo exhibition at Library of University of Jordan, Amman, 1977 </field>
+     <field name="unitid_teim">cuid334</field>
+     <field name="unitid_ssm">cuid334</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">AD.MC.094</field>
+     <field name="series_sim">Series VII: Photographs</field>
+     <field name="series_sim">VII.A. Exhibition Photographs</field>
+-    <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 9. Solo exhibition at Library of University of Jordan, Amman, 1977&amp;nbsp;</field>
++    <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 9. Solo exhibition at Library of University of Jordan, Amman, 1977 </field>
+     <field name="heading_ssm">9. Solo exhibition at Library of University of Jordan, Amman, 1977 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">59</field>

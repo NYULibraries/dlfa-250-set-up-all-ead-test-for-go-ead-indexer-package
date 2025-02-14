@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Doctorow, E.L.&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">Doctorow, E.L. </field>
-27c27
-<     <field name="series_si">Doctorow, E.L.&amp;nbsp;</field>
----
->     <field name="series_si">Doctorow, E.L. </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">New York University Archives Biographical Files</field>
+     <field name="collection_unitid_ssm">MC.317</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Doctorow, E.L.&amp;nbsp;</field>
++    <field name="unittitle_ssm">Doctorow, E.L. </field>
+     <field name="unittitle_teim">Doctorow, E.L. </field>
+     <field name="unitid_teim">/repositories/6/archival_objects/875691</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/875691</field>
+@@ -24,7 +24,7 @@
+     <field name="location_si">Box: 49</field>
+     <field name="collection_teim">New York University Archives Biographical Files</field>
+     <field name="collection_unitid_teim">MC.317</field>
+-    <field name="series_si">Doctorow, E.L.&amp;nbsp;</field>
++    <field name="series_si">Doctorow, E.L. </field>
+     <field name="heading_ssm">Doctorow, E.L. </field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

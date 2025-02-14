@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Folder 3. Album labelled "VI"</field>
----
->     <field name="parent_unittitles_ssm">6. Interiors taken by Anna Marx, 1986</field>
-18c18
-<     <field name="parent_unittitles_teim">Folder 3. Album labelled "VI"</field>
----
->     <field name="parent_unittitles_teim">6. Interiors taken by Anna Marx, 1986</field>
-46,47c46,47
-<     <field name="series_sim">Folder 3. Album labelled "VI"</field>
-<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; Folder 3. Album labelled "VI" &gt;&gt; Duplicate of II.B.1.XXX. B.3.15.-26.</field>
----
->     <field name="series_sim">6. Interiors taken by Anna Marx, 1986</field>
->     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 6. Interiors taken by Anna Marx, 1986 &gt;&gt; Duplicate of II.B.1.XXX. B.3.15.-26.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series II: Villa La Pietra</field>
+     <field name="parent_unittitles_ssm">Subseries B: The Interior and the Collection</field>
+     <field name="parent_unittitles_ssm">5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it.</field>
+-    <field name="parent_unittitles_ssm">Folder 3. Album labelled "VI"</field>
++    <field name="parent_unittitles_ssm">6. Interiors taken by Anna Marx, 1986</field>
+     <field name="parent_unittitles_teim">Series II: Villa La Pietra</field>
+     <field name="parent_unittitles_teim">Subseries B: The Interior and the Collection</field>
+     <field name="parent_unittitles_teim">5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it.</field>
+-    <field name="parent_unittitles_teim">Folder 3. Album labelled "VI"</field>
++    <field name="parent_unittitles_teim">6. Interiors taken by Anna Marx, 1986</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series II: Villa La Pietra</field>
+     <field name="series_sim">Subseries B: The Interior and the Collection</field>
+     <field name="series_sim">5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it.</field>
+-    <field name="series_sim">Folder 3. Album labelled "VI"</field>
+-    <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; Folder 3. Album labelled "VI" &gt;&gt; Duplicate of II.B.1.XXX. B.3.15.-26.</field>
++    <field name="series_sim">6. Interiors taken by Anna Marx, 1986</field>
++    <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 5 Historic Albums mostly of the interior and works of art at present in the Collection or probably formerly once belonging to it. &gt;&gt; 6. Interiors taken by Anna Marx, 1986 &gt;&gt; Duplicate of II.B.1.XXX. B.3.15.-26.</field>
+     <field name="heading_ssm">Duplicate of II.B.1.XXX. B.3.15.-26.</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>

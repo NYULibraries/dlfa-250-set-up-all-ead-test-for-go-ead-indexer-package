@@ -1,2 +1,11 @@
-26a27
->     <field name="location_ssm">Box: 2, Folder: 14</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,6 +24,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: Shared Tamiment 095, Cassette: 5A</field>
+     <field name="location_ssm">Box: 2, Folder: 14</field>
++    <field name="location_ssm">Box: 2, Folder: 14</field>
+     <field name="location_ssm">Box: 1, CD: Laboriel 1</field>
+     <field name="location_si">Box: 1, CD: Laboriel 1</field>
+     <field name="collection_teim">Hispanic Apparel Union Officers Oral History Collection</field>

@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the New-York Historical Society Building Renovations and Maintenance Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Building Renovations and Maintenance Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">NYHS-RG 4. Building renovations and maintenance records (1938-2017)</field>
+     <field name="unittitle_teim">NYHS-RG 4. Building renovations and maintenance records (1938-2017)</field>
+     <field name="scopecontent_teim">The New-York Historical Society building renovations and maintenance records include files concerning the Central Park West physical plant from the late 1940s and forward. One major initiative that is especially well-documented in the record group is the extensive renovation work that began in planning about 1989 and concluded in 2000 with the opening of the Henry Luce III Center for the Study of American Culture. Various other large and small construction and maintenance projects are documented to some extent. The record group will continue to accrue new material over time.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the New-York Historical Society Building Renovations and Maintenance Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Building Renovations and Maintenance Records.</field>
+     <field name="ref_ssi">aspace_ref48_qgh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,12 +1,25 @@
-8,9c8,9
-<     <field name="parent_unittitles_ssm">Series VIII: Art&amp;nbsp;</field>
-<     <field name="parent_unittitles_teim">Series VIII: Art&amp;nbsp;</field>
----
->     <field name="parent_unittitles_ssm">Series VIII: Art </field>
->     <field name="parent_unittitles_teim">Series VIII: Art </field>
-33,34c33,34
-<     <field name="series_sim">Series VIII: Art&amp;nbsp;</field>
-<     <field name="series_si">Series VIII: Art&amp;nbsp; &gt;&gt; Ostrich Egg Handpainted with Alice Characters
----
->     <field name="series_sim">Series VIII: Art </field>
->     <field name="series_si">Series VIII: Art  &gt;&gt; Ostrich Egg Handpainted with Alice Characters
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_368</field>
+     <field name="parent_ssi">aspace_ref389</field>
+     <field name="parent_ssm">aspace_ref389</field>
+-    <field name="parent_unittitles_ssm">Series VIII: Art&amp;nbsp;</field>
+-    <field name="parent_unittitles_teim">Series VIII: Art&amp;nbsp;</field>
++    <field name="parent_unittitles_ssm">Series VIII: Art </field>
++    <field name="parent_unittitles_teim">Series VIII: Art </field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+@@ -30,8 +30,8 @@
+     <field name="location_si">Box: 65</field>
+     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+     <field name="collection_unitid_teim">MSS.368</field>
+-    <field name="series_sim">Series VIII: Art&amp;nbsp;</field>
+-    <field name="series_si">Series VIII: Art&amp;nbsp; &gt;&gt; Ostrich Egg Handpainted with Alice Characters
++    <field name="series_sim">Series VIII: Art </field>
++    <field name="series_si">Series VIII: Art  &gt;&gt; Ostrich Egg Handpainted with Alice Characters
+ </field>
+     <field name="heading_ssm">Ostrich Egg Handpainted with Alice Characters
+ </field>

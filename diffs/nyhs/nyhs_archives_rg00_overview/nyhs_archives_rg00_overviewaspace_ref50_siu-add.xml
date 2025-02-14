@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the New-York Historical Society Field Exploration Committee Photographs.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Field Exploration Committee Photographs.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">NYHS-RG 6. Field Exploration Committee photographs (1891-1930s)</field>
+     <field name="unittitle_teim">NYHS-RG 6. Field Exploration Committee photographs (1891-1930s)</field>
+     <field name="scopecontent_teim">The New-York Historical Society Field Exploration Committee photographs record group primarily includes images of materials resulting from the excavations for historical artifacts conducted by members of the Committee, mostly in the early twentieth century. These images are primarily from sites in upper Manhattan and the Bronx and include such materials as buttons from American and British uniforms and coins from the Revolutionary War and War of 1812. Also included are images of Native American materials discovered. These materials informed and illustrated the many articles written by William L. Calver and Reginald P. Bolton and published in N-YHS's Quarterly Bulletin during the Committee's existence from 1917-1938.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the New-York Historical Society Field Exploration Committee Photographs.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Field Exploration Committee Photographs.</field>
+     <field name="ref_ssi">aspace_ref50_siu</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

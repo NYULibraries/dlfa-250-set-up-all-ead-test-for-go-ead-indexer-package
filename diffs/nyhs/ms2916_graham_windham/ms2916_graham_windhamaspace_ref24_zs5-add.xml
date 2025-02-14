@@ -1,6 +1,14 @@
-23,25c23
-<     <field name="scopecontent_teim">
-<       The pamphlet in Folder 1 is available for research.  Folders 2, 3, and 4 are closed to the public for a term of one hundred years from date of creation.  Documents older than one hundred years are open for research.
-<     </field>
----
->     <field name="scopecontent_teim">The pamphlet in Folder 1 is available for research.  Folders 2, 3, and 4 are closed to the public for a term of one hundred years from date of creation.  Documents older than one hundred years are open for research.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,9 +20,7 @@
+     <field name="unitdate_normal_sim">1872/1976</field>
+     <field name="unitdate_inclusive_teim">1872-1976</field>
+     <field name="scopecontent_teim">The subseries includes a pamphlet memorializing founder Eliza Tomlinson (1862), and three folders of administrative documents (1926-1976).</field>
+-    <field name="scopecontent_teim">
+-      The pamphlet in Folder 1 is available for research.  Folders 2, 3, and 4 are closed to the public for a term of one hundred years from date of creation.  Documents older than one hundred years are open for research.
+-    </field>
++    <field name="scopecontent_teim">The pamphlet in Folder 1 is available for research.  Folders 2, 3, and 4 are closed to the public for a term of one hundred years from date of creation.  Documents older than one hundred years are open for research.</field>
+     <field name="ref_ssi">aspace_ref24_zs5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

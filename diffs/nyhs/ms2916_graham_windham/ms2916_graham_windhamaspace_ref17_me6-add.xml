@@ -1,7 +1,15 @@
-27,30c27
-<     <field name="scopecontent_teim">
-<       Financial Records are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Financial Records are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,10 +24,7 @@
+     <field name="unitdate_bulk_teim">1820-1956</field>
+     <field name="unitdate_inclusive_teim">1808-1957</field>
+     <field name="scopecontent_teim">The subseries contains financial records (1808-1957, bulk 1820-1956) of the Orphan Asylum Society (1806-1929), renamed the Graham School (1929-1950) and Graham Home for Children (1950-1977), arranged by type and in rough chronological order.  Most of the records are handwritten in bound volumes.  Loose records are arranged in boxes after the volumes. The records are not inclusive.  The names for types of records are not consistent.  It is not always clear who created the records.  Some records were kept by the Treasurer, some by the Assistant Treasurer, and some may have been kept by the Secretary, a board member, or the Superintendent.</field>
+-    <field name="scopecontent_teim">
+-      Financial Records are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
+-      
+-    </field>
++    <field name="scopecontent_teim">Financial Records are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.</field>
+     <field name="ref_ssi">aspace_ref17_me6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

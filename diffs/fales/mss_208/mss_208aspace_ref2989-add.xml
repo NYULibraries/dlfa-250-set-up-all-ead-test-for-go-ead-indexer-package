@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Subsubseries b: Wellesley College</field>
----
->     <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
-18c18
-<     <field name="parent_unittitles_teim">Subsubseries b: Wellesley College</field>
----
->     <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
-64,65c64,65
-<     <field name="series_sim">Subsubseries b: Wellesley College</field>
-<     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Braley, Elizabeth Williams: Cottage City &amp;amp; New Bedford, MA; Nashville, TN; Wellesley, MA
----
->     <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
->     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Braley, Elizabeth Williams: Cottage City &amp;amp; New Bedford, MA; Nashville, TN; Wellesley, MA
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+     <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
+     <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+-    <field name="parent_unittitles_ssm">Subsubseries b: Wellesley College</field>
++    <field name="parent_unittitles_ssm">Subsubseries d: American Civil War Army Rations</field>
+     <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+     <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
+     <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+-    <field name="parent_unittitles_teim">Subsubseries b: Wellesley College</field>
++    <field name="parent_unittitles_teim">Subsubseries d: American Civil War Army Rations</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Sylvester Manor Archive</field>
+@@ -61,8 +61,8 @@
+     <field name="series_sim">Record Group IV: Horsford Family</field>
+     <field name="series_sim">Series A: Eben Norton Horsford</field>
+     <field name="series_sim">Subseries 1: Correspondence</field>
+-    <field name="series_sim">Subsubseries b: Wellesley College</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Braley, Elizabeth Williams: Cottage City &amp;amp; New Bedford, MA; Nashville, TN; Wellesley, MA
++    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Braley, Elizabeth Williams: Cottage City &amp;amp; New Bedford, MA; Nashville, TN; Wellesley, MA
+ 
+ </field>
+     <field name="heading_ssm">Braley, Elizabeth Williams: Cottage City &amp; New Bedford, MA; Nashville, TN; Wellesley, MA

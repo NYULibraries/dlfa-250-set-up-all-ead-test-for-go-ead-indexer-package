@@ -1,12 +1,20 @@
-18,26c18
-<     <field name="scopecontent_teim">
-<       
-<         1. National NOW. Materials on the national conferences make up the bulk of these files. Other notable information includes 1973-president Wilma Scott Heide's correspondence from 1970 to 1971, 1973 election forms for candidates to National Board of Directors, material from the General Mills boycott in 1973, and material from the dissident group Majority Caucus that arose within NOW in 1975.
-<         2. Regional NOWs (East, West, etc.). The major event in these files is the 1972 Eastern Regional Conference, held in Pittsburgh.
-<         3. NOW--New York State. State conferences such as "Women: A Political Force" appear in these folders' materials, including forms, mailing addresses, memoranda, programs for conferences.
-<         4. Local chapters of NOW. These folders contain materials from local NOW chapters throughout the United States. Materials include flyers, announcements, newsletters, and programs. This section is arranged chronologically.
-<         5. Related arms of NOW-N.Y.C.: A. The Service Fund of NOW-N.Y.C.; B. NOW Legal Defense and Education Fund; C. WomanPower PAC
-<       
-<     </field>
----
->     <field name="scopecontent_teim">1. National NOW. Materials on the national conferences make up the bulk of these files. Other notable information includes 1973-president Wilma Scott Heide's correspondence from 1970 to 1971, 1973 election forms for candidates to National Board of Directors, material from the General Mills boycott in 1973, and material from the dissident group Majority Caucus that arose within NOW in 1975.2. Regional NOWs (East, West, etc.). The major event in these files is the 1972 Eastern Regional Conference, held in Pittsburgh.3. NOW--New York State. State conferences such as "Women: A Political Force" appear in these folders' materials, including forms, mailing addresses, memoranda, programs for conferences.4. Local chapters of NOW. These folders contain materials from local NOW chapters throughout the United States. Materials include flyers, announcements, newsletters, and programs. This section is arranged chronologically.5. Related arms of NOW-N.Y.C.: A. The Service Fund of NOW-N.Y.C.; B. NOW Legal Defense and Education Fund; C. WomanPower PAC</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,15 +15,7 @@
+     <field name="unitid_ssm">/repositories/2/archival_objects/166404</field>
+     <field name="unitdate_teim">1966-1993</field>
+     <field name="scopecontent_teim">These files are arranged chronologically within each of the following subheadings: National NOW, Regional NOWs, NOW--New York State, Local Chapters of NOW. Materials include agendas, brochures, clippings, conference schedules, correspondence, memoranda, newsletters, position statements, reports, resolutions.</field>
+-    <field name="scopecontent_teim">
+-      
+-        1. National NOW. Materials on the national conferences make up the bulk of these files. Other notable information includes 1973-president Wilma Scott Heide's correspondence from 1970 to 1971, 1973 election forms for candidates to National Board of Directors, material from the General Mills boycott in 1973, and material from the dissident group Majority Caucus that arose within NOW in 1975.
+-        2. Regional NOWs (East, West, etc.). The major event in these files is the 1972 Eastern Regional Conference, held in Pittsburgh.
+-        3. NOW--New York State. State conferences such as "Women: A Political Force" appear in these folders' materials, including forms, mailing addresses, memoranda, programs for conferences.
+-        4. Local chapters of NOW. These folders contain materials from local NOW chapters throughout the United States. Materials include flyers, announcements, newsletters, and programs. This section is arranged chronologically.
+-        5. Related arms of NOW-N.Y.C.: A. The Service Fund of NOW-N.Y.C.; B. NOW Legal Defense and Education Fund; C. WomanPower PAC
+-      
+-    </field>
++    <field name="scopecontent_teim">1. National NOW. Materials on the national conferences make up the bulk of these files. Other notable information includes 1973-president Wilma Scott Heide's correspondence from 1970 to 1971, 1973 election forms for candidates to National Board of Directors, material from the General Mills boycott in 1973, and material from the dissident group Majority Caucus that arose within NOW in 1975.2. Regional NOWs (East, West, etc.). The major event in these files is the 1972 Eastern Regional Conference, held in Pittsburgh.3. NOW--New York State. State conferences such as "Women: A Political Force" appear in these folders' materials, including forms, mailing addresses, memoranda, programs for conferences.4. Local chapters of NOW. These folders contain materials from local NOW chapters throughout the United States. Materials include flyers, announcements, newsletters, and programs. This section is arranged chronologically.5. Related arms of NOW-N.Y.C.: A. The Service Fund of NOW-N.Y.C.; B. NOW Legal Defense and Education Fund; C. WomanPower PAC</field>
+     <field name="ref_ssi">aspace_ref437</field>
+     <field name="repository_ssi">tamwag</field>
+     <field name="repository_sim">tamwag</field>

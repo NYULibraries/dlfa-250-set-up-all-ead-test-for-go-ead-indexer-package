@@ -1,16 +1,31 @@
-11c11
-<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
-15c15
-<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
-41c41
-<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
-45c45
-<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Jackson Academy Queens</field>
----
->     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Jackson Academy Queens</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -8,11 +8,11 @@
+     <field name="parent_ssm">aspace_937bcedd92ba3a9d0a8ec286bd619e5f</field>
+     <field name="parent_ssm">aspace_62b18e203658c1150e6702d672520886</field>
+     <field name="parent_ssm">aspace_65bf275275611094a93006f9356af049</field>
+-    <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_ssm">Subseries I:A: United Federation of Teachers</field>
+     <field name="parent_unittitles_ssm">Sub-subseries I:A:6: Schools and Students</field>
+     <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:6f: Miscellaneous</field>
+-    <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_teim">Subseries I:A: United Federation of Teachers</field>
+     <field name="parent_unittitles_teim">Sub-subseries I:A:6: Schools and Students</field>
+     <field name="parent_unittitles_teim">Sub-sub-subseries I:A:6f: Miscellaneous</field>
+@@ -38,11 +38,11 @@
+     <field name="location_si">Box: 13, Folder: 202, Item: 2696</field>
+     <field name="collection_teim">United Federation of Teachers Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.019</field>
+-    <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+     <field name="series_sim">Subseries I:A: United Federation of Teachers</field>
+     <field name="series_sim">Sub-subseries I:A:6: Schools and Students</field>
+     <field name="series_sim">Sub-sub-subseries I:A:6f: Miscellaneous</field>
+-    <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Jackson Academy Queens</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Jackson Academy Queens</field>
+     <field name="heading_ssm">Jackson Academy Queens</field>
+     <field name="unitdate_start_sim">1972</field>
+     <field name="unitdate_start_ssm">1972</field>

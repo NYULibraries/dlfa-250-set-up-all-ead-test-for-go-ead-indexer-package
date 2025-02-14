@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">"!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]&amp;nbsp; S[ocorro] R[oio] I[nternacional], Campaña de Invierno.&amp;nbsp; Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."&amp;nbsp; H: 12.6 x W: 35.4 inches.</field>
----
->     <field name="unittitle_ssm">"!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]  S[ocorro] R[oio] I[nternacional], Campaña de Invierno.  Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."  H: 12.6 x W: 35.4 inches.</field>
-44c44
-<     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]&amp;nbsp; S[ocorro] R[oio] I[nternacional], Campaña de Invierno.&amp;nbsp; Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."&amp;nbsp; H: 12.6 x W: 35.4 inches.</field>
----
->     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]  S[ocorro] R[oio] I[nternacional], Campaña de Invierno.  Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."  H: 12.6 x W: 35.4 inches.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Spanish Civil War Poster Collection </field>
+     <field name="collection_unitid_ssm">ALBA.GRAPHICS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]&amp;nbsp; S[ocorro] R[oio] I[nternacional], Campaña de Invierno.&amp;nbsp; Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."&amp;nbsp; H: 12.6 x W: 35.4 inches.</field>
++    <field name="unittitle_ssm">"!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]  S[ocorro] R[oio] I[nternacional], Campaña de Invierno.  Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."  H: 12.6 x W: 35.4 inches.</field>
+     <field name="unittitle_teim">"!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]  S[ocorro] R[oio] I[nternacional], Campaña de Invierno.  Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."  H: 12.6 x W: 35.4 inches.</field>
+     <field name="unitid_teim">cuid33548</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/28962</field>
+@@ -41,7 +41,7 @@
+     <field name="collection_unitid_teim">ALBA.GRAPHICS.001</field>
+     <field name="series_sim">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003.</field>
+     <field name="series_sim">Subseries I:A: Civil War Era: Spain, 1936-1938.</field>
+-    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]&amp;nbsp; S[ocorro] R[oio] I[nternacional], Campaña de Invierno.&amp;nbsp; Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."&amp;nbsp; H: 12.6 x W: 35.4 inches.</field>
++    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; "!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]  S[ocorro] R[oio] I[nternacional], Campaña de Invierno.  Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."  H: 12.6 x W: 35.4 inches.</field>
+     <field name="heading_ssm">"!Comerciante! En los frentes, los combatientes defienden nuestro suelo frente a la codicia extranjera." [Published by]  S[ocorro] R[oio] I[nternacional], Campaña de Invierno.  Imprint "Imp. y Lit. Ortega- Intervenido U.G.T.-C.N.T."  H: 12.6 x W: 35.4 inches.</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>

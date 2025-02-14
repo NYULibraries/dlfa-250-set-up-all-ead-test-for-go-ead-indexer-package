@@ -1,6 +1,14 @@
-30,32c30
-<     <field name="scopecontent_teim">
-<       Related Material in Other Series:
-<     </field>
----
->     <field name="scopecontent_teim">Related Material in Other Series:</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,9 +27,7 @@
+     <field name="scopecontent_teim">Material types in the boxes include pamphlets, invitations, press releases, reports, memos, correspondence, forms, disbound volumes, property surveys, an address book and bank passbooks, newsletters, programs for minstrel shows and other entertainments and events, and some photos and minutes.</field>
+     <field name="scopecontent_teim">Bowdoin Farm and the Newsboys Lodging House are particularly well represented in the boxed materials. The Girls Lodging House, Elizabeth Home, Eleventh Ward Lodging House, Tompkins Square Lodging House, and Emergency Shelter for Women and Children are particularly well-represented among the volumes. There are fewer records from the industrial schools. Some materials from Bowdoin Camp, Bowdoin Farm, Brace Farm, and the convalescent homes are housed in a separate oversized (OS) box, noted in the container list.</field>
+     <field name="scopecontent_teim">Note: Children's Aid Society facilities changed names and locations frequently, and were sometimes known by different names at the same time. For a history of name changes, and how they relate to arrangement, see the note for Subseries IX.2 - Facilities, Alphabetical.</field>
+-    <field name="scopecontent_teim">
+-      Related Material in Other Series:
+-    </field>
++    <field name="scopecontent_teim">Related Material in Other Series:</field>
+     <field name="scopecontent_teim">Photographs of facilities are in Series XIII - Photographs. Volumes and other material related to the finances of a particular facility are included here in Series IX, but capital fund-raising campaigns for facilities are in Series VI.1 - Fund Raising - because such campaigns originated from the CAS main office, not at the facility itself.</field>
+     <field name="ref_ssi">aspace_ref9_6sj</field>
+     <field name="repository_ssi">nyhs</field>

@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the TV-Cable Week Publishing and Business Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the TV-Cable Week Publishing and Business Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 49. Time Inc. &lt;em&gt;TV-Cable Week&lt;/em&gt; Publishing and Business Records (1981-1983, 1990)</field>
+     <field name="unittitle_teim">RG 49. Time Inc. TV-Cable Week Publishing and Business Records (1981-1983, 1990)</field>
+     <field name="scopecontent_teim">This collection contains records from publisher Christopher Meigher regarding TV-Cable Week, a short-lived Time Inc. cable television listings magazine.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the TV-Cable Week Publishing and Business Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the TV-Cable Week Publishing and Business Records.</field>
+     <field name="title_teim">TV-Cable Week</field>
+     <field name="title_teim">TV-Cable Week</field>
+     <field name="title_teim">TV-Cable Week</field>

@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">Popwell: Personal Views on CPUSA and the&amp;nbsp;Daily Worker</field>
----
->     <field name="unittitle_ssm">Popwell: Personal Views on CPUSA and the Daily Worker</field>
-41c41
-<     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; Popwell: Personal Views on CPUSA and the&amp;nbsp;Daily Worker</field>
----
->     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; Popwell: Personal Views on CPUSA and the Daily Worker</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Communist Party of the United States of America Records</field>
+     <field name="collection_unitid_ssm">TAM.132</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Popwell: Personal Views on CPUSA and the&amp;nbsp;Daily Worker</field>
++    <field name="unittitle_ssm">Popwell: Personal Views on CPUSA and the Daily Worker</field>
+     <field name="unittitle_teim">Popwell: Personal Views on CPUSA and the Daily Worker</field>
+     <field name="unitid_teim">cuid30158</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/754546</field>
+@@ -38,7 +38,7 @@
+     <field name="collection_unitid_teim">TAM.132</field>
+     <field name="series_sim">Series XI: Broadcasts and Public Events</field>
+     <field name="series_sim">Subseries XI.A: Forums, Meetings, and Lectures</field>
+-    <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; Popwell: Personal Views on CPUSA and the&amp;nbsp;Daily Worker</field>
++    <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; Popwell: Personal Views on CPUSA and the Daily Worker</field>
+     <field name="heading_ssm">Popwell: Personal Views on CPUSA and the Daily Worker</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>

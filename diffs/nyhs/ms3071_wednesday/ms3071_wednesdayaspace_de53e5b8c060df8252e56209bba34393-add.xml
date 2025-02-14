@@ -1,8 +1,16 @@
-20,24c20
-<     <field name="scopecontent_teim">
-<       
-<         Dear Mrs. Moffat -- Thankyou for your friendly invitation. I'm afraid I couldn't manage January 6th, as I rather expect to be out of town at that time. Possibly, if your club really wants me, we could arrange some afternoon later in that month; but I must frankly say that my terms are rather steep. There are many very friendly invitations of this sort, and one has, in self-defence, to put them on a rather brutal basis. My fee is One Hundred and Fifty dollars and if you say that is too much I shall be the first to agree! Cordially yours, Christopher Morley
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Dear Mrs. Moffat -- Thankyou for your friendly invitation. I'm afraid I couldn't manage January 6th, as I rather expect to be out of town at that time. Possibly, if your club really wants me, we could arrange some afternoon later in that month; but I must frankly say that my terms are rather steep. There are many very friendly invitations of this sort, and one has, in self-defence, to put them on a rather brutal basis. My fee is One Hundred and Fifty dollars and if you say that is too much I shall be the first to agree! Cordially yours, Christopher Morley</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,11 +17,7 @@
+     <field name="unittitle_teim">Letter from Christopher Morley</field>
+     <field name="unitdate_inclusive_teim">[1924-1952]</field>
+     <field name="scopecontent_teim">Contains an undated letter inscribed "November 16," from writer Christopher Morley (1890-1957), on stationery for the Saturday Review of Literature, listing Morley as contributing editor. The journal began publication in 1924, and had its title shortened to Saturday Review in 1952, so Morley's humorous letter probably dates from that 28-year period. It reads, in full:</field>
+-    <field name="scopecontent_teim">
+-      
+-        Dear Mrs. Moffat -- Thankyou for your friendly invitation. I'm afraid I couldn't manage January 6th, as I rather expect to be out of town at that time. Possibly, if your club really wants me, we could arrange some afternoon later in that month; but I must frankly say that my terms are rather steep. There are many very friendly invitations of this sort, and one has, in self-defence, to put them on a rather brutal basis. My fee is One Hundred and Fifty dollars and if you say that is too much I shall be the first to agree! Cordially yours, Christopher Morley
+-      
+-    </field>
++    <field name="scopecontent_teim">Dear Mrs. Moffat -- Thankyou for your friendly invitation. I'm afraid I couldn't manage January 6th, as I rather expect to be out of town at that time. Possibly, if your club really wants me, we could arrange some afternoon later in that month; but I must frankly say that my terms are rather steep. There are many very friendly invitations of this sort, and one has, in self-defence, to put them on a rather brutal basis. My fee is One Hundred and Fifty dollars and if you say that is too much I shall be the first to agree! Cordially yours, Christopher Morley</field>
+     <field name="ref_ssi">aspace_de53e5b8c060df8252e56209bba34393</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

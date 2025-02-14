@@ -1,2 +1,11 @@
-37a38
->     <field name="location_ssm">Box: 6, Cassette: ID: 198.0212</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -35,6 +35,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 6, Cassette: ID: 198.0212</field>
++    <field name="location_ssm">Box: 6, Cassette: ID: 198.0212</field>
+     <field name="location_si">Box: 6, Cassette: ID: 198.0212</field>
+     <field name="collection_teim">A Gathering of the Tribes Records</field>
+     <field name="collection_unitid_teim">MSS.198</field>

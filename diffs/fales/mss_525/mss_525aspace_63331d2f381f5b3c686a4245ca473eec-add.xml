@@ -1,3 +1,12 @@
-33a34,35
->     <field name="location_ssm">Box: 25, Media: cuid21918</field>
->     <field name="location_ssm">Box: 25, Media: cuid21918</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,6 +31,8 @@
+     <field name="location_ssm">Box: 19, Folder: 10-16</field>
+     <field name="location_ssm">Box: 20, Folder: 1-7</field>
+     <field name="location_ssm">Box: 25, Media: cuid21918</field>
++    <field name="location_ssm">Box: 25, Media: cuid21918</field>
++    <field name="location_ssm">Box: 25, Media: cuid21918</field>
+     <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_525_ER_2</field>
+     <field name="location_si">Box: Electronic Records, E-records: FA_MSS_525_ER_2</field>
+     <field name="dao_sim">Online Access</field>

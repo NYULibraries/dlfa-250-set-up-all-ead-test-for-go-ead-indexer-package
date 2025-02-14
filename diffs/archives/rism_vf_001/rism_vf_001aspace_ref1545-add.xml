@@ -1,2 +1,11 @@
-47a48
->     <field name="series_sim">Belize</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -45,6 +45,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Belize</field>
++    <field name="series_sim">Belize</field>
+     <field name="series_si">Belize &gt;&gt; Belize &gt;&gt; The Belize Newsletter, No. 25</field>
+     <field name="heading_ssm">The Belize Newsletter, No. 25</field>
+     <field name="unitdate_start_sim">1974</field>

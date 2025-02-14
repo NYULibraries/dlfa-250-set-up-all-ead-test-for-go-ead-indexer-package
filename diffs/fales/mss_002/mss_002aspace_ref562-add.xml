@@ -1,11 +1,19 @@
-42,47d41
-<     <field name="unitdate_start_sim">-1887</field>
-<     <field name="unitdate_start_ssm">-1887</field>
-<     <field name="unitdate_start_si">-1887</field>
-<     <field name="unitdate_end_sim">1860</field>
-<     <field name="unitdate_end_ssm">1860</field>
-<     <field name="unitdate_end_si">1860</field>
-49c43
-<     <field name="date_range_sim">1801-1900</field>
----
->     <field name="date_range_sim">undated &amp; other</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,14 +39,8 @@
+     <field name="series_sim">Subseries B: Charles E. Robins, 1836-1893</field>
+     <field name="series_si">Series III: Robins Family Papers &gt;&gt; Subseries B: Charles E. Robins, 1836-1893 &gt;&gt; Bodine, J.M. 1860-1887</field>
+     <field name="heading_ssm">Bodine, J.M. 1860-1887</field>
+-    <field name="unitdate_start_sim">-1887</field>
+-    <field name="unitdate_start_ssm">-1887</field>
+-    <field name="unitdate_start_si">-1887</field>
+-    <field name="unitdate_end_sim">1860</field>
+-    <field name="unitdate_end_ssm">1860</field>
+-    <field name="unitdate_end_si">1860</field>
+     <field name="unitdate_ssm">Inclusive, 1860 -1887</field>
+-    <field name="date_range_sim">1801-1900</field>
++    <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">463</field>
+   </doc>
+ </add>

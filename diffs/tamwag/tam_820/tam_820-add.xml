@@ -1,2 +1,11 @@
-92d91
-<     <field name="date_range_sim">2001-2100</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -89,7 +89,6 @@
+     <field name="unitdate_end_ssm">2023</field>
+     <field name="unitdate_end_si">2023</field>
+     <field name="unitdate_ssm">2009-2011, 2023-ongoing</field>
+-    <field name="date_range_sim">2001-2100</field>
+     <field name="date_range_sim">undated &amp; other</field>
+   </doc>
+ </add>

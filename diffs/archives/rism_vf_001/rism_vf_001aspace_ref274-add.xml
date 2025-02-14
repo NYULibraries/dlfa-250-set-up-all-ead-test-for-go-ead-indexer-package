@@ -1,2 +1,11 @@
-49a50
->     <field name="series_sim">Antigua and Barbuda</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -47,6 +47,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Antigua and Barbuda</field>
++    <field name="series_sim">Antigua and Barbuda</field>
+     <field name="series_si">Antigua and Barbuda &gt;&gt; Antigua and Barbuda &gt;&gt; Island Orphans: Barbuda and the Rest</field>
+     <field name="heading_ssm">Island Orphans: Barbuda and the Rest</field>
+     <field name="unitdate_start_sim">1980</field>

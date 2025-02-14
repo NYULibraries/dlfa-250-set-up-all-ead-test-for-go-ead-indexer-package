@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">i. the Rooms with their contents</field>
----
->     <field name="parent_unittitles_ssm">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
-18c18
-<     <field name="parent_unittitles_teim">i. the Rooms with their contents</field>
----
->     <field name="parent_unittitles_teim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
-46,47c46,47
-<     <field name="series_sim">i. the Rooms with their contents</field>
-<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2 The Interior and the Collection &gt;&gt; i. the Rooms with their contents &gt;&gt; Villa La Pietra and Roma</field>
----
->     <field name="series_sim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
->     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2 The Interior and the Collection &gt;&gt; ii. unidentified (probably once part of the Collection, and whereabouts at present unknown) &gt;&gt; Villa La Pietra and Roma</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_ssm">Subseries B: Villa La Pietra</field>
+     <field name="parent_unittitles_ssm">2 The Interior and the Collection</field>
+-    <field name="parent_unittitles_ssm">i. the Rooms with their contents</field>
++    <field name="parent_unittitles_ssm">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+     <field name="parent_unittitles_teim">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_teim">Subseries B: Villa La Pietra</field>
+     <field name="parent_unittitles_teim">2 The Interior and the Collection</field>
+-    <field name="parent_unittitles_teim">i. the Rooms with their contents</field>
++    <field name="parent_unittitles_teim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series VIII: Images on glass</field>
+     <field name="series_sim">Subseries B: Villa La Pietra</field>
+     <field name="series_sim">2 The Interior and the Collection</field>
+-    <field name="series_sim">i. the Rooms with their contents</field>
+-    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2 The Interior and the Collection &gt;&gt; i. the Rooms with their contents &gt;&gt; Villa La Pietra and Roma</field>
++    <field name="series_sim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
++    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2 The Interior and the Collection &gt;&gt; ii. unidentified (probably once part of the Collection, and whereabouts at present unknown) &gt;&gt; Villa La Pietra and Roma</field>
+     <field name="heading_ssm">Villa La Pietra and Roma</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>

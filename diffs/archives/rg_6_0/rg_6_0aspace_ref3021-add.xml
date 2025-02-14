@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Space - University Heights</field>
----
->     <field name="parent_unittitles_ssm">Space - Washington Square</field>
-18c18
-<     <field name="parent_unittitles_teim">Space - University Heights</field>
----
->     <field name="parent_unittitles_teim">Space - Washington Square</field>
-46,47c46,47
-<     <field name="series_sim">Space - University Heights</field>
-<     <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries A: 1963 - 1964 (Includes Records of George Stoddard) &gt;&gt; Sub-Subseries E: Space &gt;&gt; Space - University Heights &gt;&gt; Letter from Martin L. Beck to Hamilton Smith</field>
----
->     <field name="series_sim">Space - Washington Square</field>
->     <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries A: 1963 - 1964 (Includes Records of George Stoddard) &gt;&gt; Sub-Subseries E: Space &gt;&gt; Space - Washington Square &gt;&gt; Letter from Martin L. Beck to Hamilton Smith</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series IV: Russell D. Niles</field>
+     <field name="parent_unittitles_ssm">Subseries A: 1963 - 1964 (Includes Records of George Stoddard)</field>
+     <field name="parent_unittitles_ssm">Sub-Subseries E: Space</field>
+-    <field name="parent_unittitles_ssm">Space - University Heights</field>
++    <field name="parent_unittitles_ssm">Space - Washington Square</field>
+     <field name="parent_unittitles_teim">Series IV: Russell D. Niles</field>
+     <field name="parent_unittitles_teim">Subseries A: 1963 - 1964 (Includes Records of George Stoddard)</field>
+     <field name="parent_unittitles_teim">Sub-Subseries E: Space</field>
+-    <field name="parent_unittitles_teim">Space - University Heights</field>
++    <field name="parent_unittitles_teim">Space - Washington Square</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Records of the Office of the Chancellor and Executive Vice President (David D. Henry and Carroll V. Newsom, John E. Ivey, Jr., George D. Stoddard, and Russell D. Niles)</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series IV: Russell D. Niles</field>
+     <field name="series_sim">Subseries A: 1963 - 1964 (Includes Records of George Stoddard)</field>
+     <field name="series_sim">Sub-Subseries E: Space</field>
+-    <field name="series_sim">Space - University Heights</field>
+-    <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries A: 1963 - 1964 (Includes Records of George Stoddard) &gt;&gt; Sub-Subseries E: Space &gt;&gt; Space - University Heights &gt;&gt; Letter from Martin L. Beck to Hamilton Smith</field>
++    <field name="series_sim">Space - Washington Square</field>
++    <field name="series_si">Series IV: Russell D. Niles &gt;&gt; Subseries A: 1963 - 1964 (Includes Records of George Stoddard) &gt;&gt; Sub-Subseries E: Space &gt;&gt; Space - Washington Square &gt;&gt; Letter from Martin L. Beck to Hamilton Smith</field>
+     <field name="heading_ssm">Letter from Martin L. Beck to Hamilton Smith</field>
+     <field name="unitdate_ssm">1964</field>
+     <field name="date_range_sim">undated &amp; other</field>

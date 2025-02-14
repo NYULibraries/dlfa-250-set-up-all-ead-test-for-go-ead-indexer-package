@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">vi. Giardino Topiario</field>
----
->     <field name="parent_unittitles_ssm">vii. Pomario</field>
-18c18
-<     <field name="parent_unittitles_teim">vi. Giardino Topiario</field>
----
->     <field name="parent_unittitles_teim">vii. Pomario</field>
-46,47c46,47
-<     <field name="series_sim">vi. Giardino Topiario</field>
-<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; vi. Giardino Topiario &gt;&gt; [Prato del Cedro]</field>
----
->     <field name="series_sim">vii. Pomario</field>
->     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; vii. Pomario &gt;&gt; [Prato del Cedro]</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_ssm">Subseries B: Villa La Pietra</field>
+     <field name="parent_unittitles_ssm">1 The Gardens</field>
+-    <field name="parent_unittitles_ssm">vi. Giardino Topiario</field>
++    <field name="parent_unittitles_ssm">vii. Pomario</field>
+     <field name="parent_unittitles_teim">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_teim">Subseries B: Villa La Pietra</field>
+     <field name="parent_unittitles_teim">1 The Gardens</field>
+-    <field name="parent_unittitles_teim">vi. Giardino Topiario</field>
++    <field name="parent_unittitles_teim">vii. Pomario</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series VIII: Images on glass</field>
+     <field name="series_sim">Subseries B: Villa La Pietra</field>
+     <field name="series_sim">1 The Gardens</field>
+-    <field name="series_sim">vi. Giardino Topiario</field>
+-    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; vi. Giardino Topiario &gt;&gt; [Prato del Cedro]</field>
++    <field name="series_sim">vii. Pomario</field>
++    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 1 The Gardens &gt;&gt; vii. Pomario &gt;&gt; [Prato del Cedro]</field>
+     <field name="heading_ssm">[Prato del Cedro]</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>

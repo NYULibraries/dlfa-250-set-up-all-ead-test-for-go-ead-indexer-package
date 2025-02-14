@@ -1,12 +1,19 @@
-27,29c27
-<     <field name="scopecontent_teim">
-<       Riot Grrrl Press: Spring and Summer Catalog 1998
-<     </field>
----
->     <field name="scopecontent_teim">Riot Grrrl Press: Spring and Summer Catalog 1998</field>
-31,33c29
-<     <field name="scopecontent_teim">
-<       Riot Grrrl Press Catalogue: Early 1994
-<     </field>
----
->     <field name="scopecontent_teim">Riot Grrrl Press Catalogue: Early 1994</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,13 +24,9 @@
+     <field name="scopecontent_teim">Issue four of this Washington, D.C.-based mini-zine focuses primarily on personal writings. Beginning with a piece describing the feeling inspired by live female performance in music, the zine continues with a musing about the freeform nature of riot grrrl: the lack of codification, leadership, or a specific agenda or set of goals. Later entries include a memoir concerning domestic violence in the family, sketches, and a "fashion doctrine corollary" that considers personal appearance in light of social and personal struggle. Following are first-person writings on empathy, the desire to share strength with women who have been sexually objectified by men, critiques of religion in the context of domestic violence, and the insecurity of adolescence. Personal top ten lists also appear throughout. </field>
+     <field name="scopecontent_teim">Riot Grrrl: A Free Weekly Mini-Zine - 7.10.91</field>
+     <field name="scopecontent_teim">Members of Bratmobile and Bikini Kill from Olympia, WA published the first issue of mini-zine during their time in Washington, D.C. Intended as a weekly, this issue contains an introduction, ideas for subversive riots and scams, and extensive local news relating to new zines, live and recorded music, events, and other miscellany. The upcoming International Pop Underground festival is emphasized. Following entries contain personal writings covering female empowerment (Kathleen Hanna's "Burn Down the Walls that Say You Can't"), the oppression of heteronormativity, ironic erotic fiction, the D.C. Metro, and sexist, violent attitudes toward women. Concludes with a call for submissions. </field>
+-    <field name="scopecontent_teim">
+-      Riot Grrrl Press: Spring and Summer Catalog 1998
+-    </field>
++    <field name="scopecontent_teim">Riot Grrrl Press: Spring and Summer Catalog 1998</field>
+     <field name="scopecontent_teim">Issued when the distribution service relocated to Portland, this catalog contains an alphabetical listing of zines spanning several years and numerous topics including music, travel, sex, politics, and personal issues. Author-submitted descriptions are included, as are names in some cases. Available films and compilations are listed, in addition to other distros. The origins of the press are also discussed, as is its mandate to distribute anything sent in. </field>
+-    <field name="scopecontent_teim">
+-      Riot Grrrl Press Catalogue: Early 1994
+-    </field>
++    <field name="scopecontent_teim">Riot Grrrl Press Catalogue: Early 1994</field>
+     <field name="scopecontent_teim">This copy of the distribution service catalog was actually mailed in 1995. Contains news and information about the press and its operations funding. Discusses six main reasons why the press is important. Zines, spanning several years and numerous topics including music, travel, sex, politics, and personal issues, are listed alphabetically. Author-submitted descriptions are included, as are names in some cases. Information and addresses for non-distro zines as well as several riot grrrl chapters are also included.  </field>
+     <field name="ref_ssi">aspace_ref137</field>
+     <field name="repository_ssi">fales</field>

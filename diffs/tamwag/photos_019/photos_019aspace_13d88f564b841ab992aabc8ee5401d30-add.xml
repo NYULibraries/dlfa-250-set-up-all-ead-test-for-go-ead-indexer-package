@@ -1,16 +1,29 @@
-10c10
-<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
-13c13
-<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
-38c38
-<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
-41c41
-<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:K: Political &gt;&gt; Sub-subseries I:K:1: New York City &gt;&gt; District 20, VOTE/COPE</field>
----
->     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:K: Political &gt;&gt; Sub-subseries I:K:1: New York City &gt;&gt; District 20, VOTE/COPE</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,10 +7,10 @@
+     <field name="parent_ssm">aspace_8dd9937ad579b99ea0e503cc5c880ebf</field>
+     <field name="parent_ssm">aspace_c37cd6b227f5c046edabc861b78e5c70</field>
+     <field name="parent_ssm">aspace_8f819de245453170c55b9b8123f057da</field>
+-    <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_ssm">Subseries I:K: Political</field>
+     <field name="parent_unittitles_ssm">Sub-subseries I:K:1: New York City</field>
+-    <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_teim">Subseries I:K: Political</field>
+     <field name="parent_unittitles_teim">Sub-subseries I:K:1: New York City</field>
+     <field name="component_level_isim">4</field>
+@@ -35,10 +35,10 @@
+     <field name="location_si">Box: 9, Folder: 138, Item: 1856</field>
+     <field name="collection_teim">United Federation of Teachers Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.019</field>
+-    <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+     <field name="series_sim">Subseries I:K: Political</field>
+     <field name="series_sim">Sub-subseries I:K:1: New York City</field>
+-    <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:K: Political &gt;&gt; Sub-subseries I:K:1: New York City &gt;&gt; District 20, VOTE/COPE</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:K: Political &gt;&gt; Sub-subseries I:K:1: New York City &gt;&gt; District 20, VOTE/COPE</field>
+     <field name="heading_ssm">District 20, VOTE/COPE</field>
+     <field name="unitdate_start_sim">1978</field>
+     <field name="unitdate_start_ssm">1978</field>

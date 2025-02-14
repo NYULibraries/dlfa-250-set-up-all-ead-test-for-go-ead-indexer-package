@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&lt;/em&gt;</field>
-38c38
-<     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries E: Children's Theatre/Theatre for Young Audiences &gt;&gt; Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries E: Children's Theatre/Theatre for Young Audiences &gt;&gt; Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Actors' Equity Association Records</field>
+     <field name="collection_unitid_ssm">WAG.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&lt;/em&gt;</field>
+     <field name="unittitle_teim">Afro-American Bicentennial Corporation: Bicentennial: Black American Reflections"closed" </field>
+     <field name="unitid_teim">/repositories/2/archival_objects/269523</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/269523</field>
+@@ -35,7 +35,7 @@
+     <field name="collection_unitid_teim">WAG.011</field>
+     <field name="series_sim">Series V: Contracts/Agreements/Codes</field>
+     <field name="series_sim">Subseries E: Children's Theatre/Theatre for Young Audiences</field>
+-    <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries E: Children's Theatre/Theatre for Young Audiences &gt;&gt; Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries E: Children's Theatre/Theatre for Young Audiences &gt;&gt; Afro-American Bicentennial Corporation: &lt;em&gt;Bicentennial: Black American Reflections&lt;/em&gt;"closed" &lt;em&gt;&lt;/em&gt;</field>
+     <field name="heading_ssm">Afro-American Bicentennial Corporation: Bicentennial: Black American Reflections"closed" </field>
+     <field name="unitdate_ssm">Aug 1, 1976</field>
+     <field name="date_range_sim">undated &amp; other</field>

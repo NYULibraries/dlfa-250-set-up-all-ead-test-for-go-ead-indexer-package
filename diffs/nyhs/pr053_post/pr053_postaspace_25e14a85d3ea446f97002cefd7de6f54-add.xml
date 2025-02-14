@@ -1,7 +1,15 @@
-21,24c21
-<     <field name="scopecontent_teim">
-<       Folder: Montreal Stock Exchange, 2 color renderings
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Montreal Stock Exchange, 2 color renderings</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,10 +18,7 @@
+     <field name="scopecontent_teim">Folder:
+ 1) Mutual Benefit Life Insurance Co.
+ 2) Proposed Plan, City Hall, Buffalo, NY</field>
+-    <field name="scopecontent_teim">
+-      Folder: Montreal Stock Exchange, 2 color renderings
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: Montreal Stock Exchange, 2 color renderings</field>
+     <field name="scopecontent_teim">Folder: Armory, Second Battery [E. 166th St.]
+ ........Competition for the Armory, Second Battery
+ ........Roof plan, drill hall, dining hall</field>

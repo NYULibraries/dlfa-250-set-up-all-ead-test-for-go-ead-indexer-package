@@ -1,36 +1,49 @@
-19,32c19,20
-<     <field name="unittitle_ssm">
-<       Martinez Gracia, José
-<       
-<       Martinez, Félicie
-<       
-<       Casamartina, Mercedes
-<     </field>
-<     <field name="unittitle_teim">
-<       Martinez Gracia, José
-<       
-<       Martinez, Félicie
-<       
-<       Casamartina, Mercedes
-<     </field>
----
->     <field name="unittitle_ssm">Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
->     <field name="unittitle_teim">Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
-65,78c53,54
-<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
-<       Martinez Gracia, José
-<       
-<       Martinez, Félicie
-<       
-<       Casamartina, Mercedes
-<     </field>
-<     <field name="heading_ssm">
-<       Martinez Gracia, José
-<       
-<       Martinez, Félicie
-<       
-<       Casamartina, Mercedes
-<     </field>
----
->     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
->     <field name="heading_ssm">Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,20 +16,8 @@
+     <field name="collection_ssm">Spanish Refugee Aid Records</field>
+     <field name="collection_unitid_ssm">TAM.326</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      Martinez Gracia, José
+-      
+-      Martinez, Félicie
+-      
+-      Casamartina, Mercedes
+-    </field>
+-    <field name="unittitle_teim">
+-      Martinez Gracia, José
+-      
+-      Martinez, Félicie
+-      
+-      Casamartina, Mercedes
+-    </field>
++    <field name="unittitle_ssm">Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
++    <field name="unittitle_teim">Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
+     <field name="unitid_teim">c4833</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/249871</field>
+     <field name="unitid_ssm">c4833</field>
+@@ -62,20 +50,8 @@
+     <field name="collection_unitid_teim">TAM.326</field>
+     <field name="series_sim">Series I: Case Files</field>
+     <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+-      Martinez Gracia, José
+-      
+-      Martinez, Félicie
+-      
+-      Casamartina, Mercedes
+-    </field>
+-    <field name="heading_ssm">
+-      Martinez Gracia, José
+-      
+-      Martinez, Félicie
+-      
+-      Casamartina, Mercedes
+-    </field>
++    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
++    <field name="heading_ssm">Martinez Gracia, JoséMartinez, FélicieCasamartina, Mercedes</field>
+     <field name="unitdate_start_sim">1970</field>
+     <field name="unitdate_start_ssm">1970</field>
+     <field name="unitdate_start_si">1970</field>

@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">&lt;em&gt;Compte du Mois (Accounts, Monthly): Summaries&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;&lt;/em&gt;Compte du Mois (Accounts, Monthly): Summaries</field>
-41c41
-<     <field name="series_si">Series III: Toulouse Office Records. 1953-2006. &gt;&gt; Subseries C: Financial Records &gt;&gt; &lt;em&gt;Compte du Mois (Accounts, Monthly): Summaries&lt;/em&gt;</field>
----
->     <field name="series_si">Series III: Toulouse Office Records. 1953-2006. &gt;&gt; Subseries C: Financial Records &gt;&gt; &lt;em&gt;&lt;/em&gt;Compte du Mois (Accounts, Monthly): Summaries</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Spanish Refugee Aid Records</field>
+     <field name="collection_unitid_ssm">TAM.326</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Compte du Mois (Accounts, Monthly): Summaries&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;&lt;/em&gt;Compte du Mois (Accounts, Monthly): Summaries</field>
+     <field name="unittitle_teim">Compte du Mois (Accounts, Monthly): Summaries</field>
+     <field name="unitid_teim">a19017</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/252305</field>
+@@ -38,7 +38,7 @@
+     <field name="collection_unitid_teim">TAM.326</field>
+     <field name="series_sim">Series III: Toulouse Office Records. 1953-2006.</field>
+     <field name="series_sim">Subseries C: Financial Records</field>
+-    <field name="series_si">Series III: Toulouse Office Records. 1953-2006. &gt;&gt; Subseries C: Financial Records &gt;&gt; &lt;em&gt;Compte du Mois (Accounts, Monthly): Summaries&lt;/em&gt;</field>
++    <field name="series_si">Series III: Toulouse Office Records. 1953-2006. &gt;&gt; Subseries C: Financial Records &gt;&gt; &lt;em&gt;&lt;/em&gt;Compte du Mois (Accounts, Monthly): Summaries</field>
+     <field name="heading_ssm">Compte du Mois (Accounts, Monthly): Summaries</field>
+     <field name="unitdate_start_sim">1991</field>
+     <field name="unitdate_start_ssm">1991</field>

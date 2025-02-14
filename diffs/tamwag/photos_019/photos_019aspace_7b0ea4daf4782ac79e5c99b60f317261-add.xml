@@ -1,24 +1,37 @@
-11c11
-<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
-14,15c14,15
-<     <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:4e: Federation of Nurses/UFT</field>
-<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
->     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
-18c18
-<     <field name="parent_unittitles_teim">Sub-sub-subseries I:A:4e: Federation of Nurses/UFT</field>
----
->     <field name="parent_unittitles_teim">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
-41c41
-<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
-44,45c44,45
-<     <field name="series_sim">Sub-sub-subseries I:A:4e: Federation of Nurses/UFT</field>
-<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4e: Federation of Nurses/UFT &gt;&gt; Health Professionals, Lutheran Medical Center</field>
----
->     <field name="series_sim">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
->     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4l: Teachers Assigned &gt;&gt; Health Professionals, Lutheran Medical Center</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -8,14 +8,14 @@
+     <field name="parent_ssm">aspace_937bcedd92ba3a9d0a8ec286bd619e5f</field>
+     <field name="parent_ssm">aspace_0e7af8913912f49fff616e10e9b9c2c7</field>
+     <field name="parent_ssm">aspace_98b59199099719abd5b1730957c64426</field>
+-    <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_ssm">Subseries I:A: United Federation of Teachers</field>
+     <field name="parent_unittitles_ssm">Sub-subseries I:A:4: Chapters</field>
+-    <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:4e: Federation of Nurses/UFT</field>
+-    <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_ssm">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
++    <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_teim">Subseries I:A: United Federation of Teachers</field>
+     <field name="parent_unittitles_teim">Sub-subseries I:A:4: Chapters</field>
+-    <field name="parent_unittitles_teim">Sub-sub-subseries I:A:4e: Federation of Nurses/UFT</field>
++    <field name="parent_unittitles_teim">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">United Federation of Teachers Photographs</field>
+@@ -38,11 +38,11 @@
+     <field name="location_si">Box: 22, Folder: 338, Item: 5203</field>
+     <field name="collection_teim">United Federation of Teachers Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.019</field>
+-    <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+     <field name="series_sim">Subseries I:A: United Federation of Teachers</field>
+     <field name="series_sim">Sub-subseries I:A:4: Chapters</field>
+-    <field name="series_sim">Sub-sub-subseries I:A:4e: Federation of Nurses/UFT</field>
+-    <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4e: Federation of Nurses/UFT &gt;&gt; Health Professionals, Lutheran Medical Center</field>
++    <field name="series_sim">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4l: Teachers Assigned &gt;&gt; Health Professionals, Lutheran Medical Center</field>
+     <field name="heading_ssm">Health Professionals, Lutheran Medical Center</field>
+     <field name="unitdate_start_sim">1928</field>
+     <field name="unitdate_start_ssm">1928</field>

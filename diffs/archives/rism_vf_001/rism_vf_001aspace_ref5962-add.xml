@@ -1,2 +1,11 @@
-49a50
->     <field name="series_sim">Curacao</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -47,6 +47,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Curacao</field>
++    <field name="series_sim">Curacao</field>
+     <field name="series_si">Curacao &gt;&gt; Curacao &gt;&gt; Insurrection in the Dutch Antilles</field>
+     <field name="heading_ssm">Insurrection in the Dutch Antilles</field>
+     <field name="unitdate_start_sim">1969</field>

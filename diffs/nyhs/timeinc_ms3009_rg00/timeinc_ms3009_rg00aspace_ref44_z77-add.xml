@@ -1,8 +1,16 @@
-17,21c17
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Corporate Administration Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Corporate Administration Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,11 +14,7 @@
+     <field name="scopecontent_teim">The Corporate Administration Records contain files from the corporate-level offices and executives of Time Inc. Executives and offices represented include the president, chief executive officer, chairman of the board, and chairman of the executive committee; corporate secretary; the finance division including files from the treasurer and investor relations; executive vice presidents; vice presidents overseeing administration, international, communications, and newspaper acquisitions; and a director of international business. Staff represented include Roy E. Larsen, James A. Linen, Andrew Heiskell, Ralph P. Davidson, Reginald K. Brack, Jr., and Don Logan. </field>
+     <field name="scopecontent_teim">Records document corporate strategic planning for Time Inc., corporate filings, investments in terms of Time Inc. shareholders or in regards to employee retirement accounts, and major acquisitions, sales, or mergers including the merger between Time Inc. and Warner Communications creating Time Warner. Records also include executive committee minutes, five-year plans, notary seals, patents owned by Time Inc., early printing agreements, and corporate books or other organizational records from affiliates and subsidiaries of Time Inc.</field>
+     <field name="scopecontent_teim">Further additions to this record group are expected.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Corporate Administration Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Corporate Administration Records.</field>
+     <field name="ref_ssi">aspace_ref44_z77</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

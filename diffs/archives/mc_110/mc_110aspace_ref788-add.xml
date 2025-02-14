@@ -1,156 +1,169 @@
-19,92c19,20
-<     <field name="unittitle_ssm">
-<       &lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;
-<       
-<       &lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;
-<       
-<       &lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;
-<       
-<       &lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;
-<       
-<       &lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;
-<     </field>
-<     <field name="unittitle_teim">
-<       Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941
-<       
-<       Operation of Proportional Counters: Feb. 1941
-<       
-<       An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941
-<       
-<       Nuclear Particles in the Cosmic Radiation: Jun. 1941
-<       
-<       The Production of Neutrons by the Cosmic Radiation: Jul. 1941
-<       
-<       Cosmic. 19 Ray Investigations: Dec. 1941
-<       
-<       Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941
-<       
-<       The Operation of Proportional Counters: Jan. 1942
-<       
-<       Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942
-<       
-<       The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942
-<       
-<       Cosmic. 19 Ray Investigations: Dec. 1942
-<       
-<       Cosmic. 19 Ray Investigations: Dec. 1943
-<       
-<       A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943
-<       
-<       On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944
-<       
-<       Cosmic Ray Investigations at New York University: Dec. 1944
-<       
-<       Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945
-<       
-<       Experiments on Counters with Grids: Jul. 1945
-<       
-<       Cosmic Ray Research at New York University: Dec. 1945 
-<     </field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;&lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;&lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;&lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;&lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;&lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;&lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;&lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;&lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;&lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;&lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;&lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;&lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;&lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;&lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;</field>
->     <field name="unittitle_teim">Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941Operation of Proportional Counters: Feb. 1941An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941Nuclear Particles in the Cosmic Radiation: Jun. 1941The Production of Neutrons by the Cosmic Radiation: Jul. 1941Cosmic. 19 Ray Investigations: Dec. 1941Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941The Operation of Proportional Counters: Jan. 1942Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942Cosmic. 19 Ray Investigations: Dec. 1942Cosmic. 19 Ray Investigations: Dec. 1943A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944Cosmic Ray Investigations at New York University: Dec. 1944Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945Experiments on Counters with Grids: Jul. 1945Cosmic Ray Research at New York University: Dec. 1945 </field>
-145,218c73,74
-<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
-<       &lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;
-<       
-<       &lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;
-<       
-<       &lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;
-<       
-<       &lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;
-<       
-<       &lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;
-<       
-<       &lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;
-<     </field>
-<     <field name="heading_ssm">
-<       Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941
-<       
-<       Operation of Proportional Counters: Feb. 1941
-<       
-<       An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941
-<       
-<       Nuclear Particles in the Cosmic Radiation: Jun. 1941
-<       
-<       The Production of Neutrons by the Cosmic Radiation: Jul. 1941
-<       
-<       Cosmic. 19 Ray Investigations: Dec. 1941
-<       
-<       Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941
-<       
-<       The Operation of Proportional Counters: Jan. 1942
-<       
-<       Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942
-<       
-<       The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942
-<       
-<       Cosmic. 19 Ray Investigations: Dec. 1942
-<       
-<       Cosmic. 19 Ray Investigations: Dec. 1943
-<       
-<       A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943
-<       
-<       On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944
-<       
-<       Cosmic Ray Investigations at New York University: Dec. 1944
-<       
-<       Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945
-<       
-<       Experiments on Counters with Grids: Jul. 1945
-<       
-<       Cosmic Ray Research at New York University: Dec. 1945 
-<     </field>
----
->     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;&lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;&lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;&lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;&lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;&lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;&lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;&lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;&lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;&lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;&lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;&lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;&lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;&lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;&lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;</field>
->     <field name="heading_ssm">Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941Operation of Proportional Counters: Feb. 1941An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941Nuclear Particles in the Cosmic Radiation: Jun. 1941The Production of Neutrons by the Cosmic Radiation: Jul. 1941Cosmic. 19 Ray Investigations: Dec. 1941Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941The Operation of Proportional Counters: Jan. 1942Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942Cosmic. 19 Ray Investigations: Dec. 1942Cosmic. 19 Ray Investigations: Dec. 1943A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944Cosmic Ray Investigations at New York University: Dec. 1944Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945Experiments on Counters with Grids: Jul. 1945Cosmic Ray Research at New York University: Dec. 1945 </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,80 +16,8 @@
+     <field name="collection_ssm">Serge A. Korff Papers</field>
+     <field name="collection_unitid_ssm">MC.110</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;
+-      
+-      &lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;
+-      
+-      &lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;
+-      
+-      &lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;
+-      
+-      &lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941
+-      
+-      Operation of Proportional Counters: Feb. 1941
+-      
+-      An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941
+-      
+-      Nuclear Particles in the Cosmic Radiation: Jun. 1941
+-      
+-      The Production of Neutrons by the Cosmic Radiation: Jul. 1941
+-      
+-      Cosmic. 19 Ray Investigations: Dec. 1941
+-      
+-      Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941
+-      
+-      The Operation of Proportional Counters: Jan. 1942
+-      
+-      Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942
+-      
+-      The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942
+-      
+-      Cosmic. 19 Ray Investigations: Dec. 1942
+-      
+-      Cosmic. 19 Ray Investigations: Dec. 1943
+-      
+-      A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943
+-      
+-      On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944
+-      
+-      Cosmic Ray Investigations at New York University: Dec. 1944
+-      
+-      Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945
+-      
+-      Experiments on Counters with Grids: Jul. 1945
+-      
+-      Cosmic Ray Research at New York University: Dec. 1945 
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;&lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;&lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;&lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;&lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;&lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;&lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;&lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;&lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;&lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;&lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;&lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;&lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;&lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;&lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;</field>
++    <field name="unittitle_teim">Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941Operation of Proportional Counters: Feb. 1941An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941Nuclear Particles in the Cosmic Radiation: Jun. 1941The Production of Neutrons by the Cosmic Radiation: Jul. 1941Cosmic. 19 Ray Investigations: Dec. 1941Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941The Operation of Proportional Counters: Jan. 1942Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942Cosmic. 19 Ray Investigations: Dec. 1942Cosmic. 19 Ray Investigations: Dec. 1943A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944Cosmic Ray Investigations at New York University: Dec. 1944Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945Experiments on Counters with Grids: Jul. 1945Cosmic Ray Research at New York University: Dec. 1945 </field>
+     <field name="unitdate_normal_ssm">1941/1945</field>
+     <field name="unitdate_normal_teim">1941/1945</field>
+     <field name="unitdate_normal_sim">1941/1945</field>
+@@ -142,80 +70,8 @@
+     <field name="collection_unitid_teim">MC.110</field>
+     <field name="series_sim">Series VI: Publications</field>
+     <field name="series_sim">Subseries B: Korff reprints, preprints, and abstracts</field>
+-    <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+-      &lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;
+-      
+-      &lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;
+-      
+-      &lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;
+-      
+-      &lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;
+-      
+-      &lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;
+-      
+-      &lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941
+-      
+-      Operation of Proportional Counters: Feb. 1941
+-      
+-      An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941
+-      
+-      Nuclear Particles in the Cosmic Radiation: Jun. 1941
+-      
+-      The Production of Neutrons by the Cosmic Radiation: Jul. 1941
+-      
+-      Cosmic. 19 Ray Investigations: Dec. 1941
+-      
+-      Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941
+-      
+-      The Operation of Proportional Counters: Jan. 1942
+-      
+-      Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942
+-      
+-      The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942
+-      
+-      Cosmic. 19 Ray Investigations: Dec. 1942
+-      
+-      Cosmic. 19 Ray Investigations: Dec. 1943
+-      
+-      A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943
+-      
+-      On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944
+-      
+-      Cosmic Ray Investigations at New York University: Dec. 1944
+-      
+-      Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945
+-      
+-      Experiments on Counters with Grids: Jul. 1945
+-      
+-      Cosmic Ray Research at New York University: Dec. 1945 
+-    </field>
++    <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941&lt;/em&gt;&lt;em&gt;Operation of Proportional Counters: Feb. 1941&lt;/em&gt;&lt;em&gt;An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941&lt;/em&gt;&lt;em&gt;Nuclear Particles in the Cosmic Radiation: Jun. 1941&lt;/em&gt;&lt;em&gt;The Production of Neutrons by the Cosmic Radiation: Jul. 1941&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1941&lt;/em&gt;&lt;em&gt;Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941&lt;/em&gt;&lt;em&gt;The Operation of Proportional Counters: Jan. 1942&lt;/em&gt;&lt;em&gt;Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942&lt;/em&gt;&lt;em&gt;The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1942&lt;/em&gt;&lt;em&gt;Cosmic. 19 Ray Investigations: Dec. 1943&lt;/em&gt;&lt;em&gt;A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943&lt;/em&gt;&lt;em&gt;On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944&lt;/em&gt;&lt;em&gt;Cosmic Ray Investigations at New York University: Dec. 1944&lt;/em&gt;&lt;em&gt;Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945&lt;/em&gt;&lt;em&gt;Experiments on Counters with Grids: Jul. 1945&lt;/em&gt;&lt;em&gt;Cosmic Ray Research at New York University: Dec. 1945 &lt;/em&gt;</field>
++    <field name="heading_ssm">Fast Neutrons and Particles with High Specific Ionization in the Cosmic Radiation at High Elevations: Jan. 1941Operation of Proportional Counters: Feb. 1941An Investigation of the Properties of Proportional Counters. I, SAK and M. E. Rose: Jun. 1941Nuclear Particles in the Cosmic Radiation: Jun. 1941The Production of Neutrons by the Cosmic Radiation: Jul. 1941Cosmic. 19 Ray Investigations: Dec. 1941Report on Penrose Grant No. 504 Cosmic ray investigations in connection with the United States Antarctic Service: 1941The Operation of Proportional Counters: Jan. 1942Temperature Coefficients in Self-Quenching Counters, SAK, W. D. B. Spatz, and N. Hilberry: Mar. 1942The Production of Neutrons and Protons by the Cosmic Radiation at 14,125 Feet, SAK and E. T. Clarke: Apr. 1942Cosmic. 19 Ray Investigations: Dec. 1942Cosmic. 19 Ray Investigations: Dec. 1943A Note on Fluctuations in the Cosmic Radiation Observed in Connection with Magnetic Storms: Dec. 1943On the Role of Polyatomic Gases in Fast Counters, SAK and R. D. Present: May. 1944Cosmic Ray Investigations at New York University: Dec. 1944Report on Cosmic. 19 Ray Observations made on the United States Antarctic Service Expedition, 1939. 191941, SAK, Capt. Dana K. Bailey, and Eric T. Clark: Apr. 1945Experiments on Counters with Grids: Jul. 1945Cosmic Ray Research at New York University: Dec. 1945 </field>
+     <field name="unitdate_start_sim">1941</field>
+     <field name="unitdate_start_ssm">1941</field>
+     <field name="unitdate_start_si">1941</field>

@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Listed alphabetically by author or title.
-<     </field>
----
->     <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Works by others (J-M)</field>
+     <field name="unittitle_teim">Works by others (J-M)</field>
+     <field name="unitdate_inclusive_teim">1862–1951</field>
+-    <field name="scopecontent_teim">
+-      Listed alphabetically by author or title.
+-    </field>
++    <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+     <field name="scopecontent_teim">___Jameson, J. Franklin. Dictionary of United States History, 1492–1898 (1894–97) 
+ ___Jefferson, Charles E. What the War is Teaching (1916)
+ ___Jefferson, Charles E. Five Present-Day Controversies (1924)

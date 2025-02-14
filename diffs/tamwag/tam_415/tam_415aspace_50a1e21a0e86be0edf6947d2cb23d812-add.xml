@@ -1,2 +1,11 @@
-38a39
->     <field name="location_ssm">Flat-File-Folder: 8</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -36,6 +36,7 @@
+     <field name="location_ssm">Box: 36, Folder: 8</field>
+     <field name="location_ssm">Flat-File-Folder: 8</field>
+     <field name="location_ssm">Flat-File-Folder: 3</field>
++    <field name="location_ssm">Flat-File-Folder: 8</field>
+     <field name="location_si">Flat-File-Folder: 8</field>
+     <field name="collection_teim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+     <field name="collection_unitid_teim">TAM.415</field>

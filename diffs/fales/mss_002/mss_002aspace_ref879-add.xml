@@ -1,11 +1,19 @@
-41,46d40
-<     <field name="unitdate_start_sim">-1941</field>
-<     <field name="unitdate_start_ssm">-1941</field>
-<     <field name="unitdate_start_si">-1941</field>
-<     <field name="unitdate_end_sim">1913</field>
-<     <field name="unitdate_end_ssm">1913</field>
-<     <field name="unitdate_end_si">1913</field>
-48c42
-<     <field name="date_range_sim">1901-2000</field>
----
->     <field name="date_range_sim">undated &amp; other</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -38,14 +38,8 @@
+     <field name="series_sim">Subseries D: Printed Material and Ephemera </field>
+     <field name="series_si">Series IV: Raymond Robins and Margaret Dreier Robins &gt;&gt; Subseries D: Printed Material and Ephemera  &gt;&gt; Texts of speeches and letters by various people 1913-41, n.d.</field>
+     <field name="heading_ssm">Texts of speeches and letters by various people 1913-41, n.d.</field>
+-    <field name="unitdate_start_sim">-1941</field>
+-    <field name="unitdate_start_ssm">-1941</field>
+-    <field name="unitdate_start_si">-1941</field>
+-    <field name="unitdate_end_sim">1913</field>
+-    <field name="unitdate_end_ssm">1913</field>
+-    <field name="unitdate_end_si">1913</field>
+     <field name="unitdate_ssm">Inclusive, 1913 -1941</field>
+-    <field name="date_range_sim">1901-2000</field>
++    <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">727</field>
+   </doc>
+ </add>

@@ -1,30 +1,43 @@
-19,28c19,20
-<     <field name="unittitle_ssm">
-<       Blanes, Henriqueta
-<       
-<       Garcia Canada, Fernando
-<     </field>
-<     <field name="unittitle_teim">
-<       Blanes, Henriqueta
-<       
-<       Garcia Canada, Fernando
-<     </field>
----
->     <field name="unittitle_ssm">Blanes, HenriquetaGarcia Canada, Fernando</field>
->     <field name="unittitle_teim">Blanes, HenriquetaGarcia Canada, Fernando</field>
-59,63c51
-<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
-<       Blanes, Henriqueta
-<       
-<       Garcia Canada, Fernando
-<     </field>
----
->     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Blanes, HenriquetaGarcia Canada, Fernando</field>
-66,70c54
-<     <field name="heading_ssm">
-<       Blanes, Henriqueta
-<       
-<       Garcia Canada, Fernando
-<     </field>
----
->     <field name="heading_ssm">Blanes, HenriquetaGarcia Canada, Fernando</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,16 +16,8 @@
+     <field name="collection_ssm">Spanish Refugee Aid Records</field>
+     <field name="collection_unitid_ssm">TAM.326</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      Blanes, Henriqueta
+-      
+-      Garcia Canada, Fernando
+-    </field>
+-    <field name="unittitle_teim">
+-      Blanes, Henriqueta
+-      
+-      Garcia Canada, Fernando
+-    </field>
++    <field name="unittitle_ssm">Blanes, HenriquetaGarcia Canada, Fernando</field>
++    <field name="unittitle_teim">Blanes, HenriquetaGarcia Canada, Fernando</field>
+     <field name="unitid_teim">c2103</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/247138</field>
+     <field name="unitid_ssm">c2103</field>
+@@ -56,18 +48,10 @@
+     <field name="collection_unitid_teim">TAM.326</field>
+     <field name="series_sim">Series I: Case Files</field>
+     <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+-      Blanes, Henriqueta
+-      
+-      Garcia Canada, Fernando
+-    </field>
++    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Blanes, HenriquetaGarcia Canada, Fernando</field>
+     <field name="material_type_sim">Photograph</field>
+     <field name="material_type_ssm">Photograph</field>
+-    <field name="heading_ssm">
+-      Blanes, Henriqueta
+-      
+-      Garcia Canada, Fernando
+-    </field>
++    <field name="heading_ssm">Blanes, HenriquetaGarcia Canada, Fernando</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>

@@ -1,2 +1,11 @@
-30d29
-<     <field name="bioghist_teim"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,6 @@
+     <field name="bioghist_teim">Other Secunda compositions include America (1915); Honor Thy Father, (1923); Dos Yidishe Lid (1923); Faith Alone (1937); Dream of Me (1938); and the music for The Kosher Widow starring Molly Picon. His last musical score was for the 1973 production of Sholom Aleichem's Shver tsu Zayn a Yid. This show, starring Joseph Buloff and Miriam Kressyn is considered the last great production of the Yiddish stage.</field>
+     <field name="bioghist_teim">His wife Betty Almer, the daughter of a Yiddish actress, was a dancer on the Yiddish stage before her marriage to Secunda in 1927. They met during rehearsals for Secunda's musical Margarita. They had two sons: Eugene and Sheldon.</field>
+     <field name="bioghist_teim">Written by Ben Torpey, 1998</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="acqinfo_teim">The Sholom Secunda Papers were the gift of the Secunda family to the Fales Library.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_ssm">Fales Library and Special Collections</field>

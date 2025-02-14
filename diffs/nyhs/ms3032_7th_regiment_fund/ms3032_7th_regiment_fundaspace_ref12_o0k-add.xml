@@ -1,6 +1,14 @@
-17,19c17
-<     <field name="scopecontent_teim">
-<       The Seventh Regiment Fund, Associates of the Engineer Corps and Company K, Seventh Regiment, Inc., and the Veterans of the Seventh Regiment v. George Pataki, et al. 
-<     </field>
----
->     <field name="scopecontent_teim">The Seventh Regiment Fund, Associates of the Engineer Corps and Company K, Seventh Regiment, Inc., and the Veterans of the Seventh Regiment v. George Pataki, et al. </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,9 +14,7 @@
+     <field name="unittitle_teim">Complaint: United States District Court Southern District of New York
+ (Index No. 01civ0819)</field>
+     <field name="unitdate_teim">2001</field>
+-    <field name="scopecontent_teim">
+-      The Seventh Regiment Fund, Associates of the Engineer Corps and Company K, Seventh Regiment, Inc., and the Veterans of the Seventh Regiment v. George Pataki, et al. 
+-    </field>
++    <field name="scopecontent_teim">The Seventh Regiment Fund, Associates of the Engineer Corps and Company K, Seventh Regiment, Inc., and the Veterans of the Seventh Regiment v. George Pataki, et al. </field>
+     <field name="ref_ssi">aspace_ref12_o0k</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Burnet, James Brown&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">Burnet, James Brown   </field>
-27c27
-<     <field name="series_si">Burnet, James Brown&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
----
->     <field name="series_si">Burnet, James Brown   </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">New York University Archives Biographical Files</field>
+     <field name="collection_unitid_ssm">MC.317</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Burnet, James Brown&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
++    <field name="unittitle_ssm">Burnet, James Brown   </field>
+     <field name="unittitle_teim">Burnet, James Brown   </field>
+     <field name="unitid_teim">/repositories/6/archival_objects/874974</field>
+     <field name="unitid_ssm">/repositories/6/archival_objects/874974</field>
+@@ -24,7 +24,7 @@
+     <field name="location_si">Box: 31</field>
+     <field name="collection_teim">New York University Archives Biographical Files</field>
+     <field name="collection_unitid_teim">MC.317</field>
+-    <field name="series_si">Burnet, James Brown&amp;nbsp;&amp;nbsp;&amp;nbsp;</field>
++    <field name="series_si">Burnet, James Brown   </field>
+     <field name="heading_ssm">Burnet, James Brown   </field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

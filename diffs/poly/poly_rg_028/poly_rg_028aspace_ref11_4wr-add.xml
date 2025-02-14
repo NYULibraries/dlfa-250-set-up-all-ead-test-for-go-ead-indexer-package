@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">Agosta, Vito &amp;nbsp;&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">Agosta, Vito   </field>
-35c35
-<     <field name="series_si">A &gt;&gt; Agosta, Vito &amp;nbsp;&amp;nbsp;</field>
----
->     <field name="series_si">A &gt;&gt; Agosta, Vito   </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Poly Archives Portrait Collection</field>
+     <field name="collection_unitid_ssm">RG.028</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Agosta, Vito &amp;nbsp;&amp;nbsp;</field>
++    <field name="unittitle_ssm">Agosta, Vito   </field>
+     <field name="unittitle_teim">Agosta, Vito   </field>
+     <field name="unitid_teim">cuid971</field>
+     <field name="unitid_ssm">cuid971</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">Poly Archives Portrait Collection</field>
+     <field name="collection_unitid_teim">RG.028</field>
+     <field name="series_sim">A</field>
+-    <field name="series_si">A &gt;&gt; Agosta, Vito &amp;nbsp;&amp;nbsp;</field>
++    <field name="series_si">A &gt;&gt; Agosta, Vito   </field>
+     <field name="heading_ssm">Agosta, Vito   </field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

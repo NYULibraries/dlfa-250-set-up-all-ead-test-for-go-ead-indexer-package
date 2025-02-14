@@ -1,20 +1,33 @@
-12,17c12,13
-<     <field name="unittitle_ssm">
-<       &lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;
-<     </field>
-<     <field name="unittitle_teim">
-<       Publications—Nation's Business
-<     </field>
----
->     <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;</field>
->     <field name="unittitle_teim">Publications—Nation's Business</field>
-30,35c26,27
-<     <field name="series_si">
-<       &lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;
-<     </field>
-<     <field name="heading_ssm">
-<       Publications—Nation's Business
-<     </field>
----
->     <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;</field>
->     <field name="heading_ssm">Publications—Nation's Business</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,12 +9,8 @@
+     <field name="collection_ssm">George Champion papers</field>
+     <field name="collection_unitid_ssm">MS 3241</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      Publications—Nation's Business
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;</field>
++    <field name="unittitle_teim">Publications—Nation's Business</field>
+     <field name="unitdate_inclusive_teim">1967 March</field>
+     <field name="scopecontent_teim">Nation's Business: A Useful Look Ahead, vol. 55, no. 3 (March 1967). Contains conversation with Champion, "Preaching What You Practice," pp. 49, 52-62.</field>
+     <field name="ref_ssi">aspace_c0d74e810d83a7897a6a0d5ef045993c</field>
+@@ -27,12 +23,8 @@
+     <field name="location_si">Offsite-Box: 3, Folder: 1</field>
+     <field name="collection_teim">George Champion papers</field>
+     <field name="collection_unitid_teim">MS 3241</field>
+-    <field name="series_si">
+-      &lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      Publications—Nation's Business
+-    </field>
++    <field name="series_si">&lt;strong&gt;Publications—&lt;em&gt;Nation's Business&lt;/em&gt;&lt;/strong&gt;</field>
++    <field name="heading_ssm">Publications—Nation's Business</field>
+     <field name="unitdate_ssm">Inclusive, 1967 March</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">50</field>

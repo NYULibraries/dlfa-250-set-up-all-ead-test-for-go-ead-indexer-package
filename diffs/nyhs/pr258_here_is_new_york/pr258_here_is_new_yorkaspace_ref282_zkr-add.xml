@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       RELEASES RESTRICTED TO N-YHS STAFF USE ONLY
-<     </field>
----
->     <field name="scopecontent_teim">RELEASES RESTRICTED TO N-YHS STAFF USE ONLY</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Subseries IX: Releases</field>
+     <field name="unittitle_teim">Subseries IX: Releases</field>
+     <field name="scopecontent_teim">Includes original releases for images, Voices of 9.11, home videos, and the here is new york book. Arranged by project, then alphabetically. There are unfiled releases in the beginning of some sections. Voices of 9.11 releases are labeled Video Booth.</field>
+-    <field name="scopecontent_teim">
+-      RELEASES RESTRICTED TO N-YHS STAFF USE ONLY
+-    </field>
++    <field name="scopecontent_teim">RELEASES RESTRICTED TO N-YHS STAFF USE ONLY</field>
+     <field name="ref_ssi">aspace_ref282_zkr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

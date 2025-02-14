@@ -1,2 +1,11 @@
-26d25
-<     <field name="bioghist_teim"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,6 @@
+     <field name="scopecontent_teim">Series V consists of unprocessed newspaper clippings, mostly clipped by the Roemike clipping service, of Brubaker's appearances in newspapers across the country.</field>
+     <field name="scopecontent_teim">Series VI consists of a single box of oversized materials.</field>
+     <field name="bioghist_teim">Howard Brubaker was an editor of Success and Liberator and a contributor to Collier's Weekly, The New Republic, Saturday Evening Post, Country Gentleman, and many other magazines. He published over 100 short stories and a number of non-fiction pieces on contemporary affairs, especially national politics. He is best known for "Of All Things", a by-liner column that ran weekly in the New Yorker for over twenty-five years. This column was composed of six or eight two sentence paragraphs that offered humorous and satirical comments on contemporary happenings and personages. Many of these brief paragraphs were reprinted in newspapers across the country.</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="custodhist_teim">The Howard Brubaker Papers are comprised of two distinct collections of Brubaker material, one of which was donated directly to the Fales Library and the other, which was transfered to the Fales Library from the Franklin D. Roosevelt Library in 1993. This collection was donated to the Franklin D. Roosevelt library by Mrs. Howard Brubaker on August 14, 1974. The two collections have been interfiled.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_ssm">Fales Library and Special Collections</field>

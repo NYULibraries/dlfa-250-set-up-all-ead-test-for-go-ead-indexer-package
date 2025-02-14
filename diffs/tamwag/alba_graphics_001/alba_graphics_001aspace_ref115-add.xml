@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">"!No pasarán!&amp;nbsp; Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona.&amp;nbsp;Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
----
->     <field name="unittitle_ssm">"!No pasarán!  Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona. Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
-41c41
-<     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:C: Post-Civil War Era: Spain, 1976-1997. &gt;&gt; "!No pasarán!&amp;nbsp; Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona.&amp;nbsp;Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
----
->     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:C: Post-Civil War Era: Spain, 1976-1997. &gt;&gt; "!No pasarán!  Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona. Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Spanish Civil War Poster Collection </field>
+     <field name="collection_unitid_ssm">ALBA.GRAPHICS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"!No pasarán!&amp;nbsp; Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona.&amp;nbsp;Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
++    <field name="unittitle_ssm">"!No pasarán!  Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona. Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
+     <field name="unittitle_teim">"!No pasarán!  Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona. Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
+     <field name="unitid_teim">cuid33595</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/29011</field>
+@@ -38,7 +38,7 @@
+     <field name="collection_unitid_teim">ALBA.GRAPHICS.001</field>
+     <field name="series_sim">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003.</field>
+     <field name="series_sim">Subseries I:C: Post-Civil War Era: Spain, 1976-1997.</field>
+-    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:C: Post-Civil War Era: Spain, 1976-1997. &gt;&gt; "!No pasarán!&amp;nbsp; Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona.&amp;nbsp;Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
++    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:C: Post-Civil War Era: Spain, 1976-1997. &gt;&gt; "!No pasarán!  Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona. Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
+     <field name="heading_ssm">"!No pasarán!  Colloqui internacional sobre la guerra civil d'espanya." [Published by] Universitat de Barcelona. Imprint "Orriols – Balsareny." H: 25 x W: 16.5 inches.</field>
+     <field name="unitdate_start_sim">1979</field>
+     <field name="unitdate_start_ssm">1979</field>

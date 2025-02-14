@@ -1,16 +1,29 @@
-10c10
-<     <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
-13c13
-<     <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
-38c38
-<     <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
----
->     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
-41c41
-<     <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:F: Other Labor Organizations &gt;&gt; Sub-subseries I:F:1: AFL-CIO &gt;&gt; Mondale, Walter F., at AFL-CIO Convention</field>
----
->     <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:F: Other Labor Organizations &gt;&gt; Sub-subseries I:F:1: AFL-CIO &gt;&gt; Mondale, Walter F., at AFL-CIO Convention</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,10 +7,10 @@
+     <field name="parent_ssm">aspace_8dd9937ad579b99ea0e503cc5c880ebf</field>
+     <field name="parent_ssm">aspace_d48542ac5c60ff9e23bd85c798016e85</field>
+     <field name="parent_ssm">aspace_2eb056c53338637d13c4f7bf06478b09</field>
+-    <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_ssm">Subseries I:F: Other Labor Organizations</field>
+     <field name="parent_unittitles_ssm">Sub-subseries I:F:1: AFL-CIO</field>
+-    <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_teim">Subseries I:F: Other Labor Organizations</field>
+     <field name="parent_unittitles_teim">Sub-subseries I:F:1: AFL-CIO</field>
+     <field name="component_level_isim">4</field>
+@@ -35,10 +35,10 @@
+     <field name="location_si">Box: 10, Folder: 161, Item: 2206</field>
+     <field name="collection_teim">United Federation of Teachers Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.019</field>
+-    <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
++    <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+     <field name="series_sim">Subseries I:F: Other Labor Organizations</field>
+     <field name="series_sim">Sub-subseries I:F:1: AFL-CIO</field>
+-    <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:F: Other Labor Organizations &gt;&gt; Sub-subseries I:F:1: AFL-CIO &gt;&gt; Mondale, Walter F., at AFL-CIO Convention</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:F: Other Labor Organizations &gt;&gt; Sub-subseries I:F:1: AFL-CIO &gt;&gt; Mondale, Walter F., at AFL-CIO Convention</field>
+     <field name="heading_ssm">Mondale, Walter F., at AFL-CIO Convention</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_ssm">1981</field>

@@ -1,6 +1,21 @@
-27a28,29
->     <field name="subject_teim">Midwives</field>
->     <field name="subject_teim">Midwives--Certification</field>
-41,42d42
-<     <field name="subject_teim">Midwives</field>
-<     <field name="subject_teim">Midwives--Certification</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,6 +25,8 @@
+     <field name="occupation_teim">Midwives--Certification</field>
+     <field name="occupation_ssm">Midwives</field>
+     <field name="occupation_ssm">Midwives--Certification</field>
++    <field name="subject_teim">Midwives</field>
++    <field name="subject_teim">Midwives--Certification</field>
+     <field name="collection_sim">Birth Records of Catherine Ling, Midwife</field>
+     <field name="collection_ssm">Birth Records of Catherine Ling, Midwife</field>
+     <field name="collection_teim">Birth Records of Catherine Ling, Midwife</field>
+@@ -38,8 +40,6 @@
+     <field name="format_ii">0</field>
+     <field name="subject_sim">Midwives</field>
+     <field name="subject_sim">Midwives--Certification</field>
+-    <field name="subject_teim">Midwives</field>
+-    <field name="subject_teim">Midwives--Certification</field>
+     <field name="material_type_sim">Registers of births, etc.</field>
+     <field name="material_type_ssm">Registers of births, etc.</field>
+     <field name="heading_ssm">Birth Records of Catherine Ling, Midwife</field>

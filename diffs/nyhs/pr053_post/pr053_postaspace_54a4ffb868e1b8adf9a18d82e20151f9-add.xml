@@ -1,24 +1,37 @@
-18,29c18,20
-<     <field name="scopecontent_teim">
-<       Folder: Miscellaneous Buildings
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Great Hall, College of the City of New York
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: District of Columbia, photos, misc.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Miscellaneous Buildings</field>
->     <field name="scopecontent_teim">Folder: Great Hall, College of the City of New York</field>
->     <field name="scopecontent_teim">Folder: District of Columbia, photos, misc.</field>
-40,43c31
-<     <field name="scopecontent_teim">
-<       Folder: New York Hospital
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: New York Hospital</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,18 +15,9 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">[2NW, Unit 7A, Case 20, Drawer 12]</field>
+     <field name="unittitle_teim">[2NW, Unit 7A, Case 20, Drawer 12]</field>
+-    <field name="scopecontent_teim">
+-      Folder: Miscellaneous Buildings
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Great Hall, College of the City of New York
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: District of Columbia, photos, misc.
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: Miscellaneous Buildings</field>
++    <field name="scopecontent_teim">Folder: Great Hall, College of the City of New York</field>
++    <field name="scopecontent_teim">Folder: District of Columbia, photos, misc.</field>
+     <field name="scopecontent_teim">Folder:
+ 1) Unidentified house or bank
+ 2) Emigrant Savings Bank
+@@ -37,10 +28,7 @@
+ 7) Wisconsin State Capital</field>
+     <field name="scopecontent_teim">Folder: Churches
+ ........Project for St. Paul's Church, [illegible], NJ</field>
+-    <field name="scopecontent_teim">
+-      Folder: New York Hospital
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: New York Hospital</field>
+     <field name="scopecontent_teim">Folder: Department of Justice, Washington, D.C.
+ ........Penn Avenue elevation, first floor plan</field>
+     <field name="scopecontent_teim">Folder: National Academy of Design (1 of 2) (folder says Case E.9 in Print Room)</field>

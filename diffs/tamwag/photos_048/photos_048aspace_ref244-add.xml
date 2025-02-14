@@ -1,2 +1,11 @@
-33a34
->     <field name="location_ssm">Box: 2, Folder: 41</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,6 +31,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 2, Folder: 41</field>
++    <field name="location_ssm">Box: 2, Folder: 41</field>
+     <field name="location_si">Box: 2, Folder: 41</field>
+     <field name="collection_teim">Jewish Labor Committee Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.048</field>

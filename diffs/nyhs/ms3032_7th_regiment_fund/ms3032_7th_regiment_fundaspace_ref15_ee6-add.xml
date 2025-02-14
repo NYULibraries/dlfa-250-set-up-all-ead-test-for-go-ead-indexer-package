@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       David L. Dalva II, v. George Pataki, et. al.
-<     </field>
----
->     <field name="scopecontent_teim">David L. Dalva II, v. George Pataki, et. al.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+ (Index No. 116965/05)
+ [3 folders]</field>
+     <field name="unitdate_teim">2005 December 6–2007 October 2</field>
+-    <field name="scopecontent_teim">
+-      David L. Dalva II, v. George Pataki, et. al.
+-    </field>
++    <field name="scopecontent_teim">David L. Dalva II, v. George Pataki, et. al.</field>
+     <field name="ref_ssi">aspace_ref15_ee6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

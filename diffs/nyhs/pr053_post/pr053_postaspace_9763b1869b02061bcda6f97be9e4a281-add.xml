@@ -1,16 +1,24 @@
-18,28c18,20
-<     <field name="scopecontent_teim">
-<       Folder: Travellers Insurance, Hartford, CT (2 folders)
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Boys High School, Reading, PA
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Bank of Pittsburgh
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Travellers Insurance, Hartford, CT (2 folders)</field>
->     <field name="scopecontent_teim">Folder: Boys High School, Reading, PA</field>
->     <field name="scopecontent_teim">Folder: Bank of Pittsburgh</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,17 +15,9 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">[2NW, Unit 7A, Case 21, Drawer 4]</field>
+     <field name="unittitle_teim">[2NW, Unit 7A, Case 21, Drawer 4]</field>
+-    <field name="scopecontent_teim">
+-      Folder: Travellers Insurance, Hartford, CT (2 folders)
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Boys High School, Reading, PA
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Bank of Pittsburgh
+-    </field>
++    <field name="scopecontent_teim">Folder: Travellers Insurance, Hartford, CT (2 folders)</field>
++    <field name="scopecontent_teim">Folder: Boys High School, Reading, PA</field>
++    <field name="scopecontent_teim">Folder: Bank of Pittsburgh</field>
+     <field name="ref_ssi">aspace_9763b1869b02061bcda6f97be9e4a281</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

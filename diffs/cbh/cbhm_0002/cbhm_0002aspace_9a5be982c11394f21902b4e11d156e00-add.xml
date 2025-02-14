@@ -1,6 +1,14 @@
-18,20c18
-<     <field name="scopecontent_teim">
-<       Interviews and events represented in the Audiovisual sub-series:
-<     </field>
----
->     <field name="scopecontent_teim">Interviews and events represented in the Audiovisual sub-series:</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,9 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Sub-series 3.2: Audiovisual</field>
+     <field name="unittitle_teim">Sub-series 3.2: Audiovisual</field>
+-    <field name="scopecontent_teim">
+-      Interviews and events represented in the Audiovisual sub-series:
+-    </field>
++    <field name="scopecontent_teim">Interviews and events represented in the Audiovisual sub-series:</field>
+     <field name="scopecontent_teim">Cassettes:</field>
+     <field name="scopecontent_teim">Yasser Khalifa interviewed by Kay Turner and Nicole Macotsis, May 24, 2005</field>
+     <field name="scopecontent_teim">Mohamed Bechar, part 2 of 2, interviewed by Nicole Macotsis, August 23, 2005</field>

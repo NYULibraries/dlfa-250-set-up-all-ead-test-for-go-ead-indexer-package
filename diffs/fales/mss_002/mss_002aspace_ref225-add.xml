@@ -1,11 +1,19 @@
-41,46d40
-<     <field name="unitdate_start_sim">-1880</field>
-<     <field name="unitdate_start_ssm">-1880</field>
-<     <field name="unitdate_start_si">-1880</field>
-<     <field name="unitdate_end_sim">1878</field>
-<     <field name="unitdate_end_ssm">1878</field>
-<     <field name="unitdate_end_si">1878</field>
-48c42
-<     <field name="date_range_sim">1801-1900</field>
----
->     <field name="date_range_sim">undated &amp; other</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -38,14 +38,8 @@
+     <field name="series_sim">Subseries A: General Correspondence, 1873-1887</field>
+     <field name="series_si">Series II: General Correspondence &gt;&gt; Subseries A: General Correspondence, 1873-1887 &gt;&gt; Letterbook 1878-1880</field>
+     <field name="heading_ssm">Letterbook 1878-1880</field>
+-    <field name="unitdate_start_sim">-1880</field>
+-    <field name="unitdate_start_ssm">-1880</field>
+-    <field name="unitdate_start_si">-1880</field>
+-    <field name="unitdate_end_sim">1878</field>
+-    <field name="unitdate_end_ssm">1878</field>
+-    <field name="unitdate_end_si">1878</field>
+     <field name="unitdate_ssm">Inclusive, 1878 -1880</field>
+-    <field name="date_range_sim">1801-1900</field>
++    <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">163</field>
+   </doc>
+ </add>

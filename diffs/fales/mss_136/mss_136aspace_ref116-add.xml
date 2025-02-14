@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">&lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt; ceremonies, letters to widows from third grade class)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt;&lt;/em&gt; ceremonies, letters to widows from third grade class)</field>
-39c39
-<     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt; ceremonies, letters to widows from third grade class)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt;&lt;/em&gt; ceremonies, letters to widows from third grade class)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Al Silverman Papers</field>
+     <field name="collection_unitid_ssm">MSS.136</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt; ceremonies, letters to widows from third grade class)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt;&lt;/em&gt; ceremonies, letters to widows from third grade class)</field>
+     <field name="unittitle_teim">Foster and Laurie (commemorative ceremonies, letters to widows from third grade class)</field>
+     <field name="unitdate_normal_ssm">1974/1974</field>
+     <field name="unitdate_normal_teim">1974/1974</field>
+@@ -36,7 +36,7 @@
+     <field name="collection_unitid_teim">MSS.136</field>
+     <field name="series_sim">Series I: Author Files</field>
+     <field name="series_sim">Subseries A: Paper Files</field>
+-    <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt; ceremonies, letters to widows from third grade class)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;Foster and Laurie&lt;/em&gt; (commemorative&lt;em&gt;&lt;/em&gt; ceremonies, letters to widows from third grade class)</field>
+     <field name="heading_ssm">Foster and Laurie (commemorative ceremonies, letters to widows from third grade class)</field>
+     <field name="unitdate_start_sim">1974</field>
+     <field name="unitdate_start_ssm">1974</field>

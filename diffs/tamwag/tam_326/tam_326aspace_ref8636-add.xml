@@ -1,30 +1,43 @@
-19,28c19,20
-<     <field name="unittitle_ssm">
-<       Maties Castellano, Vicente
-<       
-<       Maties, Aurora (née Veintimilla)
-<     </field>
-<     <field name="unittitle_teim">
-<       Maties Castellano, Vicente
-<       
-<       Maties, Aurora (née Veintimilla)
-<     </field>
----
->     <field name="unittitle_ssm">Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
->     <field name="unittitle_teim">Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
-59,63c51
-<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
-<       Maties Castellano, Vicente
-<       
-<       Maties, Aurora (née Veintimilla)
-<     </field>
----
->     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
-66,70c54
-<     <field name="heading_ssm">
-<       Maties Castellano, Vicente
-<       
-<       Maties, Aurora (née Veintimilla)
-<     </field>
----
->     <field name="heading_ssm">Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,16 +16,8 @@
+     <field name="collection_ssm">Spanish Refugee Aid Records</field>
+     <field name="collection_unitid_ssm">TAM.326</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      Maties Castellano, Vicente
+-      
+-      Maties, Aurora (née Veintimilla)
+-    </field>
+-    <field name="unittitle_teim">
+-      Maties Castellano, Vicente
+-      
+-      Maties, Aurora (née Veintimilla)
+-    </field>
++    <field name="unittitle_ssm">Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
++    <field name="unittitle_teim">Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
+     <field name="unitid_teim">c3623</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/248661</field>
+     <field name="unitid_ssm">c3623</field>
+@@ -56,18 +48,10 @@
+     <field name="collection_unitid_teim">TAM.326</field>
+     <field name="series_sim">Series I: Case Files</field>
+     <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+-      Maties Castellano, Vicente
+-      
+-      Maties, Aurora (née Veintimilla)
+-    </field>
++    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
+     <field name="material_type_sim">Photograph</field>
+     <field name="material_type_ssm">Photograph</field>
+-    <field name="heading_ssm">
+-      Maties Castellano, Vicente
+-      
+-      Maties, Aurora (née Veintimilla)
+-    </field>
++    <field name="heading_ssm">Maties Castellano, VicenteMaties, Aurora (née Veintimilla)</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

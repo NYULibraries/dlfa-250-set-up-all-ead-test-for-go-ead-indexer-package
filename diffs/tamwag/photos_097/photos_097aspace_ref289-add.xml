@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Union Officers / Staff</field>
----
->     <field name="parent_unittitles_ssm">Awards</field>
-18c18
-<     <field name="parent_unittitles_teim">Union Officers / Staff</field>
----
->     <field name="parent_unittitles_teim">Awards</field>
-42,43c42,43
-<     <field name="series_sim">Union Officers / Staff</field>
-<     <field name="series_si">Prints &gt;&gt; Organizations &gt;&gt; Prepaid Legal &gt;&gt; Union Officers / Staff &gt;&gt; International Brotherhood Of Electrical Workers (IBEW)</field>
----
->     <field name="series_sim">Awards</field>
->     <field name="series_si">Prints &gt;&gt; Organizations &gt;&gt; Prepaid Legal &gt;&gt; Awards &gt;&gt; International Brotherhood Of Electrical Workers (IBEW)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Prints</field>
+     <field name="parent_unittitles_ssm">Organizations</field>
+     <field name="parent_unittitles_ssm">Prepaid Legal</field>
+-    <field name="parent_unittitles_ssm">Union Officers / Staff</field>
++    <field name="parent_unittitles_ssm">Awards</field>
+     <field name="parent_unittitles_teim">Prints</field>
+     <field name="parent_unittitles_teim">Organizations</field>
+     <field name="parent_unittitles_teim">Prepaid Legal</field>
+-    <field name="parent_unittitles_teim">Union Officers / Staff</field>
++    <field name="parent_unittitles_teim">Awards</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York Hotel and Motel Trades Council Photographs</field>
+@@ -39,8 +39,8 @@
+     <field name="series_sim">Prints</field>
+     <field name="series_sim">Organizations</field>
+     <field name="series_sim">Prepaid Legal</field>
+-    <field name="series_sim">Union Officers / Staff</field>
+-    <field name="series_si">Prints &gt;&gt; Organizations &gt;&gt; Prepaid Legal &gt;&gt; Union Officers / Staff &gt;&gt; International Brotherhood Of Electrical Workers (IBEW)</field>
++    <field name="series_sim">Awards</field>
++    <field name="series_si">Prints &gt;&gt; Organizations &gt;&gt; Prepaid Legal &gt;&gt; Awards &gt;&gt; International Brotherhood Of Electrical Workers (IBEW)</field>
+     <field name="heading_ssm">International Brotherhood Of Electrical Workers (IBEW)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">278</field>

@@ -1,4 +1,13 @@
-25a26
->     <field name="location_ssm">Box: 29, Folder: 4</field>
-26a28
->     <field name="location_ssm">Box: 29, Folder: 4</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,9 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 29, Folder: 4</field>
++    <field name="location_ssm">Box: 29, Folder: 4</field>
+     <field name="location_ssm">Box: 29, Folder: 5</field>
++    <field name="location_ssm">Box: 29, Folder: 4</field>
+     <field name="location_si">Box: 29, Folder: 4</field>
+     <field name="collection_teim">American Labor Conference on International Affairs Records</field>
+     <field name="collection_unitid_teim">TAM.038</field>

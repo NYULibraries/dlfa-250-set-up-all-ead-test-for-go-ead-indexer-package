@@ -1,4 +1,19 @@
-24a25
->     <field name="subject_teim">busts (figures)</field>
-40d40
-<     <field name="subject_teim">busts (figures)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,6 +22,7 @@
+     <field name="corpname_ssm">Fales Library and Special Collections</field>
+     <field name="persname_teim">Harris, Frank, 1855-1931</field>
+     <field name="persname_ssm">Harris, Frank, 1855-1931</field>
++    <field name="subject_teim">busts (figures)</field>
+     <field name="collection_sim">Frank Harris Papers</field>
+     <field name="collection_ssm">Frank Harris Papers</field>
+     <field name="collection_teim">Frank Harris Papers</field>
+@@ -37,7 +38,6 @@
+     <field name="name_sim">Harris, Frank, 1855-1931</field>
+     <field name="name_teim">Harris, Frank, 1855-1931</field>
+     <field name="subject_sim">busts (figures)</field>
+-    <field name="subject_teim">busts (figures)</field>
+     <field name="heading_ssm">Frank Harris Papers</field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>

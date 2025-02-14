@@ -1,6 +1,14 @@
-41,43c41
-<     <field name="scopecontent_teim">
-<       The above information was taken from a document from the collection: Summary of the Committees of the Student Senators Council (SSC) and the SSC's University Committee on Student Life (UCSL), June 2004
-<     </field>
----
->     <field name="scopecontent_teim">The above information was taken from a document from the collection: Summary of the Committees of the Student Senators Council (SSC) and the SSC's University Committee on Student Life (UCSL), June 2004</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -38,9 +38,7 @@
+     <field name="scopecontent_teim">UCSL Ad-Hoc Committees:
+ (1) Committee on Alumni Relations: considers issues concerning the relationship between current students and alumni;
+ (2) Student Health Advisory Board: considers all matters relating to the University Health Center and shall take special interest in informing the student body about the services that the center provides</field>
+-    <field name="scopecontent_teim">
+-      The above information was taken from a document from the collection: Summary of the Committees of the Student Senators Council (SSC) and the SSC's University Committee on Student Life (UCSL), June 2004
+-    </field>
++    <field name="scopecontent_teim">The above information was taken from a document from the collection: Summary of the Committees of the Student Senators Council (SSC) and the SSC's University Committee on Student Life (UCSL), June 2004</field>
+     <field name="ref_ssi">aspace_a369d952a5edf140ae8c74a25b6c3d68</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>

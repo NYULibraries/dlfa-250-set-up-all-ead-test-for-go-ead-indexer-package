@@ -1,70 +1,128 @@
-17,22c17,18
-<     <field name="scopecontent_teim">
-<       Early Program Events:
-<     </field>
-<     <field name="scopecontent_teim">
-<       1987 Kathy Condon
-<     </field>
----
->     <field name="scopecontent_teim">Early Program Events:</field>
->     <field name="scopecontent_teim">1987 Kathy Condon</field>
-59,61c55
-<     <field name="scopecontent_teim">
-<       1989 Kathy Condon, Folk Art and Artists Series:
-<     </field>
----
->     <field name="scopecontent_teim">1989 Kathy Condon, Folk Art and Artists Series:</field>
-124,126c118
-<     <field name="scopecontent_teim">
-<       1991 Sean Galvin, Folk Art and Artists Series:
-<     </field>
----
->     <field name="scopecontent_teim">1991 Sean Galvin, Folk Art and Artists Series:</field>
-143,145c135
-<     <field name="scopecontent_teim">
-<       1992 Jessica Payne, Folk Arts Series:
-<     </field>
----
->     <field name="scopecontent_teim">1992 Jessica Payne, Folk Arts Series:</field>
-160,162c150
-<     <field name="scopecontent_teim">
-<       1993 Justine McGovern, Folk Arts '93:
-<     </field>
----
->     <field name="scopecontent_teim">1993 Justine McGovern, Folk Arts '93:</field>
-182,184c170
-<     <field name="scopecontent_teim">
-<       1994 Justine McGovern, Folk Arts '94:
-<     </field>
----
->     <field name="scopecontent_teim">1994 Justine McGovern, Folk Arts '94:</field>
-202,204c188
-<     <field name="scopecontent_teim">
-<       1995 Ilana Abramovitch, Folk Arts '95:
-<     </field>
----
->     <field name="scopecontent_teim">1995 Ilana Abramovitch, Folk Arts '95:</field>
-226,228c210
-<     <field name="scopecontent_teim">
-<       1996 Richard Wolf, Folk Arts Series 1996:
-<     </field>
----
->     <field name="scopecontent_teim">1996 Richard Wolf, Folk Arts Series 1996:</field>
-264,266c246
-<     <field name="scopecontent_teim">
-<       1997 Emily Botein, Folk Arts '97:
-<     </field>
----
->     <field name="scopecontent_teim">1997 Emily Botein, Folk Arts '97:</field>
-281,283c261
-<     <field name="scopecontent_teim">
-<       1998 Nancy Groce, BAC Folk Arts Series: Constructing Harmony: Traditional Music and Musical Instrument Making in Brooklyn
-<     </field>
----
->     <field name="scopecontent_teim">1998 Nancy Groce, BAC Folk Arts Series: Constructing Harmony: Traditional Music and Musical Instrument Making in Brooklyn</field>
-302,304c280
-<     <field name="scopecontent_teim">
-<       1999 Nancy Groce, BAC Folk Arts Series: Constructing Harmony:
-<     </field>
----
->     <field name="scopecontent_teim">1999 Nancy Groce, BAC Folk Arts Series: Constructing Harmony:</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,12 +14,8 @@
+     <field name="scopecontent_teim">The items in this series document the events produced by the Folks Arts program from 1986-2000. Program Files include correspondence, contracts, brochures and fliers, publicity, and research materials. Also included are files kept by the various Folk Arts Directors while planning and executing their annual programs, including Kathleen Condon (1986-1989), Sean Galvin (1990-1991), Jessica Payne (1992), Justine McGovern (1993-1994), Ilana Abramovitch (1995), Richard Wolf (1996), Emily Botein (1997), and Nancy Groce (1998-99).</field>
+     <field name="scopecontent_teim">Also included is a small group of resource files, arranged geographically and consisting of printed material and notes on arts and artists of the region. These files also contain material documenting funding efforts, including grant applications and reports. Audiovisual items in this series are recordings from programs produced by Folk Arts, compilations used for grant support, and several tapes of music by performers involved in Folk Arts programs. Cassettes also include interviews with performers and artists. Labeling on tapes is inconsistent. VHS tapes are program recordings and grant support. Boxes 102-106 appear at the end of the Audiovisual sub-series and include media submitted by artists, media used by Folk Arts directors for research, and media compiled from various programs. Labeling on these items is inconsistent. </field>
+     <field name="scopecontent_teim">Binders contain photographs and slides taken during Folk Arts programs, dating 1988-2000, including images from the Storytelling Tent during the Welcome Back to Brooklyn events.</field>
+-    <field name="scopecontent_teim">
+-      Early Program Events:
+-    </field>
+-    <field name="scopecontent_teim">
+-      1987 Kathy Condon
+-    </field>
++    <field name="scopecontent_teim">Early Program Events:</field>
++    <field name="scopecontent_teim">1987 Kathy Condon</field>
+     <field name="scopecontent_teim">Adopt-a-landmark Folklife Series, Storytelling and other events relating to:</field>
+     <field name="scopecontent_teim">Coney Island</field>
+     <field name="scopecontent_teim">Lowe's Kings Theatre</field>
+@@ -56,9 +52,7 @@
+     <field name="scopecontent_teim">South Brooklyn</field>
+     <field name="scopecontent_teim">Immigration</field>
+     <field name="scopecontent_teim">Coney Island</field>
+-    <field name="scopecontent_teim">
+-      1989 Kathy Condon, Folk Art and Artists Series:
+-    </field>
++    <field name="scopecontent_teim">1989 Kathy Condon, Folk Art and Artists Series:</field>
+     <field name="scopecontent_teim">Lebanese and Middle Eastern Arts:</field>
+     <field name="scopecontent_teim">Simon Shaheen and Hanna Mirhige (Near Eastern traditional music)</field>
+     <field name="scopecontent_teim">Basil Kazan (Byzantine liturgical chanter)</field>
+@@ -121,9 +115,7 @@
+     <field name="scopecontent_teim">Sheepshead Bay</field>
+     <field name="scopecontent_teim">Brooklyn Battery Tunnel</field>
+     <field name="scopecontent_teim">Carroll Street Bridge</field>
+-    <field name="scopecontent_teim">
+-      1991 Sean Galvin, Folk Art and Artists Series:
+-    </field>
++    <field name="scopecontent_teim">1991 Sean Galvin, Folk Art and Artists Series:</field>
+     <field name="scopecontent_teim">Andean Arts and Artists:</field>
+     <field name="scopecontent_teim">Antara del Barrio, with Francisco Rodriguea, Leyder Dorado, Ricardo Silva, Cesar Ferreria (music)</field>
+     <field name="scopecontent_teim">Ricardo Silva (panpipe maker)</field>
+@@ -140,9 +132,7 @@
+     <field name="scopecontent_teim">Turkish Arts and Artists:</field>
+     <field name="scopecontent_teim">The Turkish-American Youth Dancers, with Tayyar Akdeniz</field>
+     <field name="scopecontent_teim">Mahmoud Efeturk, Sahara Restaurant ("Turkish Delight," traditional foodways)</field>
+-    <field name="scopecontent_teim">
+-      1992 Jessica Payne, Folk Arts Series:
+-    </field>
++    <field name="scopecontent_teim">1992 Jessica Payne, Folk Arts Series:</field>
+     <field name="scopecontent_teim">Hatian Arts and Artists:</field>
+     <field name="scopecontent_teim">Frisner Augustin and La Troupe Makandal (music and dance)</field>
+     <field name="scopecontent_teim">Lesly Calvin (Vodou flags and veve)</field>
+@@ -157,9 +147,7 @@
+     <field name="scopecontent_teim">The Young Blood Singers (Cherokee, Shinnecock, Montauk and Wampanouag music and dance)</field>
+     <field name="scopecontent_teim">Donald Jackson (Cherokee porcupine quill work)</field>
+     <field name="scopecontent_teim">Ina McNeil (Sioux beadwork)</field>
+-    <field name="scopecontent_teim">
+-      1993 Justine McGovern, Folk Arts '93:
+-    </field>
++    <field name="scopecontent_teim">1993 Justine McGovern, Folk Arts '93:</field>
+     <field name="scopecontent_teim">Black Arts and Artists:</field>
+     <field name="scopecontent_teim">Wonder Boy and the Spiritual Voices (Brooklyn Gospel)</field>
+     <field name="scopecontent_teim">Valarie Jean Bailey (quilting)</field>
+@@ -179,9 +167,7 @@
+     <field name="scopecontent_teim">Play: Brooklyn Summers, Steamy but Fun!</field>
+     <field name="scopecontent_teim">Work: Brooklyn Women and Grass Roots Politics</field>
+     <field name="scopecontent_teim">Brooklyn at Work and Play II: Growing up on "the Avenue" – Midde Eastern Atlantic Avenue</field>
+-    <field name="scopecontent_teim">
+-      1994 Justine McGovern, Folk Arts '94:
+-    </field>
++    <field name="scopecontent_teim">1994 Justine McGovern, Folk Arts '94:</field>
+     <field name="scopecontent_teim">Arabic Music and Foodways:</field>
+     <field name="scopecontent_teim">Eddie Kochak and Hajji Obadia (music)</field>
+     <field name="scopecontent_teim">Amina Ibrahim (foodways)</field>
+@@ -199,9 +185,7 @@
+     <field name="scopecontent_teim">Family Businesses: Working Out Together</field>
+     <field name="scopecontent_teim">Public School Teachers: Brooklyn Schools, Brooklyn Stories</field>
+     <field name="scopecontent_teim">West Indian Hair Braiders: The Business of Beauty, Brooklyn Style</field>
+-    <field name="scopecontent_teim">
+-      1995 Ilana Abramovitch, Folk Arts '95:
+-    </field>
++    <field name="scopecontent_teim">1995 Ilana Abramovitch, Folk Arts '95:</field>
+     <field name="scopecontent_teim">Jewish Purim Music and Crafts:</field>
+     <field name="scopecontent_teim">Ruben Benyamin (Persian Jewish singer)</field>
+     <field name="scopecontent_teim">Leah Jirshfield Levin (traditional plaques welcoming the month of Adar)</field>
+@@ -223,9 +207,7 @@
+     <field name="scopecontent_teim">Grace Kelly: growing up in the 1910s</field>
+     <field name="scopecontent_teim">Umma Group, including James Hardy: Neighborhood patrol group in Flatbush</field>
+     <field name="scopecontent_teim">Kenny Koslowitz: subway system</field>
+-    <field name="scopecontent_teim">
+-      1996 Richard Wolf, Folk Arts Series 1996:
+-    </field>
++    <field name="scopecontent_teim">1996 Richard Wolf, Folk Arts Series 1996:</field>
+     <field name="scopecontent_teim">Indo-Caribbean Music and Dance:</field>
+     <field name="scopecontent_teim">U.S. #1 Tassa Drummers</field>
+     <field name="scopecontent_teim">Singers and dancers from The Shri Ram Mandir (Hindu devotional music and singing)</field>
+@@ -261,9 +243,7 @@
+     <field name="scopecontent_teim">John Gallagher: The Battle of Brooklyn, 1776</field>
+     <field name="scopecontent_teim">Myrna Katz Frommer: It Happened in Brooklyn</field>
+     <field name="scopecontent_teim">Philip Kasinitz: Caribbean New York: Black Immigration and the Politics of Race</field>
+-    <field name="scopecontent_teim">
+-      1997 Emily Botein, Folk Arts '97:
+-    </field>
++    <field name="scopecontent_teim">1997 Emily Botein, Folk Arts '97:</field>
+     <field name="scopecontent_teim">Pakistani Music and Family Traditions:</field>
+     <field name="scopecontent_teim">Shahid Kabir Ali (singer of qawwali, devotional music of Sufi Muslims)</field>
+     <field name="scopecontent_teim">Anwari Rajput (cooking, sewing, henna wedding traditions)</field>
+@@ -278,9 +258,7 @@
+     <field name="scopecontent_teim">Junior Wedderburn (drum maker and player)</field>
+     <field name="scopecontent_teim">Sekou Jawara (drum maker)</field>
+     <field name="scopecontent_teim">Frisner Augustin (Vodou drumming)</field>
+-    <field name="scopecontent_teim">
+-      1998 Nancy Groce, BAC Folk Arts Series: Constructing Harmony: Traditional Music and Musical Instrument Making in Brooklyn
+-    </field>
++    <field name="scopecontent_teim">1998 Nancy Groce, BAC Folk Arts Series: Constructing Harmony: Traditional Music and Musical Instrument Making in Brooklyn</field>
+     <field name="scopecontent_teim">Indigenous Music and Musical Instrument Making:</field>
+     <field name="scopecontent_teim">The Manahata Indian Arts Council with Clifford Standing Deer and Ray Elk Silva (demonstrate the making and playing of Indigenous musical instruments)</field>
+     <field name="scopecontent_teim">
+@@ -299,9 +277,7 @@
+     <field name="scopecontent_teim">The Kings County Ceili Band with Mat Mancuso (Irish)</field>
+     <field name="scopecontent_teim">Tamara Volskaya and Anatoliy Trofimov with Russian Carnival (Russian)</field>
+     <field name="scopecontent_teim">Desters, U. S. A. (West Indian)</field>
+-    <field name="scopecontent_teim">
+-      1999 Nancy Groce, BAC Folk Arts Series: Constructing Harmony:
+-    </field>
++    <field name="scopecontent_teim">1999 Nancy Groce, BAC Folk Arts Series: Constructing Harmony:</field>
+     <field name="scopecontent_teim">Afro-Cuban Drums, Drum-making and Drumming:</field>
+     <field name="scopecontent_teim">Jay Bereck, Drum-maker and Ensemble</field>
+     <field name="scopecontent_teim">

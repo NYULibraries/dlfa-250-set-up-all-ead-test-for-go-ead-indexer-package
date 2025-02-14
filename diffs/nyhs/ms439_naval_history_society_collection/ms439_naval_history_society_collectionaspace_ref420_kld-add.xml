@@ -1,12 +1,20 @@
-15,17c15
-<     <field name="scopecontent_teim">
-<       Biographical Note
-<     </field>
----
->     <field name="scopecontent_teim">Biographical Note</field>
-20,22c18
-<     <field name="scopecontent_teim">
-<       Arrangement
-<     </field>
----
->     <field name="scopecontent_teim">Arrangement</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,14 +12,10 @@
+     <field name="unittitle_ssm">Series 17. Gustavus Vasa Fox (1823-1919; bulk 1860-1889)</field>
+     <field name="unittitle_teim">Series 17. Gustavus Vasa Fox (1823-1919; bulk 1860-1889)</field>
+     <field name="scopecontent_teim">The collection includes correspondence, personal papers and documents, financial records, speeches and writings, memorabilia and souvenirs, printed materials, and clippings of Gustavus Vasa Fox; correspondence of his wife Virginia Woodbury Fox; and correspondence and personal papers pertaining to other Woodbury and Fox family members.</field>
+-    <field name="scopecontent_teim">
+-      Biographical Note
+-    </field>
++    <field name="scopecontent_teim">Biographical Note</field>
+     <field name="scopecontent_teim">Gustavus Vasa Fox (1821-1883) read law with his future wife's uncle, Isaac O. Barnes, in 1837 and began his maritime career as a midshipman in 1838. He served in various naval and mercantile vessels before retiring in 1856 to manage the Bay State Woolen Mills in Lawrence, Massachusetts. His suggestions for the relief of Fort Sumter were not followed, but through connections to Abraham Lincoln via Postmaster Montgomery Blair (his wife's brother-in-law) he was appointed Assistant Secretary of the Navy under Gideon Welles in 1861. He served in that position through the Civil War, functioning as de facto chief of naval operations. He championed the cause of ironclad fighting ships, supporting John Ericsson (see Series 16) in his bid to build Monitor. Fox is credited with improving the management of the Navy that made possible its wartime victories.</field>
+     <field name="scopecontent_teim">In 1866 he made the first transatlantic voyage in an ironclad (Miantonomoh) to deliver a congressional resolution to Tsar Alexander II, congratulating him on his escape from an assassination attempt. The ship made extensive stops in European ports en route. In 1867 he made an unsuccessful attempt to take over the Southwest Pacific railroad, the forerunner of the St. Louis-San Francisco railroad. In 1869 he began management of Middlesex Mills in Lowell, Massachusetts, moving to Boston in 1874 from where he commuted to Lawrence to manage Washington Mills for the commission house of Mudge, Sawyer, and Co. He retired in 1878 and pursued interests that included documenting Columbus's first landfall in the new world, and the local history and topography of New Hampshire.</field>
+-    <field name="scopecontent_teim">
+-      Arrangement
+-    </field>
++    <field name="scopecontent_teim">Arrangement</field>
+     <field name="scopecontent_teim">The materials are arranged in 10 subseries:</field>
+     <field name="scopecontent_teim">Subseries I. Correspondence</field>
+     <field name="scopecontent_teim">Subseries II. Personal papers and documents</field>

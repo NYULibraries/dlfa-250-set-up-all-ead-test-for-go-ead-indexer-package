@@ -1,2 +1,11 @@
-23d22
-<     <field name="bioghist_teim"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,6 @@
+     <field name="scopecontent_teim">SERIES DESCRIPTION</field>
+     <field name="scopecontent_teim">Series I: Correspondence: includes a copy of the New York Review (box 1, folder 1).</field>
+     <field name="bioghist_teim">The New York Review existed in the years 1957 and 1958 at 279 Houston Street in Manhattan and was edited by Peter McCurtin and William Atkins. In the spring of 1957, McCurtin solicited material from top shelf writers of the time including: Aldous Huxley, Muriel Spark, C.S. Lewis, Norman Mailer, Margaret Mead, James A. Michener, J.D. Salinger, and Robert Penn Warren; many of whom replied to the solicitation though many declined contributing. The issue that was published did contain contributions from an impressive array of writers and poets.</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">New York Review (1958)</field>
+     <field name="corpname_teim">New York Review (1958)</field>

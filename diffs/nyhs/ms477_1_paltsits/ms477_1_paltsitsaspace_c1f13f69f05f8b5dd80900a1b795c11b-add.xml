@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Listed alphabetically by author or title.
-<     </field>
----
->     <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Works by others (A)</field>
+     <field name="unittitle_teim">Works by others (A)</field>
+     <field name="unitdate_inclusive_teim">1831–1951</field>
+-    <field name="scopecontent_teim">
+-      Listed alphabetically by author or title.
+-    </field>
++    <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+     <field name="scopecontent_teim">___Adams, John Quincy. Speech of John Quincy Adams, of Massachusetts, Upon the Right of the People, Men and Women, to Petition; on the Freedom of Speech and of Debate . . . (1838)
+ ___Adams, Randolph G. The Case of the Columbus Letter (1939)
+ ___Addresses of the Twenty-seventh Synod of the Fifth Province of the Protestant Episcopal Church in the United States of America (1950)

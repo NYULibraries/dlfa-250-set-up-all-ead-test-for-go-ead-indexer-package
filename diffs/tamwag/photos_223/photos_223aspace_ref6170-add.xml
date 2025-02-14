@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">Labor Organizations - International Fur and Leather Workers Union&amp;nbsp;(IFLWU) - Intrigue against</field>
----
->     <field name="unittitle_ssm">Labor Organizations - International Fur and Leather Workers Union (IFLWU) - Intrigue against</field>
-35c35
-<     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - International Fur and Leather Workers Union&amp;nbsp;(IFLWU) - Intrigue against</field>
----
->     <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - International Fur and Leather Workers Union (IFLWU) - Intrigue against</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
+     <field name="collection_unitid_ssm">PHOTOS.223</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Labor Organizations - International Fur and Leather Workers Union&amp;nbsp;(IFLWU) - Intrigue against</field>
++    <field name="unittitle_ssm">Labor Organizations - International Fur and Leather Workers Union (IFLWU) - Intrigue against</field>
+     <field name="unittitle_teim">Labor Organizations - International Fur and Leather Workers Union (IFLWU) - Intrigue against</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/136631</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/136631</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
+     <field name="collection_unitid_teim">PHOTOS.223</field>
+     <field name="series_sim">Series II: Subject Files</field>
+-    <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - International Fur and Leather Workers Union&amp;nbsp;(IFLWU) - Intrigue against</field>
++    <field name="series_si">Series II: Subject Files &gt;&gt; Labor Organizations - International Fur and Leather Workers Union (IFLWU) - Intrigue against</field>
+     <field name="heading_ssm">Labor Organizations - International Fur and Leather Workers Union (IFLWU) - Intrigue against</field>
+     <field name="unitdate_start_sim">1925</field>
+     <field name="unitdate_start_ssm">1925</field>

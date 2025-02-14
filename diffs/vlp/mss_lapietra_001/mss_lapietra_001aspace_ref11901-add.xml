@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">i. Firenze</field>
----
->     <field name="parent_unittitles_ssm">iii. unidentified</field>
-18c18
-<     <field name="parent_unittitles_teim">i. Firenze</field>
----
->     <field name="parent_unittitles_teim">iii. unidentified</field>
-46,47c46,47
-<     <field name="series_sim">i. Firenze</field>
-<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries D: Places &gt;&gt; 1. Italian Villas and gardens &gt;&gt; i. Firenze &gt;&gt; Firenze, Boboli gardens</field>
----
->     <field name="series_sim">iii. unidentified</field>
->     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries D: Places &gt;&gt; 1. Italian Villas and gardens &gt;&gt; iii. unidentified &gt;&gt; Firenze, Boboli gardens</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_ssm">Subseries D: Places</field>
+     <field name="parent_unittitles_ssm">1. Italian Villas and gardens</field>
+-    <field name="parent_unittitles_ssm">i. Firenze</field>
++    <field name="parent_unittitles_ssm">iii. unidentified</field>
+     <field name="parent_unittitles_teim">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_teim">Subseries D: Places</field>
+     <field name="parent_unittitles_teim">1. Italian Villas and gardens</field>
+-    <field name="parent_unittitles_teim">i. Firenze</field>
++    <field name="parent_unittitles_teim">iii. unidentified</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series VIII: Images on glass</field>
+     <field name="series_sim">Subseries D: Places</field>
+     <field name="series_sim">1. Italian Villas and gardens</field>
+-    <field name="series_sim">i. Firenze</field>
+-    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries D: Places &gt;&gt; 1. Italian Villas and gardens &gt;&gt; i. Firenze &gt;&gt; Firenze, Boboli gardens</field>
++    <field name="series_sim">iii. unidentified</field>
++    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries D: Places &gt;&gt; 1. Italian Villas and gardens &gt;&gt; iii. unidentified &gt;&gt; Firenze, Boboli gardens</field>
+     <field name="heading_ssm">Firenze, Boboli gardens</field>
+     <field name="unitdate_start_sim">1914</field>
+     <field name="unitdate_start_ssm">1914</field>

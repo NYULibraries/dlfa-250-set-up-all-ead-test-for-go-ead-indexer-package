@@ -1,14 +1,29 @@
-46a47,52
->     <field name="subject_teim">Labor unions -- Officials and employees.</field>
->     <field name="subject_teim">Labor unions -- Organizing -- New York (N.Y.)</field>
->     <field name="subject_teim">Hotels -- New York (State) -- New York.</field>
->     <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
->     <field name="subject_teim">Hotels -- Employees -- New York (State) -- New York.</field>
->     <field name="subject_teim">Labor unions -- United States -- History -- 20th century.</field>
-79,84d84
-<     <field name="subject_teim">Labor unions -- Officials and employees.</field>
-<     <field name="subject_teim">Labor unions -- Organizing -- New York (N.Y.)</field>
-<     <field name="subject_teim">Hotels -- New York (State) -- New York.</field>
-<     <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
-<     <field name="subject_teim">Hotels -- Employees -- New York (State) -- New York.</field>
-<     <field name="subject_teim">Labor unions -- United States -- History -- 20th century.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -44,6 +44,12 @@
+     <field name="persname_ssm">Rubin, Jay</field>
+     <field name="persname_ssm">Obermeier, Michael J., 1892-</field>
+     <field name="persname_ssm">Ward, Peter</field>
++    <field name="subject_teim">Labor unions -- Officials and employees.</field>
++    <field name="subject_teim">Labor unions -- Organizing -- New York (N.Y.)</field>
++    <field name="subject_teim">Hotels -- New York (State) -- New York.</field>
++    <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
++    <field name="subject_teim">Hotels -- Employees -- New York (State) -- New York.</field>
++    <field name="subject_teim">Labor unions -- United States -- History -- 20th century.</field>
+     <field name="collection_sim">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+     <field name="collection_ssm">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+     <field name="collection_teim">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+@@ -76,12 +82,6 @@
+     <field name="subject_sim">Restaurants -- New York (State) -- New York</field>
+     <field name="subject_sim">Hotels -- Employees -- New York (State) -- New York.</field>
+     <field name="subject_sim">Labor unions -- United States -- History -- 20th century.</field>
+-    <field name="subject_teim">Labor unions -- Officials and employees.</field>
+-    <field name="subject_teim">Labor unions -- Organizing -- New York (N.Y.)</field>
+-    <field name="subject_teim">Hotels -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Restaurants -- New York (State) -- New York</field>
+-    <field name="subject_teim">Hotels -- Employees -- New York (State) -- New York.</field>
+-    <field name="subject_teim">Labor unions -- United States -- History -- 20th century.</field>
+     <field name="heading_ssm">Hotel Employees and Restaurant Employees International Union, Local 6 Records</field>
+     <field name="unitdate_start_sim">1899</field>
+     <field name="unitdate_start_ssm">1899</field>

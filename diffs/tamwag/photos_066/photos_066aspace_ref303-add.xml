@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">(Oversized) Children-Nutritional Support/Feeding Programs (4 photographs)&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">(Oversized) Children-Nutritional Support/Feeding Programs (4 photographs) </field>
-33c33
-<     <field name="series_si">Series IV: Oversized Photographic Prints, 1890s-1960; undated. &gt;&gt; (Oversized) Children-Nutritional Support/Feeding Programs (4 photographs)&amp;nbsp;</field>
----
->     <field name="series_si">Series IV: Oversized Photographic Prints, 1890s-1960; undated. &gt;&gt; (Oversized) Children-Nutritional Support/Feeding Programs (4 photographs) </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Greenwich House Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.066</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">(Oversized) Children-Nutritional Support/Feeding Programs (4 photographs)&amp;nbsp;</field>
++    <field name="unittitle_ssm">(Oversized) Children-Nutritional Support/Feeding Programs (4 photographs) </field>
+     <field name="unittitle_teim">(Oversized) Children-Nutritional Support/Feeding Programs (4 photographs) </field>
+     <field name="unitdate_normal_ssm">1902/1991</field>
+     <field name="unitdate_normal_teim">1902/1991</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Greenwich House Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.066</field>
+     <field name="series_sim">Series IV: Oversized Photographic Prints, 1890s-1960; undated.</field>
+-    <field name="series_si">Series IV: Oversized Photographic Prints, 1890s-1960; undated. &gt;&gt; (Oversized) Children-Nutritional Support/Feeding Programs (4 photographs)&amp;nbsp;</field>
++    <field name="series_si">Series IV: Oversized Photographic Prints, 1890s-1960; undated. &gt;&gt; (Oversized) Children-Nutritional Support/Feeding Programs (4 photographs) </field>
+     <field name="heading_ssm">(Oversized) Children-Nutritional Support/Feeding Programs (4 photographs) </field>
+     <field name="unitdate_start_sim">1902</field>
+     <field name="unitdate_start_ssm">1902</field>

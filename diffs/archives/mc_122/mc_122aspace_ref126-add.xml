@@ -1,4 +1,19 @@
-22a23
->     <field name="subject_teim">Chairman of the Governor's Committee on New Jersey Higher Education</field>
-30d30
-<     <field name="subject_teim">Chairman of the Governor's Committee on New Jersey Higher Education</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,6 +20,7 @@
+     <field name="genreform_ssm">periodicals</field>
+     <field name="occupation_teim">Chairman of the Governor's Committee on New Jersey Higher Education</field>
+     <field name="occupation_ssm">Chairman of the Governor's Committee on New Jersey Higher Education</field>
++    <field name="subject_teim">Chairman of the Governor's Committee on New Jersey Higher Education</field>
+     <field name="ref_ssi">aspace_ref126</field>
+     <field name="repository_ssi">archives</field>
+     <field name="repository_sim">archives</field>
+@@ -27,7 +28,6 @@
+     <field name="format_sim">Archival Series</field>
+     <field name="format_ssm">Archival Series</field>
+     <field name="subject_sim">Chairman of the Governor's Committee on New Jersey Higher Education</field>
+-    <field name="subject_teim">Chairman of the Governor's Committee on New Jersey Higher Education</field>
+     <field name="collection_teim">Carroll Newsom Papers</field>
+     <field name="collection_unitid_teim">MC.122</field>
+     <field name="series_si">Series II. Publications</field>

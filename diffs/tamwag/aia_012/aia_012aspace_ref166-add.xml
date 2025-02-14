@@ -1,6 +1,14 @@
-22,24c22
-<     <field name="bioghist_teim">
-<       Sources:
-<     </field>
----
->     <field name="bioghist_teim">Sources:</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,9 +19,7 @@
+     <field name="bioghist_teim">In 1981, Flannery and four other men were charged with gunrunning for the IRA (U.S. vs. Harrison, Falvey, Mullen, Gormley and Flannery). The FBI accused Flannery of handling the money in the transaction. The counsel defending Flannery and the other men took an aggressive strategy during the trial by putting forth the idea that the defendants believed that they were working for the CIA. Since the CIA has a license to export weapons, they did not believe they were breaking any laws. This tactic put the burden on the prosecution to prove that the CIA was not involved and the jury found all five men innocent. Flannery was the only one of the defendants to testify, and he used that opportunity to deliver an impassioned speech about Irish history and British oppression.</field>
+     <field name="bioghist_teim">Capitalizing on the publicity from the trial, Irish Republicans campaigned to elect Flannery as the Grand Marshal of the New York St. Patrick's Day Parade in 1983. Given Flannery's open support of the IRA and the recent trial, his nomination did not come without controversy. But despite opposition by prominent politicians, community leaders, the Catholic Church and the Irish government, the parade drew a record crowd.</field>
+     <field name="bioghist_teim">In 1989, Noraid altered its focus to acknowledge the Dublin government and incorporate political measures in resolving the conflict. Flannery and other veterans of his generation believed that a focus on political activities would detract from the fundraising aspects and would ultimately compromise the primary function of the organization. After failing to resolve the differences between his personal beliefs and the new direction the organization was taking, Flannery resigned from Noraid in 1986. He joined the Friends of Irish Freedom in 1989, which had the exclusive purpose of raising money for families of IRA prisoners. He continued his support for FOIF and the militant republican cause until his death in 1994. </field>
+-    <field name="bioghist_teim">
+-      Sources:
+-    </field>
++    <field name="bioghist_teim">Sources:</field>
+     <field name="bioghist_teim">    Hampson, Rick. "The Old Man and the Gun." New York Beacon. 31 March 1995, 35.</field>
+     <field name="bioghist_teim">    Holland, Jack. The American Connection: U.S. Guns, Money, and Influence in Northern Ireland. Boulder, CO: Roberts Rinehart Publishers, 1999.</field>
+     <field name="bioghist_teim">    Mullins, Elmer. "Boylan Blazes: Veteran Republican Flannery Dies at 92." Irish America. 21 November 1994, 15.</field>

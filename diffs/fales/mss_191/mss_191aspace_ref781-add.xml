@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Subseries B: Promotional Material</field>
----
->     <field name="parent_unittitles_ssm">Subseries D: Merchandise</field>
-18c18
-<     <field name="parent_unittitles_teim">Subseries B: Promotional Material</field>
----
->     <field name="parent_unittitles_teim">Subseries D: Merchandise</field>
-45,46c45,46
-<     <field name="series_sim">Subseries B: Promotional Material</field>
-<     <field name="series_si">Oversize Series VI: Stolen Moments: Red Hot + Cool &gt;&gt; Subseries C: Photographic Material &gt;&gt; Oversize Series VII: Red Hot + Bothered &gt;&gt; Subseries B: Promotional Material &gt;&gt; Posters - Red Hot + Bothered</field>
----
->     <field name="series_sim">Subseries D: Merchandise</field>
->     <field name="series_si">Oversize Series VI: Stolen Moments: Red Hot + Cool &gt;&gt; Subseries C: Photographic Material &gt;&gt; Oversize Series VII: Red Hot + Bothered &gt;&gt; Subseries D: Merchandise &gt;&gt; Posters - Red Hot + Bothered</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Oversize Series VI: Stolen Moments: Red Hot + Cool</field>
+     <field name="parent_unittitles_ssm">Subseries C: Photographic Material</field>
+     <field name="parent_unittitles_ssm">Oversize Series VII: Red Hot + Bothered</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Promotional Material</field>
++    <field name="parent_unittitles_ssm">Subseries D: Merchandise</field>
+     <field name="parent_unittitles_teim">Oversize Series VI: Stolen Moments: Red Hot + Cool</field>
+     <field name="parent_unittitles_teim">Subseries C: Photographic Material</field>
+     <field name="parent_unittitles_teim">Oversize Series VII: Red Hot + Bothered</field>
+-    <field name="parent_unittitles_teim">Subseries B: Promotional Material</field>
++    <field name="parent_unittitles_teim">Subseries D: Merchandise</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Red Hot Organization Archive</field>
+@@ -42,8 +42,8 @@
+     <field name="series_sim">Oversize Series VI: Stolen Moments: Red Hot + Cool</field>
+     <field name="series_sim">Subseries C: Photographic Material</field>
+     <field name="series_sim">Oversize Series VII: Red Hot + Bothered</field>
+-    <field name="series_sim">Subseries B: Promotional Material</field>
+-    <field name="series_si">Oversize Series VI: Stolen Moments: Red Hot + Cool &gt;&gt; Subseries C: Photographic Material &gt;&gt; Oversize Series VII: Red Hot + Bothered &gt;&gt; Subseries B: Promotional Material &gt;&gt; Posters - Red Hot + Bothered</field>
++    <field name="series_sim">Subseries D: Merchandise</field>
++    <field name="series_si">Oversize Series VI: Stolen Moments: Red Hot + Cool &gt;&gt; Subseries C: Photographic Material &gt;&gt; Oversize Series VII: Red Hot + Bothered &gt;&gt; Subseries D: Merchandise &gt;&gt; Posters - Red Hot + Bothered</field>
+     <field name="heading_ssm">Posters - Red Hot + Bothered</field>
+     <field name="unitdate_ssm">1995</field>
+     <field name="date_range_sim">undated &amp; other</field>

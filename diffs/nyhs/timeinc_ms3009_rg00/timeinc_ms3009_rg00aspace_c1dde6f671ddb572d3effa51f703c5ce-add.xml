@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Corporate Public Affairs Department Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Corporate Public Affairs Department Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 19. Time Inc. Corporate Public Affairs Department Records (1945-2000)</field>
+     <field name="unittitle_teim">RG 19. Time Inc. Corporate Public Affairs Department Records (1945-2000)</field>
+     <field name="scopecontent_teim">Corporate Public Affairs Department Records contain the office files from Vice President Donald Wilson; files and correspondence from Louis Slovinsky while he was the the public relations manager, associate director, and director of public affairs; office files from the Radio/TV Publicity Office, project files from Community Relations; office files from the Chief Speechwriter; office files from the Special Events Manager; files on exhibitions in the Time &amp; Life Building public spaces; files on exhibitions and contests to promote Time Inc. internationally; and general files produced or collected by the department overall including annual reports, press releases, dinner books, weekly news clippings, and administrative files.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Corporate Public Affairs Department Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Corporate Public Affairs Department Records.</field>
+     <field name="ref_ssi">aspace_c1dde6f671ddb572d3effa51f703c5ce</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

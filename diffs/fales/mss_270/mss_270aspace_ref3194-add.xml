@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">&lt;em&gt;&amp;lt;emph render="underline"&amp;gt;In Process&amp;lt;/emph&amp;gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;&lt;em&gt;In Process&lt;/em&gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
-41c41
-<     <field name="series_si">Series VII: Public Art Fund - Press, Publications, and Promotional Material &gt;&gt; Subseries VII.E: In Process Magazine &gt;&gt; &lt;em&gt;&amp;lt;emph render="underline"&amp;gt;In Process&amp;lt;/emph&amp;gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
----
->     <field name="series_si">Series VII: Public Art Fund - Press, Publications, and Promotional Material &gt;&gt; Subseries VII.E: In Process Magazine &gt;&gt; &lt;em&gt;&lt;em&gt;In Process&lt;/em&gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Public Art Fund Archive</field>
+     <field name="collection_unitid_ssm">MSS.270</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;&amp;lt;emph render="underline"&amp;gt;In Process&amp;lt;/emph&amp;gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
++    <field name="unittitle_ssm">&lt;em&gt;&lt;em&gt;In Process&lt;/em&gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
+     <field name="unittitle_teim">In Process Volume 12, No. 2, Summer 2005</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/536805</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/536805</field>
+@@ -38,7 +38,7 @@
+     <field name="collection_unitid_teim">MSS.270</field>
+     <field name="series_sim">Series VII: Public Art Fund - Press, Publications, and Promotional Material</field>
+     <field name="series_sim">Subseries VII.E: In Process Magazine</field>
+-    <field name="series_si">Series VII: Public Art Fund - Press, Publications, and Promotional Material &gt;&gt; Subseries VII.E: In Process Magazine &gt;&gt; &lt;em&gt;&amp;lt;emph render="underline"&amp;gt;In Process&amp;lt;/emph&amp;gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
++    <field name="series_si">Series VII: Public Art Fund - Press, Publications, and Promotional Material &gt;&gt; Subseries VII.E: In Process Magazine &gt;&gt; &lt;em&gt;&lt;em&gt;In Process&lt;/em&gt;&lt;/em&gt; Volume 12, No. 2, Summer 2005</field>
+     <field name="heading_ssm">In Process Volume 12, No. 2, Summer 2005</field>
+     <field name="unitdate_start_sim">2005</field>
+     <field name="unitdate_start_ssm">2005</field>

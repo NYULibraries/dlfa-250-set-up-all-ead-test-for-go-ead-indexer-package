@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495 </field>
-31c31
-<     <field name="series_si">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495&amp;nbsp;</field>
----
->     <field name="series_si">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495 </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">Elliot Glass and Ken Marsh Video Collection</field>
+     <field name="collection_unitid_ssm">MSS.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495&amp;nbsp;</field>
++    <field name="unittitle_ssm">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495 </field>
+     <field name="unittitle_teim">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495 </field>
+     <field name="unitid_teim">334.0346</field>
+     <field name="unitid_ssm">334.0346</field>
+@@ -28,7 +28,7 @@
+     <field name="location_si">Box: 17, reel: 334.0346</field>
+     <field name="collection_teim">Elliot Glass and Ken Marsh Video Collection</field>
+     <field name="collection_unitid_teim">MSS.334</field>
+-    <field name="series_si">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495&amp;nbsp;</field>
++    <field name="series_si">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495 </field>
+     <field name="heading_ssm">Road Kills 19 min. Color, No Nukes: Seabrook 1976 12 min Color Star Route, Willow, NY 12495 </field>
+     <field name="unitdate_start_sim">1976</field>
+     <field name="unitdate_start_ssm">1976</field>

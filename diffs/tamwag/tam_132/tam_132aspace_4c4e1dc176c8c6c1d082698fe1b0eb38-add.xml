@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">People's Daily World&amp;nbsp;/ Dynamic Meeting</field>
----
->     <field name="unittitle_ssm">People's Daily World / Dynamic Meeting</field>
-38c38
-<     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; People's Daily World&amp;nbsp;/ Dynamic Meeting</field>
----
->     <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; People's Daily World / Dynamic Meeting</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Communist Party of the United States of America Records</field>
+     <field name="collection_unitid_ssm">TAM.132</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">People's Daily World&amp;nbsp;/ Dynamic Meeting</field>
++    <field name="unittitle_ssm">People's Daily World / Dynamic Meeting</field>
+     <field name="unittitle_teim">People's Daily World / Dynamic Meeting</field>
+     <field name="unitid_teim">cuid30130</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/754517</field>
+@@ -35,7 +35,7 @@
+     <field name="collection_unitid_teim">TAM.132</field>
+     <field name="series_sim">Series XI: Broadcasts and Public Events</field>
+     <field name="series_sim">Subseries XI.A: Forums, Meetings, and Lectures</field>
+-    <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; People's Daily World&amp;nbsp;/ Dynamic Meeting</field>
++    <field name="series_si">Series XI: Broadcasts and Public Events &gt;&gt; Subseries XI.A: Forums, Meetings, and Lectures &gt;&gt; People's Daily World / Dynamic Meeting</field>
+     <field name="heading_ssm">People's Daily World / Dynamic Meeting</field>
+     <field name="unitdate_ssm">Inclusive, undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

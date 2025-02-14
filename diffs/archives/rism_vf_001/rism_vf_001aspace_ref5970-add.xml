@@ -1,2 +1,11 @@
-36a37
->     <field name="series_sim">Curacao</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -34,6 +34,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Curacao</field>
++    <field name="series_sim">Curacao</field>
+     <field name="series_si">Curacao &gt;&gt; Curacao &gt;&gt; Curacao, Netherlands Antilles: Centuries Old, Newly Fascinating</field>
+     <field name="heading_ssm">Curacao, Netherlands Antilles: Centuries Old, Newly Fascinating</field>
+     <field name="unitdate_ssm">undated</field>

@@ -1,7 +1,15 @@
-24,27c24
-<     <field name="scopecontent_teim">
-<       Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,10 +21,7 @@
+     <field name="unitdate_inclusive_teim">1923-1977</field>
+     <field name="scopecontent_teim">The series contains Minutes of the Society for the Relief of Half-Orphan and Destitute Children and its subsequent organizations (Windham Society for the Care of Boys, Windham Children's Services, Windham Child Care) from 1923-1977, up to the merger with the Graham Home for Children.  Minutes from 1933-1945 are missing.  Minutes prior to 1923 may be found at the Butler Library, Columbia University.  </field>
+     <field name="scopecontent_teim">An index to the minutes is available to researchers at the New-York Historical Society manuscript department.  </field>
+-    <field name="scopecontent_teim">
+-      Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
+-      
+-    </field>
++    <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>
+     <field name="ref_ssi">aspace_ref22_ui0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -15,11 +15,11 @@ Run the golden files test:
 ```bash
 dlfa-250-set-up-all-ead-test-for-go-ead-indexer-package/> ./diff.sh \
 > [RELATIVE OR ABSOLUTE PATH]/findingaids_eads_v2 \
-> [RELATIVE OR ABSOLUTE PATH]/dlfa-188_v1-indexer-http-requests-xml/http-requests
-
-real    52m25.082s
-user    47m13.581s
-sys     4m15.262s
+> [RELATIVE OR ABSOLUTE PATH]/dlfa-188_v1-indexer-http-requests/http-requests
+ 
+real    79m45.204s
+user    72m48.342s
+sys     8m48.870s
 dlfa-250-set-up-all-ead-test-for-go-ead-indexer-package/>  
 ```
 
@@ -34,6 +34,6 @@ Outputs:
 
 # Versions of repos used for current diffs 
 
-* go-ead-indexer: [e6393c48a0515020a2ec53e681fb750473bb06a9](https://github.com/NYULibraries/go-ead-indexer/tree/e6393c48a0515020a2ec53e681fb750473bb06a9)
-* dlfa-188_v1-indexer-http-requests-xml: [aa4808b3d01881c896bd51304e48d95aefb5438b](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests-xml/tree/aa4808b3d01881c896bd51304e48d95aefb5438b)
+* go-ead-indexer: [see go.mod file]
+* dlfa-188_v1-indexer-http-requests: [206386a464e2b1280021571cbd4e73218990c26c](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/tree/206386a464e2b1280021571cbd4e73218990c26c)
 * findingaids_eads_v2: [8d1b8fb6bd45327e90857c77bff8afa66358f4e7](https://github.com/NYULibraries/findingaids_eads_v2/tree/8d1b8fb6bd45327e90857c77bff8afa66358f4e7)

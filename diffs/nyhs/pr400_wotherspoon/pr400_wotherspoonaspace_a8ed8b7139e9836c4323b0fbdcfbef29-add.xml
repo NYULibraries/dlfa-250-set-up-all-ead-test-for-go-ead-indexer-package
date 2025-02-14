@@ -1,8 +1,16 @@
-20,24c20
-<     <field name="scopecontent_teim">
-<       
-<         "Paul Liebenow, with his head swathed in bandages and his hands badly burned, said he had tried in vain to pull down life preservers at the time of the disaster. He knew that others had implored the captain to beach the 'Slocum' at the sunken meadows. He heard of the fire when he was between Ninetieth and Ninety-second streets. Among those killed were two of his children, a sister, a sister-in-law, a niece and a nephew."
-<       
-<     </field>
----
->     <field name="scopecontent_teim">"Paul Liebenow, with his head swathed in bandages and his hands badly burned, said he had tried in vain to pull down life preservers at the time of the disaster. He knew that others had implored the captain to beach the 'Slocum' at the sunken meadows. He heard of the fire when he was between Ninetieth and Ninety-second streets. Among those killed were two of his children, a sister, a sister-in-law, a niece and a nephew."</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,11 +17,7 @@
+     <field name="unittitle_teim">Henry Davenport Northrop. New York's Awful Steamboat Horror</field>
+     <field name="unitdate_inclusive_teim">[1904]</field>
+     <field name="scopecontent_teim">Paul Liebenow's copy of Henry Davenport Northrop's New York's Awful Steamboat Horror (Philadelphia, Pa.: National Pub. Co.?, 1904?), one of several "instant" books of eyewitness accounts published in the wake of the General Slocum disaster. Liebenow or a family member circled the following passage on page 248:</field>
+-    <field name="scopecontent_teim">
+-      
+-        "Paul Liebenow, with his head swathed in bandages and his hands badly burned, said he had tried in vain to pull down life preservers at the time of the disaster. He knew that others had implored the captain to beach the 'Slocum' at the sunken meadows. He heard of the fire when he was between Ninetieth and Ninety-second streets. Among those killed were two of his children, a sister, a sister-in-law, a niece and a nephew."
+-      
+-    </field>
++    <field name="scopecontent_teim">"Paul Liebenow, with his head swathed in bandages and his hands badly burned, said he had tried in vain to pull down life preservers at the time of the disaster. He knew that others had implored the captain to beach the 'Slocum' at the sunken meadows. He heard of the fire when he was between Ninetieth and Ninety-second streets. Among those killed were two of his children, a sister, a sister-in-law, a niece and a nephew."</field>
+     <field name="scopecontent_teim">The complete book may be read online, and the New-York Historical Society has an additional copy under call number F128 VK1257.G4 N8.</field>
+     <field name="ref_ssi">aspace_a8ed8b7139e9836c4323b0fbdcfbef29</field>
+     <field name="repository_ssi">nyhs</field>

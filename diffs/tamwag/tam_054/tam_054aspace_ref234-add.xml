@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">&lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&lt;/em&gt;</field>
-32c32
-<     <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">United Hatters, Cap, and Millinery Workers International Union Records</field>
+     <field name="collection_unitid_ssm">TAM.054</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&lt;/em&gt;</field>
+     <field name="unittitle_teim">Code Authority of the Millinery Industry(booklet) </field>
+     <field name="unitdate_teim">Jan 1935</field>
+     <field name="title_teim">Code Authority of the Millinery Industry</field>
+@@ -29,7 +29,7 @@
+     <field name="collection_teim">United Hatters, Cap, and Millinery Workers International Union Records</field>
+     <field name="collection_unitid_teim">TAM.054</field>
+     <field name="series_sim">Series VII: United Hatters, Cap, and Millinery Workers International Union</field>
+-    <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series VII: United Hatters, Cap, and Millinery Workers International Union &gt;&gt; &lt;em&gt;Code Authority of the Millinery Industry&lt;/em&gt;(booklet) &lt;em&gt;&lt;/em&gt;</field>
+     <field name="heading_ssm">Code Authority of the Millinery Industry(booklet) </field>
+     <field name="unitdate_ssm">Jan 1935</field>
+     <field name="date_range_sim">undated &amp; other</field>

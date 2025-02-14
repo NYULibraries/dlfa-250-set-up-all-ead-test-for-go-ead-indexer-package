@@ -1,8 +1,16 @@
-16,20c16
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Index Cards.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Index Cards.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,11 +13,7 @@
+     <field name="unittitle_teim">RG 4. Time Inc. Index Cards (1933-1993)</field>
+     <field name="scopecontent_teim">The Time Inc. Index Cards contain groups of index cards used by Time Inc. staff for writing, searching, and
+ cross referencing subject terms in Time Inc.'s major magazines, and as directories for published books and interviews.The majority of index cards provide a subject term, a brief description of a topic, and a date when the topic was covered within the associated magazine. There is also a section of general subjects that is not linked to a specific publication. </field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Index Cards.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Index Cards.</field>
+     <field name="ref_ssi">aspace_ref7_liw</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

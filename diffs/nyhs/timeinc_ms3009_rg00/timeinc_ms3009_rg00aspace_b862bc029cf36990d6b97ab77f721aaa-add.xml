@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. People Editorial Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. People Editorial Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 10. Time Inc. &lt;em&gt;People&lt;/em&gt; Editorial Records (1966-1989)</field>
+     <field name="unittitle_teim">RG 10. Time Inc. People Editorial Records (1966-1989)</field>
+     <field name="scopecontent_teim">The People Editorial Records contain records from offices and staff from the editorial side of the magazine, not the publishing or business side. Editorial staff represented include Cranston Jones, Lee Wohlfert, Marianne Macy, Martha Babcock, Sarah Rozen, Richard Stolley, and Dick Lemon.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. People Editorial Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. People Editorial Records.</field>
+     <field name="title_teim">People</field>
+     <field name="title_teim">People</field>
+     <field name="title_teim">People</field>

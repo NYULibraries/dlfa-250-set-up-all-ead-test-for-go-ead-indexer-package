@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">Girón.&amp;nbsp; "1º Ganar la guerra." [Published by]&amp;nbsp; Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.&amp;nbsp; Imprint "Sindicato Profesionales Bellas Artes U.G.T.&amp;nbsp; Graficas Reunidas, U.H.P. Madrid."&amp;nbsp;H: 39.4 x W: 27.6 inches.</field>
----
->     <field name="unittitle_ssm">Girón.  "1º Ganar la guerra." [Published by]  Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.  Imprint "Sindicato Profesionales Bellas Artes U.G.T.  Graficas Reunidas, U.H.P. Madrid." H: 39.4 x W: 27.6 inches.</field>
-41c41
-<     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; Girón.&amp;nbsp; "1º Ganar la guerra." [Published by]&amp;nbsp; Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.&amp;nbsp; Imprint "Sindicato Profesionales Bellas Artes U.G.T.&amp;nbsp; Graficas Reunidas, U.H.P. Madrid."&amp;nbsp;H: 39.4 x W: 27.6 inches.</field>
----
->     <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; Girón.  "1º Ganar la guerra." [Published by]  Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.  Imprint "Sindicato Profesionales Bellas Artes U.G.T.  Graficas Reunidas, U.H.P. Madrid." H: 39.4 x W: 27.6 inches.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Spanish Civil War Poster Collection </field>
+     <field name="collection_unitid_ssm">ALBA.GRAPHICS.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Girón.&amp;nbsp; "1º Ganar la guerra." [Published by]&amp;nbsp; Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.&amp;nbsp; Imprint "Sindicato Profesionales Bellas Artes U.G.T.&amp;nbsp; Graficas Reunidas, U.H.P. Madrid."&amp;nbsp;H: 39.4 x W: 27.6 inches.</field>
++    <field name="unittitle_ssm">Girón.  "1º Ganar la guerra." [Published by]  Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.  Imprint "Sindicato Profesionales Bellas Artes U.G.T.  Graficas Reunidas, U.H.P. Madrid." H: 39.4 x W: 27.6 inches.</field>
+     <field name="unittitle_teim">Girón.  "1º Ganar la guerra." [Published by]  Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.  Imprint "Sindicato Profesionales Bellas Artes U.G.T.  Graficas Reunidas, U.H.P. Madrid." H: 39.4 x W: 27.6 inches.</field>
+     <field name="unitid_teim">cuid33500</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/28914</field>
+@@ -38,7 +38,7 @@
+     <field name="collection_unitid_teim">ALBA.GRAPHICS.001</field>
+     <field name="series_sim">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003.</field>
+     <field name="series_sim">Subseries I:A: Civil War Era: Spain, 1936-1938.</field>
+-    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; Girón.&amp;nbsp; "1º Ganar la guerra." [Published by]&amp;nbsp; Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.&amp;nbsp; Imprint "Sindicato Profesionales Bellas Artes U.G.T.&amp;nbsp; Graficas Reunidas, U.H.P. Madrid."&amp;nbsp;H: 39.4 x W: 27.6 inches.</field>
++    <field name="series_si">Series I: Spanish Civil War Posters from the Abraham Lincoln Brigade Archives Collection, 1936-2003. &gt;&gt; Subseries I:A: Civil War Era: Spain, 1936-1938. &gt;&gt; Girón.  "1º Ganar la guerra." [Published by]  Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.  Imprint "Sindicato Profesionales Bellas Artes U.G.T.  Graficas Reunidas, U.H.P. Madrid." H: 39.4 x W: 27.6 inches.</field>
+     <field name="heading_ssm">Girón.  "1º Ganar la guerra." [Published by]  Junta Delegada de Defensa de Madrid. Delegacion de Propaganda y Prensa.  Imprint "Sindicato Profesionales Bellas Artes U.G.T.  Graficas Reunidas, U.H.P. Madrid." H: 39.4 x W: 27.6 inches.</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>

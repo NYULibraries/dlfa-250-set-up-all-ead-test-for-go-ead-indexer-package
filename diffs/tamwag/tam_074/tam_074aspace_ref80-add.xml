@@ -1,24 +1,37 @@
-16,23c16,17
-<     <field name="unittitle_ssm">
-<       &lt;em&gt;Uganda Argus&lt;/em&gt;
-<       &lt;em&gt;
-<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
-<     <field name="unittitle_teim">
-<       Uganda Argus
-<       
-<     </field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Uganda Argus&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
->     <field name="unittitle_teim">Uganda Argus</field>
-41,48c35,36
-<     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; 
-<       &lt;em&gt;Uganda Argus&lt;/em&gt;
-<       &lt;em&gt;
-<     &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
-<     <field name="heading_ssm">
-<       Uganda Argus
-<       
-<     </field>
----
->     <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;Uganda Argus&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
->     <field name="heading_ssm">Uganda Argus</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,14 +13,8 @@
+     <field name="collection_ssm">Edward K. Welsh Papers</field>
+     <field name="collection_unitid_ssm">TAM.074</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;Uganda Argus&lt;/em&gt;
+-      &lt;em&gt;
+-    &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+-    <field name="unittitle_teim">
+-      Uganda Argus
+-      
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;Uganda Argus&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
++    <field name="unittitle_teim">Uganda Argus</field>
+     <field name="unitdate_normal_ssm">1961/1962</field>
+     <field name="unitdate_normal_teim">1961/1962</field>
+     <field name="unitdate_normal_sim">1961/1962</field>
+@@ -38,14 +32,8 @@
+     <field name="collection_teim">Edward K. Welsh Papers</field>
+     <field name="collection_unitid_teim">TAM.074</field>
+     <field name="series_sim">Series VI: African Newspapers, 1955-1964</field>
+-    <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; 
+-      &lt;em&gt;Uganda Argus&lt;/em&gt;
+-      &lt;em&gt;
+-    &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+-    <field name="heading_ssm">
+-      Uganda Argus
+-      
+-    </field>
++    <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;Uganda Argus&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
++    <field name="heading_ssm">Uganda Argus</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Description of the original 13 bundles:
-<     </field>
----
->     <field name="scopecontent_teim">Description of the original 13 bundles:</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unitdate_normal_sim">1803/1832</field>
+     <field name="unitdate_inclusive_teim">1803-1832 and Undated</field>
+     <field name="scopecontent_teim">Series 5: Personal Papers is arranged chronologically.  Of note, Series 5 contains 13 "bundles" of calling cards and invitations housed in Box 6.  The wrappers of 8 of the original "bundles" of 13 bear annotation with dates and are thus arranged chronologically followed by the remaining 5 undated "bundles".  The original wrapping materials are housed separately in Box 7 and arranged in the same order.</field>
+-    <field name="scopecontent_teim">
+-      Description of the original 13 bundles:
+-    </field>
++    <field name="scopecontent_teim">Description of the original 13 bundles:</field>
+     <field name="scopecontent_teim">8 bundles with outer markings:  
+ 1."Cards &amp; Invitations, 1818 – 1819, 2 fep. (?), 15 Cong".  White paper wrapper with "draft" of business letter regarding court proceedings of an indebted client dated Aug. 25, 1918 on the inside.  Tied with pink ribbon.
+ 2."Cards ???, Dec. 21 to Jan. 20. 1822".  White paper wrapper.

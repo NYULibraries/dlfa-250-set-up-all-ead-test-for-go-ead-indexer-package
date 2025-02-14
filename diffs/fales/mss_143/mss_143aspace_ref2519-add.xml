@@ -1,2 +1,11 @@
-61d60
-<     <field name="date_range_sim">1901-2000</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -58,7 +58,6 @@
+     <field name="unitdate_end_ssm">1993</field>
+     <field name="unitdate_end_si">1993</field>
+     <field name="unitdate_ssm">Screened: 1996  </field>
+-    <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="language_sim">English</field>
+     <field name="language_ssm">English</field>

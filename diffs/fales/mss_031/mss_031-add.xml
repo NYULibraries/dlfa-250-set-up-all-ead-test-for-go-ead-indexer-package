@@ -1,4 +1,19 @@
-140d139
-<     <field name="title_teim"> </field>
-190d188
-<     <field name="title_ssm"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -137,7 +137,6 @@
+     <field name="title_teim">On Writing Well</field>
+     <field name="title_teim">Inventing the Truth</field>
+     <field name="title_teim">On Writing Well </field>
+-    <field name="title_teim"> </field>
+     <field name="title_teim">On Writing Well</field>
+     <field name="title_teim">New York Herald Tribune</field>
+     <field name="title_teim">Yale Alumni Magazine</field>
+@@ -187,7 +186,6 @@
+     <field name="title_ssm">On Writing Well</field>
+     <field name="title_ssm">Inventing the Truth</field>
+     <field name="title_ssm">On Writing Well </field>
+-    <field name="title_ssm"> </field>
+     <field name="title_ssm">On Writing Well</field>
+     <field name="title_ssm">New York Herald Tribune</field>
+     <field name="title_ssm">Yale Alumni Magazine</field>

@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965 </field>
-33c33
-<     <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.B.	Rafa Nasiri's Group Exhibitions &gt;&gt; 1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965&amp;nbsp;</field>
----
->     <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.B.	Rafa Nasiri's Group Exhibitions &gt;&gt; 1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965 </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Rafa Nasiri and May Muzaffar Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.092</field>
+     <field name="level_sim">item</field>
+-    <field name="unittitle_ssm">1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965&amp;nbsp;</field>
++    <field name="unittitle_ssm">1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965 </field>
+     <field name="unittitle_teim">1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965 </field>
+     <field name="unitid_teim">cuid387</field>
+     <field name="unitid_ssm">cuid387</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">AD.MC.092</field>
+     <field name="series_sim">Series IV: Exhibition Materials</field>
+     <field name="series_sim">IV.B.	Rafa Nasiri's Group Exhibitions</field>
+-    <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.B.	Rafa Nasiri's Group Exhibitions &gt;&gt; 1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965&amp;nbsp;</field>
++    <field name="series_si">Series IV: Exhibition Materials &gt;&gt; IV.B.	Rafa Nasiri's Group Exhibitions &gt;&gt; 1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965 </field>
+     <field name="heading_ssm">1. "Iraqi Artists' Society, Eighth Annual Art Exhibition," Baghdad, 1965 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">50</field>

@@ -1,2 +1,11 @@
-39a40
->     <field name="series_sim">Grenada</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -37,6 +37,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Grenada</field>
++    <field name="series_sim">Grenada</field>
+     <field name="series_si">Grenada &gt;&gt; Grenada &gt;&gt; Grenada News; News Letter of the Grenada Foundation Inc. in the United States, Vol.1, No.1</field>
+     <field name="heading_ssm">Grenada News; News Letter of the Grenada Foundation Inc. in the United States, Vol.1, No.1</field>
+     <field name="unitdate_start_sim">1984</field>

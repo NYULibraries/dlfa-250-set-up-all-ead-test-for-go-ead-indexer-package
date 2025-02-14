@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       The State of New York v. The Seventh Regiment Fund, Inc., and The Members of the Board of Directors of the Seventh Regiment Fund, Inc., individually and as Directors, The Members of the Board of Officers of the 107th Infantry Regiment, New York National Guard, a/k/a The HHC, 107th Brigade, a/k/a The HHC, 205th Support Group, individually.
-<     </field>
----
->     <field name="scopecontent_teim">The State of New York v. The Seventh Regiment Fund, Inc., and The Members of the Board of Directors of the Seventh Regiment Fund, Inc., individually and as Directors, The Members of the Board of Officers of the 107th Infantry Regiment, New York National Guard, a/k/a The HHC, 107th Brigade, a/k/a The HHC, 205th Support Group, individually.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+ (Index No. 406660/96)
+ [21 folders]</field>
+     <field name="unitdate_teim">1996</field>
+-    <field name="scopecontent_teim">
+-      The State of New York v. The Seventh Regiment Fund, Inc., and The Members of the Board of Directors of the Seventh Regiment Fund, Inc., individually and as Directors, The Members of the Board of Officers of the 107th Infantry Regiment, New York National Guard, a/k/a The HHC, 107th Brigade, a/k/a The HHC, 205th Support Group, individually.
+-    </field>
++    <field name="scopecontent_teim">The State of New York v. The Seventh Regiment Fund, Inc., and The Members of the Board of Directors of the Seventh Regiment Fund, Inc., individually and as Directors, The Members of the Board of Officers of the 107th Infantry Regiment, New York National Guard, a/k/a The HHC, 107th Brigade, a/k/a The HHC, 205th Support Group, individually.</field>
+     <field name="ref_ssi">aspace_ref9_aku</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

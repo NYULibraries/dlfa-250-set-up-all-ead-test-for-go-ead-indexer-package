@@ -1,12 +1,25 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Cablegrams
-<     </field>
----
->     <field name="scopecontent_teim">Cablegrams</field>
-33,35c31
-<     <field name="scopecontent_teim">
-<       Reports
-<     </field>
----
->     <field name="scopecontent_teim">Reports</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Subseries II.1: Correspondence, reports and diary</field>
+     <field name="unittitle_teim">Subseries II.1: Correspondence, reports and diary</field>
+     <field name="scopecontent_teim">This subseries contains cablegrams, war reports, and papers relating to the 1937 Convention of the American Legion. There is also one folder of military photographs and a folder of pamphlets.</field>
+-    <field name="scopecontent_teim">
+-      Cablegrams
+-    </field>
++    <field name="scopecontent_teim">Cablegrams</field>
+     <field name="scopecontent_teim">Cablegrams A 813-A 2099 (boxes II.1-2) are cablegrams received by Harbord which primarily relate to personnel concerns. Earlier cablegrams mostly center around logistics (shipments, production, training, payments, replies to queries) while later cablegrams are mostly concerned with discharge, messages to soldiers, and verification of soldier status (location, health, condition, rank, citizenship).</field>
+     <field name="scopecontent_teim">These cables are organized topically by individual date and labeled with alphanumerical code, typically ranging 1-2 pages in length per topic group. Each cable is subgrouped into numbered paragraphs which represent separate messages. </field>
+     <field name="scopecontent_teim">Each of these cables is signed by Kerr, McCain, or Harris; several messages from March, Marcorps, Baker; others include Williams, Garfield, Goethals, Keppel, Dockery, Pershing, Crowell, Biddle, Wheeler, Marks. The messages are addressed to "Pershing Amexforce" General Headquarters A.E.F.</field>
+@@ -30,9 +28,7 @@
+     <field name="scopecontent_teim">The first folder in box II.3 is comprised of cablegrams from Pershing to Harbord. These are often denoted as "extract cablegrams" and are also in longer, letter-format. These cablegrams are primarily concerned with logistics about troops and supplies. There are also multiple requests for more men of specific positions and at least one request for women stenographers, typists, and clerks.</field>
+     <field name="scopecontent_teim">The last three folders in box 3 are comprised of cablegrams received and sent about urgent need either for supplies or conditions of living (primarily in prison or aboard ships). Urgent supply needs include medical, artillery, clothing, uniform, beds, horses, lithographs, and cameras among other materials. Most of the messages are complaints or concerns about morale and/or health risks, but most of these claims are decided to be unfounded.</field>
+     <field name="scopecontent_teim">SOS (Services of Supply) cablegrams in boxes II.4-II.5 are sent and received directly by Harbord, addressed and signed by him and the Adjutant General. These are primarily concerned with logistics of supplies, specifically artillery, machine, animals.</field>
+-    <field name="scopecontent_teim">
+-      Reports
+-    </field>
++    <field name="scopecontent_teim">Reports</field>
+     <field name="scopecontent_teim">Reports and memorandums were generally authored by Harbord and cover a variety of military topics as indicated by the titles in the Box and Folder list.</field>
+     <field name="ref_ssi">aspace_ref874_0s5</field>
+     <field name="repository_ssi">nyhs</field>

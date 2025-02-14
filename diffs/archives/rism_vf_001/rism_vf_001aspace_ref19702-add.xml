@@ -1,2 +1,11 @@
-41a42
->     <field name="series_sim">Turks and Caicos Islands</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,6 +39,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Turks and Caicos Islands</field>
++    <field name="series_sim">Turks and Caicos Islands</field>
+     <field name="series_si">Turks and Caicos Islands &gt;&gt; Turks and Caicos Islands &gt;&gt; Turks and Caicos Islands; Overseas Territory of the UK</field>
+     <field name="heading_ssm">Turks and Caicos Islands; Overseas Territory of the UK</field>
+     <field name="unitdate_start_sim">2000</field>

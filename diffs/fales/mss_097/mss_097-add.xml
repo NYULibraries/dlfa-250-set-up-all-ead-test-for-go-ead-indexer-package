@@ -1,2 +1,11 @@
-26d25
-<     <field name="bioghist_teim"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,6 @@
+     <field name="scopecontent_teim">Series 3: Biographic Materials contains a small number of biographic materials such as copies of Afflick's birth certificate, announcements, immigration papers, and scrapbooks. </field>
+     <field name="scopecontent_teim">Series 4: Afflick's Personal Library consists of periodicals in Afflick's collection including The Door Newsletter of which he was a co-editor. This series also includes manuscripts of other poets' works.</field>
+     <field name="bioghist_teim">Lester Afflick was a downtown poet, writer and once co-editor of 'The Door Newsletter.' The collection is an assemblage of his writings and biographical material which illustrate aspects of his style and the downtown scene in general of the 1990's. Afflick died of a heart attack in 2000.</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="acqinfo_teim">The Lester Afflick papers were a gift of the Lester Afflick estate. They were initially sorted by friends of Lester Afflick.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">The Door Newsletter</field>

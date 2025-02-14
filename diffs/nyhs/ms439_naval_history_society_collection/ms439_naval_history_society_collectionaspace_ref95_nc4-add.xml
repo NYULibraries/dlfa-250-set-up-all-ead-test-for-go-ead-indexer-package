@@ -1,6 +1,14 @@
-15,17c15
-<     <field name="scopecontent_teim">
-<       Historical Note
-<     </field>
----
->     <field name="scopecontent_teim">Historical Note</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,9 +12,7 @@
+     <field name="unittitle_ssm">Series 7. USS &lt;em&gt; Boston&lt;/em&gt; (1828-1829)</field>
+     <field name="unittitle_teim">Series 7. USS  Boston (1828-1829)</field>
+     <field name="scopecontent_teim">The collection consists of the account book from an 1828-1829 cruise detailing expenditures to outfit the ship as well as payments by 344 named crew members against their accounts for items including tobacco, sugar, buttons, soap and mess bills. Officers included Captain Hoffman, Lts. Charles S. McCauley and Alexander J.D. Browne, and Dr. John M. Imlay.</field>
+-    <field name="scopecontent_teim">
+-      Historical Note
+-    </field>
++    <field name="scopecontent_teim">Historical Note</field>
+     <field name="scopecontent_teim">The sloop USS Boston was commissioned from the Boston Navy Yard in early 1826 under Master Commandant Beekman Verplanck Hoffman (1789-1834). Between 1826 and 1829, it protected American shipping near Brazil while that country and Argentina battled over possession of what is now Uruguay. Later it was deployed in the Mediterranean, the West Indies, Brazil, and reached Macao in 1842. After subsequent sojourns in Asia and Mexico, it was wrecked off the Bahamas in 1846 with no loss of life.</field>
+     <field name="title_teim"> Boston</field>
+     <field name="title_teim">Boston</field>

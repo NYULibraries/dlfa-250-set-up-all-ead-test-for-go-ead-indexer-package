@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. People Publishing and Business Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. People Publishing and Business Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 27. Time Inc. &lt;em&gt;People&lt;/em&gt; Publishing and Business Records (1973-2003)</field>
+     <field name="unittitle_teim">RG 27. Time Inc. People Publishing and Business Records (1973-2003)</field>
+     <field name="scopecontent_teim">With the first issue launched on on March 4, 1974, People was one of the first publications coming out of the Magazine Development Group later transitioning into its own department. The People Publishing and Business Records contain records from offices and staff from the publishing and business side of the magazine, not the editorial side. Staff represented include Publisher Richard Durrell, Assistant Publisher Charlotte Schiff-Jones, Associate Consumer Marketing Director John Hartig, Director of Marketing Services Chuck Lund, and Magazine Development Group Marketing Director Mal Ochs.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. People Publishing and Business Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. People Publishing and Business Records.</field>
+     <field name="title_teim">People</field>
+     <field name="title_teim">People</field>
+     <field name="title_teim">People</field>

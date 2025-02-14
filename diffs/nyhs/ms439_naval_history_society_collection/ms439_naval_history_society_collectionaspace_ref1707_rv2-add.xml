@@ -1,12 +1,19 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Historical Note
-<     </field>
----
->     <field name="scopecontent_teim">Historical Note</field>
-23,25c21
-<     <field name="scopecontent_teim">
-<       Arrangement
-<     </field>
----
->     <field name="scopecontent_teim">Arrangement</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,13 +16,9 @@
+     <field name="unittitle_ssm">Subseries IV. Library records (1907-1943)</field>
+     <field name="unittitle_teim">Subseries IV. Library records (1907-1943)</field>
+     <field name="scopecontent_teim">The library records include acquisitions lists, library catalog cards, publishers' catalogs, clippings regarding books of interest for possible acquisition, photographs of the installation of items from the collection at an unspecified location, various unorganized research notes in different hands on subjects including the Lloyd family of Long Island, and the library accession book. The latter documents acquisitions of both published books and manuscript materials, by date and donor, prices paid for items bought, as well as the library's classification system. </field>
+-    <field name="scopecontent_teim">
+-      Historical Note
+-    </field>
++    <field name="scopecontent_teim">Historical Note</field>
+     <field name="scopecontent_teim">The Library was formed originally from the collection of John Sanford Barnes, donated to the Naval History Society by his son, James Barnes, in 1915 and included in the New-York Historical Society's library's collections in 1925. These volumes are now cataloged under the XN call number. Materials were added to subsequently, by donation or purchase, with monies from the Naval History Fund. </field>
+-    <field name="scopecontent_teim">
+-      Arrangement
+-    </field>
++    <field name="scopecontent_teim">Arrangement</field>
+     <field name="scopecontent_teim">Loose materials originally inserted in the Library Accession Book, including a 1933 rare book auction catalog, details of the Meade donation (see Series 30, Series 31), and a list of portraits of John Paul Jones, have been arranged here chronologically in separate folders.</field>
+     <field name="ref_ssi">aspace_ref1707_rv2</field>
+     <field name="repository_ssi">nyhs</field>

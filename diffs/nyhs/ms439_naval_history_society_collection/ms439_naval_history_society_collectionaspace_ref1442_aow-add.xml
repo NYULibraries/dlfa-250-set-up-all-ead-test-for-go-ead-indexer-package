@@ -1,18 +1,32 @@
-15,17c15
-<     <field name="scopecontent_teim">
-<       Historical Note
-<     </field>
----
->     <field name="scopecontent_teim">Historical Note</field>
-21,23c19
-<     <field name="scopecontent_teim">
-<       Chronology of the Naval History Society
-<     </field>
----
->     <field name="scopecontent_teim">Chronology of the Naval History Society</field>
-41,43c37
-<     <field name="scopecontent_teim">
-<       Arrangement
-<     </field>
----
->     <field name="scopecontent_teim">Arrangement</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,15 +12,11 @@
+     <field name="unittitle_ssm">Series 53. Naval History Society records (1907-1943; bulk 1909-1936)</field>
+     <field name="unittitle_teim">Series 53. Naval History Society records (1907-1943; bulk 1909-1936)</field>
+     <field name="scopecontent_teim">The series consists of the Naval History Society's organizational and financial records (including account books, checks, and receipts). They document the establishment and administration of the Society from its foundation until it ceased independent operations: its formation, officers and bylaws, membership, finances, library and manuscript collecting activities, and its editing and publication of volumes based on materials in its manuscript collections. It shows the context of naval and maritime collecting by the Society through its officers' correspondence with members and other collectors, authors, historical societies and repositories, and the Office of Naval Records, Washington, DC; as well as the organization's internal governance and workings. </field>
+-    <field name="scopecontent_teim">
+-      Historical Note
+-    </field>
++    <field name="scopecontent_teim">Historical Note</field>
+     <field name="scopecontent_teim">According to the 1915 catalog of the library of Naval History Society founder John Sanford Barnes (see Series 3), "The Naval History Society has been established for the purpose of publishing and preserving manuscripts, documents, and writings relating to our naval history, naval art and science, and the surroundings and experiences of seamen in general and of American seamen in particular."</field>
+     <field name="scopecontent_teim">The Naval History Society Collection began with the donation to the Society in 1915 of Barnes's personal collections by his son, Col. James Barnes (see Series 4). The donation included library materials now cataloged in the XN classification in the New-York Historical Society Library, artifacts now included in the New-York Historical Society's museum collections, as well as the manuscript materials described in Series 1-52 of this Collection. The entire collection was donated to the New-York Historical Society, where the Naval History Society collections and office were then located, in 1925. Additional materials were donated by Naval History Society members and others or acquired by purchase after that date, some from the Naval History Fund established at the New-York Historical Society from the Naval History Society's monies.</field>
+     <field name="scopecontent_teim">A chronology of the Society's publishing activities is provided in Subseries VI. Manuscript collections and Society publication records.</field>
+-    <field name="scopecontent_teim">
+-      Chronology of the Naval History Society
+-    </field>
++    <field name="scopecontent_teim">Chronology of the Naval History Society</field>
+     <field name="scopecontent_teim">1909: Meeting convenes at the New York Yacht Club to discuss formation of a naval history society. Attendees include Admiral Caspar Goodrich (see Series 21), William Conant Church (biographer of John Ericsson [Series 16]), Col. James Barnes (see Series 4), and Franklin D. Roosevelt, who serves as the meeting's secretary. John Sanford Barnes is unanimously elected president and Robert Neeser secretary-treasurer. A committee is authorized to inquire if the New-York Historical Society would serve as the Naval History Society's home.</field>
+     <field name="scopecontent_teim">1911: John Sanford Barnes dies.</field>
+     <field name="scopecontent_teim">1912: Naval History Society incorporated. Its offices are located at 247 Fifth Avenue, although some early meetings are held in Washington, DC.</field>
+@@ -38,9 +34,7 @@
+     <field name="scopecontent_teim">1930: Naval History Society participates in the restoration of gravestone for William Paul (brother of John Paul Jones; see Series 28), in St. George's Churchyard, Fredericksburg, VA.</field>
+     <field name="scopecontent_teim">1932: Naval History Society materials are represented in New-York Historical Society's "Ships and Steamboats" exhibition.</field>
+     <field name="scopecontent_teim">1936: Collection of dues and publication activities are suspended following the death of Col. James Barnes and insufficient Naval History Fund monies to purchase additional materials.</field>
+-    <field name="scopecontent_teim">
+-      Arrangement
+-    </field>
++    <field name="scopecontent_teim">Arrangement</field>
+     <field name="scopecontent_teim">The records are arranged in seven subseries:</field>
+     <field name="scopecontent_teim">Subseries I. Administrative records</field>
+     <field name="scopecontent_teim">Subseries II. Correspondence </field>

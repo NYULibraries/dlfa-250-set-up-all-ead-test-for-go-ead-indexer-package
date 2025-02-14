@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">XLVIII. Camera dei Genitori</field>
----
->     <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
-18c18
-<     <field name="parent_unittitles_teim">XLVIII. Camera dei Genitori</field>
----
->     <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
-46,47c46,47
-<     <field name="series_sim">XLVIII. Camera dei Genitori</field>
-<     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; XLVIII. Camera dei Genitori &gt;&gt; XLVIII.-5. general view</field>
----
->     <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
->     <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; XLVIII.-5. general view</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series II: Villa La Pietra</field>
+     <field name="parent_unittitles_ssm">Subseries B: The Interior and the Collection</field>
+     <field name="parent_unittitles_ssm">1 The Rooms with their contents</field>
+-    <field name="parent_unittitles_ssm">XLVIII. Camera dei Genitori</field>
++    <field name="parent_unittitles_ssm">LXXVI.-LXXVII. Biblioteca</field>
+     <field name="parent_unittitles_teim">Series II: Villa La Pietra</field>
+     <field name="parent_unittitles_teim">Subseries B: The Interior and the Collection</field>
+     <field name="parent_unittitles_teim">1 The Rooms with their contents</field>
+-    <field name="parent_unittitles_teim">XLVIII. Camera dei Genitori</field>
++    <field name="parent_unittitles_teim">LXXVI.-LXXVII. Biblioteca</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series II: Villa La Pietra</field>
+     <field name="series_sim">Subseries B: The Interior and the Collection</field>
+     <field name="series_sim">1 The Rooms with their contents</field>
+-    <field name="series_sim">XLVIII. Camera dei Genitori</field>
+-    <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; XLVIII. Camera dei Genitori &gt;&gt; XLVIII.-5. general view</field>
++    <field name="series_sim">LXXVI.-LXXVII. Biblioteca</field>
++    <field name="series_si">Series II: Villa La Pietra &gt;&gt; Subseries B: The Interior and the Collection &gt;&gt; 1 The Rooms with their contents &gt;&gt; LXXVI.-LXXVII. Biblioteca &gt;&gt; XLVIII.-5. general view</field>
+     <field name="heading_ssm">XLVIII.-5. general view</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>

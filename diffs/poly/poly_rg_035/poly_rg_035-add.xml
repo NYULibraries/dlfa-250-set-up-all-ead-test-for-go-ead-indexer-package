@@ -1,4 +1,19 @@
-34a35
->     <field name="subject_teim">Chemical engineering</field>
-47d47
-<     <field name="subject_teim">Chemical engineering</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -32,6 +32,7 @@
+     <field name="genreform_ssm">Articles</field>
+     <field name="occupation_teim">Chemical engineering</field>
+     <field name="occupation_ssm">Chemical engineering</field>
++    <field name="subject_teim">Chemical engineering</field>
+     <field name="collection_sim">Morris Jacobs Papers</field>
+     <field name="collection_ssm">Morris Jacobs Papers</field>
+     <field name="collection_teim">Morris Jacobs Papers</field>
+@@ -44,7 +45,6 @@
+     <field name="format_ssm">Archival Collection</field>
+     <field name="format_ii">0</field>
+     <field name="subject_sim">Chemical engineering</field>
+-    <field name="subject_teim">Chemical engineering</field>
+     <field name="material_type_sim">Patents</field>
+     <field name="material_type_sim">Correspondence</field>
+     <field name="material_type_sim">Annual reports</field>

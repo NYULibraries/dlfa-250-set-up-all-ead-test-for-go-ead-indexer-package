@@ -1,24 +1,37 @@
-19,26c19,20
-<     <field name="unittitle_ssm">
-<       &lt;em&gt; The Lost Ones &lt;/em&gt;
-<       
-<     </field>
-<     <field name="unittitle_teim">
-<        The Lost Ones 
-<       
-<     </field>
----
->     <field name="unittitle_ssm">&lt;em&gt; The Lost Ones &lt;/em&gt;</field>
->     <field name="unittitle_teim"> The Lost Ones </field>
-42,49c36,37
-<     <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; 
-<       &lt;em&gt; The Lost Ones &lt;/em&gt;
-<       
-<     </field>
-<     <field name="heading_ssm">
-<        The Lost Ones 
-<       
-<     </field>
----
->     <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; &lt;em&gt; The Lost Ones &lt;/em&gt;</field>
->     <field name="heading_ssm"> The Lost Ones </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,14 +16,8 @@
+     <field name="collection_ssm">Mabou Mines Archive</field>
+     <field name="collection_unitid_ssm">MSS.133</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt; The Lost Ones &lt;/em&gt;
+-      
+-    </field>
+-    <field name="unittitle_teim">
+-       The Lost Ones 
+-      
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt; The Lost Ones &lt;/em&gt;</field>
++    <field name="unittitle_teim"> The Lost Ones </field>
+     <field name="unitid_teim">/repositories/3/archival_objects/456664</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/456664</field>
+     <field name="unitdate_teim">[1976]</field>
+@@ -39,14 +33,8 @@
+     <field name="collection_unitid_teim">MSS.133</field>
+     <field name="series_sim">Series II: Programs</field>
+     <field name="series_sim">Subseries A: Mabou Mines productions</field>
+-    <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; 
+-      &lt;em&gt; The Lost Ones &lt;/em&gt;
+-      
+-    </field>
+-    <field name="heading_ssm">
+-       The Lost Ones 
+-      
+-    </field>
++    <field name="series_si">Series II: Programs &gt;&gt; Subseries A: Mabou Mines productions &gt;&gt; &lt;em&gt; The Lost Ones &lt;/em&gt;</field>
++    <field name="heading_ssm"> The Lost Ones </field>
+     <field name="unitdate_ssm">[1976]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">187</field>

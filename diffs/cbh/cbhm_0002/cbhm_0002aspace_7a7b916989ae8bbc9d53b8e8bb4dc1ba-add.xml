@@ -1,6 +1,14 @@
-18,20c18
-<     <field name="scopecontent_teim">
-<       Events represented in the Audiovisal sub-series: 
-<     </field>
----
->     <field name="scopecontent_teim">Events represented in the Audiovisal sub-series: </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,9 +15,7 @@
+     <field name="level_sim">subseries</field>
+     <field name="unittitle_ssm">Sub-series 2.2: Audiovisual</field>
+     <field name="unittitle_teim">Sub-series 2.2: Audiovisual</field>
+-    <field name="scopecontent_teim">
+-      Events represented in the Audiovisal sub-series: 
+-    </field>
++    <field name="scopecontent_teim">Events represented in the Audiovisal sub-series: </field>
+     <field name="scopecontent_teim">African Dance/Brooklyn Style. Walt Whitman Theater, Brooklyn Center for the Performing Arts and Brooklyn College (BCBC), February 28, 2010.</field>
+     <field name="scopecontent_teim">African Dance/Brooklyn Style Symposium. A.R.T./New York South Oxford Space, 138 S. Oxford Street. Presented by BAC and hosted by Urban Bush Women, March 3, 2010. </field>
+     <field name="scopecontent_teim">Rites and Ceremonies of the Brooklyn African Diaspora. Brooklyn Historical Society, 128 Pierrepont Street. Presented by BAC in conjunction with BHS, March 17, 2010. </field>

@@ -1,100 +1,113 @@
-19,64c19,20
-<     <field name="unittitle_ssm">
-<       &lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;
-<       
-<       &lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;
-<       
-<       &lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;
-<       
-<       &lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;
-<       
-<       &lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;
-<       
-<       &lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;
-<       
-<       &lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;
-<       
-<       &lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;
-<       
-<       &lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;
-<     </field>
-<     <field name="unittitle_teim">
-<       A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962
-<       
-<       Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962
-<       
-<       Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963
-<       
-<       Cosmic Rays or Machines?: Sep. 1963
-<       
-<       Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963
-<       
-<       Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.
-<       
-<       Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964
-<       
-<       Cosmic-Ray Expedition to India: Jun. 1965
-<       
-<       Eclipse of Sun seen by our Man in Tahiti: Aug. 1965
-<       
-<       The Scientific Report of the Rockwell Polar Flight: 1965
-<       
-<       Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965
-<     </field>
----
->     <field name="unittitle_ssm">&lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;&lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;&lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;&lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;&lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;&lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;&lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;&lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;&lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;</field>
->     <field name="unittitle_teim">A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963Cosmic Rays or Machines?: Sep. 1963Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964Cosmic-Ray Expedition to India: Jun. 1965Eclipse of Sun seen by our Man in Tahiti: Aug. 1965The Scientific Report of the Rockwell Polar Flight: 1965Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965</field>
-103,148c59,60
-<     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
-<       &lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;
-<       
-<       &lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;
-<       
-<       &lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;
-<       
-<       &lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;
-<       
-<       &lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;
-<       
-<       &lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;
-<       
-<       &lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;
-<       
-<       &lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;
-<       
-<       &lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;
-<       
-<       &lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;
-<     </field>
-<     <field name="heading_ssm">
-<       A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962
-<       
-<       Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962
-<       
-<       Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963
-<       
-<       Cosmic Rays or Machines?: Sep. 1963
-<       
-<       Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963
-<       
-<       Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.
-<       
-<       Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964
-<       
-<       Cosmic-Ray Expedition to India: Jun. 1965
-<       
-<       Eclipse of Sun seen by our Man in Tahiti: Aug. 1965
-<       
-<       The Scientific Report of the Rockwell Polar Flight: 1965
-<       
-<       Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965
-<     </field>
----
->     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;&lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;&lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;&lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;&lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;&lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;&lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;&lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;&lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;</field>
->     <field name="heading_ssm">A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963Cosmic Rays or Machines?: Sep. 1963Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964Cosmic-Ray Expedition to India: Jun. 1965Eclipse of Sun seen by our Man in Tahiti: Aug. 1965The Scientific Report of the Rockwell Polar Flight: 1965Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,52 +16,8 @@
+     <field name="collection_ssm">Serge A. Korff Papers</field>
+     <field name="collection_unitid_ssm">MC.110</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      &lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;
+-      
+-      &lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;
+-      
+-      &lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;
+-      
+-      &lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;
+-      
+-      &lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;
+-      
+-      &lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;
+-      
+-      &lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;
+-      
+-      &lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;
+-      
+-      &lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962
+-      
+-      Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962
+-      
+-      Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963
+-      
+-      Cosmic Rays or Machines?: Sep. 1963
+-      
+-      Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963
+-      
+-      Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.
+-      
+-      Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964
+-      
+-      Cosmic-Ray Expedition to India: Jun. 1965
+-      
+-      Eclipse of Sun seen by our Man in Tahiti: Aug. 1965
+-      
+-      The Scientific Report of the Rockwell Polar Flight: 1965
+-      
+-      Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965
+-    </field>
++    <field name="unittitle_ssm">&lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;&lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;&lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;&lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;&lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;&lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;&lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;&lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;&lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;</field>
++    <field name="unittitle_teim">A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963Cosmic Rays or Machines?: Sep. 1963Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964Cosmic-Ray Expedition to India: Jun. 1965Eclipse of Sun seen by our Man in Tahiti: Aug. 1965The Scientific Report of the Rockwell Polar Flight: 1965Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965</field>
+     <field name="unitdate_normal_ssm">1961/1965</field>
+     <field name="unitdate_normal_teim">1961/1965</field>
+     <field name="unitdate_normal_sim">1961/1965</field>
+@@ -100,52 +56,8 @@
+     <field name="collection_unitid_teim">MC.110</field>
+     <field name="series_sim">Series VI: Publications</field>
+     <field name="series_sim">Subseries B: Korff reprints, preprints, and abstracts</field>
+-    <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
+-      &lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;
+-      
+-      &lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;
+-      
+-      &lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;
+-      
+-      &lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;
+-      
+-      &lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;
+-      
+-      &lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;
+-      
+-      &lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;
+-      
+-      &lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;
+-      
+-      &lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;
+-      
+-      &lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962
+-      
+-      Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962
+-      
+-      Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963
+-      
+-      Cosmic Rays or Machines?: Sep. 1963
+-      
+-      Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963
+-      
+-      Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.
+-      
+-      Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964
+-      
+-      Cosmic-Ray Expedition to India: Jun. 1965
+-      
+-      Eclipse of Sun seen by our Man in Tahiti: Aug. 1965
+-      
+-      The Scientific Report of the Rockwell Polar Flight: 1965
+-      
+-      Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965
+-    </field>
++    <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962&lt;/em&gt;&lt;em&gt;Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962&lt;/em&gt;&lt;em&gt;Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963&lt;/em&gt;&lt;em&gt;Cosmic Rays or Machines?: Sep. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963&lt;/em&gt;&lt;em&gt;Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.&lt;/em&gt;&lt;em&gt;Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964&lt;/em&gt;&lt;em&gt;Cosmic-Ray Expedition to India: Jun. 1965&lt;/em&gt;&lt;em&gt;Eclipse of Sun seen by our Man in Tahiti: Aug. 1965&lt;/em&gt;&lt;em&gt;The Scientific Report of the Rockwell Polar Flight: 1965&lt;/em&gt;&lt;em&gt;Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965&lt;/em&gt;</field>
++    <field name="heading_ssm">A Measurement of Slow Cosmic-Ray Neutrons up to 200 Kilometers, SAK, W.P. Reidy and R.C. Haymes: Feb.1962Observations at College, Alaska, of the November, 1960 Cosmic Ray Increases: 1962Tritium Content of Antarctic Snow, SAK, S.P. Shen and H.A.C. Neuburg: Jul. 1963Cosmic Rays or Machines?: Sep. 1963Fast-Neutron Flux in the Atmosphere, SAK and R.B. Mendell: Oct. 1963Fast-Neutron Detector with Discrimination against Background Radiation, SAK and R.B. Mendell: Dec. 1963.Production for Neutrons by Cosmic Radiation The Natural Radiation Environment, J. A. Adams and W.M. Lowder, eds.: 1964Cosmic-Ray Expedition to India: Jun. 1965Eclipse of Sun seen by our Man in Tahiti: Aug. 1965The Scientific Report of the Rockwell Polar Flight: 1965Measurements of neutrons produced by the cosmic radiation, SAK, R.B. Mendell and S.S. Holt: 1965</field>
+     <field name="unitdate_start_sim">1961</field>
+     <field name="unitdate_start_ssm">1961</field>
+     <field name="unitdate_start_si">1961</field>

@@ -1,2 +1,11 @@
-49a50
->     <field name="series_sim">Carriacou Island</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -47,6 +47,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">Carriacou Island</field>
++    <field name="series_sim">Carriacou Island</field>
+     <field name="series_si">Carriacou Island &gt;&gt; Carriacou Island &gt;&gt; The Over-Development of Carriacou</field>
+     <field name="heading_ssm">The Over-Development of Carriacou</field>
+     <field name="unitdate_start_sim">1975</field>

@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Atlantic Recording Company and Elektra Entertainment Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Atlantic Recording Company and Elektra Entertainment Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 51. Time Inc. Atlantic Recording Company and Elektra Entertainment Records (1964-1993)</field>
+     <field name="unittitle_teim">RG 51. Time Inc. Atlantic Recording Company and Elektra Entertainment Records (1964-1993)</field>
+     <field name="scopecontent_teim">Atlantic Recording Corporation and Elektra Entertainment are music record labels owned by Warner Communications at the time of its merger with Time Inc. The labels were then managed under the Time Warner Entertainment division. The collection contains print-outs of sales data for artists signed with both labels.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Atlantic Recording Company and Elektra Entertainment Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Atlantic Recording Company and Elektra Entertainment Records.</field>
+     <field name="ref_ssi">aspace_25b6254da58b99fe12d91fc45d0e1815</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

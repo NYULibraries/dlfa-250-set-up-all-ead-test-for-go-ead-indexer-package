@@ -1,6 +1,14 @@
-7,9c7
-<     <field name="unittitle_ssm">
-<   &lt;em&gt;Reginald Marsh: Thirty Etchings and Engravings&lt;/em&gt;
-< </field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Reginald Marsh: Thirty Etchings and Engravings&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -4,9 +4,7 @@
+     <field name="author_teim">Joseph Ditta, September 2017</field>
+     <field name="author_ssm">Joseph Ditta, September 2017</field>
+     <field name="unittitle_teim">Reginald Marsh: Thirty Etchings and Engravings</field>
+-    <field name="unittitle_ssm">
+-  &lt;em&gt;Reginald Marsh: Thirty Etchings and Engravings&lt;/em&gt;
+-</field>
++    <field name="unittitle_ssm">&lt;em&gt;Reginald Marsh: Thirty Etchings and Engravings&lt;/em&gt;</field>
+     <field name="unitid_teim">PR 341</field>
+     <field name="unitid_ssm">PR 341</field>
+     <field name="abstract_teim">Thirty proof prints of etchings and engravings by Reginald Marsh, made from the artist's original copper plates for distribution by the Whitney Museum of American Art, 1969.</field>

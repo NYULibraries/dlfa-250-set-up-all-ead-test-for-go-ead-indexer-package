@@ -1,6 +1,14 @@
-20,22c20
-<     <field name="scopecontent_teim">
-<       Related Materials at New-York Historical Society
-<     </field>
----
->     <field name="scopecontent_teim">Related Materials at New-York Historical Society</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,9 +17,7 @@
+     <field name="scopecontent_teim">SS Republic cruised from New York to San Francisco via Rio, and America in 1863 from New York to Panama.</field>
+     <field name="scopecontent_teim">The Governor Clinton log was a gift of Caspar Goodrich's daughter, Mrs. C.T. Davis, on the same date with other materials now collected in Series 21. This typed, corrected transcript documents a voyage from Peru to New York on which Caspar Goodrich's grandfather James W. Goodrich sailed under Captain L.B. Griswold, who was accused of drunkenness and other misbehaviors.</field>
+     <field name="scopecontent_teim">The fishing ships' logbooks are preprinted volumes that include regulations for the registration of vessels and their catches, and are filled in by hand to document the voyages, conditions, and amount of fish caught.</field>
+-    <field name="scopecontent_teim">
+-      Related Materials at New-York Historical Society
+-    </field>
++    <field name="scopecontent_teim">Related Materials at New-York Historical Society</field>
+     <field name="scopecontent_teim">Series 21, Subseries IV. James Griswold journal transcripts, includes additional information about James Griswold, from the Goodrich donation.</field>
+     <field name="title_teim">America</field>
+     <field name="title_teim">Mary</field>

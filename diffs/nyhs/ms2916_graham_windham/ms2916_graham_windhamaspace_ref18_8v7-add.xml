@@ -1,6 +1,14 @@
-24,26c24
-<     <field name="scopecontent_teim">
-<       The records in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
-<     </field>
----
->     <field name="scopecontent_teim">The records in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,9 +21,7 @@
+     <field name="unitdate_inclusive_teim">1806-1979</field>
+     <field name="scopecontent_teim">The subseries contains records kept by the Superintendent of the Orphan Asylum Society, who was responsible for the day-to-day running of the OAS, and also contains other records relating to children and the school.  Most of the material is in the form of bound volumes.  Volumes are arranged by type, and then chronologically.  Some additional volumes and loose materials are arrranged in folders after the volumes.  </field>
+     <field name="scopecontent_teim">The titles of admission books/registers are not consistent, and some dates overlap.  Some volumes are narrative records, with stories about each child, and these are labeled "narrative" in the container list.  Others are chronological or alphabetical and provide demographic data.  The "Superintendent's Journals" provide daily narrative reports of events at the OAS.</field>
+-    <field name="scopecontent_teim">
+-      The records in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
+-    </field>
++    <field name="scopecontent_teim">The records in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.</field>
+     <field name="ref_ssi">aspace_ref18_8v7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

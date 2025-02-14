@@ -1,4 +1,19 @@
-25a26
->     <field name="subject_teim">Bricklayers -- Labor unions</field>
-39d39
-<     <field name="subject_teim">Bricklayers -- Labor unions</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,6 +23,7 @@
+     <field name="corpname_ssm">International Union of Bricklayers and Allied Craftworkers</field>
+     <field name="occupation_teim">Bricklayers -- Labor unions</field>
+     <field name="occupation_ssm">Bricklayers -- Labor unions</field>
++    <field name="subject_teim">Bricklayers -- Labor unions</field>
+     <field name="dao_teim">International Union of Bricklayers and Allied Craftworkers (BAC)</field>
+     <field name="dao_ssm">International Union of Bricklayers and Allied Craftworkers (BAC)</field>
+     <field name="ref_ssi">aspace_ref195</field>
+@@ -36,7 +37,6 @@
+     <field name="name_teim">International Union of Bricklayers and Allied Craftworkers</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Bricklayers -- Labor unions</field>
+-    <field name="subject_teim">Bricklayers -- Labor unions</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">International Union of Bricklayers and Allied Craftworkers (BAC) Archived Website</field>

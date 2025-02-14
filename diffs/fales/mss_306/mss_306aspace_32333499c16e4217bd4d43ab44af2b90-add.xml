@@ -1,2 +1,11 @@
-52d51
-<     <field name="date_range_sim">2001-2100</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -49,7 +49,6 @@
+     <field name="unitdate_end_ssm">2018</field>
+     <field name="unitdate_end_si">2018</field>
+     <field name="unitdate_ssm">1963-07 2018</field>
+-    <field name="date_range_sim">2001-2100</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">27</field>
+   </doc>

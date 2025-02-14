@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of&amp;nbsp;Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
----
->     <field name="unittitle_ssm">'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
-29c29
-<     <field name="series_si">Printed material:  copied books and texts in Arabic and English &gt;&gt; 'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of&amp;nbsp;Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
----
->     <field name="series_si">Printed material:  copied books and texts in Arabic and English &gt;&gt; 'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">P. Marcel Kurpershoek papers</field>
+     <field name="collection_unitid_ssm">AD.MC.054</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of&amp;nbsp;Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
++    <field name="unittitle_ssm">'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
+     <field name="unittitle_teim">'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
+     <field name="ref_ssi">aspace_b968847d0aa5f0ca29356851e68fcc71</field>
+     <field name="repository_ssi">nyuad</field>
+@@ -26,7 +26,7 @@
+     <field name="collection_teim">P. Marcel Kurpershoek papers</field>
+     <field name="collection_unitid_teim">AD.MC.054</field>
+     <field name="series_sim">Printed material:  copied books and texts in Arabic and English</field>
+-    <field name="series_si">Printed material:  copied books and texts in Arabic and English &gt;&gt; 'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of&amp;nbsp;Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
++    <field name="series_si">Printed material:  copied books and texts in Arabic and English &gt;&gt; 'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
+     <field name="heading_ssm">'Abd āl-Rahman ibn Nāṣir. 'Unwān al Sa'd wa al Majd. [Resumes of the history of Saudi Arabia before the coming of the late Ibn Saud and his first half of His reign after the year 1936…] Folder 1 [undated]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">307</field>

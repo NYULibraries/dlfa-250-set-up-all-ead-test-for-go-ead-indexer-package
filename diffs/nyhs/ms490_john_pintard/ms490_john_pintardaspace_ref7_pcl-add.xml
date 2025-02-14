@@ -1,18 +1,26 @@
-35,46c35,38
-<     <field name="scopecontent_teim">
-<       Vol.1
-<     </field>
-<     <field name="scopecontent_teim">
-<       Vol.2
-<     </field>
-<     <field name="scopecontent_teim">
-<       Vol.3
-<     </field>
-<     <field name="scopecontent_teim">
-<       Vol.4
-<     </field>
----
->     <field name="scopecontent_teim">Vol.1</field>
->     <field name="scopecontent_teim">Vol.2</field>
->     <field name="scopecontent_teim">Vol.3</field>
->     <field name="scopecontent_teim">Vol.4</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -32,18 +32,10 @@
+     <field name="scopecontent_teim">Pintard, J., &amp; Barck, D.C. (1940). Letters from John Pintard to his daughter, Eliza Noel Pintard Davidson, 1816-1833. 4 Volumes. New York, Printed for the New-York Historical Society.</field>
+     <field name="scopecontent_teim">Vol. 1 includes a General Introduction by editor Dorothy Barck and Vol. 4 includes a detailed index. </field>
+     <field name="scopecontent_teim">This work is available digitally via the Internet Archive</field>
+-    <field name="scopecontent_teim">
+-      Vol.1
+-    </field>
+-    <field name="scopecontent_teim">
+-      Vol.2
+-    </field>
+-    <field name="scopecontent_teim">
+-      Vol.3
+-    </field>
+-    <field name="scopecontent_teim">
+-      Vol.4
+-    </field>
++    <field name="scopecontent_teim">Vol.1</field>
++    <field name="scopecontent_teim">Vol.2</field>
++    <field name="scopecontent_teim">Vol.3</field>
++    <field name="scopecontent_teim">Vol.4</field>
+     <field name="title_teim">U.S.S. Constellation</field>
+     <field name="title_teim">Letters from John Pintard to his daughter, Eliza Noel Pintard Davidson, 1816-1833</field>
+     <field name="title_ssm">U.S.S. Constellation</field>

@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Biographical Dictionary of the American Left&amp;nbsp;(copies of chapters)</field>
----
->     <field name="unittitle_ssm">Biographical Dictionary of the American Left (copies of chapters)</field>
-24c24
-<     <field name="series_si">Biographical Dictionary of the American Left&amp;nbsp;(copies of chapters)</field>
----
->     <field name="series_si">Biographical Dictionary of the American Left (copies of chapters)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">Liggett Family Papers</field>
+     <field name="collection_unitid_ssm">TAM.463</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Biographical Dictionary of the American Left&amp;nbsp;(copies of chapters)</field>
++    <field name="unittitle_ssm">Biographical Dictionary of the American Left (copies of chapters)</field>
+     <field name="unittitle_teim">Biographical Dictionary of the American Left (copies of chapters)</field>
+     <field name="ref_ssi">aspace_ref39</field>
+     <field name="repository_ssi">tamwag</field>
+@@ -21,7 +21,7 @@
+     <field name="location_si">Box: 3</field>
+     <field name="collection_teim">Liggett Family Papers</field>
+     <field name="collection_unitid_teim">TAM.463</field>
+-    <field name="series_si">Biographical Dictionary of the American Left&amp;nbsp;(copies of chapters)</field>
++    <field name="series_si">Biographical Dictionary of the American Left (copies of chapters)</field>
+     <field name="heading_ssm">Biographical Dictionary of the American Left (copies of chapters)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">33</field>

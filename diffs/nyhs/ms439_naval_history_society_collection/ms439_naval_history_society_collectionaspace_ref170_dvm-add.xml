@@ -1,12 +1,19 @@
-18,20c18
-<     <field name="scopecontent_teim">
-<       Biographical Note
-<     </field>
----
->     <field name="scopecontent_teim">Biographical Note</field>
-22,24c20
-<     <field name="scopecontent_teim">
-<       Related Materials at The New-York Historical Society
-<     </field>
----
->     <field name="scopecontent_teim">Related Materials at The New-York Historical Society</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,13 +15,9 @@
+     <field name="scopecontent_teim">The collection documents many aspects of Ericsson's engineering interests and projects: the building and testing of ironclad warships to his specifications for the United States (USS  Monitor, 1862) and other governments (Peru: May 1862; Greece: January 1869; Spain: May 1869; China: October 1880, spring 1883); the costs of construction through his extensive contact with Delamater and other ironworks and foundries as well as negotiations with Congress (1864-1865); applications and renewals of patents (1830s, 1840s, December 1864, July 1866); experiments with solar energy (1868, July 1872); design and testing of torpedo warships, including detailed expenses for  Destroyer (January 1873, September 1874, April 1875, 1878-1882, January 1889) and reports on its trials (October 1883); as well as various complete lists of ironclads built to Ericsson's specifications (May 1866, December 1867, July 1877).</field>
+     <field name="scopecontent_teim">Highlights of the collection include copies of Ericsson's January 20, 1862, letter to Assistant Secretary of the Navy Gustavus Vasa Fox (see Series 17), proposing the name Monitor for his ironclad vessel; and his January 30, 1873, letter to President Ulysses S. Grant explaining that the torpedo systems currently in use are inadequate for the country's defense.</field>
+     <field name="scopecontent_teim">An extensive collection of Ericsson's papers is housed at the Library of Congress.</field>
+-    <field name="scopecontent_teim">
+-      Biographical Note
+-    </field>
++    <field name="scopecontent_teim">Biographical Note</field>
+     <field name="scopecontent_teim">Born in Sweden in 1803, Ericsson emigrated first to England (1826) and then to the United States (1839). Having shown early promise as an engineer, and holding numerous patents for steam-powered engines, he designed the first screw-driven steamship to cross the Atlantic (Robert F. Stockton, 1839) and the first propeller-driven steam warship for the US Navy (USS  Princeton, 1842). In 1861 he contracted with the Navy to build in 100 days an ironclad warship,  Monitor, which successfully fought the Confederate ironclad  Virginia (originally  Merrimack) at Hampton Roads on March 9, 1862, before sinking off Cape Hatteras later that year. After the Civil War, he pursued his interests in torpedo-armed vessels, and in a variety of scientific and engineering subjects, including solar energy. He died in New York in 1889 and was interred in Sweden in 1890.</field>
+-    <field name="scopecontent_teim">
+-      Related Materials at The New-York Historical Society
+-    </field>
++    <field name="scopecontent_teim">Related Materials at The New-York Historical Society</field>
+     <field name="scopecontent_teim">A chronological inventory of the papers of John Ericsson (from 1831 to July 1865 only) in the Naval History Society's collection was prepared in 1984 and is available in the repository.</field>
+     <field name="scopecontent_teim">The John Ericsson papers owned by the American Swedish Historical Foundation are available on microfilm.</field>
+     <field name="scopecontent_teim"> The New-York Historical Society's Miscellaneous Manuscripts collection includes three autograph letters of John Ericsson's.</field>

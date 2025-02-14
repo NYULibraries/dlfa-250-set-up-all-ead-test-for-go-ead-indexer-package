@@ -1,4 +1,19 @@
-37a38
->     <field name="subject_teim">Music journalists</field>
-53d53
-<     <field name="subject_teim">Music journalists</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -35,6 +35,7 @@
+     <field name="persname_ssm">Eden, Dawn, 1968-</field>
+     <field name="persname_ssm">Eden, Dawn, 1968-</field>
+     <field name="persname_ssm">Eden, Dawn, 1968-</field>
++    <field name="subject_teim">Music journalists</field>
+     <field name="collection_sim">Dawn Eden Papers</field>
+     <field name="collection_ssm">Dawn Eden Papers</field>
+     <field name="collection_teim">Dawn Eden Papers</field>
+@@ -50,7 +51,6 @@
+     <field name="name_sim">Eden, Dawn, 1968-</field>
+     <field name="name_teim">Eden, Dawn, 1968-</field>
+     <field name="subject_sim">Music journalists</field>
+-    <field name="subject_teim">Music journalists</field>
+     <field name="heading_ssm">Dawn Eden Papers</field>
+     <field name="unitdate_start_sim">1981</field>
+     <field name="unitdate_start_sim">1993</field>

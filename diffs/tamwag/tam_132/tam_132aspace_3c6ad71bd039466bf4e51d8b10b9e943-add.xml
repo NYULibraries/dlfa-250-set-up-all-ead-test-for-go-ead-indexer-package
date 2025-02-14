@@ -1,2 +1,11 @@
-41a42
->     <field name="location_ssm">Box: Shared Tamiment 137, reel: CP348</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -39,6 +39,7 @@
+     <field name="location_ssm">Box: 520, reel: CP349</field>
+     <field name="location_ssm">Box: 527, reel: CP346</field>
+     <field name="location_ssm">Box: Shared Tamiment 137, reel: CP348</field>
++    <field name="location_ssm">Box: Shared Tamiment 137, reel: CP348</field>
+     <field name="location_si">Box: Shared Tamiment 137, reel: CP348</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">Communist Party of the United States of America Records</field>

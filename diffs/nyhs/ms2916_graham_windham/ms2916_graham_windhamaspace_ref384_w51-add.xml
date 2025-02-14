@@ -1,7 +1,15 @@
-23,26c23
-<     <field name="scopecontent_teim">
-<       Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,10 +20,7 @@
+     <field name="unitdate_normal_sim">1841/1968</field>
+     <field name="unitdate_inclusive_teim">1841-1968</field>
+     <field name="scopecontent_teim">The subseries contains 3 bound volumes of minutes of committees.</field>
+-    <field name="scopecontent_teim">
+-      Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
+-      
+-    </field>
++    <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>
+     <field name="ref_ssi">aspace_ref384_w51</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

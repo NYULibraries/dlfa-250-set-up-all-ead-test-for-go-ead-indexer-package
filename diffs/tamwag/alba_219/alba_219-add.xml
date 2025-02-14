@@ -1,6 +1,21 @@
-36a37,38
->     <field name="subject_teim">Communism -- California.</field>
->     <field name="subject_teim">Communism and art -- United States.</field>
-60,61d61
-<     <field name="subject_teim">Communism -- California.</field>
-<     <field name="subject_teim">Communism and art -- United States.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -34,6 +34,8 @@
+     <field name="persname_teim">Klonsky, Robert</field>
+     <field name="persname_ssm">Klonsky, Robert</field>
+     <field name="persname_ssm">Klonsky, Robert</field>
++    <field name="subject_teim">Communism -- California.</field>
++    <field name="subject_teim">Communism and art -- United States.</field>
+     <field name="collection_sim">Robert Klonsky Papers</field>
+     <field name="collection_ssm">Robert Klonsky Papers</field>
+     <field name="collection_teim">Robert Klonsky Papers</field>
+@@ -57,8 +59,6 @@
+     <field name="place_sim">Spain -- History -- Civil War, 1936-1939 -- Personal narratives, American.</field>
+     <field name="subject_sim">Communism -- California.</field>
+     <field name="subject_sim">Communism and art -- United States.</field>
+-    <field name="subject_teim">Communism -- California.</field>
+-    <field name="subject_teim">Communism and art -- United States.</field>
+     <field name="heading_ssm">Robert Klonsky Papers</field>
+     <field name="unitdate_start_sim">1937</field>
+     <field name="unitdate_start_ssm">1937</field>

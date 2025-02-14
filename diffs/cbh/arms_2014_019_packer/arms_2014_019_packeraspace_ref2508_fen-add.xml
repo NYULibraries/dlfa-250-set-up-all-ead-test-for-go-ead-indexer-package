@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Sub-sub-sub-series 8.5.2.2: Hymnals</field>
----
->     <field name="parent_unittitles_ssm">Sub-sub-sub-series 8.5.2.4: Alumni Activities</field>
-18c18
-<     <field name="parent_unittitles_teim">Sub-sub-sub-series 8.5.2.2: Hymnals</field>
----
->     <field name="parent_unittitles_teim">Sub-sub-sub-series 8.5.2.4: Alumni Activities</field>
-44,45c44,45
-<     <field name="series_sim">Sub-sub-sub-series 8.5.2.2: Hymnals</field>
-<     <field name="series_si">Series 8: Student Life &gt;&gt; Sub-series 8.5: Individual students &gt;&gt; Sub-sub-series 8.5.2: Elizabeth Post Morrow &gt;&gt; Sub-sub-sub-series 8.5.2.2: Hymnals &gt;&gt; Hymnal</field>
----
->     <field name="series_sim">Sub-sub-sub-series 8.5.2.4: Alumni Activities</field>
->     <field name="series_si">Series 8: Student Life &gt;&gt; Sub-series 8.5: Individual students &gt;&gt; Sub-sub-series 8.5.2: Elizabeth Post Morrow &gt;&gt; Sub-sub-sub-series 8.5.2.4: Alumni Activities &gt;&gt; Hymnal</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series 8: Student Life</field>
+     <field name="parent_unittitles_ssm">Sub-series 8.5: Individual students</field>
+     <field name="parent_unittitles_ssm">Sub-sub-series 8.5.2: Elizabeth Post Morrow</field>
+-    <field name="parent_unittitles_ssm">Sub-sub-sub-series 8.5.2.2: Hymnals</field>
++    <field name="parent_unittitles_ssm">Sub-sub-sub-series 8.5.2.4: Alumni Activities</field>
+     <field name="parent_unittitles_teim">Series 8: Student Life</field>
+     <field name="parent_unittitles_teim">Sub-series 8.5: Individual students</field>
+     <field name="parent_unittitles_teim">Sub-sub-series 8.5.2: Elizabeth Post Morrow</field>
+-    <field name="parent_unittitles_teim">Sub-sub-sub-series 8.5.2.2: Hymnals</field>
++    <field name="parent_unittitles_teim">Sub-sub-sub-series 8.5.2.4: Alumni Activities</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Packer Collegiate Institute records</field>
+@@ -41,8 +41,8 @@
+     <field name="series_sim">Series 8: Student Life</field>
+     <field name="series_sim">Sub-series 8.5: Individual students</field>
+     <field name="series_sim">Sub-sub-series 8.5.2: Elizabeth Post Morrow</field>
+-    <field name="series_sim">Sub-sub-sub-series 8.5.2.2: Hymnals</field>
+-    <field name="series_si">Series 8: Student Life &gt;&gt; Sub-series 8.5: Individual students &gt;&gt; Sub-sub-series 8.5.2: Elizabeth Post Morrow &gt;&gt; Sub-sub-sub-series 8.5.2.2: Hymnals &gt;&gt; Hymnal</field>
++    <field name="series_sim">Sub-sub-sub-series 8.5.2.4: Alumni Activities</field>
++    <field name="series_si">Series 8: Student Life &gt;&gt; Sub-series 8.5: Individual students &gt;&gt; Sub-sub-series 8.5.2: Elizabeth Post Morrow &gt;&gt; Sub-sub-sub-series 8.5.2.4: Alumni Activities &gt;&gt; Hymnal</field>
+     <field name="heading_ssm">Hymnal</field>
+     <field name="unitdate_start_sim">1913</field>
+     <field name="unitdate_start_ssm">1913</field>

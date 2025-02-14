@@ -1,6 +1,14 @@
-15,17c15
-<     <field name="scopecontent_teim">
-<       Arrangement
-<     </field>
----
->     <field name="scopecontent_teim">Arrangement</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,9 +12,7 @@
+     <field name="unittitle_ssm">Series V: Financial records (1910-1936)</field>
+     <field name="unittitle_teim">Series V: Financial records (1910-1936)</field>
+     <field name="scopecontent_teim">The Society's financial records include receipts, vouchers (deposit slips and receipted bills for office expenses and rent), returned checks, checkbooks, account books, information on holdings of securities, and deposits of membership payments. The checkbook stubs document the Society's expenses, while the account books include membership information such as annual dues paid and lists of members. </field>
+-    <field name="scopecontent_teim">
+-      Arrangement
+-    </field>
++    <field name="scopecontent_teim">Arrangement</field>
+     <field name="scopecontent_teim"> The folder titles are taken from the original envelope titles and are not consistent.</field>
+     <field name="ref_ssi">aspace_ref308_t02</field>
+     <field name="repository_ssi">nyhs</field>

@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
----
->     <field name="parent_unittitles_ssm">3. The Estate</field>
-18c18
-<     <field name="parent_unittitles_teim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
----
->     <field name="parent_unittitles_teim">3. The Estate</field>
-46,47c46,47
-<     <field name="series_sim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
-<     <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; ii. unidentified (probably once part of the Collection, and whereabouts at present unknown) &gt;&gt; Madonna and Child enthroned with Saints</field>
----
->     <field name="series_sim">3. The Estate</field>
->     <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; 3. The Estate &gt;&gt; Madonna and Child enthroned with Saints</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series IX: Glass negatives (10 x 15 cm and over)</field>
+     <field name="parent_unittitles_ssm">Subseries B: Villa La Pietra</field>
+     <field name="parent_unittitles_ssm">2. The interior and the Collection</field>
+-    <field name="parent_unittitles_ssm">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
++    <field name="parent_unittitles_ssm">3. The Estate</field>
+     <field name="parent_unittitles_teim">Series IX: Glass negatives (10 x 15 cm and over)</field>
+     <field name="parent_unittitles_teim">Subseries B: Villa La Pietra</field>
+     <field name="parent_unittitles_teim">2. The interior and the Collection</field>
+-    <field name="parent_unittitles_teim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
++    <field name="parent_unittitles_teim">3. The Estate</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series IX: Glass negatives (10 x 15 cm and over)</field>
+     <field name="series_sim">Subseries B: Villa La Pietra</field>
+     <field name="series_sim">2. The interior and the Collection</field>
+-    <field name="series_sim">ii. unidentified (probably once part of the Collection, and whereabouts at present unknown)</field>
+-    <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; ii. unidentified (probably once part of the Collection, and whereabouts at present unknown) &gt;&gt; Madonna and Child enthroned with Saints</field>
++    <field name="series_sim">3. The Estate</field>
++    <field name="series_si">Series IX: Glass negatives (10 x 15 cm and over) &gt;&gt; Subseries B: Villa La Pietra &gt;&gt; 2. The interior and the Collection &gt;&gt; 3. The Estate &gt;&gt; Madonna and Child enthroned with Saints</field>
+     <field name="heading_ssm">Madonna and Child enthroned with Saints</field>
+     <field name="unitdate_start_sim">1870</field>
+     <field name="unitdate_start_ssm">1870</field>

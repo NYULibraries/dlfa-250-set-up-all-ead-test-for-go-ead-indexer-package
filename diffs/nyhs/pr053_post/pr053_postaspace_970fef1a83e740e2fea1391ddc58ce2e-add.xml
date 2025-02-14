@@ -1,38 +1,49 @@
-18,21c18
-<     <field name="scopecontent_teim">
-<       Folder: New York Stock Exchange, including furniture details
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: New York Stock Exchange, including furniture details</field>
-27,49c24,29
-<     <field name="scopecontent_teim">
-<       Folder: Government Buildings 2 of 2, including U.S. Post Office, Orange, NJ
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Hospitals
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: New York Hospital Buildings, 11 drawings, elevations, plans, sections
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: U.S. Custom House, 12 competition drawings
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Department of Justice, Washington, D.C., 4 elevations, sections, including rendering of 1st floor plan
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Mostly Mt. Sinai Hospital, Cleveland, OH
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Government Buildings 2 of 2, including U.S. Post Office, Orange, NJ</field>
->     <field name="scopecontent_teim">Folder: Hospitals</field>
->     <field name="scopecontent_teim">Folder: New York Hospital Buildings, 11 drawings, elevations, plans, sections</field>
->     <field name="scopecontent_teim">Folder: U.S. Custom House, 12 competition drawings</field>
->     <field name="scopecontent_teim">Folder: Department of Justice, Washington, D.C., 4 elevations, sections, including rendering of 1st floor plan</field>
->     <field name="scopecontent_teim">Folder: Mostly Mt. Sinai Hospital, Cleveland, OH</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,38 +15,18 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">[2NW, Unit 8A, Case 40, Drawer 7: Commercial, Government and Hospitals]</field>
+     <field name="unittitle_teim">[2NW, Unit 8A, Case 40, Drawer 7: Commercial, Government and Hospitals]</field>
+-    <field name="scopecontent_teim">
+-      Folder: New York Stock Exchange, including furniture details
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: New York Stock Exchange, including furniture details</field>
+     <field name="scopecontent_teim">Folder: Government Buildings 1 of 2
+ ........Wisconsin State Capitol
+ ........Essex County Courthouse
+ ........Department of Justice Building, Washington, D.C.
+ ........Brooklyn Academy of Music</field>
+-    <field name="scopecontent_teim">
+-      Folder: Government Buildings 2 of 2, including U.S. Post Office, Orange, NJ
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Hospitals
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: New York Hospital Buildings, 11 drawings, elevations, plans, sections
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: U.S. Custom House, 12 competition drawings
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Department of Justice, Washington, D.C., 4 elevations, sections, including rendering of 1st floor plan
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Mostly Mt. Sinai Hospital, Cleveland, OH
+-    </field>
++    <field name="scopecontent_teim">Folder: Government Buildings 2 of 2, including U.S. Post Office, Orange, NJ</field>
++    <field name="scopecontent_teim">Folder: Hospitals</field>
++    <field name="scopecontent_teim">Folder: New York Hospital Buildings, 11 drawings, elevations, plans, sections</field>
++    <field name="scopecontent_teim">Folder: U.S. Custom House, 12 competition drawings</field>
++    <field name="scopecontent_teim">Folder: Department of Justice, Washington, D.C., 4 elevations, sections, including rendering of 1st floor plan</field>
++    <field name="scopecontent_teim">Folder: Mostly Mt. Sinai Hospital, Cleveland, OH</field>
+     <field name="ref_ssi">aspace_970fef1a83e740e2fea1391ddc58ce2e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

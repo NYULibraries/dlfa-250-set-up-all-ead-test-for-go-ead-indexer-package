@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the New-York Historical Society Membership Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Membership Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">NYHS-RG 9. Membership records (1804-1983)</field>
+     <field name="unittitle_teim">NYHS-RG 9. Membership records (1804-1983)</field>
+     <field name="scopecontent_teim">The New-York Historical Society membership records includes material related to the basic administration of membership, that is, maintaining records of who was a member and whether their dues had been paid. The record group includes registers, or lists, of members, dues payment status, and certificates and other forms of membership-related ephemera.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the New-York Historical Society Membership Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Membership Records.</field>
+     <field name="ref_ssi">aspace_ref32_oib</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

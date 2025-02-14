@@ -1,6 +1,14 @@
-15,17c15
-<     <field name="scopecontent_teim">
-<       Biographical Note
-<     </field>
----
->     <field name="scopecontent_teim">Biographical Note</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,9 +12,7 @@
+     <field name="unittitle_ssm">Series 10. Gustavus Conyngham (1777-1826)</field>
+     <field name="unittitle_teim">Series 10. Gustavus Conyngham (1777-1826)</field>
+     <field name="scopecontent_teim">The collection includes Conyngham's diary from his incarceration by the British at Mill Prison; details of his claims against Congress for the payment of prizes for shipping captured by Surprize under his command; notes and manuscript drafts used in the publication of his papers by the Naval History Society in 1915 ("Letters and Papers relating to the Cruises of Gustavus Conyngham, a captain of the Continental Navy, 1777-1779," edited by Robert W. Neeser and printed by DeVinne Press, New York, as volume 6 of its publications); as well as original materials, some of which were used in the Society's volume. The latter are in the form of an unbound extra-illustrated volume amassed by John Sanford Barnes (see Series 3; see Series 11 for another extra-illustrated volume). Original documents mounted and described include Conyngham's 1777 commission in the Continental Navy, signed by John Hancock with interlinear notes by Benjamin Franklin, which had been thought lost and was rediscovered and purchased by Barnes in 1900; the brig Maria's commission signed by John Adams; an autograph letter signed by Alexander Hamilton; and numerous letters in Conyngham's hand.</field>
+-    <field name="scopecontent_teim">
+-      Biographical Note
+-    </field>
++    <field name="scopecontent_teim">Biographical Note</field>
+     <field name="scopecontent_teim">As commander of  Surprize and  Revenge, Gustavus Conyngham (1744-1819) was responsible for the capture of numerous British vessels, sale of whose cargo in friendly ports contributed to the financing of colonial forces. In 1779 he was captured by the British and incarcerated at Mill Prison, near Plymouth. Having had his commission confiscated, he later experienced difficulty in making claims to Congress for prize monies due to him. During the Quasi-War with France (1798-1800), he commanded Maria and later assisted in the defense of Philadelphia during the War of 1812.</field>
+     <field name="title_teim">Surprize</field>
+     <field name="title_teim">Maria</field>

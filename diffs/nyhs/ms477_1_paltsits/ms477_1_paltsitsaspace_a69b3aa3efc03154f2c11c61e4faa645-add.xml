@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Listed alphabetically by author or title.
-<     </field>
----
->     <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Works by others (S-W)</field>
+     <field name="unittitle_teim">Works by others (S-W)</field>
+     <field name="unitdate_inclusive_teim">1838–1949</field>
+-    <field name="scopecontent_teim">
+-      Listed alphabetically by author or title.
+-    </field>
++    <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+     <field name="scopecontent_teim">___Simms, P. Marion. The Bible from the Beginning (1929)
+ ___Smith, Wilbur M. Therefore, Stand: A Plea for a Vigorous Apologetic in the Present Crisis of Evangelical Christianity (1945)
+ ___Sonneck, O. G. Francis Hopkinson (1737–1791), The First American Composer (1903)

@@ -1,4 +1,19 @@
-39a40
->     <field name="location_ssm">Box: Digitized Access Files, E-records: nyuarchives_rg37.4_cuid473_000001</field>
-56d56
-<     <field name="date_range_sim">1901-2000</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -37,6 +37,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 52, Folder: 12, Cassette: cuid473</field>
+     <field name="location_ssm">Box: Digitized Access Files, E-records: nyuarchives_rg37.4_cuid473_000001</field>
++    <field name="location_ssm">Box: Digitized Access Files, E-records: nyuarchives_rg37.4_cuid473_000001</field>
+     <field name="location_ssm">Box: Shared University Archives 118, CD: rg37.4_cuid473_000001</field>
+     <field name="location_ssm">Box: Shared University Archives 118, CD: rg37.4_cuid473_000002</field>
+     <field name="location_si">Box: Shared University Archives 118, CD: rg37.4_cuid473_000002</field>
+@@ -53,7 +54,6 @@
+     <field name="unitdate_end_ssm">1987</field>
+     <field name="unitdate_end_si">1987</field>
+     <field name="unitdate_ssm">2018-02</field>
+-    <field name="date_range_sim">1901-2000</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">877</field>
+   </doc>

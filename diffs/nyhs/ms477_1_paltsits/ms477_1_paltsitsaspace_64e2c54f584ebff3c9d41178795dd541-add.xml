@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Listed alphabetically by author or title.
-<     </field>
----
->     <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Works by others (C)</field>
+     <field name="unittitle_teim">Works by others (C)</field>
+     <field name="unitdate_inclusive_teim">1904</field>
+-    <field name="scopecontent_teim">
+-      Listed alphabetically by author or title.
+-    </field>
++    <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+     <field name="scopecontent_teim">___Collections of the New Brunswick Historical Society, No. 5 (1904)</field>
+     <field name="ref_ssi">aspace_64e2c54f584ebff3c9d41178795dd541</field>
+     <field name="repository_ssi">nyhs</field>

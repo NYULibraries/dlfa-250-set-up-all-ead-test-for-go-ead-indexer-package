@@ -1,2 +1,11 @@
-21d20
-<     <field name="bioghist_teim">  </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,6 @@
+     <field name="unitdate_inclusive_teim">1978-1994</field>
+     <field name="scopecontent_teim">The documents in this collection reflect the students, faculty and curricula that have comprised the Archives Program. The collection also illuminates the connections between archives students and the profession as a whole, through internship programs and affiliation with professional organizations.</field>
+     <field name="bioghist_teim">The Archives Program was founded in 1977 as a training program for archivists, historical editors, administrators, and manuscript curators. Administratively, the program is part of the History Department in the Graduate School of Arts and Sciences; most of the faculty that teach in the Program reside in this Department. The program culminates in a New York State Board of Regents Certificate in Archives, Historical Society Administration, and Historical Editing. Students may also choose to pursue jointly an M.A. or Ph.D. in History or a related field.</field>
+-    <field name="bioghist_teim">  </field>
+     <field name="corpname_teim">New York University Archives</field>
+     <field name="corpname_teim">New York University. Department of History</field>
+     <field name="corpname_teim">Society of American Archivists</field>

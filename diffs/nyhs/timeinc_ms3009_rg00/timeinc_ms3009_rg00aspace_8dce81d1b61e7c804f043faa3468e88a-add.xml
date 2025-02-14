@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Money Editorial Records: Managing Editor Marshall Loeb Files.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Money Editorial Records: Managing Editor Marshall Loeb Files.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 11. Time Inc. &lt;em&gt;Money&lt;/em&gt; Editorial Records: Managing Editor Marshall Loeb Files (1981-1986)</field>
+     <field name="unittitle_teim">RG 11. Time Inc. Money Editorial Records: Managing Editor Marshall Loeb Files (1981-1986)</field>
+     <field name="scopecontent_teim">The Time Inc. Money Editorial Records: Managing Editor Marshall Loeb Files focus on public appearances made by Loeb while he was managing editor. The collection is primarily scripts and transcripts.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Money Editorial Records: Managing Editor Marshall Loeb Files.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Money Editorial Records: Managing Editor Marshall Loeb Files.</field>
+     <field name="title_teim">Money</field>
+     <field name="title_teim">Money</field>
+     <field name="title_teim">Money</field>

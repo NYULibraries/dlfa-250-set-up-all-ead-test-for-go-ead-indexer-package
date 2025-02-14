@@ -1,3 +1,12 @@
-26,27d25
-<     <field name="bioghist_teim">
-<  </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,8 +23,6 @@
+     <field name="bioghist_teim">Knox Burger died in Manhattan on January 4, 2010.</field>
+     <field name="bioghist_teim">
+ Source - from a text written for Fales by Knox Burger</field>
+-    <field name="bioghist_teim">
+- </field>
+     <field name="custodhist_teim">The Knox Burger Archive was donated to the Fales Library by Knox Burger in 2000.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_teim">Burger. Knox</field>

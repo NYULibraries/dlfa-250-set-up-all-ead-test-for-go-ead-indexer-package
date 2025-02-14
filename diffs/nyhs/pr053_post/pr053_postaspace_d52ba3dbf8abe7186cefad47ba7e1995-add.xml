@@ -1,43 +1,50 @@
-18,41c18,23
-<     <field name="scopecontent_teim">
-<       Folder: City College of New York
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Library CCNY
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: CCNY
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: CCNY
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: CCNY
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Library CCNY
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: City College of New York</field>
->     <field name="scopecontent_teim">Folder: Library CCNY</field>
->     <field name="scopecontent_teim">Folder: CCNY</field>
->     <field name="scopecontent_teim">Folder: CCNY</field>
->     <field name="scopecontent_teim">Folder: CCNY</field>
->     <field name="scopecontent_teim">Folder: Library CCNY</field>
-43,49c25,26
-<     <field name="scopecontent_teim">
-<       Folder: Plans for George Washington University
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Brooklyn Academy of Music
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Plans for George Washington University</field>
->     <field name="scopecontent_teim">Folder: Brooklyn Academy of Music</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,38 +15,15 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">[2NW, Unit 8A, Case 40, Drawer 9: Colleges &amp;amp; Universities]</field>
+     <field name="unittitle_teim">[2NW, Unit 8A, Case 40, Drawer 9: Colleges &amp; Universities]</field>
+-    <field name="scopecontent_teim">
+-      Folder: City College of New York
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Library CCNY
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: CCNY
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: CCNY
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: CCNY
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Library CCNY
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: City College of New York</field>
++    <field name="scopecontent_teim">Folder: Library CCNY</field>
++    <field name="scopecontent_teim">Folder: CCNY</field>
++    <field name="scopecontent_teim">Folder: CCNY</field>
++    <field name="scopecontent_teim">Folder: CCNY</field>
++    <field name="scopecontent_teim">Folder: Library CCNY</field>
+     <field name="scopecontent_teim">Folder: George Washington University Memorial Hall, etc. (6 plans)</field>
+-    <field name="scopecontent_teim">
+-      Folder: Plans for George Washington University
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Brooklyn Academy of Music
+-    </field>
++    <field name="scopecontent_teim">Folder: Plans for George Washington University</field>
++    <field name="scopecontent_teim">Folder: Brooklyn Academy of Music</field>
+     <field name="ref_ssi">aspace_d52ba3dbf8abe7186cefad47ba7e1995</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

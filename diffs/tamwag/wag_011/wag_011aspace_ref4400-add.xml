@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">&lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;"closed"&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;&lt;/em&gt;"closed"</field>
-38c38
-<     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries A: Production &gt;&gt; &lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;"closed"&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries A: Production &gt;&gt; &lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;&lt;/em&gt;"closed"</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Actors' Equity Association Records</field>
+     <field name="collection_unitid_ssm">WAG.011</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">&lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;"closed"&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;&lt;/em&gt;"closed"</field>
+     <field name="unittitle_teim">Under Milk Wood:New York "closed"</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/268017</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/268017</field>
+@@ -35,7 +35,7 @@
+     <field name="collection_unitid_teim">WAG.011</field>
+     <field name="series_sim">Series V: Contracts/Agreements/Codes</field>
+     <field name="series_sim">Subseries A: Production</field>
+-    <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries A: Production &gt;&gt; &lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;"closed"&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries A: Production &gt;&gt; &lt;em&gt;Under Milk Wood:&lt;/em&gt;New York &lt;em&gt;&lt;/em&gt;"closed"</field>
+     <field name="heading_ssm">Under Milk Wood:New York "closed"</field>
+     <field name="unitdate_ssm">Nov 16, 1957</field>
+     <field name="date_range_sim">undated &amp; other</field>

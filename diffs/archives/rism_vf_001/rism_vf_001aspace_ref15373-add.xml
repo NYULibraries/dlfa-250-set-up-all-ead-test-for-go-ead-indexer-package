@@ -1,2 +1,11 @@
-49a50
->     <field name="series_sim">New York City</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -47,6 +47,7 @@
+     <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+     <field name="collection_unitid_teim">RISM.VF.001</field>
+     <field name="series_sim">New York City</field>
++    <field name="series_sim">New York City</field>
+     <field name="series_si">New York City &gt;&gt; New York City &gt;&gt; Who Are My Neighbors?: Answers to Some Questions About the Many Cultures of Crown Heights</field>
+     <field name="heading_ssm">Who Are My Neighbors?: Answers to Some Questions About the Many Cultures of Crown Heights</field>
+     <field name="unitdate_start_sim">1991</field>

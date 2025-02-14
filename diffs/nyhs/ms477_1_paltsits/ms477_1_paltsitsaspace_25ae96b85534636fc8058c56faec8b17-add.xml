@@ -1,6 +1,14 @@
-19,21c19
-<     <field name="scopecontent_teim">
-<       Listed alphabetically by author or title.
-<     </field>
----
->     <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,9 +16,7 @@
+     <field name="unittitle_ssm">Works by others (T)</field>
+     <field name="unittitle_teim">Works by others (T)</field>
+     <field name="unitdate_inclusive_teim">1906, 1910, 1914</field>
+-    <field name="scopecontent_teim">
+-      Listed alphabetically by author or title.
+-    </field>
++    <field name="scopecontent_teim">Listed alphabetically by author or title.</field>
+     <field name="scopecontent_teim">___Transactions of the Bronx Society of Arts and Sciences, vol. 1, parts I-III (1906, 1910, 1914)</field>
+     <field name="ref_ssi">aspace_25ae96b85534636fc8058c56faec8b17</field>
+     <field name="repository_ssi">nyhs</field>

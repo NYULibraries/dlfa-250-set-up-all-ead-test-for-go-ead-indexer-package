@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Books Group Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Books Group Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 28. Time Inc. Books Group Records (1963-1988, 2015)</field>
+     <field name="unittitle_teim">RG 28. Time Inc. Books Group Records (1963-1988, 2015)</field>
+     <field name="scopecontent_teim">The Time Inc. Books Group Records contain materials documenting Time Inc.'s book publishing ventures. While Time-Life Books was Time Inc.'s main imprint and book publishing department, Time Inc. owned several other book publishing, subscription, or direct marketing ventures and companies including Little, Brown and Company and the Book-of-the-Month Club. Included in this record group are files from the office of the group vice president, the Books and Arts Associates, the Iran Publishing Project, and the Time-Life Travel Club.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Books Group Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Books Group Records.</field>
+     <field name="ref_ssi">aspace_ref42_b1z</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

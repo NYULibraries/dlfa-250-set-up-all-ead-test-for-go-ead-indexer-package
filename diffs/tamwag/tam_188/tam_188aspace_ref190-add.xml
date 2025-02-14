@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
-37c37
-<     <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">John Pittman Papers</field>
+     <field name="collection_unitid_ssm">TAM.188</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
+     <field name="unittitle_teim">The Daily World, Content of - (For Party Affairs) </field>
+     <field name="unitdate_normal_ssm">1905/1987</field>
+     <field name="unitdate_normal_teim">1905/1987</field>
+@@ -34,7 +34,7 @@
+     <field name="collection_teim">John Pittman Papers</field>
+     <field name="collection_unitid_teim">TAM.188</field>
+     <field name="series_sim">Series IV. Writings</field>
+-    <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series IV. Writings &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;, Content of - (For &lt;em&gt;Party Affairs&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
+     <field name="heading_ssm">The Daily World, Content of - (For Party Affairs) </field>
+     <field name="unitdate_start_sim">1905</field>
+     <field name="unitdate_start_ssm">1905</field>

@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&lt;/em&gt;</field>
-35c35
-<     <field name="series_si">Series III: Political Activities &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series III: Political Activities &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">John Pittman Papers</field>
+     <field name="collection_unitid_ssm">TAM.188</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&lt;/em&gt;</field>
+     <field name="unittitle_teim">The Daily World- Job Applications </field>
+     <field name="unitdate_normal_ssm">1968/1968</field>
+     <field name="unitdate_normal_teim">1968/1968</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">John Pittman Papers</field>
+     <field name="collection_unitid_teim">TAM.188</field>
+     <field name="series_sim">Series III: Political Activities</field>
+-    <field name="series_si">Series III: Political Activities &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series III: Political Activities &gt;&gt; &lt;em&gt;The Daily World&lt;/em&gt;- Job Applications &lt;em&gt;&lt;/em&gt;</field>
+     <field name="heading_ssm">The Daily World- Job Applications </field>
+     <field name="unitdate_start_sim">1968</field>
+     <field name="unitdate_start_ssm">1968</field>

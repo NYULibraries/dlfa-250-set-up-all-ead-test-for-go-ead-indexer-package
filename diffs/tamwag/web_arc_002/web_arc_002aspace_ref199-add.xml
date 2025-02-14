@@ -1,4 +1,19 @@
-22a23
->     <field name="subject_teim">Elevator constructor</field>
-36d36
-<     <field name="subject_teim">Elevator constructor</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,6 +20,7 @@
+     <field name="corpname_ssm">International Union of Elevator Constructors</field>
+     <field name="function_teim">Elevator constructor</field>
+     <field name="function_ssm">Elevator constructor</field>
++    <field name="subject_teim">Elevator constructor</field>
+     <field name="dao_teim">International Union of Elevator Constructors (IUEC)</field>
+     <field name="dao_ssm">International Union of Elevator Constructors (IUEC)</field>
+     <field name="ref_ssi">aspace_ref199</field>
+@@ -33,7 +34,6 @@
+     <field name="name_teim">International Union of Elevator Constructors</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="subject_sim">Elevator constructor</field>
+-    <field name="subject_teim">Elevator constructor</field>
+     <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
+     <field name="collection_unitid_teim">WEB.ARC.002</field>
+     <field name="series_si">International Union of Elevator Constructors (IUEC) Archived Website</field>

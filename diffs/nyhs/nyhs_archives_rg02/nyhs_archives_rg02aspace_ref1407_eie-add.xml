@@ -1,12 +1,25 @@
-20,22c20
-<     <field name="scopecontent_teim">
-<       
-<         Date ranges by page number
----
->     <field name="scopecontent_teim">Date ranges by page number
-31,33c29
-< 
-<       
-<     </field>
----
-> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,9 +17,7 @@
+     <field name="unittitle_teim">Letter Book.</field>
+     <field name="unitdate_teim">1881-1888</field>
+     <field name="scopecontent_teim">Frequent correspondents include Frederick Cook, Ellen Kemble, Luther R. Marsh, Royal Phelps, G.D. Scull, Moses Coit Tyler, and George Cabot Ward.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Date ranges by page number
++    <field name="scopecontent_teim">Date ranges by page number
+ 1881 October-December:  1-63
+ 1882: 64-236
+ 1883: 236-348
+@@ -28,9 +26,7 @@
+ 1886: 552-667
+ 1887: 667-682
+ 1888 January-March: 683-702
+-
+-      
+-    </field>
++</field>
+     <field name="ref_ssi">aspace_ref1407_eie</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

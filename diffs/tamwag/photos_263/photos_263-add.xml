@@ -1,4 +1,19 @@
-36a37
->     <field name="subject_teim">Motor vehicle drivers -- United States. </field>
-54d54
-<     <field name="subject_teim">Motor vehicle drivers -- United States. </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -34,6 +34,7 @@
+     <field name="genreform_ssm">Photographs.</field>
+     <field name="occupation_teim">Motor vehicle drivers |z United States. </field>
+     <field name="occupation_ssm">Motor vehicle drivers |z United States. </field>
++    <field name="subject_teim">Motor vehicle drivers -- United States. </field>
+     <field name="collection_sim">AFSCME, Local 983 Photographs</field>
+     <field name="collection_ssm">AFSCME, Local 983 Photographs</field>
+     <field name="collection_teim">AFSCME, Local 983 Photographs</field>
+@@ -51,7 +52,6 @@
+     <field name="name_teim">AFSCME. Local 983 </field>
+     <field name="name_teim">AFSCME. District Council 37 (New York, N.Y.)</field>
+     <field name="subject_sim">Motor vehicle drivers -- United States. </field>
+-    <field name="subject_teim">Motor vehicle drivers -- United States. </field>
+     <field name="dao_sim">Online Access</field>
+     <field name="material_type_sim">Photographs.</field>
+     <field name="material_type_ssm">Photographs.</field>

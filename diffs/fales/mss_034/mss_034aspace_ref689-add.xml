@@ -1,20 +1,33 @@
-16,21c16,17
-<     <field name="unittitle_ssm">
-<       &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;
-<     </field>
-<     <field name="unittitle_teim">
-<       See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)
-<     </field>
----
->     <field name="unittitle_ssm">&lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;</field>
->     <field name="unittitle_teim">See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)</field>
-34,39c30,31
-<     <field name="series_si">Series I &gt;&gt; 
-<       &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;
-<     </field>
-<     <field name="heading_ssm">
-<       See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)
-<     </field>
----
->     <field name="series_si">Series I &gt;&gt; &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;</field>
->     <field name="heading_ssm">See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,12 +13,8 @@
+     <field name="collection_ssm">Fales Library and Special Collections Portrait Collection</field>
+     <field name="collection_unitid_ssm">MSS.034</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">
+-      &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;
+-    </field>
+-    <field name="unittitle_teim">
+-      See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)
+-    </field>
++    <field name="unittitle_ssm">&lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;</field>
++    <field name="unittitle_teim">See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref689</field>
+     <field name="repository_ssi">fales</field>
+@@ -31,12 +27,8 @@
+     <field name="collection_teim">Fales Library and Special Collections Portrait Collection</field>
+     <field name="collection_unitid_teim">MSS.034</field>
+     <field name="series_sim">Series I</field>
+-    <field name="series_si">Series I &gt;&gt; 
+-      &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;
+-    </field>
+-    <field name="heading_ssm">
+-      See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)
+-    </field>
++    <field name="series_si">Series I &gt;&gt; &lt;strong&gt;See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)&lt;/strong&gt;</field>
++    <field name="heading_ssm">See Oversize, Folder 2Trade Winds galleys (by Christopher Morley)</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">664</field>

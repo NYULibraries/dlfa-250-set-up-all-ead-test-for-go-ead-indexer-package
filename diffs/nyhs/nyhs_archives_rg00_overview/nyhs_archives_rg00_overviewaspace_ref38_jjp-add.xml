@@ -1,8 +1,16 @@
-19,23c19
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the New-York Historical Society Celebratory and Memorial Event Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Celebratory and Memorial Event Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,11 +16,7 @@
+ 
+ </field>
+     <field name="scopecontent_teim">The New-York Historical Society celebratory and memorial event record group includes correspondence, invitations, event programs, tickets, and other material associated with about twenty of the special events held by N-YHS from 1854-1954. These events included major N-YHS anniversaries, commemorations of Washington Irving (1860) and William Cullen Bryant (1878), the completion of the Central Park West building (1939), and others. The record group also includes documents related to the Robert Fulton exhibition installed at N-YHS in 1909 in conjunction with the Hudson-Fulton Celebration.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the New-York Historical Society Celebratory and Memorial Event Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Celebratory and Memorial Event Records.</field>
+     <field name="ref_ssi">aspace_ref38_jjp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

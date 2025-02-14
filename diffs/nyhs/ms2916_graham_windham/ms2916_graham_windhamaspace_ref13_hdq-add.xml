@@ -1,7 +1,15 @@
-24,27c24
-<     <field name="scopecontent_teim">
-<       Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,10 +21,7 @@
+     <field name="unitdate_inclusive_teim">1806-1974</field>
+     <field name="scopecontent_teim">The subseries contains 18 volumes of minutes of meetings of the Board of Trustees of the Orphan Asylum Society/Graham Home for Children (OAS) 1806-1974.  </field>
+     <field name="scopecontent_teim">Minutes from 1822-1851 and 1975-1977 are missing.  Some loose pages from the 1830's were interleaved with the 1887-1894 minutes, and remain with that volume (Vol. 4).  An index to the minutes is available to researchers at the New-York Historical Society manuscript department.</field>
+-    <field name="scopecontent_teim">
+-      Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
+-      
+-    </field>
++    <field name="scopecontent_teim">Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.</field>
+     <field name="scopecontent_teim">The Orphan Asylum Society merged with Windham Child Care in 1977 to become Graham Windham.  For Minutes of Windham Child Care, see Series II.1.  For post-1977 minutes of Graham Windham, see Series III.1. For OAS Committee Reports submitted to the Board, see Subseries I.5.  For a 1973 board manual and other board-related administrative materials, see Subseries I.7.</field>
+     <field name="ref_ssi">aspace_ref13_hdq</field>
+     <field name="repository_ssi">nyhs</field>

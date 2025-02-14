@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">American Federation of Television and Radio Artists&amp;nbsp;
----
->     <field name="unittitle_ssm">American Federation of Television and Radio Artists 
-34c34
-<     <field name="series_si">Series I: Unions. &gt;&gt; American Federation of Television and Radio Artists&amp;nbsp;
----
->     <field name="series_si">Series I: Unions. &gt;&gt; American Federation of Television and Radio Artists 
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Sam Reiss Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.021.001</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">American Federation of Television and Radio Artists&amp;nbsp;
++    <field name="unittitle_ssm">American Federation of Television and Radio Artists 
+ </field>
+     <field name="unittitle_teim">American Federation of Television and Radio Artists 
+ </field>
+@@ -31,7 +31,7 @@
+     <field name="collection_teim">Sam Reiss Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.021.001</field>
+     <field name="series_sim">Series I: Unions.</field>
+-    <field name="series_si">Series I: Unions. &gt;&gt; American Federation of Television and Radio Artists&amp;nbsp;
++    <field name="series_si">Series I: Unions. &gt;&gt; American Federation of Television and Radio Artists 
+ </field>
+     <field name="heading_ssm">American Federation of Television and Radio Artists 
+ </field>

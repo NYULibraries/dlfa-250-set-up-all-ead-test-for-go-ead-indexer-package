@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">14. Solo exhibition at the French Cultural Center, Amman 1983&amp;nbsp;</field>
----
->     <field name="unittitle_ssm">14. Solo exhibition at the French Cultural Center, Amman 1983 </field>
-33c33
-<     <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 14. Solo exhibition at the French Cultural Center, Amman 1983&amp;nbsp;</field>
----
->     <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 14. Solo exhibition at the French Cultural Center, Amman 1983 </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Ahmad Nawash Collection</field>
+     <field name="collection_unitid_ssm">AD.MC.094</field>
+     <field name="level_sim">subgrp</field>
+-    <field name="unittitle_ssm">14. Solo exhibition at the French Cultural Center, Amman 1983&amp;nbsp;</field>
++    <field name="unittitle_ssm">14. Solo exhibition at the French Cultural Center, Amman 1983 </field>
+     <field name="unittitle_teim">14. Solo exhibition at the French Cultural Center, Amman 1983 </field>
+     <field name="unitid_teim">cuid339</field>
+     <field name="unitid_ssm">cuid339</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">AD.MC.094</field>
+     <field name="series_sim">Series VII: Photographs</field>
+     <field name="series_sim">VII.A. Exhibition Photographs</field>
+-    <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 14. Solo exhibition at the French Cultural Center, Amman 1983&amp;nbsp;</field>
++    <field name="series_si">Series VII: Photographs &gt;&gt; VII.A. Exhibition Photographs &gt;&gt; 14. Solo exhibition at the French Cultural Center, Amman 1983 </field>
+     <field name="heading_ssm">14. Solo exhibition at the French Cultural Center, Amman 1983 </field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">64</field>

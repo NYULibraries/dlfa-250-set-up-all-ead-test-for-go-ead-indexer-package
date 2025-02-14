@@ -1,2 +1,11 @@
-32a33
->     <field name="location_ssm">Box: 3, audiocassette: 18_016</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,6 +30,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 3, audiocassette: 18_016</field>
++    <field name="location_ssm">Box: 3, audiocassette: 18_016</field>
+     <field name="location_si">Box: 3, audiocassette: 18_016</field>
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">John Gerassi Oral History Collection</field>

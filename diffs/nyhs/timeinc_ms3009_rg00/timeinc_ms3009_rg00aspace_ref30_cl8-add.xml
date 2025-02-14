@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Printing Developments, Inc.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Printing Developments, Inc.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 22. Time Inc. Printing Developments, Inc. (1950-1974)</field>
+     <field name="unittitle_teim">RG 22. Time Inc. Printing Developments, Inc. (1950-1974)</field>
+     <field name="scopecontent_teim">Contains the business ledgers of this Time Inc. subsidiary.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Printing Developments, Inc.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Printing Developments, Inc.</field>
+     <field name="ref_ssi">aspace_ref30_cl8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

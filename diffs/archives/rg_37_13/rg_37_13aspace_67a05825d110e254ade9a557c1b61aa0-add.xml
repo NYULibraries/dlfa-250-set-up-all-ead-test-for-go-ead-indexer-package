@@ -1,2 +1,11 @@
-29a30
->     <field name="location_ssm">Box: 5</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,6 +27,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 6, U-matic: 37-13.0068, 37-13.0069, 37-13.0070</field>
+     <field name="location_ssm">Box: 5</field>
++    <field name="location_ssm">Box: 5</field>
+     <field name="location_si">Box: 5</field>
+     <field name="collection_teim">Records of the Department of French Literature, Thought and Culture</field>
+     <field name="collection_unitid_teim">RG.37.13</field>

@@ -1,11 +1,19 @@
-41,46d40
-<     <field name="unitdate_start_sim">-1904</field>
-<     <field name="unitdate_start_ssm">-1904</field>
-<     <field name="unitdate_start_si">-1904</field>
-<     <field name="unitdate_end_sim">1900</field>
-<     <field name="unitdate_end_ssm">1900</field>
-<     <field name="unitdate_end_si">1900</field>
-48c42
-<     <field name="date_range_sim">1801-1900</field>
----
->     <field name="date_range_sim">undated &amp; other</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -38,14 +38,8 @@
+     <field name="series_sim">Subseries B: Florence Bell to Elizabeth Robins, 1891-1930</field>
+     <field name="series_si">Series V: Florence Bell &gt;&gt; Subseries B: Florence Bell to Elizabeth Robins, 1891-1930 &gt;&gt; 1900-1904</field>
+     <field name="heading_ssm">1900-1904</field>
+-    <field name="unitdate_start_sim">-1904</field>
+-    <field name="unitdate_start_ssm">-1904</field>
+-    <field name="unitdate_start_si">-1904</field>
+-    <field name="unitdate_end_sim">1900</field>
+-    <field name="unitdate_end_ssm">1900</field>
+-    <field name="unitdate_end_si">1900</field>
+     <field name="unitdate_ssm">Inclusive, 1900 -1904</field>
+-    <field name="date_range_sim">1801-1900</field>
++    <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">778</field>
+   </doc>
+ </add>

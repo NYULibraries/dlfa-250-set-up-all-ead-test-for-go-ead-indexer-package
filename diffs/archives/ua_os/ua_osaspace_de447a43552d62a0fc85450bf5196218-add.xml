@@ -1,2 +1,11 @@
-33a34
->     <field name="location_ssm">Flat-File-Folder: 2</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,6 +31,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Flat-File-Folder: 2</field>
++    <field name="location_ssm">Flat-File-Folder: 2</field>
+     <field name="location_ssm">Flat-File-Folder: 3</field>
+     <field name="location_ssm">Flat-File-Folder: 4</field>
+     <field name="location_ssm">Flat-File-Folder: 1</field>

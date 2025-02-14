@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">Program Committee:&amp;nbsp;Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
----
->     <field name="unittitle_ssm">Program Committee: Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
-39c39
-<     <field name="series_si">Series I: Communist Party National Organizational Bureau and Department &gt;&gt; Subseries I.E: National Bodies &gt;&gt; Program Committee:&amp;nbsp;Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
----
->     <field name="series_si">Series I: Communist Party National Organizational Bureau and Department &gt;&gt; Subseries I.E: National Bodies &gt;&gt; Program Committee: Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Daniel Rubin Papers</field>
+     <field name="collection_unitid_ssm">TAM.657</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Program Committee:&amp;nbsp;Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
++    <field name="unittitle_ssm">Program Committee: Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
+     <field name="unittitle_teim">Program Committee: Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
+     <field name="unitdate_normal_ssm">1990/1990</field>
+     <field name="unitdate_normal_teim">1990/1990</field>
+@@ -36,7 +36,7 @@
+     <field name="collection_unitid_teim">TAM.657</field>
+     <field name="series_sim">Series I: Communist Party National Organizational Bureau and Department</field>
+     <field name="series_sim">Subseries I.E: National Bodies</field>
+-    <field name="series_si">Series I: Communist Party National Organizational Bureau and Department &gt;&gt; Subseries I.E: National Bodies &gt;&gt; Program Committee:&amp;nbsp;Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
++    <field name="series_si">Series I: Communist Party National Organizational Bureau and Department &gt;&gt; Subseries I.E: National Bodies &gt;&gt; Program Committee: Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
+     <field name="heading_ssm">Program Committee: Tape VIII: Side A: Kendra Discussion Peace Danny on National Oppression, Kendra Disc on N.O. Side B: Kendra Discussion National Oppression, Fern on Women</field>
+     <field name="unitdate_start_sim">1990</field>
+     <field name="unitdate_start_ssm">1990</field>

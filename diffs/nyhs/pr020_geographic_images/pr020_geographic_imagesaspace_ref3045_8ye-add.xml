@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">Named Streets</field>
----
->     <field name="parent_unittitles_ssm">Numbered Streets</field>
-18c18
-<     <field name="parent_unittitles_teim">Named Streets</field>
----
->     <field name="parent_unittitles_teim">Numbered Streets</field>
-40,41c40,41
-<     <field name="series_sim">Named Streets</field>
-<     <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Named Streets &gt;&gt; Broadway - Chambers Street north to Canal Street</field>
----
->     <field name="series_sim">Numbered Streets</field>
->     <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Numbered Streets &gt;&gt; Broadway - Chambers Street north to Canal Street</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+     <field name="parent_unittitles_ssm">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+     <field name="parent_unittitles_ssm">Manhattan - Flat Material - Photos - Street Views</field>
+-    <field name="parent_unittitles_ssm">Named Streets</field>
++    <field name="parent_unittitles_ssm">Numbered Streets</field>
+     <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+     <field name="parent_unittitles_teim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+     <field name="parent_unittitles_teim">Manhattan - Flat Material - Photos - Street Views</field>
+-    <field name="parent_unittitles_teim">Named Streets</field>
++    <field name="parent_unittitles_teim">Numbered Streets</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+@@ -37,8 +37,8 @@
+     <field name="series_sim">Series I: New York City Views - Manhattan</field>
+     <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+     <field name="series_sim">Manhattan - Flat Material - Photos - Street Views</field>
+-    <field name="series_sim">Named Streets</field>
+-    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Named Streets &gt;&gt; Broadway - Chambers Street north to Canal Street</field>
++    <field name="series_sim">Numbered Streets</field>
++    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Numbered Streets &gt;&gt; Broadway - Chambers Street north to Canal Street</field>
+     <field name="heading_ssm">Broadway - Chambers Street north to Canal Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1576</field>

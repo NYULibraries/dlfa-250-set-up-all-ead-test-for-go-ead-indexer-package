@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Series I:&amp;nbsp;&lt;em&gt;New York Teacher&lt;/em&gt;&amp;nbsp;Photograph Files</field>
----
->     <field name="unittitle_ssm">Series I: &lt;em&gt;New York Teacher&lt;/em&gt; Photograph Files</field>
-28c28
-<     <field name="series_si">Series I:&amp;nbsp;&lt;em&gt;New York Teacher&lt;/em&gt;&amp;nbsp;Photograph Files</field>
----
->     <field name="series_si">Series I: &lt;em&gt;New York Teacher&lt;/em&gt; Photograph Files</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">United Federation of Teachers Photographs</field>
+     <field name="collection_unitid_ssm">PHOTOS.019</field>
+     <field name="level_sim">series</field>
+-    <field name="unittitle_ssm">Series I:&amp;nbsp;&lt;em&gt;New York Teacher&lt;/em&gt;&amp;nbsp;Photograph Files</field>
++    <field name="unittitle_ssm">Series I: &lt;em&gt;New York Teacher&lt;/em&gt; Photograph Files</field>
+     <field name="unittitle_teim">Series I: New York Teacher Photograph Files</field>
+     <field name="unitdate_normal_ssm">1951/1987</field>
+     <field name="unitdate_normal_teim">1951/1987</field>
+@@ -25,7 +25,7 @@
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">United Federation of Teachers Photographs</field>
+     <field name="collection_unitid_teim">PHOTOS.019</field>
+-    <field name="series_si">Series I:&amp;nbsp;&lt;em&gt;New York Teacher&lt;/em&gt;&amp;nbsp;Photograph Files</field>
++    <field name="series_si">Series I: &lt;em&gt;New York Teacher&lt;/em&gt; Photograph Files</field>
+     <field name="heading_ssm">Series I: New York Teacher Photograph Files</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>

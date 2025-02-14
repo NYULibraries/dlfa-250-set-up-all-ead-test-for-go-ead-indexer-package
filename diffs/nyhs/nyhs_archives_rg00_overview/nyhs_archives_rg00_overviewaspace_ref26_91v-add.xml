@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the New-York Historical Society Pictorial Archive.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Pictorial Archive.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">NYHS-RG 5. Pictorial archive (1804-2009, bulk 1900s-1970s)</field>
+     <field name="unittitle_teim">NYHS-RG 5. Pictorial archive (1804-2009, bulk 1900s-1970s)</field>
+     <field name="scopecontent_teim">The N-YHS pictorial archive contains photographs, sketches, and drawings relating to the history of the New-York Historical Society: its buildings, exhibits, programs, staff, and officers. Most of the collection consists of photographs. </field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the New-York Historical Society Pictorial Archive.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the New-York Historical Society Pictorial Archive.</field>
+     <field name="ref_ssi">aspace_ref26_91v</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,2 +1,11 @@
-23d22
-<     <field name="bioghist_teim"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,6 @@
+     <field name="unitdate_inclusive_teim">1930-1956</field>
+     <field name="scopecontent_teim">The records contain clippings, correspondence, ephemera, legal documents, manuscripts, minutes, press releases, printed materials, and reports, arranged alphabetically. The material documents the political activities of the IWO and several of its constituent groups, notably the Jewish Peoples Fraternal Order (including Yiddish-language material), the New York State Department of Insurance case against the IWO, and the Ingram Case, a 1940's court case in which a black woman and her two sons were sentenced to death for the murder of a white man. IWO leaders represented include Max Bedacht (general secretary), Walter B. Garland, and Sam Milgrom (executive secretary). There is also an unpublished manuscript, "Jewish People's Fraternal Order of the International Workers Order" (1950, 35 pp.), by Lucy S. Davidowitz (later known as Lucy S. Dawidowicz), a critical history focusing on the JPFO's relationship with the Communist movement. Several photographs were removed to the library's Nonprint collection.</field>
+     <field name="bioghist_teim">The International Workers Order (IWO), a Communist-affiliated, ethnically organized fraternal order, was founded in 1930 following a split from the Workmen's Circle, the Jewish labor fraternal order. Max Bedacht, the IWO general secretary from 1932-1946, also served on the Communist Party's Political Bureau. At its peak, shortly after World War II, the IWO had almost 200,000 members, including 50,000 in the Jewish Peoples Fraternal Order. The IWO provided low-cost health and life insurance, medical and dental clinics, and the individual sections supported foreign-language newspapers, and a range of cultural and educational activities and institutions, including children's camps and cultural schools. The placement of the IWO on the Attorney General's list of subversive organizations in 1947 was the first of a series of events that led to the liquidation of the IWO in 1954, after it had lost its tax exempt status and insurance charter.</field>
+-    <field name="bioghist_teim"> </field>
+     <field name="acqinfo_teim">Donated by William Goldsmith, 1960. The accession number associated with this gift is 1960.002</field>
+     <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+     <field name="corpname_teim">International Workers Order</field>

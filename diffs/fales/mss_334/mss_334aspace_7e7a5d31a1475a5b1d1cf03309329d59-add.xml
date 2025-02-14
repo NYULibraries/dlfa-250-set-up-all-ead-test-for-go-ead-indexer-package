@@ -1,8 +1,21 @@
-12c12
-<     <field name="unittitle_ssm">Poetry at Lab 2&amp;nbsp;-&amp;nbsp;Camilla Norris - Peyton Houston</field>
----
->     <field name="unittitle_ssm">Poetry at Lab 2 - Camilla Norris - Peyton Houston</field>
-28c28
-<     <field name="series_si">Poetry at Lab 2&amp;nbsp;-&amp;nbsp;Camilla Norris - Peyton Houston</field>
----
->     <field name="series_si">Poetry at Lab 2 - Camilla Norris - Peyton Houston</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">Elliot Glass and Ken Marsh Video Collection</field>
+     <field name="collection_unitid_ssm">MSS.334</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Poetry at Lab 2&amp;nbsp;-&amp;nbsp;Camilla Norris - Peyton Houston</field>
++    <field name="unittitle_ssm">Poetry at Lab 2 - Camilla Norris - Peyton Houston</field>
+     <field name="unittitle_teim">Poetry at Lab 2 - Camilla Norris - Peyton Houston</field>
+     <field name="unitid_teim">334.0353</field>
+     <field name="unitid_ssm">334.0353</field>
+@@ -25,7 +25,7 @@
+     <field name="location_si">Box: 17, reel: 334.0353</field>
+     <field name="collection_teim">Elliot Glass and Ken Marsh Video Collection</field>
+     <field name="collection_unitid_teim">MSS.334</field>
+-    <field name="series_si">Poetry at Lab 2&amp;nbsp;-&amp;nbsp;Camilla Norris - Peyton Houston</field>
++    <field name="series_si">Poetry at Lab 2 - Camilla Norris - Peyton Houston</field>
+     <field name="heading_ssm">Poetry at Lab 2 - Camilla Norris - Peyton Houston</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

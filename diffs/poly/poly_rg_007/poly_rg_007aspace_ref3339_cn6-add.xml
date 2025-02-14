@@ -1,2 +1,11 @@
-33a34
->     <field name="location_ssm">box: 31, folder: 30</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,6 +31,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">box: 31, folder: 30</field>
++    <field name="location_ssm">box: 31, folder: 30</field>
+     <field name="location_si">box: 31, folder: 30</field>
+     <field name="collection_teim">Administrative Papers of Chancellor George Bugliarello</field>
+     <field name="collection_unitid_teim">RG.007</field>

@@ -1,4 +1,19 @@
-158d157
-<     <field name="title_teim"> </field>
-206d204
-<     <field name="title_ssm"> </field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -155,7 +155,6 @@
+     <field name="title_teim">The Advocate</field>
+     <field name="title_teim">Out</field>
+     <field name="title_teim">Life Outside</field>
+-    <field name="title_teim"> </field>
+     <field name="title_teim">Queer in America</field>
+     <field name="title_teim">Outing Yourself</field>
+     <field name="title_teim">Life Outside: The Signorile Report on Gay Men: Sex, Drugs, Muscles and the Passages of Life</field>
+@@ -203,7 +202,6 @@
+     <field name="title_ssm">The Advocate</field>
+     <field name="title_ssm">Out</field>
+     <field name="title_ssm">Life Outside</field>
+-    <field name="title_ssm"> </field>
+     <field name="title_ssm">Queer in America</field>
+     <field name="title_ssm">Outing Yourself</field>
+     <field name="title_ssm">Life Outside: The Signorile Report on Gay Men: Sex, Drugs, Muscles and the Passages of Life</field>

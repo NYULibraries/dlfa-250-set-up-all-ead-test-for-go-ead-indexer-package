@@ -1,21 +1,29 @@
-18,32c18,21
-<     <field name="scopecontent_teim">
-<       Folder: C.C. Bragg residence, Avondale, OH
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Train, Arthur C., 120 E. 70th St., 2 color renderings
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: United States Post Office, New Haven, CT Elevations, plans, sections
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Long Island Historical Society, Pierrepont St. elevation
-<     </field>
----
->     <field name="scopecontent_teim">Folder: C.C. Bragg residence, Avondale, OH</field>
->     <field name="scopecontent_teim">Folder: Train, Arthur C., 120 E. 70th St., 2 color renderings</field>
->     <field name="scopecontent_teim">Folder: United States Post Office, New Haven, CT Elevations, plans, sections</field>
->     <field name="scopecontent_teim">Folder: Long Island Historical Society, Pierrepont St. elevation</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,21 +15,10 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">[2NW, Unit 8A, Case 38, Drawer 14]</field>
+     <field name="unittitle_teim">[2NW, Unit 8A, Case 38, Drawer 14]</field>
+-    <field name="scopecontent_teim">
+-      Folder: C.C. Bragg residence, Avondale, OH
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Train, Arthur C., 120 E. 70th St., 2 color renderings
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: United States Post Office, New Haven, CT Elevations, plans, sections
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Long Island Historical Society, Pierrepont St. elevation
+-    </field>
++    <field name="scopecontent_teim">Folder: C.C. Bragg residence, Avondale, OH</field>
++    <field name="scopecontent_teim">Folder: Train, Arthur C., 120 E. 70th St., 2 color renderings</field>
++    <field name="scopecontent_teim">Folder: United States Post Office, New Haven, CT Elevations, plans, sections</field>
++    <field name="scopecontent_teim">Folder: Long Island Historical Society, Pierrepont St. elevation</field>
+     <field name="ref_ssi">aspace_835cec6450e83531e33d4a8e654e0c24</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,14 +1,28 @@
-14c14
-<     <field name="parent_unittitles_ssm">i. AA Alone</field>
----
->     <field name="parent_unittitles_ssm">iv. AA's painting activity</field>
-18c18
-<     <field name="parent_unittitles_teim">i. AA Alone</field>
----
->     <field name="parent_unittitles_teim">iv. AA's painting activity</field>
-46,47c46,47
-<     <field name="series_sim">i. AA Alone</field>
-<     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; i. AA Alone &gt;&gt; AA</field>
----
->     <field name="series_sim">iv. AA's painting activity</field>
->     <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iv. AA's painting activity &gt;&gt; AA</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_ssm">Subseries A: The Actons</field>
+     <field name="parent_unittitles_ssm">1 Acton, Arthur</field>
+-    <field name="parent_unittitles_ssm">i. AA Alone</field>
++    <field name="parent_unittitles_ssm">iv. AA's painting activity</field>
+     <field name="parent_unittitles_teim">Series VIII: Images on glass</field>
+     <field name="parent_unittitles_teim">Subseries A: The Actons</field>
+     <field name="parent_unittitles_teim">1 Acton, Arthur</field>
+-    <field name="parent_unittitles_teim">i. AA Alone</field>
++    <field name="parent_unittitles_teim">iv. AA's painting activity</field>
+     <field name="component_level_isim">5</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">The Acton Photograph Archive</field>
+@@ -43,8 +43,8 @@
+     <field name="series_sim">Series VIII: Images on glass</field>
+     <field name="series_sim">Subseries A: The Actons</field>
+     <field name="series_sim">1 Acton, Arthur</field>
+-    <field name="series_sim">i. AA Alone</field>
+-    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; i. AA Alone &gt;&gt; AA</field>
++    <field name="series_sim">iv. AA's painting activity</field>
++    <field name="series_si">Series VIII: Images on glass &gt;&gt; Subseries A: The Actons &gt;&gt; 1 Acton, Arthur &gt;&gt; iv. AA's painting activity &gt;&gt; AA</field>
+     <field name="heading_ssm">AA</field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>

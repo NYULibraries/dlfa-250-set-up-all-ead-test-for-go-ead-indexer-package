@@ -1,12 +1,20 @@
-24,31c24,25
-<     <field name="scopecontent_teim">
-<       Folder: Cleveland Trust Co., 4th Floor plans, basement to 3rd floor
-<       
-<     </field>
-<     <field name="scopecontent_teim">
-<       Folder: Governor Clinton Hotel, blueprints originally in tube 161
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Folder: Cleveland Trust Co., 4th Floor plans, basement to 3rd floor</field>
->     <field name="scopecontent_teim">Folder: Governor Clinton Hotel, blueprints originally in tube 161</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,14 +21,8 @@
+ ........George Washington University
+ ........Unidentified
+ ........Western University of Pennsylvania</field>
+-    <field name="scopecontent_teim">
+-      Folder: Cleveland Trust Co., 4th Floor plans, basement to 3rd floor
+-      
+-    </field>
+-    <field name="scopecontent_teim">
+-      Folder: Governor Clinton Hotel, blueprints originally in tube 161
+-      
+-    </field>
++    <field name="scopecontent_teim">Folder: Cleveland Trust Co., 4th Floor plans, basement to 3rd floor</field>
++    <field name="scopecontent_teim">Folder: Governor Clinton Hotel, blueprints originally in tube 161</field>
+     <field name="scopecontent_teim">Folder: Project for St. Thomas Church, New York City
+ ........5 drawings interior perspectives, façade on 5th Avenue</field>
+     <field name="scopecontent_teim">Folder: Public Service Corporation, NJ

@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Magazine Development Group Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Magazine Development Group Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 40. Time Inc. Magazine Development Group Records (1967-1987, 2003)</field>
+     <field name="unittitle_teim">RG 40. Time Inc. Magazine Development Group Records (1967-1987, 2003)</field>
+     <field name="scopecontent_teim">The Magazine Development Group (MDG) Records contains records from two versions of this group documenting the processes for and progress on development of new magazines at Time Inc. between 1973 and 1987. The first MDG developed and launched People and Life Special Reports. The second MDG worked extensively on Picture Week.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Magazine Development Group Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Magazine Development Group Records.</field>
+     <field name="title_teim">People</field>
+     <field name="title_teim">Life</field>
+     <field name="title_teim">Picture Week</field>

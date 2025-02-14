@@ -1,2 +1,11 @@
-31a32
->     <field name="location_ssm">Box: 82, Folder: 17-18</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -29,6 +29,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 82, Folder: 17-18</field>
+     <field name="location_ssm">Box: 85, Folder: 3-8</field>
++    <field name="location_ssm">Box: 82, Folder: 17-18</field>
+     <field name="location_ssm">Box: 227, Folder: 8</field>
+     <field name="location_si">Box: 227, Folder: 8</field>
+     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Collection of Communist and Socialist Serials</field>

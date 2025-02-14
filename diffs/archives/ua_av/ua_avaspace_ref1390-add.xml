@@ -1,2 +1,11 @@
-30a31
->     <field name="location_ssm">Box: 75, Cassette: 2896</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,6 +28,7 @@
+     <field name="format_sim">Archival Object</field>
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 75, Cassette: 2896</field>
++    <field name="location_ssm">Box: 75, Cassette: 2896</field>
+     <field name="location_ssm">Box: 75, reel: 2896</field>
+     <field name="location_si">Box: 75, reel: 2896</field>
+     <field name="name_sim">Breslin, Jimmy</field>

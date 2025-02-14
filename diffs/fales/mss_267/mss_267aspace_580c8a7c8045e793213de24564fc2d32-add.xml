@@ -1,2 +1,11 @@
-33a34
->     <field name="location_ssm">Box: 61, Folder: 4</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -31,6 +31,7 @@
+     <field name="location_ssm">Box: 59, Folder: 11, 12, 13</field>
+     <field name="location_ssm">Box: 61, Folder: Unknown</field>
+     <field name="location_ssm">Box: 61, Folder: 4</field>
++    <field name="location_ssm">Box: 61, Folder: 4</field>
+     <field name="location_ssm">Box: 78, Folder: 8</field>
+     <field name="location_si">Box: 78, Folder: 8</field>
+     <field name="collection_teim">Alan Sondheim Papers</field>

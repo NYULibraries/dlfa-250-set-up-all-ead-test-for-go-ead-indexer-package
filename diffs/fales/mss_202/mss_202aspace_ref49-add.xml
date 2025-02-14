@@ -1,6 +1,14 @@
-26,28c26
-<     <field name="phystech_teim">
-<        Description:
-<     </field>
----
->     <field name="phystech_teim"> Description:</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,9 +23,7 @@
+        Title: Terrace 
+     </field>
+     <field name="unitdate_teim">1978-1979</field>
+-    <field name="phystech_teim">
+-       Description:
+-    </field>
++    <field name="phystech_teim"> Description:</field>
+     <field name="phystech_teim"> Process: Silver Gelatin </field>
+     <field name="phystech_teim"> Number of Items:  1 </field>
+     <field name="ref_ssi">aspace_ref49</field>

@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Production Department Records.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Production Department Records.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 36. Time Inc. Production Department Records (1947-1969)</field>
+     <field name="unittitle_teim">RG 36. Time Inc. Production Department Records (1947-1969)</field>
+     <field name="scopecontent_teim">The Production Department was responsible for overseeing the production of Time Inc. magazines. One aspect of this was overseeing the supply of paper products from the East Texas Pulp and Paper Company (Eastex).</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Production Department Records.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Production Department Records.</field>
+     <field name="ref_ssi">aspace_a5969c4949621a0e6e95a6d22374ae3c</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

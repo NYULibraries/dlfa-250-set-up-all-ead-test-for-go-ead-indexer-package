@@ -1,8 +1,21 @@
-19c19
-<     <field name="unittitle_ssm">&lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="unittitle_ssm">&lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
-43c43
-<     <field name="series_si">Series III: American Committee for Cultural Freedom &gt;&gt; Subseries J: Miscellaneous Activities &gt;&gt; &lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
----
->     <field name="series_si">Series III: American Committee for Cultural Freedom &gt;&gt; Subseries J: Miscellaneous Activities &gt;&gt; &lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">American Committee for Cultural Freedom Records</field>
+     <field name="collection_unitid_ssm">TAM.023</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="unittitle_ssm">&lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
+     <field name="unittitle_teim">The Nation Libel Suit Against the New Leader (Support for the New Leader) </field>
+     <field name="unitdate_normal_ssm">1951/1954</field>
+     <field name="unitdate_normal_teim">1951/1954</field>
+@@ -40,7 +40,7 @@
+     <field name="collection_unitid_teim">TAM.023</field>
+     <field name="series_sim">Series III: American Committee for Cultural Freedom</field>
+     <field name="series_sim">Subseries J: Miscellaneous Activities</field>
+-    <field name="series_si">Series III: American Committee for Cultural Freedom &gt;&gt; Subseries J: Miscellaneous Activities &gt;&gt; &lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
++    <field name="series_si">Series III: American Committee for Cultural Freedom &gt;&gt; Subseries J: Miscellaneous Activities &gt;&gt; &lt;em&gt;The Nation&lt;/em&gt; Libel Suit Against the &lt;em&gt;New Leader&lt;/em&gt; (Support for the &lt;em&gt;New Leader&lt;/em&gt;) &lt;em&gt;&lt;/em&gt;</field>
+     <field name="heading_ssm">The Nation Libel Suit Against the New Leader (Support for the New Leader) </field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>

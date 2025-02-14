@@ -1,8 +1,21 @@
-16c16
-<     <field name="unittitle_ssm">Prevost 40: Statuary at Crystal Palace [&amp;lt;emph render="italic"&amp;gt;Eve&amp;lt;/emph&amp;gt;] (4 copies)</field>
----
->     <field name="unittitle_ssm">Prevost 40: Statuary at Crystal Palace [&lt;em&gt;Eve&lt;/em&gt;] (4 copies)</field>
-31c31
-<     <field name="series_si">Series II. Contact Prints from Calotype Negatives &gt;&gt; Prevost 40: Statuary at Crystal Palace [&amp;lt;emph render="italic"&amp;gt;Eve&amp;lt;/emph&amp;gt;] (4 copies)</field>
----
->     <field name="series_si">Series II. Contact Prints from Calotype Negatives &gt;&gt; Prevost 40: Statuary at Crystal Palace [&lt;em&gt;Eve&lt;/em&gt;] (4 copies)</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Victor Prevost Photograph Collection</field>
+     <field name="collection_unitid_ssm">PR 56</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Prevost 40: Statuary at Crystal Palace [&amp;lt;emph render="italic"&amp;gt;Eve&amp;lt;/emph&amp;gt;] (4 copies)</field>
++    <field name="unittitle_ssm">Prevost 40: Statuary at Crystal Palace [&lt;em&gt;Eve&lt;/em&gt;] (4 copies)</field>
+     <field name="unittitle_teim">Prevost 40: Statuary at Crystal Palace [Eve] (4 copies)</field>
+     <field name="title_teim">Eve</field>
+     <field name="title_ssm">Eve</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_teim">Victor Prevost Photograph Collection</field>
+     <field name="collection_unitid_teim">PR 56</field>
+     <field name="series_sim">Series II. Contact Prints from Calotype Negatives</field>
+-    <field name="series_si">Series II. Contact Prints from Calotype Negatives &gt;&gt; Prevost 40: Statuary at Crystal Palace [&amp;lt;emph render="italic"&amp;gt;Eve&amp;lt;/emph&amp;gt;] (4 copies)</field>
++    <field name="series_si">Series II. Contact Prints from Calotype Negatives &gt;&gt; Prevost 40: Statuary at Crystal Palace [&lt;em&gt;Eve&lt;/em&gt;] (4 copies)</field>
+     <field name="heading_ssm">Prevost 40: Statuary at Crystal Palace [Eve] (4 copies)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">86</field>

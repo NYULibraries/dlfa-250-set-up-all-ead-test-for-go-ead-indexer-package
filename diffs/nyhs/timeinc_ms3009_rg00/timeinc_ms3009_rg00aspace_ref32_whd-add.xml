@@ -1,8 +1,16 @@
-15,19c15
-<     <field name="scopecontent_teim">
-<       
-<         Click here to link to the Guide to the Time Inc. Architectural Forum and  House &amp; Home Editorial Records: Managing Editor Edgar P. Smith Files.
-<       
-<     </field>
----
->     <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Architectural Forum and  House &amp; Home Editorial Records: Managing Editor Edgar P. Smith Files.</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,11 +12,7 @@
+     <field name="unittitle_ssm">RG 12. Time Inc. &lt;em&gt;Architectural Forum&lt;/em&gt; and &lt;em&gt;House &amp;amp; Home&lt;/em&gt; Editorial Records: Managing Editor Edgar P. Smith Files (1952-1962)</field>
+     <field name="unittitle_teim">RG 12. Time Inc. Architectural Forum and House &amp; Home Editorial Records: Managing Editor Edgar P. Smith Files (1952-1962)</field>
+     <field name="scopecontent_teim">Contains Edgar P. Smith's records regarding the evaluation and possible sale of Architectural Forum and  House &amp; Home. Architectural Forum was a professional journal focused on design and modern architecture, and House &amp; Home was a trade magazine for building and buying new houses.</field>
+-    <field name="scopecontent_teim">
+-      
+-        Click here to link to the Guide to the Time Inc. Architectural Forum and  House &amp; Home Editorial Records: Managing Editor Edgar P. Smith Files.
+-      
+-    </field>
++    <field name="scopecontent_teim">Click here to link to the Guide to the Time Inc. Architectural Forum and  House &amp; Home Editorial Records: Managing Editor Edgar P. Smith Files.</field>
+     <field name="title_teim">Architectural Forum</field>
+     <field name="title_teim">House &amp; Home</field>
+     <field name="title_teim">Architectural Forum</field>

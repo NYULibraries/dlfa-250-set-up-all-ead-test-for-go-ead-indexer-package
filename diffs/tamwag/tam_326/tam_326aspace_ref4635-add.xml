@@ -1,28 +1,41 @@
-19,28c19,20
-<     <field name="unittitle_ssm">
-<       Egea Cordoba, Miguel
-<       
-<       Egea Cordoba, Paule
-<     </field>
-<     <field name="unittitle_teim">
-<       Egea Cordoba, Miguel
-<       
-<       Egea Cordoba, Paule
-<     </field>
----
->     <field name="unittitle_ssm">Egea Cordoba, MiguelEgea Cordoba, Paule</field>
->     <field name="unittitle_teim">Egea Cordoba, MiguelEgea Cordoba, Paule</field>
-57,66c49,50
-<     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
-<       Egea Cordoba, Miguel
-<       
-<       Egea Cordoba, Paule
-<     </field>
-<     <field name="heading_ssm">
-<       Egea Cordoba, Miguel
-<       
-<       Egea Cordoba, Paule
-<     </field>
----
->     <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Egea Cordoba, MiguelEgea Cordoba, Paule</field>
->     <field name="heading_ssm">Egea Cordoba, MiguelEgea Cordoba, Paule</field>
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,16 +16,8 @@
+     <field name="collection_ssm">Spanish Refugee Aid Records</field>
+     <field name="collection_unitid_ssm">TAM.326</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">
+-      Egea Cordoba, Miguel
+-      
+-      Egea Cordoba, Paule
+-    </field>
+-    <field name="unittitle_teim">
+-      Egea Cordoba, Miguel
+-      
+-      Egea Cordoba, Paule
+-    </field>
++    <field name="unittitle_ssm">Egea Cordoba, MiguelEgea Cordoba, Paule</field>
++    <field name="unittitle_teim">Egea Cordoba, MiguelEgea Cordoba, Paule</field>
+     <field name="unitid_teim">c1964</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/247000</field>
+     <field name="unitid_ssm">c1964</field>
+@@ -54,16 +46,8 @@
+     <field name="collection_unitid_teim">TAM.326</field>
+     <field name="series_sim">Series I: Case Files</field>
+     <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+-      Egea Cordoba, Miguel
+-      
+-      Egea Cordoba, Paule
+-    </field>
+-    <field name="heading_ssm">
+-      Egea Cordoba, Miguel
+-      
+-      Egea Cordoba, Paule
+-    </field>
++    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Egea Cordoba, MiguelEgea Cordoba, Paule</field>
++    <field name="heading_ssm">Egea Cordoba, MiguelEgea Cordoba, Paule</field>
+     <field name="unitdate_start_sim">1940</field>
+     <field name="unitdate_start_ssm">1940</field>
+     <field name="unitdate_start_si">1940</field>
