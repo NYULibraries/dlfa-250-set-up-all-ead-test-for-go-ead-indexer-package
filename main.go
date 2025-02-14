@@ -7,22 +7,29 @@ import (
 	"github.com/nyulibraries/go-ead-indexer/pkg/ead/collectiondoc"
 	"github.com/nyulibraries/go-ead-indexer/pkg/ead/component"
 	"github.com/nyulibraries/go-ead-indexer/pkg/ead/eadutil"
+	"github.com/nyulibraries/go-ead-indexer/pkg/util"
 	"io/fs"
 	"log"
 	"os"
 	"path/filepath"
+	"regexp"
 	"runtime"
 	"slices"
 	"strings"
 	"time"
 )
 
-const goldenFileSuffix = "-add.xml"
+const actualFileSuffix = "-add.xml"
+const diffFileSuffix = "-add.txt"
+const goldenFileSuffix = "-add.txt"
 
+var diffsDirPath string
 var eadDirPath string
 var goldenFilesDirPath string
 var rootPath string
 var tmpFilesDirPath string
+
+var httpHeadersRegExp = regexp.MustCompile("(?ms)^POST.*\r\n\r\n")
 
 // We need to get the absolute path to this package in order to get the absolute
 // path to the tmp/ directory.  We don't want the wrong directories clobbered by
@@ -47,11 +54,19 @@ func abortBadUsage(err error) {
 }
 
 func clean() error {
-	err := os.RemoveAll(tmpFilesDirPath)
+	err := os.RemoveAll(diffsDirPath)
+	if err != nil {
+		return err
+	}
+	err = os.MkdirAll(diffsDirPath, 0700)
 	if err != nil {
 		return err
 	}
 
+	err = os.RemoveAll(tmpFilesDirPath)
+	if err != nil {
+		return err
+	}
 	err = os.MkdirAll(tmpFilesDirPath, 0700)
 	if err != nil {
 		return err
@@ -82,7 +97,7 @@ func getGoldenFileIDs(eadID string) []string {
 				!strings.HasSuffix(path, "-commit-add") {
 
 				goldenFileIDs = append(goldenFileIDs, strings.TrimSuffix(filepath.Base(path),
-					"-add.xml"))
+					"-add.txt"))
 			}
 			return nil
 		})
@@ -101,11 +116,18 @@ func getGoldenFileIDs(eadID string) []string {
 }
 
 func getGoldenFilePath(testEAD string, fileID string) string {
-	return filepath.Join(goldenFilesDirPath, testEAD, fileID+"-add.xml")
+	return filepath.Join(goldenFilesDirPath, testEAD, fileID+"-add.txt")
 }
 
 func getGoldenFileValue(eadID string, fileID string) (string, error) {
-	return getTestdataFileContents(getGoldenFilePath(eadID, fileID))
+	fileContents, err := getTestdataFileContents(getGoldenFilePath(eadID, fileID))
+	if err != nil {
+		return "", err
+	}
+
+	xmlBody := httpHeadersRegExp.ReplaceAllString(fileContents, "")
+
+	return xmlBody, nil
 }
 
 func getTestdataFileContents(filename string) (string, error) {
@@ -180,9 +202,10 @@ func setDirectoryPaths() {
 
 	goldenFilesDirPath, err = filepath.Abs(args[2])
 	if err != nil || !isDirectory(goldenFilesDirPath) || !strings.HasSuffix(goldenFilesDirPath, "http-requests") {
-		abortBadUsage(fmt.Errorf(`Path "%s" is not a valid dlfa-188_v1-indexer-http-requests-xml repo http-requests/ subdirectory`, args[2]))
+		abortBadUsage(fmt.Errorf(`Path "%s" is not a valid dlfa-188_v1-indexer-http-requests repo http-requests/ subdirectory`, args[2]))
 	}
 
+	diffsDirPath = filepath.Join(rootPath, "diffs")
 	tmpFilesDirPath = filepath.Join(rootPath, "tmp", "actual")
 }
 
@@ -190,17 +213,13 @@ func testCollectionDocSolrAddMessage(testEAD string,
 	solrAddMessage collectiondoc.SolrAddMessage) error {
 	eadID := parseEADID(testEAD)
 
-	prettified := eadutil.PrettifySolrAddMessageXML(fmt.Sprintf("%s", solrAddMessage))
-
-	return testSolrAddMessageXML(testEAD, eadID, prettified)
+	return testSolrAddMessageXML(testEAD, eadID, fmt.Sprintf("%s", solrAddMessage))
 }
 
 func testComponentSolrAddMessage(testEAD string, fileID string,
 	solrAddMessage component.SolrAddMessage) error {
 
-	prettified := eadutil.PrettifySolrAddMessageXML(fmt.Sprintf("%s", solrAddMessage))
-
-	return testSolrAddMessageXML(testEAD, fileID, prettified)
+	return testSolrAddMessageXML(testEAD, fileID, fmt.Sprintf("%s", solrAddMessage))
 }
 
 func testNoMissingComponents(testEAD string, componentIDs []string) error {
@@ -253,14 +272,29 @@ func testSolrAddMessageXML(testEAD string, fileID string,
 				testEAD, fileID, err)
 		}
 
+		prettifiedGolden := eadutil.PrettifySolrAddMessageXML(goldenValue)
+		prettifiedActual := eadutil.PrettifySolrAddMessageXML(actualValue)
+
+		diff := util.DiffStrings("golden [PRETTIFIED]", prettifiedGolden,
+			"actual [PRETTIFIED]", prettifiedActual)
+		err = writeDiffFile(testEAD, fileID, diff)
+		if err != nil {
+			return fmt.Errorf("Error writing diff file for test case \"%s/%s\": %s",
+				testEAD, fileID, err)
+		}
+
 		return fmt.Errorf("%s golden and actual values do not match\n", fileID)
 	}
 
 	return nil
 }
 
+func diffFile(testEAD string, fileID string) string {
+	return filepath.Join(diffsDirPath, testEAD, fileID+diffFileSuffix)
+}
+
 func tmpFile(testEAD string, fileID string) string {
-	return filepath.Join(tmpFilesDirPath, testEAD, fileID+goldenFileSuffix)
+	return filepath.Join(tmpFilesDirPath, testEAD, fileID+actualFileSuffix)
 }
 
 func usage() {
@@ -275,6 +309,16 @@ func writeActualSolrXMLToTmp(testEAD string, fileID string, actual string) error
 	}
 
 	return os.WriteFile(tmpFile, []byte(actual), 0644)
+}
+
+func writeDiffFile(testEAD string, fileID string, diff string) error {
+	diffFile := diffFile(testEAD, fileID)
+	err := os.MkdirAll(filepath.Dir(diffFile), 0755)
+	if err != nil {
+		return err
+	}
+
+	return os.WriteFile(diffFile, []byte(diff), 0644)
 }
 
 func main() {

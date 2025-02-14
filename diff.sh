@@ -10,8 +10,6 @@ fi
 
 ROOT=$( cd "$(dirname "$0")" ; pwd -P )
 
-ACTUAL_DIR=$ROOT/tmp/actual
-DIFF_DIR=$ROOT/diffs
 LOG_DIR=$ROOT/logs
 
 # Local clone of https://github.com/NYULibraries/findingaids_eads_v2
@@ -25,24 +23,3 @@ time go run main.go \
     2>$LOG_DIR/$(date +"%Y-%m-%d_%H-%M-%S")_stderr.log \
     1>$LOG_DIR/$(date +"%Y-%m-%d_%H-%M-%S").log
 
-if [ $? -eq 0 ]
-then
-    # main.go automatically resolved $EAD_DIR and $GOLDEN_FILES_DIR to absolute
-    # paths and guaranteed they exist, but we need the absolute paths because
-    # the working directory is changed to $ACTUAL_DIR.
-    EAD_DIR=$( realpath $EAD_DIR )
-    GOLDEN_FILES_DIR=$( realpath $GOLDEN_FILES_DIR )
-
-    rm -fr ${DIFF_DIR:?}/*
-    cd $ACTUAL_DIR
-    for actualFile in $( find . -type f -name '*-add.xml' ! -name '*-commit-add.xml' )
-    do
-            repository=$( basename $( dirname $( dirname $actualFile ) ) )
-            eadid=$( basename $( dirname $actualFile ) )
-            diffDirectory=$DIFF_DIR/$repository/$eadid/
-            mkdir -p $diffDirectory
-            diffFile=$DIFF_DIR/$repository/$eadid/$( basename $actualFile )
-            goldenFile=$GOLDEN_FILES_DIR/$repository/$eadid/$( basename $actualFile | sed 's/\.txt$/.xml/' )
-            diff $goldenFile $actualFile > $diffFile
-    done
-fi
