@@ -1,18 +1,13 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -8,14 +8,14 @@
-     <field name="parent_ssm">aspace_33277ba6d1c54830cd138c57934eb934</field>
-     <field name="parent_ssm">aspace_21de2c640b214fe1816a2ebc04c24fd9</field>
-     <field name="parent_ssm">aspace_6dc803c405aa527b5ae1d4384e50a99a</field>
--    <field name="parent_unittitles_ssm">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
-+    <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
+@@ -11,11 +11,11 @@
+     <field name="parent_unittitles_ssm">Series I: New York Teacher Photograph Files</field>
      <field name="parent_unittitles_ssm">Subseries I:B: New York State United Teachers</field>
      <field name="parent_unittitles_ssm">Sub-subseries I:B:8: Schools and Students</field>
 -    <field name="parent_unittitles_ssm">Sub-sub-subseries I:B:8d: Colleges and Universities</field>
--    <field name="parent_unittitles_teim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
 +    <field name="parent_unittitles_ssm">Sub-sub-subseries I:B:8f: Miscellaneous</field>
-+    <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
+     <field name="parent_unittitles_teim">Series I: New York Teacher Photograph Files</field>
      <field name="parent_unittitles_teim">Subseries I:B: New York State United Teachers</field>
      <field name="parent_unittitles_teim">Sub-subseries I:B:8: Schools and Students</field>
 -    <field name="parent_unittitles_teim">Sub-sub-subseries I:B:8d: Colleges and Universities</field>
@@ -20,16 +15,12 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="component_level_isim">5</field>
      <field name="component_children_bsi">false</field>
      <field name="collection_sim">United Federation of Teachers Photographs</field>
-@@ -38,11 +38,11 @@
-     <field name="location_si">Box: 1, Folder: 0, Item: 35</field>
-     <field name="collection_teim">United Federation of Teachers Photographs</field>
-     <field name="collection_unitid_teim">PHOTOS.019</field>
--    <field name="series_sim">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files</field>
-+    <field name="series_sim">Series I: New York Teacher Photograph Files</field>
+@@ -41,8 +41,8 @@
+     <field name="series_sim">Series I: New York Teacher Photograph Files</field>
      <field name="series_sim">Subseries I:B: New York State United Teachers</field>
      <field name="series_sim">Sub-subseries I:B:8: Schools and Students</field>
 -    <field name="series_sim">Sub-sub-subseries I:B:8d: Colleges and Universities</field>
--    <field name="series_si">Series I:&amp;nbsp;New York Teacher&amp;nbsp;Photograph Files &gt;&gt; Subseries I:B: New York State United Teachers &gt;&gt; Sub-subseries I:B:8: Schools and Students &gt;&gt; Sub-sub-subseries I:B:8d: Colleges and Universities &gt;&gt; Shanker, Al, SUNY</field>
+-    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:B: New York State United Teachers &gt;&gt; Sub-subseries I:B:8: Schools and Students &gt;&gt; Sub-sub-subseries I:B:8d: Colleges and Universities &gt;&gt; Shanker, Al, SUNY</field>
 +    <field name="series_sim">Sub-sub-subseries I:B:8f: Miscellaneous</field>
 +    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:B: New York State United Teachers &gt;&gt; Sub-subseries I:B:8: Schools and Students &gt;&gt; Sub-sub-subseries I:B:8f: Miscellaneous &gt;&gt; Shanker, Al, SUNY</field>
      <field name="heading_ssm">Shanker, Al, SUNY</field>

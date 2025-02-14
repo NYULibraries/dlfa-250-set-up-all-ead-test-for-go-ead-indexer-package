@@ -168,6 +168,11 @@ func isDirectory(path string) bool {
 	return fileInfo.IsDir()
 }
 
+// https://jira.nyu.edu/browse/DLFA-243
+func massageGolden(golden string) string {
+	return strings.ReplaceAll(golden, "&amp;nbsp;", " ")
+}
+
 func parseEADID(testEAD string) string {
 	return filepath.Base(testEAD)
 }
@@ -265,17 +270,20 @@ func testSolrAddMessageXML(testEAD string, fileID string,
 		}
 	}
 
-	if actualValue != goldenValue {
+	// https://jira.nyu.edu/browse/DLFA-243
+	massagedGoldenValue := massageGolden(goldenValue)
+
+	if actualValue != massagedGoldenValue {
 		err := writeActualSolrXMLToTmp(testEAD, fileID, actualValue)
 		if err != nil {
 			return fmt.Errorf("Error writing actual temp file for test case \"%s/%s\": %s",
 				testEAD, fileID, err)
 		}
 
-		prettifiedGolden := eadutil.PrettifySolrAddMessageXML(goldenValue)
+		prettifiedMassagedGolden := eadutil.PrettifySolrAddMessageXML(massagedGoldenValue)
 		prettifiedActual := eadutil.PrettifySolrAddMessageXML(actualValue)
 
-		diff := util.DiffStrings("golden [PRETTIFIED]", prettifiedGolden,
+		diff := util.DiffStrings("golden [PRETTIFIED]", prettifiedMassagedGolden,
 			"actual [PRETTIFIED]", prettifiedActual)
 		err = writeDiffFile(testEAD, fileID, diff)
 		if err != nil {
