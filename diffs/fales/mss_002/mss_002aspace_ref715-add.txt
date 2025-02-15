@@ -1,16 +1,9 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -38,14 +38,8 @@
-     <field name="series_sim">Subseries G: Saxton Robins, 1882-1901</field>
-     <field name="series_si">Series III: Robins Family Papers &gt;&gt; Subseries G: Saxton Robins, 1882-1901 &gt;&gt; Saxton Robins to ER 1882-1900, n.d.</field>
-     <field name="heading_ssm">Saxton Robins to ER 1882-1900, n.d.</field>
--    <field name="unitdate_start_sim">-1900</field>
--    <field name="unitdate_start_ssm">-1900</field>
--    <field name="unitdate_start_si">-1900</field>
--    <field name="unitdate_end_sim">1882</field>
--    <field name="unitdate_end_ssm">1882</field>
--    <field name="unitdate_end_si">1882</field>
+@@ -45,7 +45,7 @@
+     <field name="unitdate_end_ssm">1882</field>
+     <field name="unitdate_end_si">1882</field>
      <field name="unitdate_ssm">Inclusive, 1882 -1900</field>
 -    <field name="date_range_sim">1801-1900</field>
 +    <field name="date_range_sim">undated &amp; other</field>

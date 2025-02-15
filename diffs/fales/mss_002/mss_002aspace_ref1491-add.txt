@@ -1,16 +1,9 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -38,14 +38,8 @@
-     <field name="series_sim">Raymond and I</field>
-     <field name="series_si">Series VII: Literary Productions &gt;&gt; Raymond and I &gt;&gt; Correspondence</field>
-     <field name="heading_ssm">Correspondence</field>
--    <field name="unitdate_start_sim">-1955</field>
--    <field name="unitdate_start_ssm">-1955</field>
--    <field name="unitdate_start_si">-1955</field>
--    <field name="unitdate_end_sim">1939</field>
--    <field name="unitdate_end_ssm">1939</field>
--    <field name="unitdate_end_si">1939</field>
+@@ -45,7 +45,7 @@
+     <field name="unitdate_end_ssm">1939</field>
+     <field name="unitdate_end_si">1939</field>
      <field name="unitdate_ssm">Inclusive, 1939 -1955</field>
 -    <field name="date_range_sim">1901-2000</field>
 +    <field name="date_range_sim">undated &amp; other</field>

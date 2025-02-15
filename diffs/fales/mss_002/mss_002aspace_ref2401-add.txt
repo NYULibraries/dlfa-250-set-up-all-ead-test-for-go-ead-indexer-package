@@ -1,16 +1,9 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -38,14 +38,8 @@
-     <field name="series_sim">Subseries A: Legal Records</field>
-     <field name="series_si">Series X: Legal and Financial Records &gt;&gt; Subseries A: Legal Records &gt;&gt; Literary Contracts 1898-1939</field>
-     <field name="heading_ssm">Literary Contracts 1898-1939</field>
--    <field name="unitdate_start_sim">-1939</field>
--    <field name="unitdate_start_ssm">-1939</field>
--    <field name="unitdate_start_si">-1939</field>
--    <field name="unitdate_end_sim">1898</field>
--    <field name="unitdate_end_ssm">1898</field>
--    <field name="unitdate_end_si">1898</field>
+@@ -45,7 +45,7 @@
+     <field name="unitdate_end_ssm">1898</field>
+     <field name="unitdate_end_si">1898</field>
      <field name="unitdate_ssm">Inclusive, 1898 -1939</field>
 -    <field name="date_range_sim">1801-1900</field>
 +    <field name="date_range_sim">undated &amp; other</field>

@@ -1,16 +1,9 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -38,14 +38,8 @@
-     <field name="series_sim">Subseries H: Additional Family Members, 1803-1876</field>
-     <field name="series_si">Series III: Robins Family Papers &gt;&gt; Subseries H: Additional Family Members, 1803-1876 &gt;&gt; 5. Hussey, Asabel 1844, 1852, n.d.</field>
-     <field name="heading_ssm">5. Hussey, Asabel 1844, 1852, n.d.</field>
--    <field name="unitdate_start_sim">-1852</field>
--    <field name="unitdate_start_ssm">-1852</field>
--    <field name="unitdate_start_si">-1852</field>
--    <field name="unitdate_end_sim">1844</field>
--    <field name="unitdate_end_ssm">1844</field>
--    <field name="unitdate_end_si">1844</field>
+@@ -45,7 +45,7 @@
+     <field name="unitdate_end_ssm">1844</field>
+     <field name="unitdate_end_si">1844</field>
      <field name="unitdate_ssm">Inclusive, 1844 -1852</field>
 -    <field name="date_range_sim">1801-1900</field>
 +    <field name="date_range_sim">undated &amp; other</field>

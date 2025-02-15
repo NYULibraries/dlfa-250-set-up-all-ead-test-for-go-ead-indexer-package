@@ -1,16 +1,9 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -38,14 +38,8 @@
-     <field name="series_sim">Legal Size Material</field>
-     <field name="series_si">Series III: Robins Family Papers &gt;&gt; Legal Size Material &gt;&gt; Charles E. Robins to Elizabeth Robins 1881-1891</field>
-     <field name="heading_ssm">Charles E. Robins to Elizabeth Robins 1881-1891</field>
--    <field name="unitdate_start_sim">-1891</field>
--    <field name="unitdate_start_ssm">-1891</field>
--    <field name="unitdate_start_si">-1891</field>
--    <field name="unitdate_end_sim">1881</field>
--    <field name="unitdate_end_ssm">1881</field>
--    <field name="unitdate_end_si">1881</field>
+@@ -45,7 +45,7 @@
+     <field name="unitdate_end_ssm">1881</field>
+     <field name="unitdate_end_si">1881</field>
      <field name="unitdate_ssm">Inclusive, 1881 -1891</field>
 -    <field name="date_range_sim">1801-1900</field>
 +    <field name="date_range_sim">undated &amp; other</field>
