@@ -31,6 +31,15 @@ var tmpFilesDirPath string
 
 var httpHeadersRegExp = regexp.MustCompile("(?ms)^POST.*\r\n\r\n")
 
+// For https://jira.nyu.edu/browse/DLFA-243
+// Can't use this:
+// &lt;em&gt;(?!.*&lt;em&gt;)(.*?)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;
+// ...because Go does not support negative lookahead.  We instead allow this
+// regexp to capture the largest match which would include the nested sub-match
+// we need to actually work with, and let a separate non-regexp-based process
+// take care of the rest.
+var emUnittitleMassage = regexp.MustCompile(`&lt;em&gt;(.*?)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;`)
+
 // We need to get the absolute path to this package in order to get the absolute
 // path to the tmp/ directory.  We don't want the wrong directories clobbered by
 // the output if this script is run from somewhere outside of this directory.
@@ -169,8 +178,46 @@ func isDirectory(path string) bool {
 }
 
 // https://jira.nyu.edu/browse/DLFA-243
-func massageGolden(golden string) string {
-	return strings.ReplaceAll(golden, "&amp;nbsp;", " ")
+func massageGoldenAll(golden string) string {
+	massagedGolden := strings.ReplaceAll(golden, "&amp;nbsp;", " ")
+
+	// This first set of matches might include the nested sub-match we actually
+	// care about.  Go does not support negative lookahead so we settle for this
+	// wide net casting and then use non-regexp-based processing to take care of
+	// the rest.
+	matches := emUnittitleMassage.FindStringSubmatch(massagedGolden)
+	if len(matches) == 2 {
+		// Isolate the rightmost match.
+		lastOccurrenceIndex := strings.LastIndex(matches[0], "&lt;em&gt")
+		lastOccurrence := matches[0][lastOccurrenceIndex:]
+		// Set up the replacement based on the rightmost match.
+		matches = emUnittitleMassage.FindStringSubmatch(lastOccurrence)
+		cleanString := "&lt;em&gt;&lt;/em&gt;" + matches[1]
+		// Do the replacement everywhere.
+		massagedGolden = strings.ReplaceAll(massagedGolden, lastOccurrence, cleanString)
+	} else {
+		// Do nothing.
+	}
+
+	return massagedGolden
+}
+
+// https://jira.nyu.edu/browse/DLFA-243
+func massageGoldenFileIDSpecific(golden string, fileID string) string {
+	var massagedGolden = golden
+
+	// This one change couldn't be handled by the code which deals with the
+	// general case for this v1 indexer bug:
+	// https://jira.nyu.edu/browse/DLFA-211?focusedCommentId=11487878&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-11487878
+	// Since it's only one file, we brute force it.
+	if fileID == "alba_218aspace_ref45" {
+		massagedGolden = strings.ReplaceAll(massagedGolden,
+			"&lt;em&gt;(some with &amp;lt;title render=\"italic\"/&amp;gt;annotations by Friedman)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;",
+			"&lt;em&gt;&lt;/em&gt;(some with &lt;em&gt;&lt;/em&gt;annotations by Friedman)",
+		)
+	}
+
+	return massagedGolden
 }
 
 func parseEADID(testEAD string) string {
@@ -271,7 +318,8 @@ func testSolrAddMessageXML(testEAD string, fileID string,
 	}
 
 	// https://jira.nyu.edu/browse/DLFA-243
-	massagedGoldenValue := massageGolden(goldenValue)
+	massageGoldenValueStep1 := massageGoldenFileIDSpecific(goldenValue, fileID)
+	massagedGoldenValue := massageGoldenAll(massageGoldenValueStep1)
 
 	if actualValue != massagedGoldenValue {
 		err := writeActualSolrXMLToTmp(testEAD, fileID, actualValue)
