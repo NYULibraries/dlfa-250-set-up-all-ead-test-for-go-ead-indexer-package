@@ -406,7 +406,7 @@ func main() {
 		}
 
 		if eadToTest.Components == nil {
-			fmt.Println(testEAD + "has no components.  Skipping component tests")
+			fmt.Println(testEAD + " has no components.  Skipping component tests")
 
 			continue
 		}
