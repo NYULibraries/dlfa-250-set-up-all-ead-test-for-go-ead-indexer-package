@@ -178,9 +178,20 @@ func isDirectory(path string) bool {
 }
 
 // https://jira.nyu.edu/browse/DLFA-243
+// Applied to all golden files without exception.
 func massageGoldenAll(golden string) string {
+	// DLFA-243: "Convert all "&nbsp;" strings in golden files to actual NBSP characters."
 	massagedGolden := strings.ReplaceAll(golden, "&amp;nbsp;", " ")
 
+	// DLFA-243: "Remove erroneously inserted EAD tags in Solr field content from golden files."
+	// This is the second part of the massage.  The first part is dealt with in
+	// `massageGoldenFileIDSpecific()`.
+	// Example of what's being fixed here:
+	// This:
+	//     <unittitle><title render="italic">Ayuda Medica Internacional</title>(photocopied clippings and notes) <title render="italic"></title></unittitle>
+	// ...is mangled by v1 indexer into:
+	//     <field name="unittitle_ssm">&lt;em&gt;Ayuda Medica Internacional&lt;/em&gt;(photocopied clippings and notes) &lt;em&gt;&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+	//
 	// This first set of matches might include the nested sub-match we actually
 	// care about.  Go does not support negative lookahead so we settle for this
 	// wide net casting and then use non-regexp-based processing to take care of
@@ -206,14 +217,19 @@ func massageGoldenAll(golden string) string {
 func massageGoldenFileIDSpecific(golden string, fileID string) string {
 	var massagedGolden = golden
 
-	// This one change couldn't be handled by the code which deals with the
+	// These changes couldn't be handled by the code which deals with the
 	// general case for this v1 indexer bug:
 	// https://jira.nyu.edu/browse/DLFA-211?focusedCommentId=11487878&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-11487878
-	// Since it's only one file, we brute force it.
+	// Since it's only a couple of files, we brute force them.
 	if fileID == "alba_218aspace_ref45" {
 		massagedGolden = strings.ReplaceAll(massagedGolden,
 			"&lt;em&gt;(some with &amp;lt;title render=\"italic\"/&amp;gt;annotations by Friedman)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;",
 			"&lt;em&gt;&lt;/em&gt;(some with &lt;em&gt;&lt;/em&gt;annotations by Friedman)",
+		)
+	} else if fileID == "alba_236aspace_ref26" {
+		massagedGolden = strings.ReplaceAll(massagedGolden,
+			"&lt;em&gt;George Seldes, &amp;lt;title render=\"italic\"&amp;gt;\"&lt;/em&gt;",
+			"&lt;em&gt;&lt;/em&gt;George Seldes, &lt;em&gt;\"&lt;/em&gt;",
 		)
 	}
 
