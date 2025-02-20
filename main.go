@@ -40,6 +40,12 @@ var httpHeadersRegExp = regexp.MustCompile("(?ms)^POST.*\r\n\r\n")
 // take care of the rest.
 var emUnittitleMassage = regexp.MustCompile(`&lt;em&gt;(.*?)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;`)
 
+// Go \s metachar is [\t\n\f\r ], and does not include NBSP.
+// Source: https://pkg.go.dev/regexp/syntax
+var multipleConsecutiveWhitespace = regexp.MustCompile(`[\s ]{2}\s*`)
+var leadingWhitespaceInFieldContent = regexp.MustCompile(`>[\s ]+`)
+var trailingWhitespaceInFieldContent = regexp.MustCompile(`[\s ]+</field>`)
+
 // We need to get the absolute path to this package in order to get the absolute
 // path to the tmp/ directory.  We don't want the wrong directories clobbered by
 // the output if this script is run from somewhere outside of this directory.
@@ -209,6 +215,17 @@ func massageGoldenAll(golden string) string {
 	} else {
 		// Do nothing.
 	}
+
+	// Whitespace massages
+	massagedGolden = strings.ReplaceAll(massagedGolden, "\n", " ")
+	massagedGolden = multipleConsecutiveWhitespace.ReplaceAllString(
+		massagedGolden, " ")
+	massagedGolden = strings.ReplaceAll(massagedGolden,
+		"&lt;/em&gt; &lt;em&gt;", "&lt;/em&gt;&lt;em&gt;")
+	massagedGolden = leadingWhitespaceInFieldContent.ReplaceAllString(
+		massagedGolden, ">")
+	massagedGolden = trailingWhitespaceInFieldContent.ReplaceAllString(
+		massagedGolden, `</field>`)
 
 	return massagedGolden
 }
