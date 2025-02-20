@@ -9,6 +9,10 @@ github.com/nyulibraries/go-ead-indexer v0.0.0-20250214004616-6c8c0b179dd3 h1:R19
 github.com/nyulibraries/go-ead-indexer v0.0.0-20250214004616-6c8c0b179dd3/go.mod h1:Ap1E21UFqazzlFMIAlkfSyZJJ2FHG7BEyQsihGntxas=
 github.com/nyulibraries/go-ead-indexer v0.0.0-20250220044250-433fd9f5b9ec h1:nWKo4n1mIE2fz4PCc+GY10ZE8LO9C4U0jzwPgoGIsnI=
 github.com/nyulibraries/go-ead-indexer v0.0.0-20250220044250-433fd9f5b9ec/go.mod h1:Ap1E21UFqazzlFMIAlkfSyZJJ2FHG7BEyQsihGntxas=
+github.com/nyulibraries/go-ead-indexer v0.0.0-20250220222101-2cafdd00b051 h1:PlWRDUrD3XL9llb7LuL9ioVACQk/dlMnzXHZvpQdm9I=
+github.com/nyulibraries/go-ead-indexer v0.0.0-20250220222101-2cafdd00b051/go.mod h1:Ap1E21UFqazzlFMIAlkfSyZJJ2FHG7BEyQsihGntxas=
+github.com/nyulibraries/go-ead-indexer v0.0.0-20250221004203-6f4de85d630e h1:KUrVKbrIMqOQRgdxQHer/YAzNpSgAbVaauGSETLLHrk=
+github.com/nyulibraries/go-ead-indexer v0.0.0-20250221004203-6f4de85d630e/go.mod h1:Ap1E21UFqazzlFMIAlkfSyZJJ2FHG7BEyQsihGntxas=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
