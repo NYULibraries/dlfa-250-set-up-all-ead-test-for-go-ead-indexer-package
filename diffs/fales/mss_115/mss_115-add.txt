@@ -2,10 +2,10 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
 @@ -21,7 +21,6 @@
-     <field name="scopecontent_teim">SERIES DESCRIPTION </field>
+     <field name="scopecontent_teim">SERIES DESCRIPTION</field>
      <field name="scopecontent_teim">Series I contains the general files, which include correspondence, flyers, press releases, and newspaper clippings. These files are arranged alphabetically by folder title. Series II contains videos of performances and shows from the collection. These files are arranged chronologically and then alphabetically. [Research copies may not be available for these materials yet. Check with the Fales archivist.]</field>
      <field name="bioghist_teim">April Palmieri performed with a 12-piece all-girl percussion band, Pulsallama, that played at such venues as the Mudd Club, Danceteria, the Pyramid and Club 57 in New York's East Village during the early 1980's. She was also a close personal friend of eminent performer and member of the scene, John Sex. Following his death from AIDS in 1990, she received his collection of video tapes which contain his 1980's performances. These represent the most complete collection of video documenting Sex on stage. Also included in the collection are flyers, posters, and other materials about Palmieri and Sex. Other groups mentioned in the collection include the Bodacious Ta Ta's and the Fleshtones.</field>
--    <field name="bioghist_teim"> </field>
+-    <field name="bioghist_teim"></field>
      <field name="acqinfo_teim">The April Palmieri Papers were the gift of April Palmieri in 2000.</field>
      <field name="corpname_teim">Fales Library and Special Collections</field>
      <field name="corpname_teim">Pulsallama (Musical Group)</field>

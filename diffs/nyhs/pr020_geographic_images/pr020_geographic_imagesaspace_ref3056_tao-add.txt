@@ -15,14 +15,14 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="component_level_isim">5</field>
      <field name="component_children_bsi">false</field>
      <field name="collection_sim">New-York Historical Society collection of geographic images</field>
-@@ -41,8 +41,8 @@
+@@ -37,8 +37,8 @@
      <field name="series_sim">Series I: New York City Views - Manhattan</field>
      <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
      <field name="series_sim">Manhattan - Flat Material - Photos - Street Views</field>
 -    <field name="series_sim">Named Streets</field>
--    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Named Streets &gt;&gt; 
+-    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Named Streets &gt;&gt; &lt;em&gt;Cathedral Parkway SEE: West 110th Street&lt;/em&gt;</field>
 +    <field name="series_sim">Numbered Streets</field>
-+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Numbered Streets &gt;&gt; 
-       &lt;em&gt;Cathedral Parkway SEE: West 110th Street&lt;/em&gt;
-     </field>
-     <field name="heading_ssm">
++    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Numbered Streets &gt;&gt; &lt;em&gt;Cathedral Parkway SEE: West 110th Street&lt;/em&gt;</field>
+     <field name="heading_ssm">Cathedral Parkway SEE: West 110th Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1587</field>

@@ -1,39 +1,23 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,16 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Cerezo Garcia, Cayetano (I)
--      
--      Cerezo Garcia, Raimondo (I)
--    </field>
--    <field name="unittitle_teim">
--      Cerezo Garcia, Cayetano (I)
--      
--      Cerezo Garcia, Raimondo (I)
--    </field>
+-    <field name="unittitle_ssm">Cerezo Garcia, Cayetano (I) Cerezo Garcia, Raimondo (I)</field>
+-    <field name="unittitle_teim">Cerezo Garcia, Cayetano (I) Cerezo Garcia, Raimondo (I)</field>
 +    <field name="unittitle_ssm">Cerezo Garcia, Cayetano (I)Cerezo Garcia, Raimondo (I)</field>
 +    <field name="unittitle_teim">Cerezo Garcia, Cayetano (I)Cerezo Garcia, Raimondo (I)</field>
      <field name="unitid_teim">c4513#1</field>
      <field name="unitid_teim">/repositories/2/archival_objects/249550</field>
      <field name="unitid_ssm">c4513#1</field>
-@@ -54,16 +46,8 @@
+@@ -46,8 +46,8 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
--      Cerezo Garcia, Cayetano (I)
--      
--      Cerezo Garcia, Raimondo (I)
--    </field>
--    <field name="heading_ssm">
--      Cerezo Garcia, Cayetano (I)
--      
--      Cerezo Garcia, Raimondo (I)
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cerezo Garcia, Cayetano (I) Cerezo Garcia, Raimondo (I)</field>
+-    <field name="heading_ssm">Cerezo Garcia, Cayetano (I) Cerezo Garcia, Raimondo (I)</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Cerezo Garcia, Cayetano (I)Cerezo Garcia, Raimondo (I)</field>
 +    <field name="heading_ssm">Cerezo Garcia, Cayetano (I)Cerezo Garcia, Raimondo (I)</field>
      <field name="unitdate_start_sim">1940</field>

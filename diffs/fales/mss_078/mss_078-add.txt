@@ -1,12 +1,11 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -23,8 +23,6 @@
+@@ -22,7 +22,6 @@
+     <field name="bioghist_teim">In 1970 Burger established, in partnership with his wife, Kitty Sprague, a literary agency (Knox Burger Associates), setting up in the basement of the brownstone on Washington Square in which they lived. In the spring of 2000, he merged his agency with the Harold Ober agency.</field>
      <field name="bioghist_teim">Knox Burger died in Manhattan on January 4, 2010.</field>
-     <field name="bioghist_teim">
- Source - from a text written for Fales by Knox Burger</field>
--    <field name="bioghist_teim">
-- </field>
+     <field name="bioghist_teim">Source - from a text written for Fales by Knox Burger</field>
+-    <field name="bioghist_teim"></field>
      <field name="custodhist_teim">The Knox Burger Archive was donated to the Fales Library by Knox Burger in 2000.</field>
      <field name="corpname_teim">Fales Library and Special Collections</field>
      <field name="corpname_teim">Burger. Knox</field>

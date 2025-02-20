@@ -1,7 +1,7 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -22,6 +22,7 @@
+@@ -21,6 +21,7 @@
      <field name="corpname_ssm">Fales Library and Special Collections</field>
      <field name="persname_teim">Harris, Frank, 1855-1931</field>
      <field name="persname_ssm">Harris, Frank, 1855-1931</field>
@@ -9,7 +9,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="collection_sim">Frank Harris Papers</field>
      <field name="collection_ssm">Frank Harris Papers</field>
      <field name="collection_teim">Frank Harris Papers</field>
-@@ -37,7 +38,6 @@
+@@ -36,7 +37,6 @@
      <field name="name_sim">Harris, Frank, 1855-1931</field>
      <field name="name_teim">Harris, Frank, 1855-1931</field>
      <field name="subject_sim">busts (figures)</field>

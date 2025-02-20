@@ -1,44 +1,20 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,18 +16,8 @@
-     <field name="collection_ssm">Harvey Wang Photograph Collection</field>
+@@ -17,7 +17,7 @@
      <field name="collection_unitid_ssm">PR 175</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;
--      
--      
--      &lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;
--    </field>
--    <field name="unittitle_teim">
--      Wilfred "Chief" Parriette, Room 168
--      
--      
--      Wayne Smith, Room 94
--    </field>
-+    <field name="unittitle_ssm">&lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;&lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;</field>
+     <field name="unittitle_ssm">&lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;&lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Wilfred "Chief" Parriette, Room 168 Wayne Smith, Room 94</field>
 +    <field name="unittitle_teim">Wilfred "Chief" Parriette, Room 168Wayne Smith, Room 94</field>
      <field name="title_teim">Wilfred "Chief" Parriette, Room 168</field>
      <field name="title_teim">Wayne Smith, Room 94</field>
      <field name="title_ssm">Wilfred "Chief" Parriette, Room 168</field>
-@@ -44,18 +34,8 @@
-     <field name="collection_unitid_teim">PR 175</field>
+@@ -35,7 +35,7 @@
      <field name="series_sim">Series I. Photographs</field>
      <field name="series_sim">THE PROVIDENCE HOTEL</field>
--    <field name="series_si">Series I. Photographs &gt;&gt; THE PROVIDENCE HOTEL &gt;&gt; 
--      &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;
--      
--      
--      &lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;
--    </field>
--    <field name="heading_ssm">
--      Wilfred "Chief" Parriette, Room 168
--      
--      
--      Wayne Smith, Room 94
--    </field>
-+    <field name="series_si">Series I. Photographs &gt;&gt; THE PROVIDENCE HOTEL &gt;&gt; &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;&lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;</field>
+     <field name="series_si">Series I. Photographs &gt;&gt; THE PROVIDENCE HOTEL &gt;&gt; &lt;em&gt;Wilfred "Chief" Parriette, Room 168&lt;/em&gt;&lt;em&gt;Wayne Smith, Room 94&lt;/em&gt;</field>
+-    <field name="heading_ssm">Wilfred "Chief" Parriette, Room 168 Wayne Smith, Room 94</field>
 +    <field name="heading_ssm">Wilfred "Chief" Parriette, Room 168Wayne Smith, Room 94</field>
      <field name="date_range_sim">undated &amp; other</field>
      <field name="sort_ii">5</field>

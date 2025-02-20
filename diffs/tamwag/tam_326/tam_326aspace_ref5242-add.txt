@@ -1,47 +1,23 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,20 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Barellas, Joaquina (née Castillon)
--      
--      Ariso Llestre, José
--      
--      Ariso, Manuela (née Barellas)
--    </field>
--    <field name="unittitle_teim">
--      Barellas, Joaquina (née Castillon)
--      
--      Ariso Llestre, José
--      
--      Ariso, Manuela (née Barellas)
--    </field>
+-    <field name="unittitle_ssm">Barellas, Joaquina (née Castillon) Ariso Llestre, José Ariso, Manuela (née Barellas)</field>
+-    <field name="unittitle_teim">Barellas, Joaquina (née Castillon) Ariso Llestre, José Ariso, Manuela (née Barellas)</field>
 +    <field name="unittitle_ssm">Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
 +    <field name="unittitle_teim">Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
      <field name="unitid_teim">c2200</field>
      <field name="unitid_teim">/repositories/2/archival_objects/247236</field>
      <field name="unitid_ssm">c2200</field>
-@@ -62,20 +50,8 @@
+@@ -50,8 +50,8 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
--      Barellas, Joaquina (née Castillon)
--      
--      Ariso Llestre, José
--      
--      Ariso, Manuela (née Barellas)
--    </field>
--    <field name="heading_ssm">
--      Barellas, Joaquina (née Castillon)
--      
--      Ariso Llestre, José
--      
--      Ariso, Manuela (née Barellas)
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Barellas, Joaquina (née Castillon) Ariso Llestre, José Ariso, Manuela (née Barellas)</field>
+-    <field name="heading_ssm">Barellas, Joaquina (née Castillon) Ariso Llestre, José Ariso, Manuela (née Barellas)</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
 +    <field name="heading_ssm">Barellas, Joaquina (née Castillon)Ariso Llestre, JoséAriso, Manuela (née Barellas)</field>
      <field name="unitdate_start_sim">1940</field>

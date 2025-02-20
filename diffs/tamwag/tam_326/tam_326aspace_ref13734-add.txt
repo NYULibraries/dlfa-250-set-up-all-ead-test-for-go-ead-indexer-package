@@ -1,39 +1,23 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,16 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Alegre Bara, Maria
--      
--      Alegre, Emile
--    </field>
--    <field name="unittitle_teim">
--      Alegre Bara, Maria
--      
--      Alegre, Emile
--    </field>
+-    <field name="unittitle_ssm">Alegre Bara, Maria Alegre, Emile</field>
+-    <field name="unittitle_teim">Alegre Bara, Maria Alegre, Emile</field>
 +    <field name="unittitle_ssm">Alegre Bara, MariaAlegre, Emile</field>
 +    <field name="unittitle_teim">Alegre Bara, MariaAlegre, Emile</field>
      <field name="unitid_teim">cNC233</field>
      <field name="unitid_teim">/repositories/2/archival_objects/250854</field>
      <field name="unitid_ssm">cNC233</field>
-@@ -54,16 +46,8 @@
+@@ -46,8 +46,8 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series C: Spanish Refugee Aid New Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series C: Spanish Refugee Aid New Case Files &gt;&gt; 
--      Alegre Bara, Maria
--      
--      Alegre, Emile
--    </field>
--    <field name="heading_ssm">
--      Alegre Bara, Maria
--      
--      Alegre, Emile
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series C: Spanish Refugee Aid New Case Files &gt;&gt; Alegre Bara, Maria Alegre, Emile</field>
+-    <field name="heading_ssm">Alegre Bara, Maria Alegre, Emile</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series C: Spanish Refugee Aid New Case Files &gt;&gt; Alegre Bara, MariaAlegre, Emile</field>
 +    <field name="heading_ssm">Alegre Bara, MariaAlegre, Emile</field>
      <field name="unitdate_start_sim">1940</field>

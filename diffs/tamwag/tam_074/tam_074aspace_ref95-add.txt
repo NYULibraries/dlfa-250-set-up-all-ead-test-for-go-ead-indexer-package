@@ -1,37 +1,21 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -13,14 +13,8 @@
+@@ -13,7 +13,7 @@
      <field name="collection_ssm">Edward K. Welsh Papers</field>
      <field name="collection_unitid_ssm">TAM.074</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;Cameroon Times&lt;/em&gt;
--      &lt;em&gt;
--    &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
--    <field name="unittitle_teim">
--      Cameroon Times
--      
--    </field>
+-    <field name="unittitle_ssm">&lt;em&gt;Cameroon Times&lt;/em&gt;&lt;em&gt; &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
 +    <field name="unittitle_ssm">&lt;em&gt;Cameroon Times&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
-+    <field name="unittitle_teim">Cameroon Times</field>
+     <field name="unittitle_teim">Cameroon Times</field>
      <field name="unitdate_teim">Jul 23, 1964</field>
      <field name="title_teim">Cameroon Times</field>
-     <field name="title_ssm">Cameroon Times</field>
-@@ -35,14 +29,8 @@
+@@ -29,7 +29,7 @@
      <field name="collection_teim">Edward K. Welsh Papers</field>
      <field name="collection_unitid_teim">TAM.074</field>
      <field name="series_sim">Series VI: African Newspapers, 1955-1964</field>
--    <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; 
--      &lt;em&gt;Cameroon Times&lt;/em&gt;
--      &lt;em&gt;
--    &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
--    <field name="heading_ssm">
--      Cameroon Times
--      
--    </field>
+-    <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;Cameroon Times&lt;/em&gt;&lt;em&gt; &amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
 +    <field name="series_si">Series VI: African Newspapers, 1955-1964 &gt;&gt; &lt;em&gt;Cameroon Times&lt;/em&gt;&lt;em&gt;&lt;/em&gt;</field>
-+    <field name="heading_ssm">Cameroon Times</field>
+     <field name="heading_ssm">Cameroon Times</field>
      <field name="unitdate_ssm">Jul 23, 1964</field>
      <field name="date_range_sim">undated &amp; other</field>
-     <field name="sort_ii">82</field>

@@ -1,104 +1,20 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,48 +16,8 @@
-     <field name="collection_ssm">Serge A. Korff Papers</field>
+@@ -17,7 +17,7 @@
      <field name="collection_unitid_ssm">MC.110</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951&lt;/em&gt;
--      
--      &lt;em&gt;Cosmic Ray Neutrons: Apr. 1951&lt;/em&gt;
--      
--      &lt;em&gt;Science Education as an Ambassador of Good Will: Nov. 1951&lt;/em&gt;
--      
--      &lt;em&gt;The World's High-Altitude Laboratories: May. 1952&lt;/em&gt;
--      
--      &lt;em&gt;The Mount Wrangell Observatory: Oct. 1953&lt;/em&gt;
--      
--      &lt;em&gt;Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953&lt;/em&gt;
--      
--      &lt;em&gt;Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954&lt;/em&gt;
--      
--      &lt;em&gt;Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954&lt;/em&gt;
--      
--      &lt;em&gt;High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955&lt;/em&gt;
--      
--      &lt;em&gt;Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955&lt;/em&gt;
--    </field>
--    <field name="unittitle_teim">
--      The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951
--      
--      Cosmic Ray Neutrons: Apr. 1951
--      
--      Science Education as an Ambassador of Good Will: Nov. 1951
--      
--      The World's High-Altitude Laboratories: May. 1952
--      
--      The Mount Wrangell Observatory: Oct. 1953
--      
--      Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953
--      
--      Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954
--      
--      Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954
--      
--      High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955
--      
--      Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955
--    </field>
-+    <field name="unittitle_ssm">&lt;em&gt;The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951&lt;/em&gt;&lt;em&gt;Cosmic Ray Neutrons: Apr. 1951&lt;/em&gt;&lt;em&gt;Science Education as an Ambassador of Good Will: Nov. 1951&lt;/em&gt;&lt;em&gt;The World's High-Altitude Laboratories: May. 1952&lt;/em&gt;&lt;em&gt;The Mount Wrangell Observatory: Oct. 1953&lt;/em&gt;&lt;em&gt;Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953&lt;/em&gt;&lt;em&gt;Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954&lt;/em&gt;&lt;em&gt;Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954&lt;/em&gt;&lt;em&gt;High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955&lt;/em&gt;&lt;em&gt;Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955&lt;/em&gt;</field>
+     <field name="unittitle_ssm">&lt;em&gt;The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951&lt;/em&gt;&lt;em&gt;Cosmic Ray Neutrons: Apr. 1951&lt;/em&gt;&lt;em&gt;Science Education as an Ambassador of Good Will: Nov. 1951&lt;/em&gt;&lt;em&gt;The World's High-Altitude Laboratories: May. 1952&lt;/em&gt;&lt;em&gt;The Mount Wrangell Observatory: Oct. 1953&lt;/em&gt;&lt;em&gt;Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953&lt;/em&gt;&lt;em&gt;Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954&lt;/em&gt;&lt;em&gt;Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954&lt;/em&gt;&lt;em&gt;High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955&lt;/em&gt;&lt;em&gt;Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955&lt;/em&gt;</field>
+-    <field name="unittitle_teim">The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951 Cosmic Ray Neutrons: Apr. 1951 Science Education as an Ambassador of Good Will: Nov. 1951 The World's High-Altitude Laboratories: May. 1952 The Mount Wrangell Observatory: Oct. 1953 Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953 Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954 Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954 High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955 Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955</field>
 +    <field name="unittitle_teim">The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951Cosmic Ray Neutrons: Apr. 1951Science Education as an Ambassador of Good Will: Nov. 1951The World's High-Altitude Laboratories: May. 1952The Mount Wrangell Observatory: Oct. 1953Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955</field>
      <field name="unitdate_normal_ssm">1951/1955</field>
      <field name="unitdate_normal_teim">1951/1955</field>
      <field name="unitdate_normal_sim">1951/1955</field>
-@@ -94,48 +54,8 @@
-     <field name="collection_unitid_teim">MC.110</field>
+@@ -55,7 +55,7 @@
      <field name="series_sim">Series VI: Publications</field>
      <field name="series_sim">Subseries B: Korff reprints, preprints, and abstracts</field>
--    <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; 
--      &lt;em&gt;The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951&lt;/em&gt;
--      
--      &lt;em&gt;Cosmic Ray Neutrons: Apr. 1951&lt;/em&gt;
--      
--      &lt;em&gt;Science Education as an Ambassador of Good Will: Nov. 1951&lt;/em&gt;
--      
--      &lt;em&gt;The World's High-Altitude Laboratories: May. 1952&lt;/em&gt;
--      
--      &lt;em&gt;The Mount Wrangell Observatory: Oct. 1953&lt;/em&gt;
--      
--      &lt;em&gt;Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953&lt;/em&gt;
--      
--      &lt;em&gt;Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954&lt;/em&gt;
--      
--      &lt;em&gt;Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954&lt;/em&gt;
--      
--      &lt;em&gt;High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955&lt;/em&gt;
--      
--      &lt;em&gt;Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955&lt;/em&gt;
--    </field>
--    <field name="heading_ssm">
--      The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951
--      
--      Cosmic Ray Neutrons: Apr. 1951
--      
--      Science Education as an Ambassador of Good Will: Nov. 1951
--      
--      The World's High-Altitude Laboratories: May. 1952
--      
--      The Mount Wrangell Observatory: Oct. 1953
--      
--      Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953
--      
--      Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954
--      
--      Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954
--      
--      High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955
--      
--      Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955
--    </field>
-+    <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951&lt;/em&gt;&lt;em&gt;Cosmic Ray Neutrons: Apr. 1951&lt;/em&gt;&lt;em&gt;Science Education as an Ambassador of Good Will: Nov. 1951&lt;/em&gt;&lt;em&gt;The World's High-Altitude Laboratories: May. 1952&lt;/em&gt;&lt;em&gt;The Mount Wrangell Observatory: Oct. 1953&lt;/em&gt;&lt;em&gt;Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953&lt;/em&gt;&lt;em&gt;Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954&lt;/em&gt;&lt;em&gt;Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954&lt;/em&gt;&lt;em&gt;High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955&lt;/em&gt;&lt;em&gt;Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955&lt;/em&gt;</field>
+     <field name="series_si">Series VI: Publications &gt;&gt; Subseries B: Korff reprints, preprints, and abstracts &gt;&gt; &lt;em&gt;The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951&lt;/em&gt;&lt;em&gt;Cosmic Ray Neutrons: Apr. 1951&lt;/em&gt;&lt;em&gt;Science Education as an Ambassador of Good Will: Nov. 1951&lt;/em&gt;&lt;em&gt;The World's High-Altitude Laboratories: May. 1952&lt;/em&gt;&lt;em&gt;The Mount Wrangell Observatory: Oct. 1953&lt;/em&gt;&lt;em&gt;Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953&lt;/em&gt;&lt;em&gt;Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954&lt;/em&gt;&lt;em&gt;Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954&lt;/em&gt;&lt;em&gt;High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955&lt;/em&gt;&lt;em&gt;Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955&lt;/em&gt;</field>
+-    <field name="heading_ssm">The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951 Cosmic Ray Neutrons: Apr. 1951 Science Education as an Ambassador of Good Will: Nov. 1951 The World's High-Altitude Laboratories: May. 1952 The Mount Wrangell Observatory: Oct. 1953 Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953 Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954 Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954 High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955 Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955</field>
 +    <field name="heading_ssm">The Latitude Effect of Cosmic Neutrons, SAK, W.P. Staker and M. Pavalow: Mar. 1951Cosmic Ray Neutrons: Apr. 1951Science Education as an Ambassador of Good Will: Nov. 1951The World's High-Altitude Laboratories: May. 1952The Mount Wrangell Observatory: Oct. 1953Deterioration of Boron Trifluoride Counters Due to High Counting Rates, SAK, Robert K. Soberman, Stephen S. Friedland and Henry S. Katzenstein: Nov. 1953Effects of the Cosmic Radiation on Terrestrial Isotope Distribution: Feb. 1954Effect of the Melting of Polar Ice on the Length of the Day: Jul. 1954High-Altitude Cosmic-Ray Neutron Density at the Geomagnetic Pole, SAK, H.A.C. Newburg, R.K. Soberman and M.J. Swetnick: Mar. 1955Report to Cosmic Ray Conference at Guanajuato, Mexico: Sep. 1955</field>
      <field name="unitdate_start_sim">1951</field>
      <field name="unitdate_start_ssm">1951</field>

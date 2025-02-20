@@ -5,7 +5,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="scopecontent_teim">Series II: Manuscripts: contains manuscripts submitted to 0 to 9. Contributors include: Tom Clark, John Giorno, Kenneth Koch, Sol LeWitt, Clark Coolidge, Adrian Piper, Yvonne Rainer and Aram Saroyan.</field>
      <field name="scopecontent_teim">Series III: Issue: contains one folder of manuscripts which created a supplement to issue No.6 of 0 to 9.</field>
      <field name="bioghist_teim">0 to 9 was a small avant garde literary magazine published in the East Village (Bowery St.) and the Lower East Side (Broome St.) of New York in the late 1960s. An 8.5 by 11", stapled, mimeographed publication, it existed for 3 years and 6 issues, and spawned the 0 to 9 Press which published works by the two editors, Bernadette Mayer and Vito Acconci. Like other similar small magazines of the time such as Angel Hair (whose editor, Lewis March, Mayer would later marry), the magazine included work from a number of nascent and notable artists of the time. Bernadette Mayer is an activist, editor and poet with numerous collections of poety to her credit. Vito Acconci began his career as a poet and expanded into photography, film, video, and performance. He now heads the Acconci Studio, which designs and builds public projects in parks, city streets, and city buildings.</field>
--    <field name="bioghist_teim"> </field>
+-    <field name="bioghist_teim"></field>
      <field name="corpname_teim">Fales Library and Special Collections</field>
      <field name="corpname_teim">0 to 9 (New York, N.Y.)</field>
      <field name="corpname_ssm">Fales Library and Special Collections</field>

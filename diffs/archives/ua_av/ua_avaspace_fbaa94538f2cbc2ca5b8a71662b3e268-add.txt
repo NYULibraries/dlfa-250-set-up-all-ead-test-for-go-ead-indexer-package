@@ -4,7 +4,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 @@ -48,7 +48,6 @@
      <field name="unitdate_end_ssm">2018</field>
      <field name="unitdate_end_si">2018</field>
-     <field name="unitdate_ssm">January 21, 1975  </field>
+     <field name="unitdate_ssm">January 21, 1975</field>
 -    <field name="date_range_sim">2001-2100</field>
      <field name="date_range_sim">undated &amp; other</field>
      <field name="language_sim">English</field>

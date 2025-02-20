@@ -1,36 +1,20 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -13,14 +13,8 @@
-     <field name="collection_ssm">Actors' Equity Association Theatrical Programs</field>
+@@ -14,7 +14,7 @@
      <field name="collection_unitid_ssm">WAG.257</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;America&lt;/em&gt;
--      &lt;em&gt;Hurrah&lt;/em&gt;
--    </field>
--    <field name="unittitle_teim">
--      America
--      Hurrah
--    </field>
-+    <field name="unittitle_ssm">&lt;em&gt;America&lt;/em&gt;&lt;em&gt;Hurrah&lt;/em&gt;</field>
+     <field name="unittitle_ssm">&lt;em&gt;America&lt;/em&gt;&lt;em&gt;Hurrah&lt;/em&gt;</field>
+-    <field name="unittitle_teim">America Hurrah</field>
 +    <field name="unittitle_teim">AmericaHurrah</field>
      <field name="unitdate_normal_ssm">1915/2001</field>
      <field name="unitdate_normal_teim">1915/2001</field>
      <field name="unitdate_normal_sim">1915/2001</field>
-@@ -40,14 +34,8 @@
-     <field name="collection_teim">Actors' Equity Association Theatrical Programs</field>
+@@ -35,7 +35,7 @@
      <field name="collection_unitid_teim">WAG.257</field>
      <field name="series_sim">Series I: New York City, Regional Theatres and Touring Productions/Companies</field>
--    <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; 
--      &lt;em&gt;America&lt;/em&gt;
--      &lt;em&gt;Hurrah&lt;/em&gt;
--    </field>
--    <field name="heading_ssm">
--      America
--      Hurrah
--    </field>
-+    <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; &lt;em&gt;America&lt;/em&gt;&lt;em&gt;Hurrah&lt;/em&gt;</field>
+     <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; &lt;em&gt;America&lt;/em&gt;&lt;em&gt;Hurrah&lt;/em&gt;</field>
+-    <field name="heading_ssm">America Hurrah</field>
 +    <field name="heading_ssm">AmericaHurrah</field>
      <field name="unitdate_start_sim">1915</field>
      <field name="unitdate_start_ssm">1915</field>

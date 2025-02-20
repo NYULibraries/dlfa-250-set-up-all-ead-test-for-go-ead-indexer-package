@@ -3,9 +3,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 +++ actual [PRETTIFIED]
 @@ -29,7 +29,6 @@
      <field name="bioghist_teim">Fragments : a memoir / by Sam Dolgoff. Cambridge [Cambridgeshire] : Refract Publications, 1986. 200 p.</field>
-     <field name="bioghist_teim">The Labor Party Illusion. New York : Libertarian League, 1961. 1 v. Sam Weiner is a pseudonym of Sam Dolgoff. </field>
+     <field name="bioghist_teim">The Labor Party Illusion. New York : Libertarian League, 1961. 1 v. Sam Weiner is a pseudonym of Sam Dolgoff.</field>
      <field name="bioghist_teim">The relevance of anarchism to modern society / Sam Dolgoff. 3rd rev. ed. Chicago : C.H. Kerr Pub. Co., 1989. 35 p.</field>
--    <field name="bioghist_teim">   </field>
+-    <field name="bioghist_teim"></field>
      <field name="acqinfo_teim">Donated by Sam Dolgoff, 1984. The accession number associated with this gift is 1991.001.</field>
      <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
      <field name="corpname_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>

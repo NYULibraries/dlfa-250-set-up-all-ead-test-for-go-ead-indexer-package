@@ -1,36 +1,20 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -13,14 +13,8 @@
-     <field name="collection_ssm">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+@@ -14,7 +14,7 @@
      <field name="collection_unitid_ssm">MSS.121</field>
      <field name="level_sim">otherlevel</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;
--      &lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;
--    </field>
--    <field name="unittitle_teim">
--      Moerder, Hoffnung der Frauen: Ein
--      Explodistisches Schauspiel nach Oskar Kokoscha
--    </field>
-+    <field name="unittitle_ssm">&lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;&lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;</field>
+     <field name="unittitle_ssm">&lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;&lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Moerder, Hoffnung der Frauen: Ein Explodistisches Schauspiel nach Oskar Kokoscha</field>
 +    <field name="unittitle_teim">Moerder, Hoffnung der Frauen: EinExplodistisches Schauspiel nach Oskar Kokoscha</field>
      <field name="unitid_teim">/repositories/3/archival_objects/448444</field>
      <field name="unitid_ssm">/repositories/3/archival_objects/448444</field>
      <field name="unitdate_normal_ssm">1946/2001</field>
-@@ -42,14 +36,8 @@
-     <field name="collection_teim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+@@ -37,7 +37,7 @@
      <field name="collection_unitid_teim">MSS.121</field>
      <field name="series_sim">Series VIII: Posters</field>
--    <field name="series_si">Series VIII: Posters &gt;&gt; 
--      &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;
--      &lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;
--    </field>
--    <field name="heading_ssm">
--      Moerder, Hoffnung der Frauen: Ein
--      Explodistisches Schauspiel nach Oskar Kokoscha
--    </field>
-+    <field name="series_si">Series VIII: Posters &gt;&gt; &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;&lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;</field>
+     <field name="series_si">Series VIII: Posters &gt;&gt; &lt;em&gt;Moerder, Hoffnung der Frauen: Ein&lt;/em&gt;&lt;em&gt;Explodistisches Schauspiel nach Oskar Kokoscha&lt;/em&gt;</field>
+-    <field name="heading_ssm">Moerder, Hoffnung der Frauen: Ein Explodistisches Schauspiel nach Oskar Kokoscha</field>
 +    <field name="heading_ssm">Moerder, Hoffnung der Frauen: EinExplodistisches Schauspiel nach Oskar Kokoscha</field>
      <field name="unitdate_start_sim">1946</field>
      <field name="unitdate_start_ssm">1946</field>

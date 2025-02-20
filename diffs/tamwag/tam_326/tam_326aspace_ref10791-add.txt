@@ -1,42 +1,26 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,16 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Serres, Marguerite
--      
--      Ajuria Pascual, Lorenzo
--    </field>
--    <field name="unittitle_teim">
--      Serres, Marguerite
--      
--      Ajuria Pascual, Lorenzo
--    </field>
+-    <field name="unittitle_ssm">Serres, Marguerite Ajuria Pascual, Lorenzo</field>
+-    <field name="unittitle_teim">Serres, Marguerite Ajuria Pascual, Lorenzo</field>
 +    <field name="unittitle_ssm">Serres, MargueriteAjuria Pascual, Lorenzo</field>
 +    <field name="unittitle_teim">Serres, MargueriteAjuria Pascual, Lorenzo</field>
      <field name="unitid_teim">c4524</field>
      <field name="unitid_teim">/repositories/2/archival_objects/249562</field>
      <field name="unitid_ssm">c4524</field>
-@@ -56,18 +48,10 @@
+@@ -48,10 +48,10 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
--      Serres, Marguerite
--      
--      Ajuria Pascual, Lorenzo
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Serres, Marguerite Ajuria Pascual, Lorenzo</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Serres, MargueriteAjuria Pascual, Lorenzo</field>
      <field name="material_type_sim">Photograph</field>
      <field name="material_type_ssm">Photograph</field>
--    <field name="heading_ssm">
--      Serres, Marguerite
--      
--      Ajuria Pascual, Lorenzo
--    </field>
+-    <field name="heading_ssm">Serres, Marguerite Ajuria Pascual, Lorenzo</field>
 +    <field name="heading_ssm">Serres, MargueriteAjuria Pascual, Lorenzo</field>
      <field name="unitdate_start_sim">1969</field>
      <field name="unitdate_start_ssm">1969</field>

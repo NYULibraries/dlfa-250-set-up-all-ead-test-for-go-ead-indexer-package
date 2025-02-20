@@ -2,18 +2,18 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
 @@ -20,6 +20,7 @@
-     <field name="corpname_ssm">AFSCME. Local 983 </field>
-     <field name="occupation_teim">Motor vehicle drivers |z United States. </field>
-     <field name="occupation_ssm">Motor vehicle drivers |z United States. </field>
-+    <field name="subject_teim">Motor vehicle drivers -- United States. </field>
+     <field name="corpname_ssm">AFSCME. Local 983</field>
+     <field name="occupation_teim">Motor vehicle drivers |z United States.</field>
+     <field name="occupation_ssm">Motor vehicle drivers |z United States.</field>
++    <field name="subject_teim">Motor vehicle drivers -- United States.</field>
      <field name="dao_teim">American Federation of State, County, and Municipal Employees, District Council 37, Local 983: Mar 28, 2014-ongoing</field>
      <field name="dao_ssm">American Federation of State, County, and Municipal Employees, District Council 37, Local 983: Mar 28, 2014-ongoing</field>
      <field name="ref_ssi">aspace_ref441</field>
 @@ -33,7 +34,6 @@
-     <field name="name_teim">AFSCME. Local 983 </field>
+     <field name="name_teim">AFSCME. Local 983</field>
      <field name="dao_sim">Online Access</field>
-     <field name="subject_sim">Motor vehicle drivers -- United States. </field>
--    <field name="subject_teim">Motor vehicle drivers -- United States. </field>
+     <field name="subject_sim">Motor vehicle drivers -- United States.</field>
+-    <field name="subject_teim">Motor vehicle drivers -- United States.</field>
      <field name="collection_teim">Tamiment Library Web Collection on Labor Unions and Organizations</field>
      <field name="collection_unitid_teim">WEB.ARC.002</field>
      <field name="series_si">American Federation of State, County, and Municipal Employees (AFSCME), District Council 37, Local 983 Archived Website</field>

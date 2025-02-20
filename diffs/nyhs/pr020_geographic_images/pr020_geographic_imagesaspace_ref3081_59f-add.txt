@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
      <field name="series_sim">Manhattan - Flat Material - Photos - Street Views</field>
 -    <field name="series_sim">Named Streets</field>
--    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Named Streets &gt;&gt; Streets - L </field>
+-    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Named Streets &gt;&gt; Streets - L</field>
 +    <field name="series_sim">Numbered Streets</field>
-+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Numbered Streets &gt;&gt; Streets - L </field>
-     <field name="heading_ssm">Streets - L </field>
++    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt; Manhattan - Flat Material - Photos - Street Views &gt;&gt; Numbered Streets &gt;&gt; Streets - L</field>
+     <field name="heading_ssm">Streets - L</field>
      <field name="date_range_sim">undated &amp; other</field>
      <field name="sort_ii">1606</field>

@@ -1,39 +1,23 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,16 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Andrade, Maria Theresa
--      
--      Andrade, Juan
--    </field>
--    <field name="unittitle_teim">
--      Andrade, Maria Theresa
--      
--      Andrade, Juan
--    </field>
+-    <field name="unittitle_ssm">Andrade, Maria Theresa Andrade, Juan</field>
+-    <field name="unittitle_teim">Andrade, Maria Theresa Andrade, Juan</field>
 +    <field name="unittitle_ssm">Andrade, Maria TheresaAndrade, Juan</field>
 +    <field name="unittitle_teim">Andrade, Maria TheresaAndrade, Juan</field>
      <field name="unitid_teim">cPPA004</field>
      <field name="unitid_teim">/repositories/2/archival_objects/250989</field>
      <field name="unitid_ssm">cPPA004</field>
-@@ -54,16 +46,8 @@
+@@ -46,8 +46,8 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series D: Politics' Packages Abroad Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; 
--      Andrade, Maria Theresa
--      
--      Andrade, Juan
--    </field>
--    <field name="heading_ssm">
--      Andrade, Maria Theresa
--      
--      Andrade, Juan
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; Andrade, Maria Theresa Andrade, Juan</field>
+-    <field name="heading_ssm">Andrade, Maria Theresa Andrade, Juan</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series D: Politics' Packages Abroad Case Files &gt;&gt; Andrade, Maria TheresaAndrade, Juan</field>
 +    <field name="heading_ssm">Andrade, Maria TheresaAndrade, Juan</field>
      <field name="unitdate_start_sim">1940</field>

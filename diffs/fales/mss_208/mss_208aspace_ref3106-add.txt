@@ -15,14 +15,14 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="component_level_isim">5</field>
      <field name="component_children_bsi">false</field>
      <field name="collection_sim">Sylvester Manor Archive</field>
-@@ -61,8 +61,8 @@
+@@ -57,8 +57,8 @@
      <field name="series_sim">Record Group IV: Horsford Family</field>
      <field name="series_sim">Series A: Eben Norton Horsford</field>
      <field name="series_sim">Subseries 1: Correspondence</field>
 -    <field name="series_sim">Subsubseries b: Wellesley College</field>
--    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Rowe, Caleb T: New York, NY
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries b: Wellesley College &gt;&gt; Rowe, Caleb T: New York, NY</field>
 +    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
-+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Rowe, Caleb T: New York, NY
- 
- </field>
-     <field name="heading_ssm">Rowe, Caleb T: New York, NY
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Rowe, Caleb T: New York, NY</field>
+     <field name="heading_ssm">Rowe, Caleb T: New York, NY</field>
+     <field name="unitdate_start_sim">1887</field>
+     <field name="unitdate_start_ssm">1887</field>

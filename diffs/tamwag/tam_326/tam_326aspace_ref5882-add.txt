@@ -1,39 +1,23 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,16 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Zungia Herran, Angel
--      
--      Zungia, Teresa (née Gimeno)
--    </field>
--    <field name="unittitle_teim">
--      Zungia Herran, Angel
--      
--      Zungia, Teresa (née Gimeno)
--    </field>
+-    <field name="unittitle_ssm">Zungia Herran, Angel Zungia, Teresa (née Gimeno)</field>
+-    <field name="unittitle_teim">Zungia Herran, Angel Zungia, Teresa (née Gimeno)</field>
 +    <field name="unittitle_ssm">Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
 +    <field name="unittitle_teim">Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
      <field name="unitid_teim">c2450</field>
      <field name="unitid_teim">/repositories/2/archival_objects/247488</field>
      <field name="unitid_ssm">c2450</field>
-@@ -54,16 +46,8 @@
+@@ -46,8 +46,8 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
--      Zungia Herran, Angel
--      
--      Zungia, Teresa (née Gimeno)
--    </field>
--    <field name="heading_ssm">
--      Zungia Herran, Angel
--      
--      Zungia, Teresa (née Gimeno)
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Zungia Herran, Angel Zungia, Teresa (née Gimeno)</field>
+-    <field name="heading_ssm">Zungia Herran, Angel Zungia, Teresa (née Gimeno)</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
 +    <field name="heading_ssm">Zungia Herran, AngelZungia, Teresa (née Gimeno)</field>
      <field name="unitdate_start_sim">1961</field>

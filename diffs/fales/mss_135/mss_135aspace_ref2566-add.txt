@@ -1,36 +1,20 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,14 +16,8 @@
-     <field name="collection_ssm">Frank Moore Papers</field>
+@@ -17,7 +17,7 @@
      <field name="collection_unitid_ssm">MSS.135</field>
      <field name="level_sim">otherlevel</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;
--      &lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;
--    </field>
--    <field name="unittitle_teim">
--      Gallery of Masterpieces: Mona Lisa
--      Gallery of Masterpieces: The Massacre of Chios
--    </field>
-+    <field name="unittitle_ssm">&lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;&lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;</field>
+     <field name="unittitle_ssm">&lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;&lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Gallery of Masterpieces: Mona Lisa Gallery of Masterpieces: The Massacre of Chios</field>
 +    <field name="unittitle_teim">Gallery of Masterpieces: Mona LisaGallery of Masterpieces: The Massacre of Chios</field>
      <field name="unitid_teim">/repositories/3/archival_objects/462602</field>
      <field name="unitid_ssm">/repositories/3/archival_objects/462602</field>
      <field name="unitdate_teim">1947</field>
-@@ -39,14 +33,8 @@
-     <field name="collection_unitid_teim">MSS.135</field>
+@@ -34,7 +34,7 @@
      <field name="series_sim">Series X: Printed Materials</field>
      <field name="series_sim">Subseries E: Books</field>
--    <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries E: Books &gt;&gt; 
--      &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;
--      &lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;
--    </field>
--    <field name="heading_ssm">
--      Gallery of Masterpieces: Mona Lisa
--      Gallery of Masterpieces: The Massacre of Chios
--    </field>
-+    <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries E: Books &gt;&gt; &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;&lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;</field>
+     <field name="series_si">Series X: Printed Materials &gt;&gt; Subseries E: Books &gt;&gt; &lt;em&gt;Gallery of Masterpieces: Mona Lisa&lt;/em&gt;&lt;em&gt;Gallery of Masterpieces: The Massacre of Chios&lt;/em&gt;</field>
+-    <field name="heading_ssm">Gallery of Masterpieces: Mona Lisa Gallery of Masterpieces: The Massacre of Chios</field>
 +    <field name="heading_ssm">Gallery of Masterpieces: Mona LisaGallery of Masterpieces: The Massacre of Chios</field>
      <field name="unitdate_ssm">1947</field>
      <field name="date_range_sim">undated &amp; other</field>

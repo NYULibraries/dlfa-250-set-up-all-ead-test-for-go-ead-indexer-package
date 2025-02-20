@@ -5,7 +5,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="scopecontent_teim">Series III: Publications: contains five folders devoted to issues 1-5 of Ghost Dance and includes issues 1 and 2. Manuscripts for issues 3-5 are collected here and contributors are noted on the outside of the folder. Manuscripts include material by Charles Bukowski, Richard Norris, and Ben Hiatt among others.</field>
      <field name="scopecontent_teim">Series IV: Manuscripts: contains eight folders of writings by Hugh Fox, Sharon Asselin, Frederico Undiano.</field>
      <field name="bioghist_teim">Hugh Fox is a poet, scholar, teacher and archaeologist who since 1968 has been teaching at Michigan State University. He has some 66 books to his credit, and has been a pivotal and enduring presence in the small press market. He started Ghost Dance: the International Quarterly of Experimental Poetry in 1968 while a teacher at Loyola in Los Angeles. Ghost Dance would later give rise to Ghost Dance Press which published works by Fox, as well as Millie Wicklund and Helen Daberstein, among others. The magazine attracted a great number of notable contemporary poets, and incorporated Latino material as well as providing Spanish and English translations of most contributions. Contributors included: Charles Bukowski, Sam Cornish, Lucia Fox, Raquel Jodorowsky, Ben Hiatt and Richard Morris. An anthology of Ghost Dance material was published in 1994 by Whitston Press.</field>
--    <field name="bioghist_teim"> </field>
+-    <field name="bioghist_teim"></field>
      <field name="corpname_teim">Fales Library and Special Collections</field>
      <field name="corpname_teim">Ghost Dance (Firm)</field>
      <field name="corpname_teim">Ghost Dance (Firm)</field>

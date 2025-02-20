@@ -1,42 +1,26 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,16 +16,8 @@
+@@ -16,8 +16,8 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      Llongarriu Malé, José
--      
--      Llongarriu Male, Geneviève
--    </field>
--    <field name="unittitle_teim">
--      Llongarriu Malé, José
--      
--      Llongarriu Male, Geneviève
--    </field>
+-    <field name="unittitle_ssm">Llongarriu Malé, José Llongarriu Male, Geneviève</field>
+-    <field name="unittitle_teim">Llongarriu Malé, José Llongarriu Male, Geneviève</field>
 +    <field name="unittitle_ssm">Llongarriu Malé, JoséLlongarriu Male, Geneviève</field>
 +    <field name="unittitle_teim">Llongarriu Malé, JoséLlongarriu Male, Geneviève</field>
      <field name="unitid_teim">c3206</field>
      <field name="unitid_teim">/repositories/2/archival_objects/248244</field>
      <field name="unitid_ssm">c3206</field>
-@@ -56,18 +48,10 @@
+@@ -48,10 +48,10 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
--    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
--      Llongarriu Malé, José
--      
--      Llongarriu Male, Geneviève
--    </field>
+-    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Llongarriu Malé, José Llongarriu Male, Geneviève</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Llongarriu Malé, JoséLlongarriu Male, Geneviève</field>
      <field name="material_type_sim">Photograph</field>
      <field name="material_type_ssm">Photograph</field>
--    <field name="heading_ssm">
--      Llongarriu Malé, José
--      
--      Llongarriu Male, Geneviève
--    </field>
+-    <field name="heading_ssm">Llongarriu Malé, José Llongarriu Male, Geneviève</field>
 +    <field name="heading_ssm">Llongarriu Malé, JoséLlongarriu Male, Geneviève</field>
      <field name="unitdate_start_sim">1963</field>
      <field name="unitdate_start_ssm">1963</field>

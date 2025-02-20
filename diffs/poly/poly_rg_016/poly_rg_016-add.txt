@@ -3,17 +3,17 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 +++ actual [PRETTIFIED]
 @@ -45,6 +45,7 @@
      <field name="genreform_ssm">Correspondence</field>
-     <field name="geogname_teim">Brooklyn (New York, N.Y.) </field>
-     <field name="geogname_ssm">Brooklyn (New York, N.Y.) </field>
+     <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+     <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
 +    <field name="subject_teim">Architecture (discipline)</field>
      <field name="collection_sim">Jay Street Firehouse Records</field>
      <field name="collection_ssm">Jay Street Firehouse Records</field>
      <field name="collection_teim">Jay Street Firehouse Records</field>
 @@ -58,7 +59,6 @@
      <field name="format_ii">0</field>
-     <field name="place_sim">Brooklyn (New York, N.Y.) </field>
+     <field name="place_sim">Brooklyn (New York, N.Y.)</field>
      <field name="subject_sim">Architecture (discipline)</field>
 -    <field name="subject_teim">Architecture (discipline)</field>
      <field name="material_type_sim">Clippings</field>
      <field name="material_type_sim">Publications</field>
-     <field name="material_type_sim">Reprints </field>
+     <field name="material_type_sim">Reprints</field>

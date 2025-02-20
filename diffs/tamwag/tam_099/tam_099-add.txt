@@ -5,7 +5,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="bioghist_teim">In 1947, the PTTI joined the World Federation of Trade Unions (WFTU) as an International Trade Secretariat. In 1949, American unions and their allies withdrew from the WFTU because of rising cold-war tensions and disagreement over the Marshall Plan. They formed the International Confederation of Free Trade Unions, and the PTTI followed suit.</field>
      <field name="bioghist_teim">Throughout the 1950's and 1960's, the PTTI conducted research on the postal services of newly independent nations of Asia and Africa, and of Latin America. The PTTI set up regional offices in these nations to integrate their postal unions into the International and to educate future leaders of the national postal unions.</field>
      <field name="bioghist_teim">Today, the PTTI conducts educational programs and hold international conferences. In 1991, PTTI membership was more than four million based in 65 unions in 102 nations.</field>
--    <field name="bioghist_teim"> </field>
+-    <field name="bioghist_teim"></field>
      <field name="acqinfo_teim">Donated by Bruno Stein at an unknown date. The accession number associated with this gift is 1968.002.</field>
      <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
      <field name="corpname_teim">Postal, Telegraph and Telephone Workers' International</field>

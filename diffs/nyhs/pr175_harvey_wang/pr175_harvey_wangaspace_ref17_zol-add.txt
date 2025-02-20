@@ -1,68 +1,20 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,30 +16,8 @@
-     <field name="collection_ssm">Harvey Wang Photograph Collection</field>
+@@ -17,7 +17,7 @@
      <field name="collection_unitid_ssm">PR 175</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;
--      
--      
--      &lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;
--      
--      
--      &lt;em&gt;Paul Greer, Room 44&lt;/em&gt;
--      
--      
--      &lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;
--    </field>
--    <field name="unittitle_teim">
--      Mike Galto, Owner, The Andrews Hotel
--      
--      
--      Chris Schmidt, Room 127
--      
--      
--      Paul Greer, Room 44
--      
--      
--      Staircase, The Andrews Hotel
--    </field>
-+    <field name="unittitle_ssm">&lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;&lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;&lt;em&gt;Paul Greer, Room 44&lt;/em&gt;&lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;</field>
+     <field name="unittitle_ssm">&lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;&lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;&lt;em&gt;Paul Greer, Room 44&lt;/em&gt;&lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Mike Galto, Owner, The Andrews Hotel Chris Schmidt, Room 127 Paul Greer, Room 44 Staircase, The Andrews Hotel</field>
 +    <field name="unittitle_teim">Mike Galto, Owner, The Andrews HotelChris Schmidt, Room 127Paul Greer, Room 44Staircase, The Andrews Hotel</field>
      <field name="title_teim">Mike Galto, Owner, The Andrews Hotel</field>
      <field name="title_teim">Chris Schmidt, Room 127</field>
      <field name="title_teim">Paul Greer, Room 44</field>
-@@ -60,30 +38,8 @@
-     <field name="collection_unitid_teim">PR 175</field>
+@@ -39,7 +39,7 @@
      <field name="series_sim">Series I. Photographs</field>
      <field name="series_sim">THE ANDREWS HOTEL</field>
--    <field name="series_si">Series I. Photographs &gt;&gt; THE ANDREWS HOTEL &gt;&gt; 
--      &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;
--      
--      
--      &lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;
--      
--      
--      &lt;em&gt;Paul Greer, Room 44&lt;/em&gt;
--      
--      
--      &lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;
--    </field>
--    <field name="heading_ssm">
--      Mike Galto, Owner, The Andrews Hotel
--      
--      
--      Chris Schmidt, Room 127
--      
--      
--      Paul Greer, Room 44
--      
--      
--      Staircase, The Andrews Hotel
--    </field>
-+    <field name="series_si">Series I. Photographs &gt;&gt; THE ANDREWS HOTEL &gt;&gt; &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;&lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;&lt;em&gt;Paul Greer, Room 44&lt;/em&gt;&lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;</field>
+     <field name="series_si">Series I. Photographs &gt;&gt; THE ANDREWS HOTEL &gt;&gt; &lt;em&gt;Mike Galto, Owner, The Andrews Hotel&lt;/em&gt;&lt;em&gt;Chris Schmidt, Room 127&lt;/em&gt;&lt;em&gt;Paul Greer, Room 44&lt;/em&gt;&lt;em&gt;Staircase, The Andrews Hotel&lt;/em&gt;</field>
+-    <field name="heading_ssm">Mike Galto, Owner, The Andrews Hotel Chris Schmidt, Room 127 Paul Greer, Room 44 Staircase, The Andrews Hotel</field>
 +    <field name="heading_ssm">Mike Galto, Owner, The Andrews HotelChris Schmidt, Room 127Paul Greer, Room 44Staircase, The Andrews Hotel</field>
      <field name="date_range_sim">undated &amp; other</field>
      <field name="sort_ii">7</field>

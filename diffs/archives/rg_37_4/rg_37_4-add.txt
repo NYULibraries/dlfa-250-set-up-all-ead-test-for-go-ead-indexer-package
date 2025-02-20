@@ -155,7 +155,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 +    <field name="subject_teim">Law schools -- United States.</field>
 +    <field name="subject_teim">Law teachers -- Cambridge (Mass.)</field>
 +    <field name="subject_teim">Lawyer.</field>
-+    <field name="subject_teim">Law --  Study and teaching -- United States.</field>
++    <field name="subject_teim">Law -- Study and teaching -- United States.</field>
 +    <field name="subject_teim">Law -- Study and teaching.</field>
 +    <field name="subject_teim">Law -- United States.</field>
 +    <field name="subject_teim">Law.</field>
@@ -178,7 +178,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 +    <field name="subject_teim">Humanitarian assistance</field>
 +    <field name="subject_teim">Humanitarianism</field>
 +    <field name="subject_teim">Mass media.</field>
-+    <field name="subject_teim">Internet -- United States. </field>
++    <field name="subject_teim">Internet -- United States.</field>
 +    <field name="subject_teim">Writing</field>
 +    <field name="subject_teim">Apartheid</field>
 +    <field name="subject_teim">Art, Renaissance</field>
@@ -437,7 +437,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 -    <field name="subject_teim">Law schools -- United States.</field>
 -    <field name="subject_teim">Law teachers -- Cambridge (Mass.)</field>
 -    <field name="subject_teim">Lawyer.</field>
--    <field name="subject_teim">Law --  Study and teaching -- United States.</field>
+-    <field name="subject_teim">Law -- Study and teaching -- United States.</field>
 -    <field name="subject_teim">Law -- Study and teaching.</field>
 -    <field name="subject_teim">Law -- United States.</field>
 -    <field name="subject_teim">Law.</field>
@@ -460,7 +460,7 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 -    <field name="subject_teim">Humanitarian assistance</field>
 -    <field name="subject_teim">Humanitarianism</field>
 -    <field name="subject_teim">Mass media.</field>
--    <field name="subject_teim">Internet -- United States. </field>
+-    <field name="subject_teim">Internet -- United States.</field>
 -    <field name="subject_teim">Writing</field>
 -    <field name="subject_teim">Apartheid</field>
 -    <field name="subject_teim">Art, Renaissance</field>
@@ -563,5 +563,5 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
 -    <field name="subject_teim">Music -- Africa, West</field>
 -    <field name="subject_teim">Music -- Ghana</field>
      <field name="material_type_sim">Photographs.</field>
-     <field name="material_type_sim">Construction and architecture. </field>
+     <field name="material_type_sim">Construction and architecture.</field>
      <field name="material_type_sim">Eulogies</field>

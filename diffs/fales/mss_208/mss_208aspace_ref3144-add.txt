@@ -15,14 +15,14 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="component_level_isim">5</field>
      <field name="component_children_bsi">false</field>
      <field name="collection_sim">Sylvester Manor Archive</field>
-@@ -59,8 +59,8 @@
+@@ -55,8 +55,8 @@
      <field name="series_sim">Record Group IV: Horsford Family</field>
      <field name="series_sim">Series A: Eben Norton Horsford</field>
      <field name="series_sim">Subseries 1: Correspondence</field>
 -    <field name="series_sim">Subsubseries c: Rumford Chemical Works</field>
--    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries c: Rumford Chemical Works &gt;&gt; Arnold, Newton Darling (ND): New York, NY; Providence, RI; Philadelphia, PA
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries c: Rumford Chemical Works &gt;&gt; Arnold, Newton Darling (ND): New York, NY; Providence, RI; Philadelphia, PA</field>
 +    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
-+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Arnold, Newton Darling (ND): New York, NY; Providence, RI; Philadelphia, PA
- </field>
-     <field name="heading_ssm">Arnold, Newton Darling (ND): New York, NY; Providence, RI; Philadelphia, PA
- </field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Arnold, Newton Darling (ND): New York, NY; Providence, RI; Philadelphia, PA</field>
+     <field name="heading_ssm">Arnold, Newton Darling (ND): New York, NY; Providence, RI; Philadelphia, PA</field>
+     <field name="unitdate_start_sim">1878</field>
+     <field name="unitdate_start_ssm">1878</field>

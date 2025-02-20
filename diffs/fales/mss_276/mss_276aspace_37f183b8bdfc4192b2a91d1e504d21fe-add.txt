@@ -1,11 +1,11 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -31,6 +31,7 @@
-     <field name="format_sim">Archival Object</field>
+@@ -32,6 +32,7 @@
      <field name="format_ssm">Archival Object</field>
-     <field name="location_ssm">Box: 166, Cassette: 237 </field>
-+    <field name="location_ssm">Box: 166, Cassette: 237 </field>
      <field name="location_ssm">Box: 166, Cassette: 237</field>
+     <field name="location_ssm">Box: 166, Cassette: 237</field>
++    <field name="location_ssm">Box: 166, Cassette: 237</field>
      <field name="location_si">Box: 166, Cassette: 237</field>
      <field name="collection_teim">The Paper Tiger Television Archive</field>
+     <field name="collection_unitid_teim">MSS.276</field>

@@ -1,35 +1,23 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -9,14 +9,8 @@
+@@ -9,8 +9,8 @@
      <field name="collection_ssm">Eleanore Collins Papers</field>
      <field name="collection_unitid_ssm">WAG.089</field>
      <field name="level_sim">file</field>
--    <field name="unittitle_ssm">
--      &lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;
--      Paul Weiler
--    </field>
--    <field name="unittitle_teim">
--      The Future of Labor and Employment Law
--      Paul Weiler
--    </field>
+-    <field name="unittitle_ssm">&lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt; Paul Weiler</field>
+-    <field name="unittitle_teim">The Future of Labor and Employment Law Paul Weiler</field>
 +    <field name="unittitle_ssm">&lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;Paul Weiler</field>
 +    <field name="unittitle_teim">The Future of Labor and Employment LawPaul Weiler</field>
      <field name="unitdate_normal_ssm">1978/1998</field>
      <field name="unitdate_normal_teim">1978/1998</field>
      <field name="unitdate_normal_sim">1978/1998</field>
-@@ -37,14 +31,8 @@
+@@ -31,8 +31,8 @@
      <field name="name_teim">Paul Weiler</field>
      <field name="collection_teim">Eleanore Collins Papers</field>
      <field name="collection_unitid_teim">WAG.089</field>
--    <field name="series_si">
--      &lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;
--      Paul Weiler
--    </field>
--    <field name="heading_ssm">
--      The Future of Labor and Employment Law
--      Paul Weiler
--    </field>
+-    <field name="series_si">&lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt; Paul Weiler</field>
+-    <field name="heading_ssm">The Future of Labor and Employment Law Paul Weiler</field>
 +    <field name="series_si">&lt;em&gt;The Future of Labor and Employment Law&lt;/em&gt;Paul Weiler</field>
 +    <field name="heading_ssm">The Future of Labor and Employment LawPaul Weiler</field>
      <field name="unitdate_start_sim">1978</field>
