@@ -216,6 +216,9 @@ func massageGoldenAll(golden string) string {
 		// Do nothing.
 	}
 
+	// DLFA-243: "Convert all double-escaped ampersand strings in golden files to single-escaped."
+	massagedGolden = strings.ReplaceAll(massagedGolden, "&amp;amp;", "&amp;")
+
 	// Whitespace massages
 	massagedGolden = strings.ReplaceAll(massagedGolden, "\n", " ")
 	massagedGolden = multipleConsecutiveWhitespace.ReplaceAllString(
