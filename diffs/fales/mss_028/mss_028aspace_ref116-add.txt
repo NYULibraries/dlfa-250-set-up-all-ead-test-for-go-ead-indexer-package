@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Black, William&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A princess of Thule&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Favorite Library&lt;strong&gt;Series Number&lt;/strong&gt;: 17&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The American News Company&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="unittitle_teim">Author: Black, WilliamTitle: A princess of ThuleSeries Title: The Favorite LibrarySeries Number: 17City: New YorkPublisher: The American News CompanyDate: undated</field>
++    <field name="unittitle_teim">Author: Black, William Title: A princess of Thule Series Title: The Favorite Library Series Number: 17 City: New York Publisher: The American News Company Date: undated</field>
+     <field name="unitdate_normal_ssm">1821/1968</field>
+     <field name="unitdate_normal_teim">1821/1968</field>
+     <field name="unitdate_normal_sim">1821/1968</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Black, William&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A princess of Thule&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Favorite Library&lt;strong&gt;Series Number&lt;/strong&gt;: 17&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The American News Company&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="heading_ssm">Author: Black, WilliamTitle: A princess of ThuleSeries Title: The Favorite LibrarySeries Number: 17City: New YorkPublisher: The American News CompanyDate: undated</field>
++    <field name="heading_ssm">Author: Black, William Title: A princess of Thule Series Title: The Favorite Library Series Number: 17 City: New York Publisher: The American News Company Date: undated</field>
+     <field name="unitdate_start_sim">1821</field>
+     <field name="unitdate_start_ssm">1821</field>
+     <field name="unitdate_start_si">1821</field>

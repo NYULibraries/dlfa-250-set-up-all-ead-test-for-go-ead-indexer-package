@@ -1,25 +1,21 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -16,8 +16,8 @@
+@@ -16,7 +16,7 @@
      <field name="collection_ssm">Spanish Refugee Aid Records</field>
      <field name="collection_unitid_ssm">TAM.326</field>
      <field name="level_sim">file</field>
 -    <field name="unittitle_ssm">Valcarcel, José Valcarcel, Francisca (née Preciado)</field>
--    <field name="unittitle_teim">Valcarcel, José Valcarcel, Francisca (née Preciado)</field>
 +    <field name="unittitle_ssm">Valcarcel, JoséValcarcel, Francisca (née Preciado)</field>
-+    <field name="unittitle_teim">Valcarcel, JoséValcarcel, Francisca (née Preciado)</field>
+     <field name="unittitle_teim">Valcarcel, José Valcarcel, Francisca (née Preciado)</field>
      <field name="unitid_teim">c3250</field>
      <field name="unitid_teim">/repositories/2/archival_objects/248288</field>
-     <field name="unitid_ssm">c3250</field>
-@@ -46,8 +46,8 @@
+@@ -46,7 +46,7 @@
      <field name="collection_unitid_teim">TAM.326</field>
      <field name="series_sim">Series I: Case Files</field>
      <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
 -    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Valcarcel, José Valcarcel, Francisca (née Preciado)</field>
--    <field name="heading_ssm">Valcarcel, José Valcarcel, Francisca (née Preciado)</field>
 +    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; Valcarcel, JoséValcarcel, Francisca (née Preciado)</field>
-+    <field name="heading_ssm">Valcarcel, JoséValcarcel, Francisca (née Preciado)</field>
+     <field name="heading_ssm">Valcarcel, José Valcarcel, Francisca (née Preciado)</field>
      <field name="unitdate_start_sim">1963</field>
      <field name="unitdate_start_ssm">1963</field>
-     <field name="unitdate_start_si">1963</field>

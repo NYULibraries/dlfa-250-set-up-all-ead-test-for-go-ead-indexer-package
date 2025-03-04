@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Wicked John and the Devil&lt;em&gt;Note&lt;/em&gt;: for narrator, ballad singer, and chamber ensemble, 7.5 ips, mono&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="unittitle_teim">Wicked John and the DevilNote: for narrator, ballad singer, and chamber ensemble, 7.5 ips, monoFormat: 1/4" sm.</field>
++    <field name="unittitle_teim">Wicked John and the Devil Note: for narrator, ballad singer, and chamber ensemble, 7.5 ips, mono Format: 1/4" sm.</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Format</field>
+@@ -36,7 +36,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries A: Watts - Works on Tape</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries A: Watts - Works on Tape &gt;&gt; Wicked John and the Devil&lt;em&gt;Note&lt;/em&gt;: for narrator, ballad singer, and chamber ensemble, 7.5 ips, mono&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="heading_ssm">Wicked John and the DevilNote: for narrator, ballad singer, and chamber ensemble, 7.5 ips, monoFormat: 1/4" sm.</field>
++    <field name="heading_ssm">Wicked John and the Devil Note: for narrator, ballad singer, and chamber ensemble, 7.5 ips, mono Format: 1/4" sm.</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">934</field>

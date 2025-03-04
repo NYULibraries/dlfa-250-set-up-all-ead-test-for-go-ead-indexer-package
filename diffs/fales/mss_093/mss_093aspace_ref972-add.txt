@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Watts Works&lt;em&gt;Note&lt;/em&gt;: Composers Theater at New School 1977, Composers Fest. Orch. MAS, Gallery Piece, and Elegy - 15ips, two-tk stereo&lt;em&gt;Brand&lt;/em&gt;: Basf&lt;em&gt;Format&lt;/em&gt;: 1/4"</field>
+-    <field name="unittitle_teim">Watts WorksNote: Composers Theater at New School 1977, Composers Fest. Orch. MAS, Gallery Piece, and Elegy - 15ips, two-tk stereoBrand: BasfFormat: 1/4"</field>
++    <field name="unittitle_teim">Watts Works Note: Composers Theater at New School 1977, Composers Fest. Orch. MAS, Gallery Piece, and Elegy - 15ips, two-tk stereo Brand: Basf Format: 1/4"</field>
+     <field name="unitdate_teim">1977</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Brand</field>
+@@ -38,7 +38,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries B: Watts - Demo tapes</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries B: Watts - Demo tapes &gt;&gt; Watts Works&lt;em&gt;Note&lt;/em&gt;: Composers Theater at New School 1977, Composers Fest. Orch. MAS, Gallery Piece, and Elegy - 15ips, two-tk stereo&lt;em&gt;Brand&lt;/em&gt;: Basf&lt;em&gt;Format&lt;/em&gt;: 1/4"</field>
+-    <field name="heading_ssm">Watts WorksNote: Composers Theater at New School 1977, Composers Fest. Orch. MAS, Gallery Piece, and Elegy - 15ips, two-tk stereoBrand: BasfFormat: 1/4"</field>
++    <field name="heading_ssm">Watts Works Note: Composers Theater at New School 1977, Composers Fest. Orch. MAS, Gallery Piece, and Elegy - 15ips, two-tk stereo Brand: Basf Format: 1/4"</field>
+     <field name="unitdate_ssm">1977</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">952</field>

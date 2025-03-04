@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142040619515</field>
+     <field name="unitid_ssm">31142040619515</field>
+     <field name="unitdate_teim">1988-1989</field>
+-    <field name="scopecontent_teim">Based on work by Vincent Bugliosi. Includes portions of Bugliosi's book, notes, index cards, drafts, revisions, draft fragments, notebooks.PublicationsVincent Bugliosi, Till Death Us Do Part (Bantam Books: New York, 1979)Audio Cassettes"Gary Hoffman phone call" 1 micro cassette in env.</field>
++    <field name="scopecontent_teim">Based on work by Vincent Bugliosi. Includes portions of Bugliosi's book, notes, index cards, drafts, revisions, draft fragments, notebooks. Publications Vincent Bugliosi, Till Death Us Do Part (Bantam Books: New York, 1979) Audio Cassettes "Gary Hoffman phone call" 1 micro cassette in env.</field>
+     <field name="ref_ssi">aspace_ref161</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

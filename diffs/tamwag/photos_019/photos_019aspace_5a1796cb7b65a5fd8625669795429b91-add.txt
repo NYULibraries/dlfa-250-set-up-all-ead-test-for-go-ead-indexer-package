@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Subseries I:A: United Federation of Teachers</field>
      <field name="series_sim">Sub-subseries I:A:6: Schools and Students</field>
 -    <field name="series_sim">Sub-sub-subseries I:A:6a: Elementary Schools</field>
--    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6a: Elementary Schools &gt;&gt; PS 284 Brooklyn &amp;amp; IS 318 Brooklyn Joint Reading Institute</field>
+-    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6a: Elementary Schools &gt;&gt; PS 284 Brooklyn &amp; IS 318 Brooklyn Joint Reading Institute</field>
 +    <field name="series_sim">Sub-sub-subseries I:A:6f: Miscellaneous</field>
-+    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; PS 284 Brooklyn &amp;amp; IS 318 Brooklyn Joint Reading Institute</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; PS 284 Brooklyn &amp; IS 318 Brooklyn Joint Reading Institute</field>
      <field name="heading_ssm">PS 284 Brooklyn &amp; IS 318 Brooklyn Joint Reading Institute</field>
      <field name="unitdate_start_sim">1971</field>
      <field name="unitdate_start_ssm">1971</field>

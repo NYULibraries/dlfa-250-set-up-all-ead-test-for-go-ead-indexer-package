@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718884</field>
+     <field name="unitid_ssm">31142050718884</field>
+     <field name="unitdate_teim">ca. 1980-1998</field>
+-    <field name="scopecontent_teim">Various business files in no apparent order including files on the family pets, the Writers' Guild health insurance and pension information, utility bills, documentation of the trusts for Kopit's children. Another group of records begins here with numerous files devoted to various productions including "Wings" (ca. 1978 and 1979), The files include personal and business correspondence, royalty documents, reviews and programs and other materials.Audio Cassettes"All Things Considered""Jeffrey Nance..." 1 tape in envelope.</field>
++    <field name="scopecontent_teim">Various business files in no apparent order including files on the family pets, the Writers' Guild health insurance and pension information, utility bills, documentation of the trusts for Kopit's children. Another group of records begins here with numerous files devoted to various productions including "Wings" (ca. 1978 and 1979), The files include personal and business correspondence, royalty documents, reviews and programs and other materials. Audio Cassettes "All Things Considered" "Jeffrey Nance..." 1 tape in envelope.</field>
+     <field name="ref_ssi">aspace_ref297</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Subseries I:A: United Federation of Teachers</field>
      <field name="series_sim">Sub-subseries I:A:4: Chapters</field>
 -    <field name="series_sim">Sub-sub-subseries I:A:4i: Paraprofessionals</field>
--    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4i: Paraprofessionals &gt;&gt; [UFT?:] Paraprofessionals, Para Leadership Conference, Coordinators: Romero, Gladys (D.11); Benitez, Myrla (D12) &amp;amp; King, Gladys (D.8) 1982 elected</field>
+-    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4i: Paraprofessionals &gt;&gt; [UFT?:] Paraprofessionals, Para Leadership Conference, Coordinators: Romero, Gladys (D.11); Benitez, Myrla (D12) &amp; King, Gladys (D.8) 1982 elected</field>
 +    <field name="series_sim">Sub-sub-subseries I:A:4l: Teachers Assigned</field>
-+    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4l: Teachers Assigned &gt;&gt; [UFT?:] Paraprofessionals, Para Leadership Conference, Coordinators: Romero, Gladys (D.11); Benitez, Myrla (D12) &amp;amp; King, Gladys (D.8) 1982 elected</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:4: Chapters &gt;&gt; Sub-sub-subseries I:A:4l: Teachers Assigned &gt;&gt; [UFT?:] Paraprofessionals, Para Leadership Conference, Coordinators: Romero, Gladys (D.11); Benitez, Myrla (D12) &amp; King, Gladys (D.8) 1982 elected</field>
      <field name="heading_ssm">[UFT?:] Paraprofessionals, Para Leadership Conference, Coordinators: Romero, Gladys (D.11); Benitez, Myrla (D12) &amp; King, Gladys (D.8) 1982 elected</field>
      <field name="unitdate_start_sim">1982</field>
      <field name="unitdate_start_ssm">1982</field>

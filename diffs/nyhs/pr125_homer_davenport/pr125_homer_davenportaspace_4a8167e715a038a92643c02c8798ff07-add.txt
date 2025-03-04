@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names H</field>
+     <field name="unittitle_teim">Various Names H</field>
+-    <field name="scopecontent_teim">HagenbackHiggins, Gov. (Frank W.?)HoolihanHopper, (Isaac Abraham?)Hull, (Cordell?)</field>
++    <field name="scopecontent_teim">Hagenback Higgins, Gov. (Frank W.?) Hoolihan Hopper, (Isaac Abraham?) Hull, (Cordell?)</field>
+     <field name="ref_ssi">aspace_4a8167e715a038a92643c02c8798ff07</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

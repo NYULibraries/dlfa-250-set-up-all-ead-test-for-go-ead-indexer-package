@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.366</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Courtney, Meighlin"Esteria"</field>
+-    <field name="unittitle_teim">Courtney, Meighlin"Esteria"</field>
++    <field name="unittitle_teim">Courtney, Meighlin "Esteria"</field>
+     <field name="unitdate_normal_ssm">1995/1995</field>
+     <field name="unitdate_normal_teim">1995/1995</field>
+     <field name="unitdate_normal_sim">1995/1995</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.366</field>
+     <field name="series_sim">Series I: Anthology Submissions</field>
+     <field name="series_si">Series I: Anthology Submissions &gt;&gt; Courtney, Meighlin"Esteria"</field>
+-    <field name="heading_ssm">Courtney, Meighlin"Esteria"</field>
++    <field name="heading_ssm">Courtney, Meighlin "Esteria"</field>
+     <field name="unitdate_start_sim">1995</field>
+     <field name="unitdate_start_ssm">1995</field>
+     <field name="unitdate_start_si">1995</field>

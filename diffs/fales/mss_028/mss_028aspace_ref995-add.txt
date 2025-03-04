@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Holmes, Mary J.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Rosamond and other stories&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Favorite Library&lt;strong&gt;Series Number&lt;/strong&gt;: 147&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The American News Company&lt;strong&gt;Other Notes&lt;/strong&gt;: also contains Diamonds, Bad spelling, Maggie Lee, and The answered prayer&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="unittitle_teim">Author: Holmes, Mary J.Title: Rosamond and other storiesSeries Title: The Favorite LibrarySeries Number: 147City: New YorkPublisher: The American News CompanyOther Notes: also contains Diamonds, Bad spelling, Maggie Lee, and The answered prayerDate: undated</field>
++    <field name="unittitle_teim">Author: Holmes, Mary J. Title: Rosamond and other stories Series Title: The Favorite Library Series Number: 147 City: New York Publisher: The American News Company Other Notes: also contains Diamonds, Bad spelling, Maggie Lee, and The answered prayer Date: undated</field>
+     <field name="unitdate_normal_ssm">1821/1968</field>
+     <field name="unitdate_normal_teim">1821/1968</field>
+     <field name="unitdate_normal_sim">1821/1968</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Holmes, Mary J.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Rosamond and other stories&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Favorite Library&lt;strong&gt;Series Number&lt;/strong&gt;: 147&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The American News Company&lt;strong&gt;Other Notes&lt;/strong&gt;: also contains Diamonds, Bad spelling, Maggie Lee, and The answered prayer&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="heading_ssm">Author: Holmes, Mary J.Title: Rosamond and other storiesSeries Title: The Favorite LibrarySeries Number: 147City: New YorkPublisher: The American News CompanyOther Notes: also contains Diamonds, Bad spelling, Maggie Lee, and The answered prayerDate: undated</field>
++    <field name="heading_ssm">Author: Holmes, Mary J. Title: Rosamond and other stories Series Title: The Favorite Library Series Number: 147 City: New York Publisher: The American News Company Other Notes: also contains Diamonds, Bad spelling, Maggie Lee, and The answered prayer Date: undated</field>
+     <field name="unitdate_start_sim">1821</field>
+     <field name="unitdate_start_ssm">1821</field>
+     <field name="unitdate_start_si">1821</field>

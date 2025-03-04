@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Wendel Estate, Store and manufacturing, 151 Avenue C, New York, NYProject #15</field>
+-    <field name="unittitle_teim">Wendel Estate, Store and manufacturing, 151 Avenue C, New York, NYProject #15</field>
++    <field name="unittitle_teim">Wendel Estate, Store and manufacturing, 151 Avenue C, New York, NY Project #15</field>
+     <field name="unitdate_teim">1894</field>
+     <field name="ref_ssi">aspace_ref28_u6n</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">PR 64</field>
+     <field name="series_sim">Series I: Architectural Drawings</field>
+     <field name="series_si">Series I: Architectural Drawings &gt;&gt; Wendel Estate, Store and manufacturing, 151 Avenue C, New York, NYProject #15</field>
+-    <field name="heading_ssm">Wendel Estate, Store and manufacturing, 151 Avenue C, New York, NYProject #15</field>
++    <field name="heading_ssm">Wendel Estate, Store and manufacturing, 151 Avenue C, New York, NY Project #15</field>
+     <field name="unitdate_ssm">1894</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>

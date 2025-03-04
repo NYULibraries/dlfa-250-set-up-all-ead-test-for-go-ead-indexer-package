@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 9 Projects: legal sized notes and script copies of "Discovery of America".</field>
+     <field name="unitid_teim">cuid22053</field>
+     <field name="unitid_ssm">cuid22053</field>
+-    <field name="scopecontent_teim">Box 12 Projects: sketch pads, pages and notes for "Dreamhouse".Box 13 Projects: magazine for "End of the World".</field>
++    <field name="scopecontent_teim">Box 12 Projects: sketch pads, pages and notes for "Dreamhouse". Box 13 Projects: magazine for "End of the World".</field>
+     <field name="ref_ssi">aspace_ref363</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

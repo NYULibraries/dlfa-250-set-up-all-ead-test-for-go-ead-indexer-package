@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Series A: Eben Norton Horsford</field>
      <field name="series_sim">Subseries 1: Correspondence</field>
 -    <field name="series_sim">Subsubseries a: Academic and Family</field>
--    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family &gt;&gt; Atlantic &amp;amp; West India Line, Leaycraft &amp;amp; Company, Managing Agents: New York, NY</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family &gt;&gt; Atlantic &amp; West India Line, Leaycraft &amp; Company, Managing Agents: New York, NY</field>
 +    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
-+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Atlantic &amp;amp; West India Line, Leaycraft &amp;amp; Company, Managing Agents: New York, NY</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Atlantic &amp; West India Line, Leaycraft &amp; Company, Managing Agents: New York, NY</field>
      <field name="heading_ssm">Atlantic &amp; West India Line, Leaycraft &amp; Company, Managing Agents: New York, NY</field>
      <field name="unitdate_start_sim">1887</field>
      <field name="unitdate_start_ssm">1887</field>

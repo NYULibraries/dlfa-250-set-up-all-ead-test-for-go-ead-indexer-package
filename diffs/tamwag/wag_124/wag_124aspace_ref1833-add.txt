@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">WAG.124</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Microdex#: 1: Staff Wages: May 1952Microdex#: 2: Budget : 1957-1958Microdex#: 3: Organizing Western Electric Hawthorne XVIIII (C): undatedMicrodex#: 4: Internal Organizing General: Jan 16, 1952; Nov 9, 1954Microdex#: 5: Organizing Indianapolis: May 13, 1948; Jan 26, 1932</field>
+-    <field name="unittitle_teim">Microdex#: 1: Staff Wages: May 1952Microdex#: 2: Budget : 1957-1958Microdex#: 3: Organizing Western Electric Hawthorne XVIIII (C): undatedMicrodex#: 4: Internal Organizing General: Jan 16, 1952; Nov 9, 1954Microdex#: 5: Organizing Indianapolis: May 13, 1948; Jan 26, 1932</field>
++    <field name="unittitle_teim">Microdex#: 1: Staff Wages: May 1952 Microdex#: 2: Budget : 1957-1958 Microdex#: 3: Organizing Western Electric Hawthorne XVIIII (C): undated Microdex#: 4: Internal Organizing General: Jan 16, 1952; Nov 9, 1954 Microdex#: 5: Organizing Indianapolis: May 13, 1948; Jan 26, 1932</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/318313</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/318313</field>
+     <field name="unitdate_normal_ssm">1932/1989</field>
+@@ -37,7 +37,7 @@
+     <field name="series_sim">Series V: CWA Officers' Papers</field>
+     <field name="series_sim">Subseries V:A: Beirne (Joseph A. Beirne), 1939-1980</field>
+     <field name="series_si">Series V: CWA Officers' Papers &gt;&gt; Subseries V:A: Beirne (Joseph A. Beirne), 1939-1980 &gt;&gt; Microdex#: 1: Staff Wages: May 1952Microdex#: 2: Budget : 1957-1958Microdex#: 3: Organizing Western Electric Hawthorne XVIIII (C): undatedMicrodex#: 4: Internal Organizing General: Jan 16, 1952; Nov 9, 1954Microdex#: 5: Organizing Indianapolis: May 13, 1948; Jan 26, 1932</field>
+-    <field name="heading_ssm">Microdex#: 1: Staff Wages: May 1952Microdex#: 2: Budget : 1957-1958Microdex#: 3: Organizing Western Electric Hawthorne XVIIII (C): undatedMicrodex#: 4: Internal Organizing General: Jan 16, 1952; Nov 9, 1954Microdex#: 5: Organizing Indianapolis: May 13, 1948; Jan 26, 1932</field>
++    <field name="heading_ssm">Microdex#: 1: Staff Wages: May 1952 Microdex#: 2: Budget : 1957-1958 Microdex#: 3: Organizing Western Electric Hawthorne XVIIII (C): undated Microdex#: 4: Internal Organizing General: Jan 16, 1952; Nov 9, 1954 Microdex#: 5: Organizing Indianapolis: May 13, 1948; Jan 26, 1932</field>
+     <field name="unitdate_start_sim">1932</field>
+     <field name="unitdate_start_ssm">1932</field>
+     <field name="unitdate_start_si">1932</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050719007</field>
+     <field name="unitid_ssm">31142050719007</field>
+     <field name="unitdate_teim">1953-1970</field>
+-    <field name="scopecontent_teim">Materials mostly from Kopit's college years at Harvard: handwritten and type script drafts of "One Morning in June", student papers and examination books, notebooks, high school newspapers, clippings from the NY Times relating to Kopit works, tickets playbills and ephemera relating to student productions, some magazines of the period; one folder of assorted correspondence to and from Kopit along with many envelopes enclosing reviews and notices of various productions; a mostly empty photo album with photos dating as late as 1970, playbills, reviews, photographs of various productions of "Oh Dad...", numerous promotional photos of Kopit, PublicationsEugene O'Neill, Desire Under the Elms (Signet: New York, 1958)Audio Recordings"Les Petits Chanteuse de la Renaissance" 45 phonograph.</field>
++    <field name="scopecontent_teim">Materials mostly from Kopit's college years at Harvard: handwritten and type script drafts of "One Morning in June", student papers and examination books, notebooks, high school newspapers, clippings from the NY Times relating to Kopit works, tickets playbills and ephemera relating to student productions, some magazines of the period; one folder of assorted correspondence to and from Kopit along with many envelopes enclosing reviews and notices of various productions; a mostly empty photo album with photos dating as late as 1970, playbills, reviews, photographs of various productions of "Oh Dad...", numerous promotional photos of Kopit, Publications Eugene O'Neill, Desire Under the Elms (Signet: New York, 1958) Audio Recordings "Les Petits Chanteuse de la Renaissance" 45 phonograph.</field>
+     <field name="ref_ssi">aspace_ref323</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

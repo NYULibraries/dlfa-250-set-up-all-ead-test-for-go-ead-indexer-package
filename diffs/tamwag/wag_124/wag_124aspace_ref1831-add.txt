@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">WAG.124</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">NOTE: This box contains original 16mm microfilm. Researchers should use 35mm microfilm copies. Consult Staff. Microdex#: 1: Activation of CWA Replies to Suggestions to Start: Apr 1, 1947Microdex#: 2: Letters to Individuals, Members, Organizations: Apr 1943; Jun 1944Microdex#: 3: Sleeping Post Tours Correspondence &amp; Memoranda: undatedMicrodex#: 4: Formation of CWA, National Union: 1946Microdex#: 5: Second Annual Convention: 1948</field>
+-    <field name="unittitle_teim">NOTE: This box contains original 16mm microfilm. Researchers should use 35mm microfilm copies. Consult Staff. Microdex#: 1: Activation of CWA Replies to Suggestions to Start: Apr 1, 1947Microdex#: 2: Letters to Individuals, Members, Organizations: Apr 1943; Jun 1944Microdex#: 3: Sleeping Post Tours Correspondence &amp; Memoranda: undatedMicrodex#: 4: Formation of CWA, National Union: 1946Microdex#: 5: Second Annual Convention: 1948</field>
++    <field name="unittitle_teim">NOTE: This box contains original 16mm microfilm. Researchers should use 35mm microfilm copies. Consult Staff. Microdex#: 1: Activation of CWA Replies to Suggestions to Start: Apr 1, 1947 Microdex#: 2: Letters to Individuals, Members, Organizations: Apr 1943; Jun 1944 Microdex#: 3: Sleeping Post Tours Correspondence &amp; Memoranda: undated Microdex#: 4: Formation of CWA, National Union: 1946 Microdex#: 5: Second Annual Convention: 1948</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/318311</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/318311</field>
+     <field name="unitdate_normal_ssm">1943/1989</field>
+@@ -37,7 +37,7 @@
+     <field name="series_sim">Series V: CWA Officers' Papers</field>
+     <field name="series_sim">Subseries V:A: Beirne (Joseph A. Beirne), 1939-1980</field>
+     <field name="series_si">Series V: CWA Officers' Papers &gt;&gt; Subseries V:A: Beirne (Joseph A. Beirne), 1939-1980 &gt;&gt; NOTE: This box contains original 16mm microfilm. Researchers should use 35mm microfilm copies. Consult Staff. Microdex#: 1: Activation of CWA Replies to Suggestions to Start: Apr 1, 1947Microdex#: 2: Letters to Individuals, Members, Organizations: Apr 1943; Jun 1944Microdex#: 3: Sleeping Post Tours Correspondence &amp; Memoranda: undatedMicrodex#: 4: Formation of CWA, National Union: 1946Microdex#: 5: Second Annual Convention: 1948</field>
+-    <field name="heading_ssm">NOTE: This box contains original 16mm microfilm. Researchers should use 35mm microfilm copies. Consult Staff. Microdex#: 1: Activation of CWA Replies to Suggestions to Start: Apr 1, 1947Microdex#: 2: Letters to Individuals, Members, Organizations: Apr 1943; Jun 1944Microdex#: 3: Sleeping Post Tours Correspondence &amp; Memoranda: undatedMicrodex#: 4: Formation of CWA, National Union: 1946Microdex#: 5: Second Annual Convention: 1948</field>
++    <field name="heading_ssm">NOTE: This box contains original 16mm microfilm. Researchers should use 35mm microfilm copies. Consult Staff. Microdex#: 1: Activation of CWA Replies to Suggestions to Start: Apr 1, 1947 Microdex#: 2: Letters to Individuals, Members, Organizations: Apr 1943; Jun 1944 Microdex#: 3: Sleeping Post Tours Correspondence &amp; Memoranda: undated Microdex#: 4: Formation of CWA, National Union: 1946 Microdex#: 5: Second Annual Convention: 1948</field>
+     <field name="unitdate_start_sim">1943</field>
+     <field name="unitdate_start_ssm">1943</field>
+     <field name="unitdate_start_si">1943</field>

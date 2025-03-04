@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Littell's Living Age &lt;strong&gt;Series Number&lt;/strong&gt;: 2798&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: Littell and Co.&lt;strong&gt;Date&lt;/strong&gt;: February 19, 1898</field>
+-    <field name="unittitle_teim">Series Title: Littell's Living Age Series Number: 2798City: BostonPublisher: Littell and Co.Date: February 19, 1898</field>
++    <field name="unittitle_teim">Series Title: Littell's Living Age Series Number: 2798 City: Boston Publisher: Littell and Co. Date: February 19, 1898</field>
+     <field name="unitdate_normal_ssm">1898/1898</field>
+     <field name="unitdate_normal_teim">1898/1898</field>
+     <field name="unitdate_normal_sim">1898/1898</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Littell's Living Age &lt;strong&gt;Series Number&lt;/strong&gt;: 2798&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: Littell and Co.&lt;strong&gt;Date&lt;/strong&gt;: February 19, 1898</field>
+-    <field name="heading_ssm">Series Title: Littell's Living Age Series Number: 2798City: BostonPublisher: Littell and Co.Date: February 19, 1898</field>
++    <field name="heading_ssm">Series Title: Littell's Living Age Series Number: 2798 City: Boston Publisher: Littell and Co. Date: February 19, 1898</field>
+     <field name="unitdate_start_sim">1898</field>
+     <field name="unitdate_start_ssm">1898</field>
+     <field name="unitdate_start_si">1898</field>

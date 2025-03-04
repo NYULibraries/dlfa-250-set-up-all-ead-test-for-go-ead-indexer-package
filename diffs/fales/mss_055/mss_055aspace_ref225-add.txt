@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Holland, Stephen.&lt;strong&gt;place&lt;/strong&gt;: New York</field>
+-    <field name="unittitle_teim">creator: Holland, Stephen.place: New York</field>
++    <field name="unittitle_teim">creator: Holland, Stephen. place: New York</field>
+     <field name="unitid_teim">055-001-a-0145</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404189</field>
+     <field name="unitid_ssm">055-001-a-0145</field>
+@@ -30,8 +30,8 @@
+     <field name="name_teim">Holland, Stephen.</field>
+     <field name="name_ssm">Holland, Stephen.</field>
+     <field name="name_ssm">Holland, Stephen.</field>
+-    <field name="dao_teim">creator: Holland, Stephen.place: New York: 1781</field>
+-    <field name="dao_ssm">creator: Holland, Stephen.place: New York: 1781</field>
++    <field name="dao_teim">creator: Holland, Stephen. place: New York: 1781</field>
++    <field name="dao_ssm">creator: Holland, Stephen. place: New York: 1781</field>
+     <field name="ref_ssi">aspace_ref225</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -46,7 +46,7 @@
+     <field name="series_sim">Series I: New York State</field>
+     <field name="series_sim">Subseries A: Letters and Documents</field>
+     <field name="series_si">Series I: New York State &gt;&gt; Subseries A: Letters and Documents &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Holland, Stephen.&lt;strong&gt;place&lt;/strong&gt;: New York</field>
+-    <field name="heading_ssm">creator: Holland, Stephen.place: New York</field>
++    <field name="heading_ssm">creator: Holland, Stephen. place: New York</field>
+     <field name="unitdate_start_sim">1781</field>
+     <field name="unitdate_start_ssm">1781</field>
+     <field name="unitdate_start_si">1781</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt;Old Mother Hubbard&lt;/em&gt;</field>
+     <field name="unittitle_teim">Old Mother Hubbard</field>
+-    <field name="scopecontent_teim">4 woodblocks.Artist's watercolor appears on the back: 4 separate designs and 1 fragment.</field>
++    <field name="scopecontent_teim">4 woodblocks. Artist's watercolor appears on the back: 4 separate designs and 1 fragment.</field>
+     <field name="title_teim">Old Mother Hubbard</field>
+     <field name="title_ssm">Old Mother Hubbard</field>
+     <field name="ref_ssi">aspace_73fb4c66147b5ab507f86b771c28672e</field>

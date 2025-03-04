@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+     <field name="unitdate_inclusive_teim">2013</field>
+-    <field name="scopecontent_teim">Director: Ameera Madhi (United Arab Emirates)(None)Original Title: Maraa'Catalog Record: GetIt | MirrorMore Info</field>
+-    <field name="phystech_teim">Original Format: HDCAMColor, Black and WhiteTotal Running Time: 00:04:00</field>
++    <field name="scopecontent_teim">Director: Ameera Madhi (United Arab Emirates) (None) Original Title: Maraa' Catalog Record: GetIt | Mirror More Info</field>
++    <field name="phystech_teim">Original Format: HDCAM Color, Black and White Total Running Time: 00:04:00</field>
+     <field name="ref_ssi">aspace_ref131_fpl</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

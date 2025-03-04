@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Werner, E.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Vineta, the phantom city&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Lovell's Library&lt;strong&gt;Series Number&lt;/strong&gt;: 734&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: John W. Lovell&lt;strong&gt;Other Notes&lt;/strong&gt;: translated by Frances A. Shaw&lt;strong&gt;Date&lt;/strong&gt;: 1878</field>
+-    <field name="unittitle_teim">Author: Werner, E.Title: Vineta, the phantom citySeries Title: Lovell's LibrarySeries Number: 734City: New YorkPublisher: John W. LovellOther Notes: translated by Frances A. ShawDate: 1878</field>
++    <field name="unittitle_teim">Author: Werner, E. Title: Vineta, the phantom city Series Title: Lovell's Library Series Number: 734 City: New York Publisher: John W. Lovell Other Notes: translated by Frances A. Shaw Date: 1878</field>
+     <field name="unitdate_normal_ssm">1878/1878</field>
+     <field name="unitdate_normal_teim">1878/1878</field>
+     <field name="unitdate_normal_sim">1878/1878</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Werner, E.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Vineta, the phantom city&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Lovell's Library&lt;strong&gt;Series Number&lt;/strong&gt;: 734&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: John W. Lovell&lt;strong&gt;Other Notes&lt;/strong&gt;: translated by Frances A. Shaw&lt;strong&gt;Date&lt;/strong&gt;: 1878</field>
+-    <field name="heading_ssm">Author: Werner, E.Title: Vineta, the phantom citySeries Title: Lovell's LibrarySeries Number: 734City: New YorkPublisher: John W. LovellOther Notes: translated by Frances A. ShawDate: 1878</field>
++    <field name="heading_ssm">Author: Werner, E. Title: Vineta, the phantom city Series Title: Lovell's Library Series Number: 734 City: New York Publisher: John W. Lovell Other Notes: translated by Frances A. Shaw Date: 1878</field>
+     <field name="unitdate_start_sim">1878</field>
+     <field name="unitdate_start_ssm">1878</field>
+     <field name="unitdate_start_si">1878</field>

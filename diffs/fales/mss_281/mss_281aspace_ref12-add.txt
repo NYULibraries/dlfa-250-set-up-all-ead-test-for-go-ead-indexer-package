@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -21,7 +21,7 @@
+     <field name="unitdate_normal_teim">1991/2007</field>
+     <field name="unitdate_normal_sim">1991/2007</field>
+     <field name="unitdate_inclusive_teim">1991-2007</field>
+-    <field name="scopecontent_teim">Subseries comprises material that could not be integrated into the main subseries but still reflects some aspect of Lukins's professional life, including material related to Lukins's travel and research on international cuisine, her involvement with Les Dames d'Escoffier, her student records and work on art education, an NYU Distinguished Alumni Achievement Award she received, and her early catering work.That said, there is some material in this subseries that could easily fit into one or more of the other, more specific subseries above; however, the archivist thought it best to leave this material, in the order in which he received them.</field>
++    <field name="scopecontent_teim">Subseries comprises material that could not be integrated into the main subseries but still reflects some aspect of Lukins's professional life, including material related to Lukins's travel and research on international cuisine, her involvement with Les Dames d'Escoffier, her student records and work on art education, an NYU Distinguished Alumni Achievement Award she received, and her early catering work. That said, there is some material in this subseries that could easily fit into one or more of the other, more specific subseries above; however, the archivist thought it best to leave this material, in the order in which he received them.</field>
+     <field name="ref_ssi">aspace_ref12</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

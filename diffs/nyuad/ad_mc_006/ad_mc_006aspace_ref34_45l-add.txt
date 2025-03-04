@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">2009</field>
+-    <field name="scopecontent_teim">Director: Mostofa Sarwar Farooki (Bangladesh)Original Title: Third Person Singular NumberCatalog Record: GetIt | Third Person Singular NumberMore Information</field>
+-    <field name="phystech_teim">Original Format: 35mmColorTotal Running Time: 02:03:00</field>
++    <field name="scopecontent_teim">Director: Mostofa Sarwar Farooki (Bangladesh) Original Title: Third Person Singular Number Catalog Record: GetIt | Third Person Singular Number More Information</field>
++    <field name="phystech_teim">Original Format: 35mm Color Total Running Time: 02:03:00</field>
+     <field name="ref_ssi">aspace_ref34_45l</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

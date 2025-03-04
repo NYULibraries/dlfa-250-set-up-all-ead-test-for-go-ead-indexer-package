@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.146</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Pogan, LennyPogan, Lillian</field>
+-    <field name="unittitle_teim">Pogan, LennyPogan, Lillian</field>
++    <field name="unittitle_teim">Pogan, Lenny Pogan, Lillian</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/471581</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/471581</field>
+     <field name="unitdate_teim">1965</field>
+@@ -34,7 +34,7 @@
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Subseries A</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Subseries A &gt;&gt; Pogan, LennyPogan, Lillian</field>
+-    <field name="heading_ssm">Pogan, LennyPogan, Lillian</field>
++    <field name="heading_ssm">Pogan, Lenny Pogan, Lillian</field>
+     <field name="unitdate_ssm">1965</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">514</field>

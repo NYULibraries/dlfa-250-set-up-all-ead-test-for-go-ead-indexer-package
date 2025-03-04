@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Robinson, F. W.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The courting of Mary Smith&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Seaside Library&lt;strong&gt;Series Number&lt;/strong&gt;: 590&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: George Munro&lt;strong&gt;Date&lt;/strong&gt;: 1885</field>
+-    <field name="unittitle_teim">Author: Robinson, F. W.Title: The courting of Mary SmithSeries Title: Seaside LibrarySeries Number: 590City: New YorkPublisher: George MunroDate: 1885</field>
++    <field name="unittitle_teim">Author: Robinson, F. W. Title: The courting of Mary Smith Series Title: Seaside Library Series Number: 590 City: New York Publisher: George Munro Date: 1885</field>
+     <field name="unitdate_normal_ssm">1885/1885</field>
+     <field name="unitdate_normal_teim">1885/1885</field>
+     <field name="unitdate_normal_sim">1885/1885</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Robinson, F. W.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The courting of Mary Smith&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Seaside Library&lt;strong&gt;Series Number&lt;/strong&gt;: 590&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: George Munro&lt;strong&gt;Date&lt;/strong&gt;: 1885</field>
+-    <field name="heading_ssm">Author: Robinson, F. W.Title: The courting of Mary SmithSeries Title: Seaside LibrarySeries Number: 590City: New YorkPublisher: George MunroDate: 1885</field>
++    <field name="heading_ssm">Author: Robinson, F. W. Title: The courting of Mary Smith Series Title: Seaside Library Series Number: 590 City: New York Publisher: George Munro Date: 1885</field>
+     <field name="unitdate_start_sim">1885</field>
+     <field name="unitdate_start_ssm">1885</field>
+     <field name="unitdate_start_si">1885</field>

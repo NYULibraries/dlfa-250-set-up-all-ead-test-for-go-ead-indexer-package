@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;em&gt;Arrestation du Major Andre au Bourg Tarry Town&lt;/em&gt;&lt;strong&gt;place&lt;/strong&gt;: s.l.</field>
+-    <field name="unittitle_teim">Arrestation du Major Andre au Bourg Tarry Townplace: s.l.</field>
++    <field name="unittitle_teim">Arrestation du Major Andre au Bourg Tarry Town place: s.l.</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404763</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/404763</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -25,8 +25,8 @@
+     <field name="title_teim">Arrestation du Major Andre au Bourg Tarry Town</field>
+     <field name="title_ssm">Arrestation du Major Andre au Bourg Tarry Town</field>
+     <field name="title_ssm">Arrestation du Major Andre au Bourg Tarry Town</field>
+-    <field name="dao_teim">Arrestation du Major Andre au Bourg Tarry Townplace: s.l.: Undated</field>
+-    <field name="dao_ssm">Arrestation du Major Andre au Bourg Tarry Townplace: s.l.: Undated</field>
++    <field name="dao_teim">Arrestation du Major Andre au Bourg Tarry Town place: s.l.: Undated</field>
++    <field name="dao_ssm">Arrestation du Major Andre au Bourg Tarry Town place: s.l.: Undated</field>
+     <field name="ref_ssi">aspace_ref2705</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series V: Printed Materials</field>
+     <field name="series_sim">Subseries A: Newspapers and Other Printed Materials</field>
+     <field name="series_si">Series V: Printed Materials &gt;&gt; Subseries A: Newspapers and Other Printed Materials &gt;&gt; &lt;em&gt;Arrestation du Major Andre au Bourg Tarry Town&lt;/em&gt;&lt;strong&gt;place&lt;/strong&gt;: s.l.</field>
+-    <field name="heading_ssm">Arrestation du Major Andre au Bourg Tarry Townplace: s.l.</field>
++    <field name="heading_ssm">Arrestation du Major Andre au Bourg Tarry Town place: s.l.</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">631</field>

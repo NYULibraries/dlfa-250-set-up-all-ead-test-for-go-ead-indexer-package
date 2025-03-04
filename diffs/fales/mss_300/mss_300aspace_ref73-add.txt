@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 300.0003</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/553890</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Original format: 8mm film on VHSColor/No SoundDuration: 21 minutes</field>
++    <field name="phystech_teim">Original format: 8mm film on VHS Color/No Sound Duration: 21 minutes</field>
+     <field name="ref_ssi">aspace_ref73</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

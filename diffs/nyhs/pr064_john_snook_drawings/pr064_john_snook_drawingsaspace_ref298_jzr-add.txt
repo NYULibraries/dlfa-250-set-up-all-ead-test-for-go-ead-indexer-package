@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">John B. Snook 1860-18621862-18641864-18861868-18771877-1887</field>
+-    <field name="unittitle_teim">John B. Snook 1860-18621862-18641864-18861868-18771877-1887</field>
++    <field name="unittitle_teim">John B. Snook 1860-1862 1862-1864 1864-1886 1868-1877 1877-1887</field>
+     <field name="ref_ssi">aspace_ref298_jzr</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series II: Financial Records</field>
+     <field name="series_sim">ACCOUNT BOOKS</field>
+     <field name="series_si">Series II: Financial Records &gt;&gt; ACCOUNT BOOKS &gt;&gt; John B. Snook 1860-18621862-18641864-18861868-18771877-1887</field>
+-    <field name="heading_ssm">John B. Snook 1860-18621862-18641864-18861868-18771877-1887</field>
++    <field name="heading_ssm">John B. Snook 1860-1862 1862-1864 1864-1886 1868-1877 1877-1887</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">257</field>
+   </doc>

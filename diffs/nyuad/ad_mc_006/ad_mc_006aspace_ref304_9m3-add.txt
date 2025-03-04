@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+     <field name="unitdate_inclusive_teim">2013</field>
+-    <field name="scopecontent_teim">Director: Julie Bertuccelli (France)FrenchOriginal Title: La Cour de BabelCatalog Record: GetIt | School Of BabelMore Info</field>
+-    <field name="phystech_teim">Original Format: DCPColorTotal Running Time: 01:30:00</field>
++    <field name="scopecontent_teim">Director: Julie Bertuccelli (France) French Original Title: La Cour de Babel Catalog Record: GetIt | School Of Babel More Info</field>
++    <field name="phystech_teim">Original Format: DCP Color Total Running Time: 01:30:00</field>
+     <field name="ref_ssi">aspace_ref304_9m3</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

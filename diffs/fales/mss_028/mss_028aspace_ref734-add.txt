@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Flowerdew, Herbert&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Bad blood&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The weekly telegraph novels&lt;strong&gt;Series Number&lt;/strong&gt;: 134&lt;strong&gt;City&lt;/strong&gt;: London&lt;strong&gt;Publisher&lt;/strong&gt;: the proprietors of "The Weekly Telegraph"&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="unittitle_teim">Author: Flowerdew, HerbertTitle: Bad bloodSeries Title: The weekly telegraph novelsSeries Number: 134City: LondonPublisher: the proprietors of "The Weekly Telegraph"Date: undated</field>
++    <field name="unittitle_teim">Author: Flowerdew, Herbert Title: Bad blood Series Title: The weekly telegraph novels Series Number: 134 City: London Publisher: the proprietors of "The Weekly Telegraph" Date: undated</field>
+     <field name="unitdate_normal_ssm">1821/1968</field>
+     <field name="unitdate_normal_teim">1821/1968</field>
+     <field name="unitdate_normal_sim">1821/1968</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Flowerdew, Herbert&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Bad blood&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The weekly telegraph novels&lt;strong&gt;Series Number&lt;/strong&gt;: 134&lt;strong&gt;City&lt;/strong&gt;: London&lt;strong&gt;Publisher&lt;/strong&gt;: the proprietors of "The Weekly Telegraph"&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="heading_ssm">Author: Flowerdew, HerbertTitle: Bad bloodSeries Title: The weekly telegraph novelsSeries Number: 134City: LondonPublisher: the proprietors of "The Weekly Telegraph"Date: undated</field>
++    <field name="heading_ssm">Author: Flowerdew, Herbert Title: Bad blood Series Title: The weekly telegraph novels Series Number: 134 City: London Publisher: the proprietors of "The Weekly Telegraph" Date: undated</field>
+     <field name="unitdate_start_sim">1821</field>
+     <field name="unitdate_start_ssm">1821</field>
+     <field name="unitdate_start_si">1821</field>

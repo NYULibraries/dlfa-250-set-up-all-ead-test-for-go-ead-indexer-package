@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Gibney, Virgil Pendleton (2)Gibson, Charles DanaGibson, HughGilbert, CassGilder, Richard Watson (2)Gildersleeve, Virginia Crocheron (2)Gillette, WilliamGilman, Daniel CoitGilmer, Elizabeth MeriwetherGish, DorothyGlaenzer, Jules and sonGoelet, RobertGoethals, George Washington</field>
+-    <field name="unittitle_teim">Gibney, Virgil Pendleton (2)Gibson, Charles DanaGibson, HughGilbert, CassGilder, Richard Watson (2)Gildersleeve, Virginia Crocheron (2)Gillette, WilliamGilman, Daniel CoitGilmer, Elizabeth MeriwetherGish, DorothyGlaenzer, Jules and sonGoelet, RobertGoethals, George Washington</field>
++    <field name="unittitle_teim">Gibney, Virgil Pendleton (2) Gibson, Charles Dana Gibson, Hugh Gilbert, Cass Gilder, Richard Watson (2) Gildersleeve, Virginia Crocheron (2) Gillette, William Gilman, Daniel Coit Gilmer, Elizabeth Meriwether Gish, Dorothy Glaenzer, Jules and son Goelet, Robert Goethals, George Washington</field>
+     <field name="ref_ssi">aspace_ref54_43d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Gibney, Virgil Pendleton (2)Gibson, Charles DanaGibson, HughGilbert, CassGilder, Richard Watson (2)Gildersleeve, Virginia Crocheron (2)Gillette, WilliamGilman, Daniel CoitGilmer, Elizabeth MeriwetherGish, DorothyGlaenzer, Jules and sonGoelet, RobertGoethals, George Washington</field>
+-    <field name="heading_ssm">Gibney, Virgil Pendleton (2)Gibson, Charles DanaGibson, HughGilbert, CassGilder, Richard Watson (2)Gildersleeve, Virginia Crocheron (2)Gillette, WilliamGilman, Daniel CoitGilmer, Elizabeth MeriwetherGish, DorothyGlaenzer, Jules and sonGoelet, RobertGoethals, George Washington</field>
++    <field name="heading_ssm">Gibney, Virgil Pendleton (2) Gibson, Charles Dana Gibson, Hugh Gilbert, Cass Gilder, Richard Watson (2) Gildersleeve, Virginia Crocheron (2) Gillette, William Gilman, Daniel Coit Gilmer, Elizabeth Meriwether Gish, Dorothy Glaenzer, Jules and son Goelet, Robert Goethals, George Washington</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">32</field>
+   </doc>

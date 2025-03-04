@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">2009</field>
+-    <field name="phystech_teim">Original format: DVDDuration: 1 hour 40 minutes</field>
++    <field name="phystech_teim">Original format: DVD Duration: 1 hour 40 minutes</field>
+     <field name="ref_ssi">aspace_ref75</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

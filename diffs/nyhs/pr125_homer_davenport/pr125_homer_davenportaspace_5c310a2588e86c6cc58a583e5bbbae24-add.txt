@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names C-D</field>
+     <field name="unittitle_teim">Various Names C-D</field>
+-    <field name="scopecontent_teim">Canfield, RichardCarr, L.F.Casaday, with Goodman, Jacob Cantor Chapman, (Elverton R.?)Clausen, (George Casper?)Cleveland, Stephen Grover (see 'Tammany Tiger' #1) Coler, (Bird Sims?)Croker, RichardDarlington, Dr.Davis, HenryDay, (James Roscoe?)De Lutter, Col. CaseDevery, William (see 'Police and police corruption')Dike, Norman S.Dunne, Peter</field>
++    <field name="scopecontent_teim">Canfield, Richard Carr, L.F. Casaday, with Goodman, Jacob Cantor Chapman, (Elverton R.?) Clausen, (George Casper?) Cleveland, Stephen Grover (see 'Tammany Tiger' #1) Coler, (Bird Sims?) Croker, Richard Darlington, Dr. Davis, Henry Day, (James Roscoe?) De Lutter, Col. Case Devery, William (see 'Police and police corruption') Dike, Norman S. Dunne, Peter</field>
+     <field name="ref_ssi">aspace_5c310a2588e86c6cc58a583e5bbbae24</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

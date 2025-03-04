@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718934</field>
+     <field name="unitid_ssm">31142050718934</field>
+     <field name="unitdate_teim">1965-1969</field>
+-    <field name="scopecontent_teim">Early business materials found among personal papers and correspondence. Material includes cancelled checks from 1965; cancelled checks belonging to his parents 1965-1968; bills for 1965 and 1967 including mailed monthly tabs from Elaine's, Sardi's, the Harvard club, credit card statements, etc.; a large volume of news clippings, ca. 1969.Note: One legal folder of material, all royalty statements from 1969 moved to Flat Box 14.</field>
++    <field name="scopecontent_teim">Early business materials found among personal papers and correspondence. Material includes cancelled checks from 1965; cancelled checks belonging to his parents 1965-1968; bills for 1965 and 1967 including mailed monthly tabs from Elaine's, Sardi's, the Harvard club, credit card statements, etc.; a large volume of news clippings, ca. 1969. Note: One legal folder of material, all royalty statements from 1969 moved to Flat Box 14.</field>
+     <field name="ref_ssi">aspace_ref307</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

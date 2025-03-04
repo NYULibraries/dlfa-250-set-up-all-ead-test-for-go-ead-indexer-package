@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Series A: Eben Norton Horsford</field>
      <field name="series_sim">Subseries 1: Correspondence</field>
 -    <field name="series_sim">Subsubseries a: Academic and Family</field>
--    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family &gt;&gt; Porter, Edward: Lexington &amp;amp; Watertown, MA</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family &gt;&gt; Porter, Edward: Lexington &amp; Watertown, MA</field>
 +    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
-+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Porter, Edward: Lexington &amp;amp; Watertown, MA</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Porter, Edward: Lexington &amp; Watertown, MA</field>
      <field name="heading_ssm">Porter, Edward: Lexington &amp; Watertown, MA</field>
      <field name="unitdate_start_sim">1889</field>
      <field name="unitdate_start_ssm">1889</field>

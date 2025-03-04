@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Lee, Margaret&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;May blossom; or, between two loves&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Sweetheart Series&lt;strong&gt;Series Number&lt;/strong&gt;: 280&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: George Munro's Sons&lt;strong&gt;Date&lt;/strong&gt;: 1903</field>
+-    <field name="unittitle_teim">Author: Lee, MargaretTitle: May blossom; or, between two lovesSeries Title: The Sweetheart SeriesSeries Number: 280City: New YorkPublisher: George Munro's SonsDate: 1903</field>
++    <field name="unittitle_teim">Author: Lee, Margaret Title: May blossom; or, between two loves Series Title: The Sweetheart Series Series Number: 280 City: New York Publisher: George Munro's Sons Date: 1903</field>
+     <field name="unitdate_normal_ssm">1903/1903</field>
+     <field name="unitdate_normal_teim">1903/1903</field>
+     <field name="unitdate_normal_sim">1903/1903</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Lee, Margaret&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;May blossom; or, between two loves&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Sweetheart Series&lt;strong&gt;Series Number&lt;/strong&gt;: 280&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: George Munro's Sons&lt;strong&gt;Date&lt;/strong&gt;: 1903</field>
+-    <field name="heading_ssm">Author: Lee, MargaretTitle: May blossom; or, between two lovesSeries Title: The Sweetheart SeriesSeries Number: 280City: New YorkPublisher: George Munro's SonsDate: 1903</field>
++    <field name="heading_ssm">Author: Lee, Margaret Title: May blossom; or, between two loves Series Title: The Sweetheart Series Series Number: 280 City: New York Publisher: George Munro's Sons Date: 1903</field>
+     <field name="unitdate_start_sim">1903</field>
+     <field name="unitdate_start_ssm">1903</field>
+     <field name="unitdate_start_si">1903</field>

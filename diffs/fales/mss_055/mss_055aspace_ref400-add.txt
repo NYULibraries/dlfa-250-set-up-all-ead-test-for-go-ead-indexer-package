@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Smith, Jaheel&lt;strong&gt;place&lt;/strong&gt;: [Rye]</field>
+-    <field name="unittitle_teim">creator: Smith, Jaheelplace: [Rye]</field>
++    <field name="unittitle_teim">creator: Smith, Jaheel place: [Rye]</field>
+     <field name="unitid_teim">055-002-a-0247</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404236</field>
+     <field name="unitid_ssm">055-002-a-0247</field>
+@@ -27,8 +27,8 @@
+     <field name="name_teim">Smith, Jaheel</field>
+     <field name="name_ssm">Smith, Jaheel</field>
+     <field name="name_ssm">Smith, Jaheel</field>
+-    <field name="dao_teim">creator: Smith, Jaheelplace: [Rye]: Oct 16, 1772</field>
+-    <field name="dao_ssm">creator: Smith, Jaheelplace: [Rye]: Oct 16, 1772</field>
++    <field name="dao_teim">creator: Smith, Jaheel place: [Rye]: Oct 16, 1772</field>
++    <field name="dao_ssm">creator: Smith, Jaheel place: [Rye]: Oct 16, 1772</field>
+     <field name="ref_ssi">aspace_ref400</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series II: Westchester</field>
+     <field name="series_sim">Subseries A: Letters and Documents</field>
+     <field name="series_si">Series II: Westchester &gt;&gt; Subseries A: Letters and Documents &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Smith, Jaheel&lt;strong&gt;place&lt;/strong&gt;: [Rye]</field>
+-    <field name="heading_ssm">creator: Smith, Jaheelplace: [Rye]</field>
++    <field name="heading_ssm">creator: Smith, Jaheel place: [Rye]</field>
+     <field name="unitdate_ssm">Oct 16, 1772</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">104</field>

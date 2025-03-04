@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Christy, Howard Chandler, Mrs.Churchill, Thomas WilliamClark, BobbyClark, ChampClark, John BatesClarke, Caspar Purdon</field>
+-    <field name="unittitle_teim">Christy, Howard Chandler, Mrs.Churchill, Thomas WilliamClark, BobbyClark, ChampClark, John BatesClarke, Caspar Purdon</field>
++    <field name="unittitle_teim">Christy, Howard Chandler, Mrs. Churchill, Thomas William Clark, Bobby Clark, Champ Clark, John Bates Clarke, Caspar Purdon</field>
+     <field name="ref_ssi">aspace_ref30_1xx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Christy, Howard Chandler, Mrs.Churchill, Thomas WilliamClark, BobbyClark, ChampClark, John BatesClarke, Caspar Purdon</field>
+-    <field name="heading_ssm">Christy, Howard Chandler, Mrs.Churchill, Thomas WilliamClark, BobbyClark, ChampClark, John BatesClarke, Caspar Purdon</field>
++    <field name="heading_ssm">Christy, Howard Chandler, Mrs. Churchill, Thomas William Clark, Bobby Clark, Champ Clark, John Bates Clarke, Caspar Purdon</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>
+   </doc>

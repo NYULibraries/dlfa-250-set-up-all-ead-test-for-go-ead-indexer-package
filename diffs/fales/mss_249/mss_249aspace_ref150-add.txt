@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 249.0094</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/531169</field>
+     <field name="unitdate_teim">1982</field>
+-    <field name="phystech_teim">Gauge: 16mmColor, SoundDuration: 20 minutes</field>
++    <field name="phystech_teim">Gauge: 16mm Color, Sound Duration: 20 minutes</field>
+     <field name="ref_ssi">aspace_ref150</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

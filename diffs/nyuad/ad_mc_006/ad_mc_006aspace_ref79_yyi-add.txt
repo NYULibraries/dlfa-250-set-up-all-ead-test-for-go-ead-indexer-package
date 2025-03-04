@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">2009</field>
+-    <field name="scopecontent_teim">Director: Boris Mitic (Serbia)Original Title: Dovidjenja, kako ste?Catalog Record: GetIt | Goodbye, How Are You?More Information</field>
+-    <field name="phystech_teim">Original Format: Digital BetacamColorTotal Running Time: 00:60:00</field>
++    <field name="scopecontent_teim">Director: Boris Mitic (Serbia) Original Title: Dovidjenja, kako ste? Catalog Record: GetIt | Goodbye, How Are You? More Information</field>
++    <field name="phystech_teim">Original Format: Digital Betacam Color Total Running Time: 00:60:00</field>
+     <field name="ref_ssi">aspace_ref79_yyi</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

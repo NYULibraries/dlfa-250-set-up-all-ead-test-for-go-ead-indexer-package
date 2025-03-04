@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Folk, Joseph WingateFornes, Charles VincentForster, Henry (2)Fort, John FranklinFosdick, Harry EmersonFowler, Thomas PowellFrankfurter, FelixFrelinghuysen, Joseph ShermanFrench, Daniel ChesterFrench, Seth BartonFreschi, J. J.Frew, W. E.Friedsam, MichaelFrissell, Algernon SydneyFrohman, DanielGannon, Robert I.</field>
+-    <field name="unittitle_teim">Folk, Joseph WingateFornes, Charles VincentForster, Henry (2)Fort, John FranklinFosdick, Harry EmersonFowler, Thomas PowellFrankfurter, FelixFrelinghuysen, Joseph ShermanFrench, Daniel ChesterFrench, Seth BartonFreschi, J. J.Frew, W. E.Friedsam, MichaelFrissell, Algernon SydneyFrohman, DanielGannon, Robert I.</field>
++    <field name="unittitle_teim">Folk, Joseph Wingate Fornes, Charles Vincent Forster, Henry (2) Fort, John Franklin Fosdick, Harry Emerson Fowler, Thomas Powell Frankfurter, Felix Frelinghuysen, Joseph Sherman French, Daniel Chester French, Seth Barton Freschi, J. J. Frew, W. E. Friedsam, Michael Frissell, Algernon Sydney Frohman, Daniel Gannon, Robert I.</field>
+     <field name="ref_ssi">aspace_ref52_kbb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Folk, Joseph WingateFornes, Charles VincentForster, Henry (2)Fort, John FranklinFosdick, Harry EmersonFowler, Thomas PowellFrankfurter, FelixFrelinghuysen, Joseph ShermanFrench, Daniel ChesterFrench, Seth BartonFreschi, J. J.Frew, W. E.Friedsam, MichaelFrissell, Algernon SydneyFrohman, DanielGannon, Robert I.</field>
+-    <field name="heading_ssm">Folk, Joseph WingateFornes, Charles VincentForster, Henry (2)Fort, John FranklinFosdick, Harry EmersonFowler, Thomas PowellFrankfurter, FelixFrelinghuysen, Joseph ShermanFrench, Daniel ChesterFrench, Seth BartonFreschi, J. J.Frew, W. E.Friedsam, MichaelFrissell, Algernon SydneyFrohman, DanielGannon, Robert I.</field>
++    <field name="heading_ssm">Folk, Joseph Wingate Fornes, Charles Vincent Forster, Henry (2) Fort, John Franklin Fosdick, Harry Emerson Fowler, Thomas Powell Frankfurter, Felix Frelinghuysen, Joseph Sherman French, Daniel Chester French, Seth Barton Freschi, J. J. Frew, W. E. Friedsam, Michael Frissell, Algernon Sydney Frohman, Daniel Gannon, Robert I.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">30</field>
+   </doc>

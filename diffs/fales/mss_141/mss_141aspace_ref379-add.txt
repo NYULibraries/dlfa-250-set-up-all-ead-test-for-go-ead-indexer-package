@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 59 Projects: 3 folders on "Wings".</field>
+     <field name="unitid_teim">cuid22061</field>
+     <field name="unitid_ssm">cuid22061</field>
+-    <field name="scopecontent_teim">Box 60 Projects: "Wings" sketchbook pages.Box 62 Projects: sketchbook pages from "Norman in Wonderland".Large sketchbook pages and other materials from "Dr. Zhivago".</field>
++    <field name="scopecontent_teim">Box 60 Projects: "Wings" sketchbook pages. Box 62 Projects: sketchbook pages from "Norman in Wonderland". Large sketchbook pages and other materials from "Dr. Zhivago".</field>
+     <field name="ref_ssi">aspace_ref379</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 4</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">"S-T" general, including:Sanborn, KateSandburg, CarlSennett, CharleySeton, Ernest ThompsonSeton-Thompson, Grace GallatinSeton, AnyaSimpson, JerryStarr, FrancesStevens, AliceSwanson, Valette [?]Tarbell, Ida MinervaTarkington, BoothTeasdale, SaraTerhune, Albert PaysonTolerton, H. H.Trubetskoi, Pavel Petrovich, kniaz'Truex, ErnestTwain, Mark</field>
+-    <field name="unittitle_teim">"S-T" general, including:Sanborn, KateSandburg, CarlSennett, CharleySeton, Ernest ThompsonSeton-Thompson, Grace GallatinSeton, AnyaSimpson, JerryStarr, FrancesStevens, AliceSwanson, Valette [?]Tarbell, Ida MinervaTarkington, BoothTeasdale, SaraTerhune, Albert PaysonTolerton, H. H.Trubetskoi, Pavel Petrovich, kniaz'Truex, ErnestTwain, Mark</field>
++    <field name="unittitle_teim">"S-T" general, including: Sanborn, Kate Sandburg, Carl Sennett, Charley Seton, Ernest Thompson Seton-Thompson, Grace Gallatin Seton, Anya Simpson, Jerry Starr, Frances Stevens, Alice Swanson, Valette [?] Tarbell, Ida Minerva Tarkington, Booth Teasdale, Sara Terhune, Albert Payson Tolerton, H. H. Trubetskoi, Pavel Petrovich, kniaz' Truex, Ernest Twain, Mark</field>
+     <field name="ref_ssi">aspace_ref33_ohp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 4</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_si">Series I. Portraits &gt;&gt; "S-T" general, including:Sanborn, KateSandburg, CarlSennett, CharleySeton, Ernest ThompsonSeton-Thompson, Grace GallatinSeton, AnyaSimpson, JerryStarr, FrancesStevens, AliceSwanson, Valette [?]Tarbell, Ida MinervaTarkington, BoothTeasdale, SaraTerhune, Albert PaysonTolerton, H. H.Trubetskoi, Pavel Petrovich, kniaz'Truex, ErnestTwain, Mark</field>
+-    <field name="heading_ssm">"S-T" general, including:Sanborn, KateSandburg, CarlSennett, CharleySeton, Ernest ThompsonSeton-Thompson, Grace GallatinSeton, AnyaSimpson, JerryStarr, FrancesStevens, AliceSwanson, Valette [?]Tarbell, Ida MinervaTarkington, BoothTeasdale, SaraTerhune, Albert PaysonTolerton, H. H.Trubetskoi, Pavel Petrovich, kniaz'Truex, ErnestTwain, Mark</field>
++    <field name="heading_ssm">"S-T" general, including: Sanborn, Kate Sandburg, Carl Sennett, Charley Seton, Ernest Thompson Seton-Thompson, Grace Gallatin Seton, Anya Simpson, Jerry Starr, Frances Stevens, Alice Swanson, Valette [?] Tarbell, Ida Minerva Tarkington, Booth Teasdale, Sara Terhune, Albert Payson Tolerton, H. H. Trubetskoi, Pavel Petrovich, kniaz' Truex, Ernest Twain, Mark</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">17</field>
+   </doc>

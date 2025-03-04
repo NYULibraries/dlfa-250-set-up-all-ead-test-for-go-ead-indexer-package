@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A very strange lover&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Princess's Novelettes&lt;strong&gt;Series Number&lt;/strong&gt;: vol. VII, no. 167-170; vol. XVIII, no. 447-450&lt;strong&gt;City&lt;/strong&gt;: London&lt;strong&gt;Publisher&lt;/strong&gt;: Vincent Brooks&lt;strong&gt;Date&lt;/strong&gt;: 1889, 1894</field>
+-    <field name="unittitle_teim">Title: A very strange loverSeries Title: The Princess's NovelettesSeries Number: vol. VII, no. 167-170; vol. XVIII, no. 447-450City: LondonPublisher: Vincent BrooksDate: 1889, 1894</field>
++    <field name="unittitle_teim">Title: A very strange lover Series Title: The Princess's Novelettes Series Number: vol. VII, no. 167-170; vol. XVIII, no. 447-450 City: London Publisher: Vincent Brooks Date: 1889, 1894</field>
+     <field name="unitdate_normal_ssm">1889/1894</field>
+     <field name="unitdate_normal_teim">1889/1894</field>
+     <field name="unitdate_normal_sim">1889/1894</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series V: Misc. Addenda</field>
+     <field name="series_si">Series V: Misc. Addenda &gt;&gt; &lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A very strange lover&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Princess's Novelettes&lt;strong&gt;Series Number&lt;/strong&gt;: vol. VII, no. 167-170; vol. XVIII, no. 447-450&lt;strong&gt;City&lt;/strong&gt;: London&lt;strong&gt;Publisher&lt;/strong&gt;: Vincent Brooks&lt;strong&gt;Date&lt;/strong&gt;: 1889, 1894</field>
+-    <field name="heading_ssm">Title: A very strange loverSeries Title: The Princess's NovelettesSeries Number: vol. VII, no. 167-170; vol. XVIII, no. 447-450City: LondonPublisher: Vincent BrooksDate: 1889, 1894</field>
++    <field name="heading_ssm">Title: A very strange lover Series Title: The Princess's Novelettes Series Number: vol. VII, no. 167-170; vol. XVIII, no. 447-450 City: London Publisher: Vincent Brooks Date: 1889, 1894</field>
+     <field name="unitdate_start_sim">1889</field>
+     <field name="unitdate_start_ssm">1889</field>
+     <field name="unitdate_start_si">1889</field>

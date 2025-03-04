@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Works Box 10 (Scripts Box 12)</field>
+     <field name="unitid_teim">31142040619812</field>
+     <field name="unitid_ssm">31142040619812</field>
+-    <field name="scopecontent_teim">"The Day the Whores..." "first draft orig. hand-written", undated, and multiple typescripts ca. 1964"On the Runway of Life..." undated handwritten drafts and finished typescripts"Mhil'Daiim" multiple copies, undated"Untitled Play" undated"Edgar's Exploits" undated script for play, no other records for work found"Sing to Me Through Open Windows" handwritten and typescript draft, ca. 1961"Promontory Point Revisited" along with other authors' works included in N.Y. Television Theater, 1969"Bone-the-Fish" 1st draft, 1988"Deception" undated"Hands of a Stranger" 1st draft, 1986"Legacy of a Mother's Murder" 3rd draft 1990Drafts and materials of unknown work, ca. 1980s or early 1990s"partial original typescript of unknown work, 1965?Note: One folder of draft of "Snatch" legal-sized pages moved to Flat Box 12</field>
++    <field name="scopecontent_teim">"The Day the Whores..." "first draft orig. hand-written", undated, and multiple typescripts ca. 1964 "On the Runway of Life..." undated handwritten drafts and finished typescripts "Mhil'Daiim" multiple copies, undated "Untitled Play" undated "Edgar's Exploits" undated script for play, no other records for work found "Sing to Me Through Open Windows" handwritten and typescript draft, ca. 1961 "Promontory Point Revisited" along with other authors' works included in N.Y. Television Theater, 1969 "Bone-the-Fish" 1st draft, 1988 "Deception" undated "Hands of a Stranger" 1st draft, 1986 "Legacy of a Mother's Murder" 3rd draft 1990 Drafts and materials of unknown work, ca. 1980s or early 1990s "partial original typescript of unknown work, 1965? Note: One folder of draft of "Snatch" legal-sized pages moved to Flat Box 12</field>
+     <field name="ref_ssi">aspace_ref233</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

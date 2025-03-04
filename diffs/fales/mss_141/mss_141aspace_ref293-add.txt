@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718868</field>
+     <field name="unitid_ssm">31142050718868</field>
+     <field name="unitdate_teim">1976-ca. later 1990s</field>
+-    <field name="scopecontent_teim">Royalty checks and statements, investment statements, mostly of investments on behalf of Kopit's children, income tax forms for Kopit and members of his family. A second group of files were removed from labeled hanging files. The files are mostly assorted project material such as reviews, research, correspondence, etc., in no apparent order but also include materials on computers, office supplies and the like. Projects include "Blue Angel", "Wings", and an untitled project with Audrey Cooper.Note: One large folder of material on home appraisal and mortgage, one folder of trust agreements, two award plaques moved to Flat Box 14.</field>
++    <field name="scopecontent_teim">Royalty checks and statements, investment statements, mostly of investments on behalf of Kopit's children, income tax forms for Kopit and members of his family. A second group of files were removed from labeled hanging files. The files are mostly assorted project material such as reviews, research, correspondence, etc., in no apparent order but also include materials on computers, office supplies and the like. Projects include "Blue Angel", "Wings", and an untitled project with Audrey Cooper. Note: One large folder of material on home appraisal and mortgage, one folder of trust agreements, two award plaques moved to Flat Box 14.</field>
+     <field name="ref_ssi">aspace_ref293</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

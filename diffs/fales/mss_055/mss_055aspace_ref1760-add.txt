@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Adams, John Quincy&lt;strong&gt;place&lt;/strong&gt;: Peterborough</field>
+-    <field name="unittitle_teim">creator: Adams, John Quincyplace: Peterborough</field>
++    <field name="unittitle_teim">creator: Adams, John Quincy place: Peterborough</field>
+     <field name="unitid_teim">055-004-A-2064</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404583</field>
+     <field name="unitid_ssm">055-004-A-2064</field>
+@@ -24,8 +24,8 @@
+     <field name="name_teim">Adams, John Quincy</field>
+     <field name="name_ssm">Adams, John Quincy</field>
+     <field name="name_ssm">Adams, John Quincy</field>
+-    <field name="dao_teim">creator: Adams, John Quincyplace: Peterborough: Jul 31, 1839</field>
+-    <field name="dao_ssm">creator: Adams, John Quincyplace: Peterborough: Jul 31, 1839</field>
++    <field name="dao_teim">creator: Adams, John Quincy place: Peterborough: Jul 31, 1839</field>
++    <field name="dao_ssm">creator: Adams, John Quincy place: Peterborough: Jul 31, 1839</field>
+     <field name="ref_ssi">aspace_ref1760</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -39,7 +39,7 @@
+     <field name="collection_unitid_teim">MSS.055</field>
+     <field name="series_sim">Series IV: Other Historical Letters and Manuscripts</field>
+     <field name="series_si">Series IV: Other Historical Letters and Manuscripts &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Adams, John Quincy&lt;strong&gt;place&lt;/strong&gt;: Peterborough</field>
+-    <field name="heading_ssm">creator: Adams, John Quincyplace: Peterborough</field>
++    <field name="heading_ssm">creator: Adams, John Quincy place: Peterborough</field>
+     <field name="unitdate_ssm">Jul 31, 1839</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">451</field>

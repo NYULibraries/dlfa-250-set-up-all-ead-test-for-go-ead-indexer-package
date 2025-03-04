@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt;Peter Prim's Series/Aunt Grumbles Series: Lazy Charlotte&lt;/em&gt; and &lt;em&gt;Envious Minnie&lt;/em&gt;</field>
+     <field name="unittitle_teim">Peter Prim's Series/Aunt Grumbles Series: Lazy Charlotte and Envious Minnie</field>
+-    <field name="scopecontent_teim">Lazy Charlotte: 2 woodblocks including no. 2-3.Envious Minnie: 6 woodblocks including the title page.</field>
++    <field name="scopecontent_teim">Lazy Charlotte: 2 woodblocks including no. 2-3. Envious Minnie: 6 woodblocks including the title page.</field>
+     <field name="title_teim">Peter Prim's Series/Aunt Grumbles Series: Lazy Charlotte</field>
+     <field name="title_teim">Envious Minnie</field>
+     <field name="title_teim">Lazy Charlotte</field>

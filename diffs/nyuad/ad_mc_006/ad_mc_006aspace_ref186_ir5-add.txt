@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">2008</field>
+-    <field name="scopecontent_teim">Director: Toshifumi MatsushitaOriginal Title: El regalo de la pachamamaCatalog Record: GetIt |The Gift of PachamamaMore Information</field>
+-    <field name="phystech_teim">Original Format: Digital BetacamColorTotal Running Time: 01:42:00</field>
++    <field name="scopecontent_teim">Director: Toshifumi Matsushita Original Title: El regalo de la pachamama Catalog Record: GetIt |The Gift of Pachamama More Information</field>
++    <field name="phystech_teim">Original Format: Digital Betacam Color Total Running Time: 01:42:00</field>
+     <field name="ref_ssi">aspace_ref186_ir5</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

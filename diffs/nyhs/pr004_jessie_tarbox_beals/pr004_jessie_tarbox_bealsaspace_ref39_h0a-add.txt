@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 4</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">"Wi-Z" general, including:Widdemer, Margaret (See also: Box 6, Folder 53)Wiggin, Kate Douglas Smith (See: Box 6, Folder 53)Wilcox, Ella WheelerWiles, Irving RamsayWillet, FrankWilmut, MillicentWoodin, W. HughYates, Cullen and Walter Lofthouse DeanYoung, MaryYoung, Roland</field>
+-    <field name="unittitle_teim">"Wi-Z" general, including:Widdemer, Margaret (See also: Box 6, Folder 53)Wiggin, Kate Douglas Smith (See: Box 6, Folder 53)Wilcox, Ella WheelerWiles, Irving RamsayWillet, FrankWilmut, MillicentWoodin, W. HughYates, Cullen and Walter Lofthouse DeanYoung, MaryYoung, Roland</field>
++    <field name="unittitle_teim">"Wi-Z" general, including: Widdemer, Margaret (See also: Box 6, Folder 53) Wiggin, Kate Douglas Smith (See: Box 6, Folder 53) Wilcox, Ella Wheeler Wiles, Irving Ramsay Willet, Frank Wilmut, Millicent Woodin, W. Hugh Yates, Cullen and Walter Lofthouse Dean Young, Mary Young, Roland</field>
+     <field name="ref_ssi">aspace_ref39_h0a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 4</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_si">Series I. Portraits &gt;&gt; "Wi-Z" general, including:Widdemer, Margaret (See also: Box 6, Folder 53)Wiggin, Kate Douglas Smith (See: Box 6, Folder 53)Wilcox, Ella WheelerWiles, Irving RamsayWillet, FrankWilmut, MillicentWoodin, W. HughYates, Cullen and Walter Lofthouse DeanYoung, MaryYoung, Roland</field>
+-    <field name="heading_ssm">"Wi-Z" general, including:Widdemer, Margaret (See also: Box 6, Folder 53)Wiggin, Kate Douglas Smith (See: Box 6, Folder 53)Wilcox, Ella WheelerWiles, Irving RamsayWillet, FrankWilmut, MillicentWoodin, W. HughYates, Cullen and Walter Lofthouse DeanYoung, MaryYoung, Roland</field>
++    <field name="heading_ssm">"Wi-Z" general, including: Widdemer, Margaret (See also: Box 6, Folder 53) Wiggin, Kate Douglas Smith (See: Box 6, Folder 53) Wilcox, Ella Wheeler Wiles, Irving Ramsay Willet, Frank Wilmut, Millicent Woodin, W. Hugh Yates, Cullen and Walter Lofthouse Dean Young, Mary Young, Roland</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">23</field>
+   </doc>

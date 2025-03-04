@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Ingersoll, RalphIngersoll, Robert GreenIsaacs, Stanley M.Jackson, Robert H.Jackson, William H.Jacobi, AbrahamJacobi, Harold, Jr.Jacobi, LesterJacobs, Charles M.Jansen, N. J. B.Jefferson, JosephJeffrey, Edward TurnerJerome, Jerome KlapkaJerome, William Travers</field>
+-    <field name="unittitle_teim">Ingersoll, RalphIngersoll, Robert GreenIsaacs, Stanley M.Jackson, Robert H.Jackson, William H.Jacobi, AbrahamJacobi, Harold, Jr.Jacobi, LesterJacobs, Charles M.Jansen, N. J. B.Jefferson, JosephJeffrey, Edward TurnerJerome, Jerome KlapkaJerome, William Travers</field>
++    <field name="unittitle_teim">Ingersoll, Ralph Ingersoll, Robert Green Isaacs, Stanley M. Jackson, Robert H. Jackson, William H. Jacobi, Abraham Jacobi, Harold, Jr. Jacobi, Lester Jacobs, Charles M. Jansen, N. J. B. Jefferson, Joseph Jeffrey, Edward Turner Jerome, Jerome Klapka Jerome, William Travers</field>
+     <field name="ref_ssi">aspace_ref69_a65</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Ingersoll, RalphIngersoll, Robert GreenIsaacs, Stanley M.Jackson, Robert H.Jackson, William H.Jacobi, AbrahamJacobi, Harold, Jr.Jacobi, LesterJacobs, Charles M.Jansen, N. J. B.Jefferson, JosephJeffrey, Edward TurnerJerome, Jerome KlapkaJerome, William Travers</field>
+-    <field name="heading_ssm">Ingersoll, RalphIngersoll, Robert GreenIsaacs, Stanley M.Jackson, Robert H.Jackson, William H.Jacobi, AbrahamJacobi, Harold, Jr.Jacobi, LesterJacobs, Charles M.Jansen, N. J. B.Jefferson, JosephJeffrey, Edward TurnerJerome, Jerome KlapkaJerome, William Travers</field>
++    <field name="heading_ssm">Ingersoll, Ralph Ingersoll, Robert Green Isaacs, Stanley M. Jackson, Robert H. Jackson, William H. Jacobi, Abraham Jacobi, Harold, Jr. Jacobi, Lester Jacobs, Charles M. Jansen, N. J. B. Jefferson, Joseph Jeffrey, Edward Turner Jerome, Jerome Klapka Jerome, William Travers</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">43</field>
+   </doc>

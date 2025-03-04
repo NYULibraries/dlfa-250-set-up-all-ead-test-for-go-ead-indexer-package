@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Keyes, Edward Lawrence (2)Khun de Prorok, ByronKimball, James HenryKing, Ernest J.Kingsley, Darwin PearlKinkaid, Thomas C.Kirby, Gustavus T.Knoedler, CharlesKnopf, Alfred A.Knox, Philander ChaseKoike, Chozo Kress, Claude WashingtonKress, Samuel HenryKreuger, IvarKruttschnitt, JuliusKunz, George Frederick</field>
+-    <field name="unittitle_teim">Keyes, Edward Lawrence (2)Khun de Prorok, ByronKimball, James HenryKing, Ernest J.Kingsley, Darwin PearlKinkaid, Thomas C.Kirby, Gustavus T.Knoedler, CharlesKnopf, Alfred A.Knox, Philander ChaseKoike, Chozo Kress, Claude WashingtonKress, Samuel HenryKreuger, IvarKruttschnitt, JuliusKunz, George Frederick</field>
++    <field name="unittitle_teim">Keyes, Edward Lawrence (2) Khun de Prorok, Byron Kimball, James Henry King, Ernest J. Kingsley, Darwin Pearl Kinkaid, Thomas C. Kirby, Gustavus T. Knoedler, Charles Knopf, Alfred A. Knox, Philander Chase Koike, Chozo Kress, Claude Washington Kress, Samuel Henry Kreuger, Ivar Kruttschnitt, Julius Kunz, George Frederick</field>
+     <field name="ref_ssi">aspace_ref72_jx7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Keyes, Edward Lawrence (2)Khun de Prorok, ByronKimball, James HenryKing, Ernest J.Kingsley, Darwin PearlKinkaid, Thomas C.Kirby, Gustavus T.Knoedler, CharlesKnopf, Alfred A.Knox, Philander ChaseKoike, Chozo Kress, Claude WashingtonKress, Samuel HenryKreuger, IvarKruttschnitt, JuliusKunz, George Frederick</field>
+-    <field name="heading_ssm">Keyes, Edward Lawrence (2)Khun de Prorok, ByronKimball, James HenryKing, Ernest J.Kingsley, Darwin PearlKinkaid, Thomas C.Kirby, Gustavus T.Knoedler, CharlesKnopf, Alfred A.Knox, Philander ChaseKoike, Chozo Kress, Claude WashingtonKress, Samuel HenryKreuger, IvarKruttschnitt, JuliusKunz, George Frederick</field>
++    <field name="heading_ssm">Keyes, Edward Lawrence (2) Khun de Prorok, Byron Kimball, James Henry King, Ernest J. Kingsley, Darwin Pearl Kinkaid, Thomas C. Kirby, Gustavus T. Knoedler, Charles Knopf, Alfred A. Knox, Philander Chase Koike, Chozo Kress, Claude Washington Kress, Samuel Henry Kreuger, Ivar Kruttschnitt, Julius Kunz, George Frederick</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">46</field>
+   </doc>

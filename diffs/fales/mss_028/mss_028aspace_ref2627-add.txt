@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: The Ladies' Garland&lt;strong&gt;Series Number&lt;/strong&gt;: vol. I, no. 8-12, 14-17; vol. IV, no. 1, 5-6; vol. II, no. 7; vol. V, no. 1; vol. III, no. 9-10&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Other Notes&lt;/strong&gt;: misc., out of order&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="unittitle_teim">Series Title: The Ladies' GarlandSeries Number: vol. I, no. 8-12, 14-17; vol. IV, no. 1, 5-6; vol. II, no. 7; vol. V, no. 1; vol. III, no. 9-10Format: hard coverOther Notes: misc., out of orderDate: undated</field>
++    <field name="unittitle_teim">Series Title: The Ladies' Garland Series Number: vol. I, no. 8-12, 14-17; vol. IV, no. 1, 5-6; vol. II, no. 7; vol. V, no. 1; vol. III, no. 9-10 Format: hard cover Other Notes: misc., out of order Date: undated</field>
+     <field name="unitdate_normal_ssm">1821/1968</field>
+     <field name="unitdate_normal_teim">1821/1968</field>
+     <field name="unitdate_normal_sim">1821/1968</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: The Ladies' Garland&lt;strong&gt;Series Number&lt;/strong&gt;: vol. I, no. 8-12, 14-17; vol. IV, no. 1, 5-6; vol. II, no. 7; vol. V, no. 1; vol. III, no. 9-10&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Other Notes&lt;/strong&gt;: misc., out of order&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="heading_ssm">Series Title: The Ladies' GarlandSeries Number: vol. I, no. 8-12, 14-17; vol. IV, no. 1, 5-6; vol. II, no. 7; vol. V, no. 1; vol. III, no. 9-10Format: hard coverOther Notes: misc., out of orderDate: undated</field>
++    <field name="heading_ssm">Series Title: The Ladies' Garland Series Number: vol. I, no. 8-12, 14-17; vol. IV, no. 1, 5-6; vol. II, no. 7; vol. V, no. 1; vol. III, no. 9-10 Format: hard cover Other Notes: misc., out of order Date: undated</field>
+     <field name="unitdate_start_sim">1821</field>
+     <field name="unitdate_start_ssm">1821</field>
+     <field name="unitdate_start_si">1821</field>

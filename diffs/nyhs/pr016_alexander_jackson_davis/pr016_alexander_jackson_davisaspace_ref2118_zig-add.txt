@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,7 +9,7 @@
+     <field name="collection_ssm">Alexander Jackson Davis architectural drawing collection</field>
+     <field name="collection_unitid_ssm">PR 16</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Town house, unidentified "CITY CORNER LOT. ELEVATION OF SIDE&amp;gt; FRONT ON END." ink LL-LR</field>
++    <field name="unittitle_ssm">Town house, unidentified "CITY CORNER LOT. ELEVATION OF SIDE&gt; FRONT ON END." ink LL-LR</field>
+     <field name="unittitle_teim">Town house, unidentified "CITY CORNER LOT. ELEVATION OF SIDE&gt; FRONT ON END." ink LL-LR</field>
+     <field name="ref_ssi">aspace_ref2118_zig</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -21,7 +21,7 @@
+     <field name="location_si">item: 172</field>
+     <field name="collection_teim">Alexander Jackson Davis architectural drawing collection</field>
+     <field name="collection_unitid_teim">PR 16</field>
+-    <field name="series_si">Town house, unidentified "CITY CORNER LOT. ELEVATION OF SIDE&amp;gt; FRONT ON END." ink LL-LR</field>
++    <field name="series_si">Town house, unidentified "CITY CORNER LOT. ELEVATION OF SIDE&gt; FRONT ON END." ink LL-LR</field>
+     <field name="heading_ssm">Town house, unidentified "CITY CORNER LOT. ELEVATION OF SIDE&gt; FRONT ON END." ink LL-LR</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">986</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">WAG.124</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Microdex#: 1: CIO PAC: undatedMicrodex#: 2: Ethical Practices Codes: undatedMicrodex#: 3: State Industrial Union Councils: Jan 8, 1952; Dec 30, 1952Microdex#: 4: Local 3107, Miami, FL: undatedMicrodex#: 5: General Correspondence National Coded: 1950; 1959</field>
+-    <field name="unittitle_teim">Microdex#: 1: CIO PAC: undatedMicrodex#: 2: Ethical Practices Codes: undatedMicrodex#: 3: State Industrial Union Councils: Jan 8, 1952; Dec 30, 1952Microdex#: 4: Local 3107, Miami, FL: undatedMicrodex#: 5: General Correspondence National Coded: 1950; 1959</field>
++    <field name="unittitle_teim">Microdex#: 1: CIO PAC: undated Microdex#: 2: Ethical Practices Codes: undated Microdex#: 3: State Industrial Union Councils: Jan 8, 1952; Dec 30, 1952 Microdex#: 4: Local 3107, Miami, FL: undated Microdex#: 5: General Correspondence National Coded: 1950; 1959</field>
+     <field name="unitid_teim">/repositories/2/archival_objects/318329</field>
+     <field name="unitid_ssm">/repositories/2/archival_objects/318329</field>
+     <field name="unitdate_normal_ssm">1947/1989</field>
+@@ -37,7 +37,7 @@
+     <field name="series_sim">Series V: CWA Officers' Papers</field>
+     <field name="series_sim">Subseries V:A: Beirne (Joseph A. Beirne), 1939-1980</field>
+     <field name="series_si">Series V: CWA Officers' Papers &gt;&gt; Subseries V:A: Beirne (Joseph A. Beirne), 1939-1980 &gt;&gt; Microdex#: 1: CIO PAC: undatedMicrodex#: 2: Ethical Practices Codes: undatedMicrodex#: 3: State Industrial Union Councils: Jan 8, 1952; Dec 30, 1952Microdex#: 4: Local 3107, Miami, FL: undatedMicrodex#: 5: General Correspondence National Coded: 1950; 1959</field>
+-    <field name="heading_ssm">Microdex#: 1: CIO PAC: undatedMicrodex#: 2: Ethical Practices Codes: undatedMicrodex#: 3: State Industrial Union Councils: Jan 8, 1952; Dec 30, 1952Microdex#: 4: Local 3107, Miami, FL: undatedMicrodex#: 5: General Correspondence National Coded: 1950; 1959</field>
++    <field name="heading_ssm">Microdex#: 1: CIO PAC: undated Microdex#: 2: Ethical Practices Codes: undated Microdex#: 3: State Industrial Union Councils: Jan 8, 1952; Dec 30, 1952 Microdex#: 4: Local 3107, Miami, FL: undated Microdex#: 5: General Correspondence National Coded: 1950; 1959</field>
+     <field name="unitdate_start_sim">1947</field>
+     <field name="unitdate_start_ssm">1947</field>
+     <field name="unitdate_start_si">1947</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Computer Disks Box 4</field>
+     <field name="unitid_teim">31142050718801</field>
+     <field name="unitid_ssm">31142050718801</field>
+-    <field name="scopecontent_teim">Binders and manuals for DOS, XyWrite, etc. One binder of disks, one large tray of disks and one small case. All computer media in this box are 5 inch floppy disks.Computer MediaIn Binder:Disks include 'Phantom' ca. 1985, letters, Audrey Cooper proposal, operating system, games, and program backup disksIn small case:XyWrite program backup disks, 13 disksIn tray:Program disks, games, instructional disks and the like, 62 disks</field>
++    <field name="scopecontent_teim">Binders and manuals for DOS, XyWrite, etc. One binder of disks, one large tray of disks and one small case. All computer media in this box are 5 inch floppy disks. Computer Media In Binder: Disks include 'Phantom' ca. 1985, letters, Audrey Cooper proposal, operating system, games, and program backup disks In small case: XyWrite program backup disks, 13 disks In tray: Program disks, games, instructional disks and the like, 62 disks</field>
+     <field name="ref_ssi">aspace_ref279</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

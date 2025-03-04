@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.034</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Price, ReynoldsPrice, RichardPriestly, Joseph</field>
+-    <field name="unittitle_teim">Price, ReynoldsPrice, RichardPriestly, Joseph</field>
++    <field name="unittitle_teim">Price, Reynolds Price, Richard Priestly, Joseph</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref516</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.034</field>
+     <field name="series_sim">Series I</field>
+     <field name="series_si">Series I &gt;&gt; Price, ReynoldsPrice, RichardPriestly, Joseph</field>
+-    <field name="heading_ssm">Price, ReynoldsPrice, RichardPriestly, Joseph</field>
++    <field name="heading_ssm">Price, Reynolds Price, Richard Priestly, Joseph</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">492</field>

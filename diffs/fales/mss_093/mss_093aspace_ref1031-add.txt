@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">May Festival Concert&lt;em&gt;Note&lt;/em&gt;: Guitar - 1973&lt;em&gt;Brand&lt;/em&gt;: Basf&lt;em&gt;Format&lt;/em&gt;: 1/4"</field>
+-    <field name="unittitle_teim">May Festival ConcertNote: Guitar - 1973Brand: BasfFormat: 1/4"</field>
++    <field name="unittitle_teim">May Festival Concert Note: Guitar - 1973 Brand: Basf Format: 1/4"</field>
+     <field name="unitdate_teim">1973</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Brand</field>
+@@ -38,7 +38,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries C: Concerts - Live Recordings</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries C: Concerts - Live Recordings &gt;&gt; May Festival Concert&lt;em&gt;Note&lt;/em&gt;: Guitar - 1973&lt;em&gt;Brand&lt;/em&gt;: Basf&lt;em&gt;Format&lt;/em&gt;: 1/4"</field>
+-    <field name="heading_ssm">May Festival ConcertNote: Guitar - 1973Brand: BasfFormat: 1/4"</field>
++    <field name="heading_ssm">May Festival Concert Note: Guitar - 1973 Brand: Basf Format: 1/4"</field>
+     <field name="unitdate_ssm">1973</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1010</field>

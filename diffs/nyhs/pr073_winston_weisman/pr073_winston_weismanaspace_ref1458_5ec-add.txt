@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">"(35) 34": 425 -- 471 Broadway, west side106 -- 108 Reade Street5 Worth Street51 -- 53 Leonard Street95 -- 97 Grand Street, south side</field>
+-    <field name="unittitle_teim">"(35) 34": 425 -- 471 Broadway, west side106 -- 108 Reade Street5 Worth Street51 -- 53 Leonard Street95 -- 97 Grand Street, south side</field>
++    <field name="unittitle_teim">"(35) 34": 425 -- 471 Broadway, west side 106 -- 108 Reade Street 5 Worth Street 51 -- 53 Leonard Street 95 -- 97 Grand Street, south side</field>
+     <field name="ref_ssi">aspace_ref1458_5ec</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">35mm film prints</field>
+     <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35mm film prints &gt;&gt; "(35) 34": 425 -- 471 Broadway, west side106 -- 108 Reade Street5 Worth Street51 -- 53 Leonard Street95 -- 97 Grand Street, south side</field>
+-    <field name="heading_ssm">"(35) 34": 425 -- 471 Broadway, west side106 -- 108 Reade Street5 Worth Street51 -- 53 Leonard Street95 -- 97 Grand Street, south side</field>
++    <field name="heading_ssm">"(35) 34": 425 -- 471 Broadway, west side 106 -- 108 Reade Street 5 Worth Street 51 -- 53 Leonard Street 95 -- 97 Grand Street, south side</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">893</field>
+   </doc>

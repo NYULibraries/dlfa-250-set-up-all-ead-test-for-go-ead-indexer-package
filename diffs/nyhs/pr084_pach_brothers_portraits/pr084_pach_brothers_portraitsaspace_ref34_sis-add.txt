@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Colp, RalphComstock, AnthonyConnor, Joseph P. (2)Conreid, HeinrichConstant, Samuel VictorConway, Moncure DanielCoogan, JackieCoolidge, CalvinCopeland, Royal SamuelCoppers, George H.Corbin, AustinCortelyou, George Bruce</field>
+-    <field name="unittitle_teim">Colp, RalphComstock, AnthonyConnor, Joseph P. (2)Conreid, HeinrichConstant, Samuel VictorConway, Moncure DanielCoogan, JackieCoolidge, CalvinCopeland, Royal SamuelCoppers, George H.Corbin, AustinCortelyou, George Bruce</field>
++    <field name="unittitle_teim">Colp, Ralph Comstock, Anthony Connor, Joseph P. (2) Conreid, Heinrich Constant, Samuel Victor Conway, Moncure Daniel Coogan, Jackie Coolidge, Calvin Copeland, Royal Samuel Coppers, George H. Corbin, Austin Cortelyou, George Bruce</field>
+     <field name="ref_ssi">aspace_ref34_sis</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Colp, RalphComstock, AnthonyConnor, Joseph P. (2)Conreid, HeinrichConstant, Samuel VictorConway, Moncure DanielCoogan, JackieCoolidge, CalvinCopeland, Royal SamuelCoppers, George H.Corbin, AustinCortelyou, George Bruce</field>
+-    <field name="heading_ssm">Colp, RalphComstock, AnthonyConnor, Joseph P. (2)Conreid, HeinrichConstant, Samuel VictorConway, Moncure DanielCoogan, JackieCoolidge, CalvinCopeland, Royal SamuelCoppers, George H.Corbin, AustinCortelyou, George Bruce</field>
++    <field name="heading_ssm">Colp, Ralph Comstock, Anthony Connor, Joseph P. (2) Conreid, Heinrich Constant, Samuel Victor Conway, Moncure Daniel Coogan, Jackie Coolidge, Calvin Copeland, Royal Samuel Coppers, George H. Corbin, Austin Cortelyou, George Bruce</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">17</field>
+   </doc>

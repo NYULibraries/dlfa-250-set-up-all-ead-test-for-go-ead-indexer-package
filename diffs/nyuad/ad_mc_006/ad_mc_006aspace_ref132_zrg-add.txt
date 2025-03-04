@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2011/2011</field>
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">2011</field>
+-    <field name="scopecontent_teim">Director: Awadh Al Hamzani (Saudi Arabia)Arabic, English, SwedishCatalog Record: GetIt | PhotonMore Info</field>
+-    <field name="phystech_teim">Original Format: Digital BetacamColor, Black and WhiteTotal Running Time: 00:17:00</field>
++    <field name="scopecontent_teim">Director: Awadh Al Hamzani (Saudi Arabia) Arabic, English, Swedish Catalog Record: GetIt | Photon More Info</field>
++    <field name="phystech_teim">Original Format: Digital Betacam Color, Black and White Total Running Time: 00:17:00</field>
+     <field name="ref_ssi">aspace_ref132_zrg</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

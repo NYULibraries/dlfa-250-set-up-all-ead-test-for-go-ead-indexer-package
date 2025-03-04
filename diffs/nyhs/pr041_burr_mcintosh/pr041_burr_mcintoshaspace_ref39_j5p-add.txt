@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 41</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Vanbrough, Irene Van BurenVan Buren, Mary Vanderbilt ball (unidentified) (8) Vanderbilt residence (Alfred G. Vanderbilt) - Adirondacks (11) Van Riper, Mrs. E. V.</field>
+-    <field name="unittitle_teim">Vanbrough, Irene Van BurenVan Buren, Mary Vanderbilt ball (unidentified) (8) Vanderbilt residence (Alfred G. Vanderbilt) - Adirondacks (11) Van Riper, Mrs. E. V.</field>
++    <field name="unittitle_teim">Vanbrough, Irene Van Buren Van Buren, Mary Vanderbilt ball (unidentified) (8) Vanderbilt residence (Alfred G. Vanderbilt) - Adirondacks (11) Van Riper, Mrs. E. V.</field>
+     <field name="ref_ssi">aspace_ref39_j5p</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series I. 8 x 10 inch prints</field>
+     <field name="series_sim">PORTRAITS</field>
+     <field name="series_si">Series I. 8 x 10 inch prints &gt;&gt; PORTRAITS &gt;&gt; Vanbrough, Irene Van BurenVan Buren, Mary Vanderbilt ball (unidentified) (8) Vanderbilt residence (Alfred G. Vanderbilt) - Adirondacks (11) Van Riper, Mrs. E. V.</field>
+-    <field name="heading_ssm">Vanbrough, Irene Van BurenVan Buren, Mary Vanderbilt ball (unidentified) (8) Vanderbilt residence (Alfred G. Vanderbilt) - Adirondacks (11) Van Riper, Mrs. E. V.</field>
++    <field name="heading_ssm">Vanbrough, Irene Van Buren Van Buren, Mary Vanderbilt ball (unidentified) (8) Vanderbilt residence (Alfred G. Vanderbilt) - Adirondacks (11) Van Riper, Mrs. E. V.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">26</field>
+   </doc>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">"roll HB (4)": 70, 72 Grand Street (29, 36 -- 38 Wooster Street)484 -- 490 Broome Street (59 Wooster Street)</field>
+-    <field name="unittitle_teim">"roll HB (4)": 70, 72 Grand Street (29, 36 -- 38 Wooster Street)484 -- 490 Broome Street (59 Wooster Street)</field>
++    <field name="unittitle_teim">"roll HB (4)": 70, 72 Grand Street (29, 36 -- 38 Wooster Street) 484 -- 490 Broome Street (59 Wooster Street)</field>
+     <field name="ref_ssi">aspace_ref1503_sbq</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">120 mm film prints of building details</field>
+     <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 120 mm film prints of building details &gt;&gt; "roll HB (4)": 70, 72 Grand Street (29, 36 -- 38 Wooster Street)484 -- 490 Broome Street (59 Wooster Street)</field>
+-    <field name="heading_ssm">"roll HB (4)": 70, 72 Grand Street (29, 36 -- 38 Wooster Street)484 -- 490 Broome Street (59 Wooster Street)</field>
++    <field name="heading_ssm">"roll HB (4)": 70, 72 Grand Street (29, 36 -- 38 Wooster Street) 484 -- 490 Broome Street (59 Wooster Street)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">938</field>
+   </doc>

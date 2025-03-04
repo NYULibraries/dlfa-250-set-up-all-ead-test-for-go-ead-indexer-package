@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Sloane, Henry T.Sloane, JohnSloane, William MilliganSloane-Field WeddingSmith, Alfred EmanuelSmith, Alfred HollandSmith, Charles StewartSmith, HaroldSmith, HerbertSmith, Robert Alexander C.Snyder, John W.Sockman, Ralph I.Soglow, OttoSohmer, Harry J.Sohmer, Hugo</field>
+-    <field name="unittitle_teim">Sloane, Henry T.Sloane, JohnSloane, William MilliganSloane-Field WeddingSmith, Alfred EmanuelSmith, Alfred HollandSmith, Charles StewartSmith, HaroldSmith, HerbertSmith, Robert Alexander C.Snyder, John W.Sockman, Ralph I.Soglow, OttoSohmer, Harry J.Sohmer, Hugo</field>
++    <field name="unittitle_teim">Sloane, Henry T. Sloane, John Sloane, William Milligan Sloane-Field Wedding Smith, Alfred Emanuel Smith, Alfred Holland Smith, Charles Stewart Smith, Harold Smith, Herbert Smith, Robert Alexander C. Snyder, John W. Sockman, Ralph I. Soglow, Otto Sohmer, Harry J. Sohmer, Hugo</field>
+     <field name="ref_ssi">aspace_ref106_k20</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Sloane, Henry T.Sloane, JohnSloane, William MilliganSloane-Field WeddingSmith, Alfred EmanuelSmith, Alfred HollandSmith, Charles StewartSmith, HaroldSmith, HerbertSmith, Robert Alexander C.Snyder, John W.Sockman, Ralph I.Soglow, OttoSohmer, Harry J.Sohmer, Hugo</field>
+-    <field name="heading_ssm">Sloane, Henry T.Sloane, JohnSloane, William MilliganSloane-Field WeddingSmith, Alfred EmanuelSmith, Alfred HollandSmith, Charles StewartSmith, HaroldSmith, HerbertSmith, Robert Alexander C.Snyder, John W.Sockman, Ralph I.Soglow, OttoSohmer, Harry J.Sohmer, Hugo</field>
++    <field name="heading_ssm">Sloane, Henry T. Sloane, John Sloane, William Milligan Sloane-Field Wedding Smith, Alfred Emanuel Smith, Alfred Holland Smith, Charles Stewart Smith, Harold Smith, Herbert Smith, Robert Alexander C. Snyder, John W. Sockman, Ralph I. Soglow, Otto Sohmer, Harry J. Sohmer, Hugo</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">75</field>
+   </doc>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Morgan, Edward M.Morgan, J. Pierpont, Sr.Morgan, J. Pierpont, Jr.Morgan, Junius SpencerMorgenthau, Henry, Sr.Morganthau, Henry, Jr.Morosini, Giovanni P.Morosini, GiuliaMorris, Dave Hennen (2)Morris, NewboldMorton, Levi ParsonsMorton, PaulMosconi, CharlesMunn, Orson DesaixMurphy, FrankMurray, Oscar G.</field>
+-    <field name="unittitle_teim">Morgan, Edward M.Morgan, J. Pierpont, Sr.Morgan, J. Pierpont, Jr.Morgan, Junius SpencerMorgenthau, Henry, Sr.Morganthau, Henry, Jr.Morosini, Giovanni P.Morosini, GiuliaMorris, Dave Hennen (2)Morris, NewboldMorton, Levi ParsonsMorton, PaulMosconi, CharlesMunn, Orson DesaixMurphy, FrankMurray, Oscar G.</field>
++    <field name="unittitle_teim">Morgan, Edward M. Morgan, J. Pierpont, Sr. Morgan, J. Pierpont, Jr. Morgan, Junius Spencer Morgenthau, Henry, Sr. Morganthau, Henry, Jr. Morosini, Giovanni P. Morosini, Giulia Morris, Dave Hennen (2) Morris, Newbold Morton, Levi Parsons Morton, Paul Mosconi, Charles Munn, Orson Desaix Murphy, Frank Murray, Oscar G.</field>
+     <field name="ref_ssi">aspace_ref85_jln</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Morgan, Edward M.Morgan, J. Pierpont, Sr.Morgan, J. Pierpont, Jr.Morgan, Junius SpencerMorgenthau, Henry, Sr.Morganthau, Henry, Jr.Morosini, Giovanni P.Morosini, GiuliaMorris, Dave Hennen (2)Morris, NewboldMorton, Levi ParsonsMorton, PaulMosconi, CharlesMunn, Orson DesaixMurphy, FrankMurray, Oscar G.</field>
+-    <field name="heading_ssm">Morgan, Edward M.Morgan, J. Pierpont, Sr.Morgan, J. Pierpont, Jr.Morgan, Junius SpencerMorgenthau, Henry, Sr.Morganthau, Henry, Jr.Morosini, Giovanni P.Morosini, GiuliaMorris, Dave Hennen (2)Morris, NewboldMorton, Levi ParsonsMorton, PaulMosconi, CharlesMunn, Orson DesaixMurphy, FrankMurray, Oscar G.</field>
++    <field name="heading_ssm">Morgan, Edward M. Morgan, J. Pierpont, Sr. Morgan, J. Pierpont, Jr. Morgan, Junius Spencer Morgenthau, Henry, Sr. Morganthau, Henry, Jr. Morosini, Giovanni P. Morosini, Giulia Morris, Dave Hennen (2) Morris, Newbold Morton, Levi Parsons Morton, Paul Mosconi, Charles Munn, Orson Desaix Murphy, Frank Murray, Oscar G.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">57</field>
+   </doc>

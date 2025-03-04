@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names W-Z</field>
+     <field name="unittitle_teim">Various Names W-Z</field>
+-    <field name="scopecontent_teim">Warner, A.J.Washington, GeorgeWhitney, W.C., with John SchultzWilcoxWilcox, B.F., with Samuel Foley, L.F. Goodsel, L. Hommediu, Cadin, BostwickWood, LeonardYarmouth, Earl of</field>
++    <field name="scopecontent_teim">Warner, A.J. Washington, George Whitney, W.C., with John Schultz Wilcox Wilcox, B.F., with Samuel Foley, L.F. Goodsel, L. Hommediu, Cadin, Bostwick Wood, Leonard Yarmouth, Earl of</field>
+     <field name="ref_ssi">aspace_8d5db9acb4ff27c509ff26864164f022</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

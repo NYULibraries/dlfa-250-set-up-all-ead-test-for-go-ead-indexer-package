@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Scribner's Monthly&lt;strong&gt;Series Number&lt;/strong&gt;: vol. XV, no. 3-6, vol. XVI, no. 1-2&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Scribner &amp; Co. &lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Date&lt;/strong&gt;: January-June, 1878</field>
+-    <field name="unittitle_teim">Series Title: Scribner's MonthlySeries Number: vol. XV, no. 3-6, vol. XVI, no. 1-2City: New YorkPublisher: Scribner &amp; Co. Format: hard coverDate: January-June, 1878</field>
++    <field name="unittitle_teim">Series Title: Scribner's Monthly Series Number: vol. XV, no. 3-6, vol. XVI, no. 1-2 City: New York Publisher: Scribner &amp; Co. Format: hard cover Date: January-June, 1878</field>
+     <field name="unitdate_normal_ssm">1878/1878</field>
+     <field name="unitdate_normal_teim">1878/1878</field>
+     <field name="unitdate_normal_sim">1878/1878</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Scribner's Monthly&lt;strong&gt;Series Number&lt;/strong&gt;: vol. XV, no. 3-6, vol. XVI, no. 1-2&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Scribner &amp; Co. &lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Date&lt;/strong&gt;: January-June, 1878</field>
+-    <field name="heading_ssm">Series Title: Scribner's MonthlySeries Number: vol. XV, no. 3-6, vol. XVI, no. 1-2City: New YorkPublisher: Scribner &amp; Co. Format: hard coverDate: January-June, 1878</field>
++    <field name="heading_ssm">Series Title: Scribner's Monthly Series Number: vol. XV, no. 3-6, vol. XVI, no. 1-2 City: New York Publisher: Scribner &amp; Co. Format: hard cover Date: January-June, 1878</field>
+     <field name="unitdate_start_sim">1878</field>
+     <field name="unitdate_start_ssm">1878</field>
+     <field name="unitdate_start_si">1878</field>

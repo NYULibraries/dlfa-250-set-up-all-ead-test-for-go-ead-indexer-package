@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Jacob Korn, Tenements, Henry Street west of Clinton Street, New York, NYProject #102</field>
+-    <field name="unittitle_teim">Jacob Korn, Tenements, Henry Street west of Clinton Street, New York, NYProject #102</field>
++    <field name="unittitle_teim">Jacob Korn, Tenements, Henry Street west of Clinton Street, New York, NY Project #102</field>
+     <field name="unitdate_teim">1874</field>
+     <field name="ref_ssi">aspace_ref123_jb2</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">PR 64</field>
+     <field name="series_sim">Series I: Architectural Drawings</field>
+     <field name="series_si">Series I: Architectural Drawings &gt;&gt; Jacob Korn, Tenements, Henry Street west of Clinton Street, New York, NYProject #102</field>
+-    <field name="heading_ssm">Jacob Korn, Tenements, Henry Street west of Clinton Street, New York, NYProject #102</field>
++    <field name="heading_ssm">Jacob Korn, Tenements, Henry Street west of Clinton Street, New York, NY Project #102</field>
+     <field name="unitdate_ssm">1874</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">103</field>

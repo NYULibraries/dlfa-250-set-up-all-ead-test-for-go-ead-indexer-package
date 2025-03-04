@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MS 670.9</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Thomas, Hampton S."Some Personal Reminscences of Service in the Cavalry of the Army of the Potomac"</field>
+-    <field name="unittitle_teim">Thomas, Hampton S."Some Personal Reminscences of Service in the Cavalry of the Army of the Potomac"</field>
++    <field name="unittitle_teim">Thomas, Hampton S. "Some Personal Reminscences of Service in the Cavalry of the Army of the Potomac"</field>
+     <field name="unitdate_inclusive_teim">1889</field>
+     <field name="ref_ssi">aspace_ref40_emg</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MS 670.9</field>
+     <field name="series_sim">Series II. Cavalry Album</field>
+     <field name="series_si">Series II. Cavalry Album &gt;&gt; Thomas, Hampton S."Some Personal Reminscences of Service in the Cavalry of the Army of the Potomac"</field>
+-    <field name="heading_ssm">Thomas, Hampton S."Some Personal Reminscences of Service in the Cavalry of the Army of the Potomac"</field>
++    <field name="heading_ssm">Thomas, Hampton S. "Some Personal Reminscences of Service in the Cavalry of the Army of the Potomac"</field>
+     <field name="unitdate_ssm">Inclusive, 1889</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">25</field>

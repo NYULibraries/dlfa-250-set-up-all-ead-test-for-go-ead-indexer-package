@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">2009</field>
+-    <field name="scopecontent_teim">Director: Rob Connolly (USA)Original Title: Our Neck of the WoodsCatalog Record: GetIt | Our Neck of the WoodsMore Information</field>
+-    <field name="phystech_teim">Original Format: HDCAMColorTotal Running Time: 00:17:00</field>
++    <field name="scopecontent_teim">Director: Rob Connolly (USA) Original Title: Our Neck of the Woods Catalog Record: GetIt | Our Neck of the Woods More Information</field>
++    <field name="phystech_teim">Original Format: HDCAM Color Total Running Time: 00:17:00</field>
+     <field name="ref_ssi">aspace_ref187_37x</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

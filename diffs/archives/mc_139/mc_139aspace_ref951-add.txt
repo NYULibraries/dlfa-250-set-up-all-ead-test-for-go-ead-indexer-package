@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MC.139</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Photos and negatives--Hawaii--summer 1952 series:children, group at Kamekasueba, school,airport--flowers of Hawaii,individuals, group activities, Charleston (same child doing different things), Chinese music and costumes, Hawaiian party, Japanese dancer, school children, cabin scenes, trip around Hawaii, Mr. Chang Chun 81st birthday, President's reception, Red Parmisiana, Oci's Party.</field>
+-    <field name="unittitle_teim">Photos and negatives--Hawaii--summer 1952 series:children, group at Kamekasueba, school,airport--flowers of Hawaii,individuals, group activities, Charleston (same child doing different things), Chinese music and costumes, Hawaiian party, Japanese dancer, school children, cabin scenes, trip around Hawaii, Mr. Chang Chun 81st birthday, President's reception, Red Parmisiana, Oci's Party.</field>
++    <field name="unittitle_teim">Photos and negatives--Hawaii--summer 1952 series: children, group at Kamekasueba, school,airport--flowers of Hawaii,individuals, group activities, Charleston (same child doing different things), Chinese music and costumes, Hawaiian party, Japanese dancer, school children, cabin scenes, trip around Hawaii, Mr. Chang Chun 81st birthday, President's reception, Red Parmisiana, Oci's Party.</field>
+     <field name="unitdate_teim">1952</field>
+     <field name="ref_ssi">aspace_ref951</field>
+     <field name="repository_ssi">archives</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MC.139</field>
+     <field name="series_sim">Series IV: Personal Memorabilia</field>
+     <field name="series_si">Series IV: Personal Memorabilia &gt;&gt; Photos and negatives--Hawaii--summer 1952 series:children, group at Kamekasueba, school,airport--flowers of Hawaii,individuals, group activities, Charleston (same child doing different things), Chinese music and costumes, Hawaiian party, Japanese dancer, school children, cabin scenes, trip around Hawaii, Mr. Chang Chun 81st birthday, President's reception, Red Parmisiana, Oci's Party.</field>
+-    <field name="heading_ssm">Photos and negatives--Hawaii--summer 1952 series:children, group at Kamekasueba, school,airport--flowers of Hawaii,individuals, group activities, Charleston (same child doing different things), Chinese music and costumes, Hawaiian party, Japanese dancer, school children, cabin scenes, trip around Hawaii, Mr. Chang Chun 81st birthday, President's reception, Red Parmisiana, Oci's Party.</field>
++    <field name="heading_ssm">Photos and negatives--Hawaii--summer 1952 series: children, group at Kamekasueba, school,airport--flowers of Hawaii,individuals, group activities, Charleston (same child doing different things), Chinese music and costumes, Hawaiian party, Japanese dancer, school children, cabin scenes, trip around Hawaii, Mr. Chang Chun 81st birthday, President's reception, Red Parmisiana, Oci's Party.</field>
+     <field name="unitdate_ssm">1952</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">460</field>

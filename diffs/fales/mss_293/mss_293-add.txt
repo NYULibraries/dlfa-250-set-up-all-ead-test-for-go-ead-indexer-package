@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -29,7 +29,7 @@
+     <field name="scopecontent_teim">Series X: Legal Records contains legal documents, including those related to specific legal cases, law research, and parking/traffic violations.</field>
+     <field name="scopecontent_teim">Series XI: Medical Records contains medical records. This series is restricted.</field>
+     <field name="scopecontent_teim">Series XII: Real Estate contains records related to properties owned by Larry Rivers. These include homes in Southampton and Zihuatanejo, Mexico, as well as the famous loft at 404 East 14th Street.</field>
+-    <field name="scopecontent_teim">Series XIII: Personal Files contains materials unrelated to Larry Rivers' artistic or musical career. These include files related to Rivers' family and various community/outreach organizations.Series XIV: Audio contains audio cassettes and reels.</field>
++    <field name="scopecontent_teim">Series XIII: Personal Files contains materials unrelated to Larry Rivers' artistic or musical career. These include files related to Rivers' family and various community/outreach organizations. Series XIV: Audio contains audio cassettes and reels.</field>
+     <field name="scopecontent_teim">Series XV: Film contains film reels, primarily 16mm acetate film.</field>
+     <field name="scopecontent_teim">Series XVI: Video contains ½" open reel, ¾" Umatic, VHS, and Betamax video.</field>
+     <field name="scopecontent_teim">Series XVII: Data Storage comprises seven 3 ½" floppy disks containing source material.</field>

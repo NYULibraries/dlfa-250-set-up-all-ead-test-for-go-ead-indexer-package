@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1975/1994</field>
+     <field name="unitdate_normal_sim">1975/1994</field>
+     <field name="unitdate_inclusive_teim">1975-1994; undated</field>
+-    <field name="scopecontent_teim">This series comprises folders and binders containing material on specific artists.Material in this series is arranged alphabetically by artist name.</field>
++    <field name="scopecontent_teim">This series comprises folders and binders containing material on specific artists. Material in this series is arranged alphabetically by artist name.</field>
+     <field name="ref_ssi">aspace_ref2</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

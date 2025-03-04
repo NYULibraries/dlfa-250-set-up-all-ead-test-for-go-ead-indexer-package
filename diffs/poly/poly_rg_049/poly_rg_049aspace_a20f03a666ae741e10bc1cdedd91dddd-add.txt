@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">Hellmut Juretschke Papers</field>
+     <field name="collection_unitid_ssm">RG.049</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">3 S &amp;gt; 1 Calculations</field>
++    <field name="unittitle_ssm">3 S &gt; 1 Calculations</field>
+     <field name="unittitle_teim">3 S &gt; 1 Calculations</field>
+     <field name="unitdate_normal_ssm">1993/1993</field>
+     <field name="unitdate_normal_teim">1993/1993</field>
+@@ -34,7 +34,7 @@
+     <field name="collection_unitid_teim">RG.049</field>
+     <field name="series_sim">Series III: Instruction</field>
+     <field name="series_sim">Sub-series A: Calculation Notes</field>
+-    <field name="series_si">Series III: Instruction &gt;&gt; Sub-series A: Calculation Notes &gt;&gt; 3 S &amp;gt; 1 Calculations</field>
++    <field name="series_si">Series III: Instruction &gt;&gt; Sub-series A: Calculation Notes &gt;&gt; 3 S &gt; 1 Calculations</field>
+     <field name="heading_ssm">3 S &gt; 1 Calculations</field>
+     <field name="unitdate_start_sim">1993</field>
+     <field name="unitdate_start_ssm">1993</field>

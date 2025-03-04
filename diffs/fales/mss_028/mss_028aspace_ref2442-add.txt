@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Barrington, F. Clinton&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Fitz-hern: the rover of the Irish seas. A story of Galway bay&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Ballou's Weekly Novelette -- Extra&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: The Flag of Our Union&lt;strong&gt;Date&lt;/strong&gt;: June 1859</field>
+-    <field name="unittitle_teim">Author: Barrington, F. ClintonTitle: Fitz-hern: the rover of the Irish seas. A story of Galway baySeries Title: Ballou's Weekly Novelette -- ExtraCity: BostonPublisher: The Flag of Our UnionDate: June 1859</field>
++    <field name="unittitle_teim">Author: Barrington, F. Clinton Title: Fitz-hern: the rover of the Irish seas. A story of Galway bay Series Title: Ballou's Weekly Novelette -- Extra City: Boston Publisher: The Flag of Our Union Date: June 1859</field>
+     <field name="unitdate_normal_ssm">1859/1859</field>
+     <field name="unitdate_normal_teim">1859/1859</field>
+     <field name="unitdate_normal_sim">1859/1859</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Barrington, F. Clinton&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Fitz-hern: the rover of the Irish seas. A story of Galway bay&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Ballou's Weekly Novelette -- Extra&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: The Flag of Our Union&lt;strong&gt;Date&lt;/strong&gt;: June 1859</field>
+-    <field name="heading_ssm">Author: Barrington, F. ClintonTitle: Fitz-hern: the rover of the Irish seas. A story of Galway baySeries Title: Ballou's Weekly Novelette -- ExtraCity: BostonPublisher: The Flag of Our UnionDate: June 1859</field>
++    <field name="heading_ssm">Author: Barrington, F. Clinton Title: Fitz-hern: the rover of the Irish seas. A story of Galway bay Series Title: Ballou's Weekly Novelette -- Extra City: Boston Publisher: The Flag of Our Union Date: June 1859</field>
+     <field name="unitdate_start_sim">1859</field>
+     <field name="unitdate_start_ssm">1859</field>
+     <field name="unitdate_start_si">1859</field>

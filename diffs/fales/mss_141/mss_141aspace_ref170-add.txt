@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142040619523</field>
+     <field name="unitid_ssm">31142040619523</field>
+     <field name="unitdate_teim">1993-1995</field>
+-    <field name="scopecontent_teim">Pamphlets, magazines, articles, research correspondence, all on diving, sunken treasure and pirates, modern and historical, screenplay drafts.PublicationsGalleon Explorers Club, Spanish Treasure, A VHS tape and one audio tape in case.Academy of Marine Sciences and Undersea research, Who's Who in Scuba Diving (Best Publishing: Flagstaff, Ariz., 1992)John Halas, Judy Halas and Don Kincaid, Diving and Snorkeling Guide to the Florida Keys (Pisces Books: Houston, 1984)Steve Blount and Lisa Walker, Treasure Hunting with a Metal Detector (Pisces Books: Glen Cove, N.Y.,1987)Jeppesen Sanderson, Inc., Open Water Sport Diver Manual (s.n.: s.l., 1984)Gary Gentile, Ultimate Wreck Diving Guide (Gary Gentile Productions: Philadelphia, 1992)Audio Cassettes1 tape, see above"Conversation with Herwitz re: Treasure Island"Video Cassettes1 VHS tape, see above.Note: Two legal pads moved to Flat Box 9.</field>
++    <field name="scopecontent_teim">Pamphlets, magazines, articles, research correspondence, all on diving, sunken treasure and pirates, modern and historical, screenplay drafts. Publications Galleon Explorers Club, Spanish Treasure, A VHS tape and one audio tape in case. Academy of Marine Sciences and Undersea research, Who's Who in Scuba Diving (Best Publishing: Flagstaff, Ariz., 1992) John Halas, Judy Halas and Don Kincaid, Diving and Snorkeling Guide to the Florida Keys (Pisces Books: Houston, 1984) Steve Blount and Lisa Walker, Treasure Hunting with a Metal Detector (Pisces Books: Glen Cove, N.Y.,1987) Jeppesen Sanderson, Inc., Open Water Sport Diver Manual (s.n.: s.l., 1984) Gary Gentile, Ultimate Wreck Diving Guide (Gary Gentile Productions: Philadelphia, 1992) Audio Cassettes 1 tape, see above "Conversation with Herwitz re: Treasure Island" Video Cassettes 1 VHS tape, see above. Note: Two legal pads moved to Flat Box 9.</field>
+     <field name="ref_ssi">aspace_ref170</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

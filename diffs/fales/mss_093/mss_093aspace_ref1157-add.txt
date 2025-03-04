@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Watts Interview with W. Duckworth&lt;em&gt;Note&lt;/em&gt;: Tapes 1 and 2 of 2; Dec. 29, 1981&lt;em&gt;Format&lt;/em&gt;: Audio cass.</field>
+-    <field name="unittitle_teim">Watts Interview with W. DuckworthNote: Tapes 1 and 2 of 2; Dec. 29, 1981Format: Audio cass.</field>
++    <field name="unittitle_teim">Watts Interview with W. Duckworth Note: Tapes 1 and 2 of 2; Dec. 29, 1981 Format: Audio cass.</field>
+     <field name="unitdate_teim">1981</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Format</field>
+@@ -36,7 +36,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries F: Audio Cassettes</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries F: Audio Cassettes &gt;&gt; Watts Interview with W. Duckworth&lt;em&gt;Note&lt;/em&gt;: Tapes 1 and 2 of 2; Dec. 29, 1981&lt;em&gt;Format&lt;/em&gt;: Audio cass.</field>
+-    <field name="heading_ssm">Watts Interview with W. DuckworthNote: Tapes 1 and 2 of 2; Dec. 29, 1981Format: Audio cass.</field>
++    <field name="heading_ssm">Watts Interview with W. Duckworth Note: Tapes 1 and 2 of 2; Dec. 29, 1981 Format: Audio cass.</field>
+     <field name="unitdate_ssm">1981</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1136</field>

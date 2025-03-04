@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names R-S</field>
+     <field name="unittitle_teim">Various Names R-S</field>
+-    <field name="scopecontent_teim">Raines, JohnReed, (Thomas Brackett?)Richardson, (James Daniel?)Russel, William Hepburn, with SheehanSampson, Rear Admiral William ThomasSmathers"Sol"Sullivan, Tim</field>
++    <field name="scopecontent_teim">Raines, John Reed, (Thomas Brackett?) Richardson, (James Daniel?) Russel, William Hepburn, with Sheehan Sampson, Rear Admiral William Thomas Smathers "Sol" Sullivan, Tim</field>
+     <field name="ref_ssi">aspace_54a1ff12fa2e406c8099f75655d8f91e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

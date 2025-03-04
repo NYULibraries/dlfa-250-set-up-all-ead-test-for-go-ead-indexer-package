@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names T</field>
+     <field name="unittitle_teim">Various Names T</field>
+-    <field name="scopecontent_teim">Terry, Hon. Judge (David Smith?)Thaw, Evelyn NesbittTillman, Benjamin RyanTracyTrusdale</field>
++    <field name="scopecontent_teim">Terry, Hon. Judge (David Smith?) Thaw, Evelyn Nesbitt Tillman, Benjamin Ryan Tracy Trusdale</field>
+     <field name="ref_ssi">aspace_4afe0e969c40fcbfb2eefa47aa3c464d</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

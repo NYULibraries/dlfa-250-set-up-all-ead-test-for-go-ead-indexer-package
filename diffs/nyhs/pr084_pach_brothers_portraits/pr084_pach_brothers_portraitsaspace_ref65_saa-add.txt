@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Hirsch, RudolphHirshfield, HarryHitchcock, RaymondHoe, RobertHoffman, Charles FrederickHoffman, MalvinaHoffman, William MitchellHolmes, John Haynes (2)Holmes, Oliver WendellHolt, HamiltonHood, JohnHoover, Herbert Clark (2)Hornblow, ArthurHorwitz, MaxHouseman, FrederickHoving, WalterHoward, Oliver Otis</field>
+-    <field name="unittitle_teim">Hirsch, RudolphHirshfield, HarryHitchcock, RaymondHoe, RobertHoffman, Charles FrederickHoffman, MalvinaHoffman, William MitchellHolmes, John Haynes (2)Holmes, Oliver WendellHolt, HamiltonHood, JohnHoover, Herbert Clark (2)Hornblow, ArthurHorwitz, MaxHouseman, FrederickHoving, WalterHoward, Oliver Otis</field>
++    <field name="unittitle_teim">Hirsch, Rudolph Hirshfield, Harry Hitchcock, Raymond Hoe, Robert Hoffman, Charles Frederick Hoffman, Malvina Hoffman, William Mitchell Holmes, John Haynes (2) Holmes, Oliver Wendell Holt, Hamilton Hood, John Hoover, Herbert Clark (2) Hornblow, Arthur Horwitz, Max Houseman, Frederick Hoving, Walter Howard, Oliver Otis</field>
+     <field name="ref_ssi">aspace_ref65_saa</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Hirsch, RudolphHirshfield, HarryHitchcock, RaymondHoe, RobertHoffman, Charles FrederickHoffman, MalvinaHoffman, William MitchellHolmes, John Haynes (2)Holmes, Oliver WendellHolt, HamiltonHood, JohnHoover, Herbert Clark (2)Hornblow, ArthurHorwitz, MaxHouseman, FrederickHoving, WalterHoward, Oliver Otis</field>
+-    <field name="heading_ssm">Hirsch, RudolphHirshfield, HarryHitchcock, RaymondHoe, RobertHoffman, Charles FrederickHoffman, MalvinaHoffman, William MitchellHolmes, John Haynes (2)Holmes, Oliver WendellHolt, HamiltonHood, JohnHoover, Herbert Clark (2)Hornblow, ArthurHorwitz, MaxHouseman, FrederickHoving, WalterHoward, Oliver Otis</field>
++    <field name="heading_ssm">Hirsch, Rudolph Hirshfield, Harry Hitchcock, Raymond Hoe, Robert Hoffman, Charles Frederick Hoffman, Malvina Hoffman, William Mitchell Holmes, John Haynes (2) Holmes, Oliver Wendell Holt, Hamilton Hood, John Hoover, Herbert Clark (2) Hornblow, Arthur Horwitz, Max Houseman, Frederick Hoving, Walter Howard, Oliver Otis</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">40</field>
+   </doc>

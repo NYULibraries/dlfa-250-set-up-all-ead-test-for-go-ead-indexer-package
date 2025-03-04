@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MS 556</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Certificates, RollsEnlistment and appointment certificates. Includes several certificates for William H. Kipp (1857-1908). Also rolls for 11th Reg. (1806-1820), Battery F (1940) and Exempt Members (1860-1863, 1910-1914).</field>
+-    <field name="unittitle_teim">Certificates, RollsEnlistment and appointment certificates. Includes several certificates for William H. Kipp (1857-1908). Also rolls for 11th Reg. (1806-1820), Battery F (1940) and Exempt Members (1860-1863, 1910-1914).</field>
++    <field name="unittitle_teim">Certificates, Rolls Enlistment and appointment certificates. Includes several certificates for William H. Kipp (1857-1908). Also rolls for 11th Reg. (1806-1820), Battery F (1940) and Exempt Members (1860-1863, 1910-1914).</field>
+     <field name="unitdate_teim">1806-1940</field>
+     <field name="ref_ssi">aspace_ref201_3di</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -32,7 +32,7 @@
+     <field name="series_sim">Series I: Headquarters, 1767-1972</field>
+     <field name="series_sim">Subseries 5: Personnel, 1819-1953</field>
+     <field name="series_si">Series I: Headquarters, 1767-1972 &gt;&gt; Subseries 5: Personnel, 1819-1953 &gt;&gt; Certificates, RollsEnlistment and appointment certificates. Includes several certificates for William H. Kipp (1857-1908). Also rolls for 11th Reg. (1806-1820), Battery F (1940) and Exempt Members (1860-1863, 1910-1914).</field>
+-    <field name="heading_ssm">Certificates, RollsEnlistment and appointment certificates. Includes several certificates for William H. Kipp (1857-1908). Also rolls for 11th Reg. (1806-1820), Battery F (1940) and Exempt Members (1860-1863, 1910-1914).</field>
++    <field name="heading_ssm">Certificates, Rolls Enlistment and appointment certificates. Includes several certificates for William H. Kipp (1857-1908). Also rolls for 11th Reg. (1806-1820), Battery F (1940) and Exempt Members (1860-1863, 1910-1914).</field>
+     <field name="unitdate_ssm">1806-1940</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">182</field>

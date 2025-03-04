@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 094.0004</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/432321</field>
+     <field name="unitdate_teim">1981</field>
+-    <field name="phystech_teim">Original Format: 3/4" Umatic videocassetteDuration: 00:58:00</field>
++    <field name="phystech_teim">Original Format: 3/4" Umatic videocassette Duration: 00:58:00</field>
+     <field name="ref_ssi">aspace_ref3703</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

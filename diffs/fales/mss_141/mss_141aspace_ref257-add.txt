@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Works Box 18</field>
+     <field name="unitid_teim">31142050718710</field>
+     <field name="unitid_ssm">31142050718710</field>
+-    <field name="scopecontent_teim">The same as previous. Quantity of oversized sketchbook pages left in box.Note: 3 very large sketchbooks from "End of the World" moved to Flat Box 13</field>
++    <field name="scopecontent_teim">The same as previous. Quantity of oversized sketchbook pages left in box. Note: 3 very large sketchbooks from "End of the World" moved to Flat Box 13</field>
+     <field name="ref_ssi">aspace_ref257</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

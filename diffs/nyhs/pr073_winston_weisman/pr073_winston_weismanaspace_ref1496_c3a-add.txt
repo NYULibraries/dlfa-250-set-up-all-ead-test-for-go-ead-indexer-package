@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">roll CC: plans of 165 -- 167 Mercer Street147 Spring Street367 West Broadway (500 Broome Street)65 Greene Street</field>
+-    <field name="unittitle_teim">roll CC: plans of 165 -- 167 Mercer Street147 Spring Street367 West Broadway (500 Broome Street)65 Greene Street</field>
++    <field name="unittitle_teim">roll CC: plans of 165 -- 167 Mercer Street 147 Spring Street 367 West Broadway (500 Broome Street) 65 Greene Street</field>
+     <field name="ref_ssi">aspace_ref1496_c3a</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">35 mm film prints of original architect's drawings</field>
+     <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35 mm film prints of original architect's drawings &gt;&gt; roll CC: plans of 165 -- 167 Mercer Street147 Spring Street367 West Broadway (500 Broome Street)65 Greene Street</field>
+-    <field name="heading_ssm">roll CC: plans of 165 -- 167 Mercer Street147 Spring Street367 West Broadway (500 Broome Street)65 Greene Street</field>
++    <field name="heading_ssm">roll CC: plans of 165 -- 167 Mercer Street 147 Spring Street 367 West Broadway (500 Broome Street) 65 Greene Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">931</field>
+   </doc>

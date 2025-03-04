@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">2008</field>
+-    <field name="scopecontent_teim">Director: Benh Zeitlin (USA)Original Title: Glory at SeaCatalog Record: GetIt | Glory at SeaMore Information</field>
+-    <field name="phystech_teim">Original Format: HDCAMColorTotal Running Time: 00:25:00</field>
++    <field name="scopecontent_teim">Director: Benh Zeitlin (USA) Original Title: Glory at Sea Catalog Record: GetIt | Glory at Sea More Information</field>
++    <field name="phystech_teim">Original Format: HDCAM Color Total Running Time: 00:25:00</field>
+     <field name="ref_ssi">aspace_ref81_55x</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

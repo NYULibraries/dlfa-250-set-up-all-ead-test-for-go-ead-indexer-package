@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Lewis, 623 Broadway and 190 Mercer Street, New York, NYProject #153</field>
+-    <field name="unittitle_teim">Lewis, 623 Broadway and 190 Mercer Street, New York, NYProject #153</field>
++    <field name="unittitle_teim">Lewis, 623 Broadway and 190 Mercer Street, New York, NY Project #153</field>
+     <field name="unitdate_teim">1881</field>
+     <field name="ref_ssi">aspace_ref278_acr</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -32,7 +32,7 @@
+     <field name="series_sim">Series I: Architectural Drawings</field>
+     <field name="series_sim">Architectural Drawings, cont.</field>
+     <field name="series_si">Series I: Architectural Drawings &gt;&gt; Architectural Drawings, cont. &gt;&gt; Lewis, 623 Broadway and 190 Mercer Street, New York, NYProject #153</field>
+-    <field name="heading_ssm">Lewis, 623 Broadway and 190 Mercer Street, New York, NYProject #153</field>
++    <field name="heading_ssm">Lewis, 623 Broadway and 190 Mercer Street, New York, NY Project #153</field>
+     <field name="unitdate_ssm">1881</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">238</field>

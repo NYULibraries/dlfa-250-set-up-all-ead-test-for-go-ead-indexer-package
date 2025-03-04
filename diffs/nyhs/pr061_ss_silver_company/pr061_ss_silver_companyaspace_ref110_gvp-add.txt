@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 61</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Notebook with assorted photographsincludes: A &amp; J Engel Inc., Alfreda Inc., Nat Lewis, Rollins Company, Woolf Brothers, Wichita and Kansas City</field>
+-    <field name="unittitle_teim">Notebook with assorted photographsincludes: A &amp; J Engel Inc., Alfreda Inc., Nat Lewis, Rollins Company, Woolf Brothers, Wichita and Kansas City</field>
++    <field name="unittitle_teim">Notebook with assorted photographs includes: A &amp; J Engel Inc., Alfreda Inc., Nat Lewis, Rollins Company, Woolf Brothers, Wichita and Kansas City</field>
+     <field name="unitdate_teim">1947-1949</field>
+     <field name="ref_ssi">aspace_ref110_gvp</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">PR 61</field>
+     <field name="series_sim">Series I: Commercial Interiors</field>
+     <field name="series_si">Series I: Commercial Interiors &gt;&gt; Notebook with assorted photographsincludes: A &amp; J Engel Inc., Alfreda Inc., Nat Lewis, Rollins Company, Woolf Brothers, Wichita and Kansas City</field>
+-    <field name="heading_ssm">Notebook with assorted photographsincludes: A &amp; J Engel Inc., Alfreda Inc., Nat Lewis, Rollins Company, Woolf Brothers, Wichita and Kansas City</field>
++    <field name="heading_ssm">Notebook with assorted photographs includes: A &amp; J Engel Inc., Alfreda Inc., Nat Lewis, Rollins Company, Woolf Brothers, Wichita and Kansas City</field>
+     <field name="unitdate_ssm">1947-1949</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">93</field>

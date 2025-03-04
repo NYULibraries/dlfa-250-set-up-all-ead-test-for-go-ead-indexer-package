@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Subseries c. Post-Conference</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+-    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_ssm">RISM.RG.16.(j)</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">"Investigative Levels re: Political Choices," &lt;em&gt;Caribbean Contact&lt;/em&gt;</field>
+@@ -32,7 +32,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 14, Folder: 33</field>
+     <field name="location_si">Box: 14, Folder: 33</field>
+-    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_teim">RISM.RG.16.(j)</field>
+     <field name="series_sim">Series VII. Clippings, January 1982 - October 1984, undated</field>
+     <field name="series_sim">Subseries c. Post-Conference</field>

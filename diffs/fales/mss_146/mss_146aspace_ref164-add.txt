@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.146</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Cohen, AlexanderCohen, Hildy</field>
+-    <field name="unittitle_teim">Cohen, AlexanderCohen, Hildy</field>
++    <field name="unittitle_teim">Cohen, Alexander Cohen, Hildy</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/471205</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/471205</field>
+     <field name="unitdate_teim">Undated</field>
+@@ -34,7 +34,7 @@
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Subseries A</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Subseries A &gt;&gt; Cohen, AlexanderCohen, Hildy</field>
+-    <field name="heading_ssm">Cohen, AlexanderCohen, Hildy</field>
++    <field name="heading_ssm">Cohen, Alexander Cohen, Hildy</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">138</field>

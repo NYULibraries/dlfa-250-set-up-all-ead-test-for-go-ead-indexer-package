@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2008/2008</field>
+     <field name="unitdate_normal_sim">2008/2008</field>
+     <field name="unitdate_inclusive_teim">2008</field>
+-    <field name="scopecontent_teim">Director: Semih KaplanogluOriginal Title: SütCatalog Record: Currently unavailableMore Information</field>
+-    <field name="phystech_teim">Original Format: 35mmColorTotal Running Time: 01:42:00</field>
++    <field name="scopecontent_teim">Director: Semih Kaplanoglu Original Title: Süt Catalog Record: Currently unavailable More Information</field>
++    <field name="phystech_teim">Original Format: 35mm Color Total Running Time: 01:42:00</field>
+     <field name="ref_ssi">aspace_ref171_j3o</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

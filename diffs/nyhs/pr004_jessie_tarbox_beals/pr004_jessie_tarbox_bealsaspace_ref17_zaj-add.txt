@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 4</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">"A-B" general, including:Akins, ZoeAllen, ViolaAnderson, JudithAndrews, KennethAuslander, JosephBaker, Sara JosephineBeals, Alfred Tennyson (See: Box 1, folder 2)Beckwith, James CarrollBlasco Ibanez, VicenteBorglum, GutzonBorglum, Solon HannibalBowen, BillyBrainerd, Nanette BealsBrandstrom, ElsaBurroughs, John (See: Box 1, folder 2)</field>
+-    <field name="unittitle_teim">"A-B" general, including:Akins, ZoeAllen, ViolaAnderson, JudithAndrews, KennethAuslander, JosephBaker, Sara JosephineBeals, Alfred Tennyson (See: Box 1, folder 2)Beckwith, James CarrollBlasco Ibanez, VicenteBorglum, GutzonBorglum, Solon HannibalBowen, BillyBrainerd, Nanette BealsBrandstrom, ElsaBurroughs, John (See: Box 1, folder 2)</field>
++    <field name="unittitle_teim">"A-B" general, including: Akins, Zoe Allen, Viola Anderson, Judith Andrews, Kenneth Auslander, Joseph Baker, Sara Josephine Beals, Alfred Tennyson (See: Box 1, folder 2) Beckwith, James Carroll Blasco Ibanez, Vicente Borglum, Gutzon Borglum, Solon Hannibal Bowen, Billy Brainerd, Nanette Beals Brandstrom, Elsa Burroughs, John (See: Box 1, folder 2)</field>
+     <field name="ref_ssi">aspace_ref17_zaj</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 4</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_si">Series I. Portraits &gt;&gt; "A-B" general, including:Akins, ZoeAllen, ViolaAnderson, JudithAndrews, KennethAuslander, JosephBaker, Sara JosephineBeals, Alfred Tennyson (See: Box 1, folder 2)Beckwith, James CarrollBlasco Ibanez, VicenteBorglum, GutzonBorglum, Solon HannibalBowen, BillyBrainerd, Nanette BealsBrandstrom, ElsaBurroughs, John (See: Box 1, folder 2)</field>
+-    <field name="heading_ssm">"A-B" general, including:Akins, ZoeAllen, ViolaAnderson, JudithAndrews, KennethAuslander, JosephBaker, Sara JosephineBeals, Alfred Tennyson (See: Box 1, folder 2)Beckwith, James CarrollBlasco Ibanez, VicenteBorglum, GutzonBorglum, Solon HannibalBowen, BillyBrainerd, Nanette BealsBrandstrom, ElsaBurroughs, John (See: Box 1, folder 2)</field>
++    <field name="heading_ssm">"A-B" general, including: Akins, Zoe Allen, Viola Anderson, Judith Andrews, Kenneth Auslander, Joseph Baker, Sara Josephine Beals, Alfred Tennyson (See: Box 1, folder 2) Beckwith, James Carroll Blasco Ibanez, Vicente Borglum, Gutzon Borglum, Solon Hannibal Bowen, Billy Brainerd, Nanette Beals Brandstrom, Elsa Burroughs, John (See: Box 1, folder 2)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>
+   </doc>

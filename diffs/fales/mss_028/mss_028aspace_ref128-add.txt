@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Bloomfield, Walter&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Holdenhurst hall&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Ledger Library&lt;strong&gt;Series Number&lt;/strong&gt;: 126&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Robert Bonner's Sons&lt;strong&gt;Date&lt;/strong&gt;: 1895</field>
+-    <field name="unittitle_teim">Author: Bloomfield, WalterTitle: Holdenhurst hallSeries Title: The Ledger LibrarySeries Number: 126City: New YorkPublisher: Robert Bonner's SonsDate: 1895</field>
++    <field name="unittitle_teim">Author: Bloomfield, Walter Title: Holdenhurst hall Series Title: The Ledger Library Series Number: 126 City: New York Publisher: Robert Bonner's Sons Date: 1895</field>
+     <field name="unitdate_normal_ssm">1895/1895</field>
+     <field name="unitdate_normal_teim">1895/1895</field>
+     <field name="unitdate_normal_sim">1895/1895</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Bloomfield, Walter&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Holdenhurst hall&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Ledger Library&lt;strong&gt;Series Number&lt;/strong&gt;: 126&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Robert Bonner's Sons&lt;strong&gt;Date&lt;/strong&gt;: 1895</field>
+-    <field name="heading_ssm">Author: Bloomfield, WalterTitle: Holdenhurst hallSeries Title: The Ledger LibrarySeries Number: 126City: New YorkPublisher: Robert Bonner's SonsDate: 1895</field>
++    <field name="heading_ssm">Author: Bloomfield, Walter Title: Holdenhurst hall Series Title: The Ledger Library Series Number: 126 City: New York Publisher: Robert Bonner's Sons Date: 1895</field>
+     <field name="unitdate_start_sim">1895</field>
+     <field name="unitdate_start_ssm">1895</field>
+     <field name="unitdate_start_si">1895</field>

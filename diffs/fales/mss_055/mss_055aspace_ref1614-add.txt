@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Clinton, De Witt, 1769-1828.&lt;strong&gt;place&lt;/strong&gt;: [New York]</field>
+-    <field name="unittitle_teim">creator: Clinton, De Witt, 1769-1828.place: [New York]</field>
++    <field name="unittitle_teim">creator: Clinton, De Witt, 1769-1828. place: [New York]</field>
+     <field name="unitid_teim">055-003-A-1994</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404544</field>
+     <field name="unitid_ssm">055-003-A-1994</field>
+@@ -27,8 +27,8 @@
+     <field name="name_teim">Clinton, De Witt, 1769-1828.</field>
+     <field name="name_ssm">Clinton, De Witt, 1769-1828.</field>
+     <field name="name_ssm">Clinton, De Witt, 1769-1828.</field>
+-    <field name="dao_teim">creator: Clinton, De Witt, 1769-1828.place: [New York]: Dec 20, 1817</field>
+-    <field name="dao_ssm">creator: Clinton, De Witt, 1769-1828.place: [New York]: Dec 20, 1817</field>
++    <field name="dao_teim">creator: Clinton, De Witt, 1769-1828. place: [New York]: Dec 20, 1817</field>
++    <field name="dao_ssm">creator: Clinton, De Witt, 1769-1828. place: [New York]: Dec 20, 1817</field>
+     <field name="ref_ssi">aspace_ref1614</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series III: Mayors and Governors Autographs</field>
+     <field name="series_sim">Subseries A: Letters and Documents</field>
+     <field name="series_si">Series III: Mayors and Governors Autographs &gt;&gt; Subseries A: Letters and Documents &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Clinton, De Witt, 1769-1828.&lt;strong&gt;place&lt;/strong&gt;: [New York]</field>
+-    <field name="heading_ssm">creator: Clinton, De Witt, 1769-1828.place: [New York]</field>
++    <field name="heading_ssm">creator: Clinton, De Witt, 1769-1828. place: [New York]</field>
+     <field name="unitdate_ssm">Dec 20, 1817</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">412</field>

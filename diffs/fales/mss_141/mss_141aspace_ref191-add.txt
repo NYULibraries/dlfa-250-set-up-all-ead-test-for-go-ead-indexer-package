@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142040620018</field>
+     <field name="unitid_ssm">31142040620018</field>
+     <field name="unitdate_teim">1990-1991</field>
+-    <field name="scopecontent_teim">Drafts and revisions of the Hallmark production, index cards, large sketch pages, discussion and interview transcripts, news clippings, correspondence, research, notebooks.Micro Cassettes"Wings 5/10/91" 1 tape in env."Wings--L.A.conversation" 4 tapes in env."Jacqui and Dr. Caravelli 5/11/90....." 2 tapes in env.Audio Cassettes"Rhinebeck air show""Jacqui Doolittle"Note: Stack of snapshots of air show at back of box. 1 folder of oversized material moved to Flat Box 10.</field>
++    <field name="scopecontent_teim">Drafts and revisions of the Hallmark production, index cards, large sketch pages, discussion and interview transcripts, news clippings, correspondence, research, notebooks. Micro Cassettes "Wings 5/10/91" 1 tape in env. "Wings--L.A.conversation" 4 tapes in env. "Jacqui and Dr. Caravelli 5/11/90....." 2 tapes in env. Audio Cassettes "Rhinebeck air show" "Jacqui Doolittle" Note: Stack of snapshots of air show at back of box. 1 folder of oversized material moved to Flat Box 10.</field>
+     <field name="ref_ssi">aspace_ref191</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.034</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Brunel, Sir Max IsambardBryant, JacobBryant, William Cullen</field>
+-    <field name="unittitle_teim">Brunel, Sir Max IsambardBryant, JacobBryant, William Cullen</field>
++    <field name="unittitle_teim">Brunel, Sir Max Isambard Bryant, Jacob Bryant, William Cullen</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref74</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.034</field>
+     <field name="series_sim">Series I</field>
+     <field name="series_si">Series I &gt;&gt; Brunel, Sir Max IsambardBryant, JacobBryant, William Cullen</field>
+-    <field name="heading_ssm">Brunel, Sir Max IsambardBryant, JacobBryant, William Cullen</field>
++    <field name="heading_ssm">Brunel, Sir Max Isambard Bryant, Jacob Bryant, William Cullen</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">60</field>

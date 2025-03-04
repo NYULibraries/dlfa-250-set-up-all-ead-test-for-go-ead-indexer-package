@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 85</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Adams, William, Rev.AlbroAlexanderAllenAmesAppleton Arnold, D. H.AshbyAshmanAugur, Christopher, Gen.Austin, Edward Avery</field>
+-    <field name="unittitle_teim">Adams, William, Rev.AlbroAlexanderAllenAmesAppleton Arnold, D. H.AshbyAshmanAugur, Christopher, Gen.Austin, Edward Avery</field>
++    <field name="unittitle_teim">Adams, William, Rev. Albro Alexander Allen Ames Appleton Arnold, D. H. Ashby Ashman Augur, Christopher, Gen. Austin, Edward Avery</field>
+     <field name="ref_ssi">aspace_ref13_h4i</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 85</field>
+     <field name="series_sim">Series I: Imperial Format Portraits</field>
+     <field name="series_si">Series I: Imperial Format Portraits &gt;&gt; Adams, William, Rev.AlbroAlexanderAllenAmesAppleton Arnold, D. H.AshbyAshmanAugur, Christopher, Gen.Austin, Edward Avery</field>
+-    <field name="heading_ssm">Adams, William, Rev.AlbroAlexanderAllenAmesAppleton Arnold, D. H.AshbyAshmanAugur, Christopher, Gen.Austin, Edward Avery</field>
++    <field name="heading_ssm">Adams, William, Rev. Albro Alexander Allen Ames Appleton Arnold, D. H. Ashby Ashman Augur, Christopher, Gen. Austin, Edward Avery</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2</field>
+   </doc>

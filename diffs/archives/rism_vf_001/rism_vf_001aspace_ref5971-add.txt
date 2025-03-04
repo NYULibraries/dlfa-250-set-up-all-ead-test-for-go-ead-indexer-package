@@ -6,6 +6,6 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="collection_unitid_teim">RISM.VF.001</field>
      <field name="series_sim">Curacao</field>
 +    <field name="series_sim">Curacao</field>
-     <field name="series_si">Curacao &gt;&gt; Curacao &gt;&gt; Curacao, Netherlands West Indies: Facts &amp;amp; Figures</field>
+     <field name="series_si">Curacao &gt;&gt; Curacao &gt;&gt; Curacao, Netherlands West Indies: Facts &amp; Figures</field>
      <field name="heading_ssm">Curacao, Netherlands West Indies: Facts &amp; Figures</field>
      <field name="unitdate_ssm">undated</field>

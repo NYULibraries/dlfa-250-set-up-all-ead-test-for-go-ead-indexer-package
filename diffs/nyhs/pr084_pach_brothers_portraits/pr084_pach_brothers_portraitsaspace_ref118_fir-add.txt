@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Wingate, George WoodWinninger, CharlesWinslow, Cameron McRaeWinthrop, BeekmanWise, Henry AlexanderWise, Stephen Samuel (2)Wood, LeonardWoodford, Stewart LyndonWoodruff, Timothy LesterWoods, ArthurWoodward, WilliamWu, Ting-Fang</field>
+-    <field name="unittitle_teim">Wingate, George WoodWinninger, CharlesWinslow, Cameron McRaeWinthrop, BeekmanWise, Henry AlexanderWise, Stephen Samuel (2)Wood, LeonardWoodford, Stewart LyndonWoodruff, Timothy LesterWoods, ArthurWoodward, WilliamWu, Ting-Fang</field>
++    <field name="unittitle_teim">Wingate, George Wood Winninger, Charles Winslow, Cameron McRae Winthrop, Beekman Wise, Henry Alexander Wise, Stephen Samuel (2) Wood, Leonard Woodford, Stewart Lyndon Woodruff, Timothy Lester Woods, Arthur Woodward, William Wu, Ting-Fang</field>
+     <field name="ref_ssi">aspace_ref118_fir</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Wingate, George WoodWinninger, CharlesWinslow, Cameron McRaeWinthrop, BeekmanWise, Henry AlexanderWise, Stephen Samuel (2)Wood, LeonardWoodford, Stewart LyndonWoodruff, Timothy LesterWoods, ArthurWoodward, WilliamWu, Ting-Fang</field>
+-    <field name="heading_ssm">Wingate, George WoodWinninger, CharlesWinslow, Cameron McRaeWinthrop, BeekmanWise, Henry AlexanderWise, Stephen Samuel (2)Wood, LeonardWoodford, Stewart LyndonWoodruff, Timothy LesterWoods, ArthurWoodward, WilliamWu, Ting-Fang</field>
++    <field name="heading_ssm">Wingate, George Wood Winninger, Charles Winslow, Cameron McRae Winthrop, Beekman Wise, Henry Alexander Wise, Stephen Samuel (2) Wood, Leonard Woodford, Stewart Lyndon Woodruff, Timothy Lester Woods, Arthur Woodward, William Wu, Ting-Fang</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">86</field>
+   </doc>

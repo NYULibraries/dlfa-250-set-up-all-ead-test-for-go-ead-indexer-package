@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="unitdate_normal_sim">1981/2003</field>
+     <field name="unitdate_bulk_teim">1981-2003</field>
+     <field name="unitdate_inclusive_teim">1969-2003</field>
+-    <field name="scopecontent_teim">The Candida Scott Piel Papers and AmFAR Collection contains administrative files, clippings, and ephemera related to Candida Scott Piel's involvement with the Foundation for AIDS Research (AmFAR) and other AIDS and LGBT outreach initiatives. The materials have been arranged into three series:Series I: Event Materials contains items related to specific events which Candida Scott Piel attended, or with which she was involved, including film festivals, LGBT rights events, and political meetings.Series II: Subject Files contains clippings and research files unrelated to specific events.Series III: Ephemera contains primarily promotional items such as buttons and t-shirts, related to groups or events.</field>
++    <field name="scopecontent_teim">The Candida Scott Piel Papers and AmFAR Collection contains administrative files, clippings, and ephemera related to Candida Scott Piel's involvement with the Foundation for AIDS Research (AmFAR) and other AIDS and LGBT outreach initiatives. The materials have been arranged into three series: Series I: Event Materials contains items related to specific events which Candida Scott Piel attended, or with which she was involved, including film festivals, LGBT rights events, and political meetings. Series II: Subject Files contains clippings and research files unrelated to specific events. Series III: Ephemera contains primarily promotional items such as buttons and t-shirts, related to groups or events.</field>
+     <field name="bioghist_teim">Candida Scott Piel worked with the Foundation for AIDS Research (AmFAR) and other Gay and Lesbian Advocates' Groups throughout the 1980s and 1990s. Her work included involvement with numerous outreach events, such as the annual New York City Gay Pride Celebration.</field>
+     <field name="custodhist_teim">The Candida Scott Piel Papers and AmFAR Collection were acquired by donation in 2003 and 2007.</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>

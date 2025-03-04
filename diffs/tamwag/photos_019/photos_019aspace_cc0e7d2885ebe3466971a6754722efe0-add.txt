@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Subseries I:A: United Federation of Teachers</field>
      <field name="series_sim">Sub-subseries I:A:6: Schools and Students</field>
 -    <field name="series_sim">Sub-sub-subseries I:A:6c: High Schools</field>
--    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6c: High Schools &gt;&gt; Manhattan Center for Math &amp;amp; Science Dec. 13th Visit</field>
+-    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6c: High Schools &gt;&gt; Manhattan Center for Math &amp; Science Dec. 13th Visit</field>
 +    <field name="series_sim">Sub-sub-subseries I:A:6f: Miscellaneous</field>
-+    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Manhattan Center for Math &amp;amp; Science Dec. 13th Visit</field>
++    <field name="series_si">Series I: New York Teacher Photograph Files &gt;&gt; Subseries I:A: United Federation of Teachers &gt;&gt; Sub-subseries I:A:6: Schools and Students &gt;&gt; Sub-sub-subseries I:A:6f: Miscellaneous &gt;&gt; Manhattan Center for Math &amp; Science Dec. 13th Visit</field>
      <field name="heading_ssm">Manhattan Center for Math &amp; Science Dec. 13th Visit</field>
      <field name="unitdate_start_sim">1928</field>
      <field name="unitdate_start_ssm">1928</field>

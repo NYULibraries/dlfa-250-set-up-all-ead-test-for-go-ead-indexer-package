@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">American Committee for Cultural Freedom Records</field>
+     <field name="collection_unitid_ssm">TAM.023</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Conference Series&amp;gt; Manuscripts</field>
++    <field name="unittitle_ssm">Conference Series&gt; Manuscripts</field>
+     <field name="unittitle_teim">Conference Series&gt; Manuscripts</field>
+     <field name="unitdate_normal_ssm">1951/1951</field>
+     <field name="unitdate_normal_teim">1951/1951</field>
+@@ -34,7 +34,7 @@
+     <field name="collection_unitid_teim">TAM.023</field>
+     <field name="series_sim">Series III: American Committee for Cultural Freedom</field>
+     <field name="series_sim">Subseries F: Public Activities - Topics</field>
+-    <field name="series_si">Series III: American Committee for Cultural Freedom &gt;&gt; Subseries F: Public Activities - Topics &gt;&gt; Conference Series&amp;gt; Manuscripts</field>
++    <field name="series_si">Series III: American Committee for Cultural Freedom &gt;&gt; Subseries F: Public Activities - Topics &gt;&gt; Conference Series&gt; Manuscripts</field>
+     <field name="heading_ssm">Conference Series&gt; Manuscripts</field>
+     <field name="unitdate_start_sim">1951</field>
+     <field name="unitdate_start_ssm">1951</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Box 1</field>
+     <field name="unitid_teim">31142050719080</field>
+     <field name="unitid_ssm">31142050719080</field>
+-    <field name="scopecontent_teim">Photographs, stray pamphlets, programs, religious materials, date book with entries from 1969 and 1982, articles, notebook and file of materials on musical concept "Don Juan", mess of materials found jumbled together and seemingly related to various projects, much of the material seems to be stuff collected in pants pockets from business meetings (kleenex, pens, matchbooks, etc.).PublicationsOtto von Pivka, Armies of the Middle East (Mayflower Books: New York, 1979)Note: One folder of legal sized materials moved to Flat Box 15 including film rights contract for "Indians". Box includes fez.</field>
++    <field name="scopecontent_teim">Photographs, stray pamphlets, programs, religious materials, date book with entries from 1969 and 1982, articles, notebook and file of materials on musical concept "Don Juan", mess of materials found jumbled together and seemingly related to various projects, much of the material seems to be stuff collected in pants pockets from business meetings (kleenex, pens, matchbooks, etc.). Publications Otto von Pivka, Armies of the Middle East (Mayflower Books: New York, 1979) Note: One folder of legal sized materials moved to Flat Box 15 including film rights contract for "Indians". Box includes fez.</field>
+     <field name="ref_ssi">aspace_ref341</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

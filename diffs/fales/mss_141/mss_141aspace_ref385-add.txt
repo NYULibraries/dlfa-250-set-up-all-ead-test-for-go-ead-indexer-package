@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 78 Miscellaneous: two folders of oversized material including correspondence and contracts with ICM and a French translation of "The Day the Whores..." moved to Flat Box 13.</field>
+     <field name="unitid_teim">cuid22064</field>
+     <field name="unitid_ssm">cuid22064</field>
+-    <field name="scopecontent_teim">Box 79 Projects: folder of oversized material, magazine, poster and photo from different years.Box 83 Projects: 3 very large sketchbooks from "End of the World".</field>
++    <field name="scopecontent_teim">Box 79 Projects: folder of oversized material, magazine, poster and photo from different years. Box 83 Projects: 3 very large sketchbooks from "End of the World".</field>
+     <field name="ref_ssi">aspace_ref385</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_inclusive_teim">2012</field>
+-    <field name="scopecontent_teim">Director: Sara Al-Saadi, Maaria Assami, Latifa Al-Darwish (Qatar)ArabicCatalog Record: GetIt | BaderMore Info</field>
+-    <field name="phystech_teim">Original Format: HDCAMColorTotal Running Time: 00:10:00</field>
++    <field name="scopecontent_teim">Director: Sara Al-Saadi, Maaria Assami, Latifa Al-Darwish (Qatar) Arabic Catalog Record: GetIt | Bader More Info</field>
++    <field name="phystech_teim">Original Format: HDCAM Color Total Running Time: 00:10:00</field>
+     <field name="ref_ssi">aspace_ref58_uao</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

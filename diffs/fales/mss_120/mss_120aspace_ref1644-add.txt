@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Ubu Repertory Theater Script Collection</field>
+     <field name="collection_unitid_ssm">MSS.120</field>
+     <field name="level_sim">otherlevel</field>
+-    <field name="unittitle_ssm">Sebbar, Leila. 'Au fr bien-aim/unittitle&amp;gt;</field>
++    <field name="unittitle_ssm">Sebbar, Leila. 'Au fr bien-aim/unittitle&gt;</field>
+     <field name="unittitle_teim">Sebbar, Leila. 'Au fr bien-aim/unittitle&gt;</field>
+     <field name="unitid_teim">31142040610407</field>
+     <field name="unitid_ssm">31142040610407</field>
+@@ -29,7 +29,7 @@
+     <field name="collection_teim">Ubu Repertory Theater Script Collection</field>
+     <field name="collection_unitid_teim">MSS.120</field>
+     <field name="series_sim">Series I: French Manuscripts</field>
+-    <field name="series_si">Series I: French Manuscripts &gt;&gt; Sebbar, Leila. 'Au fr bien-aim/unittitle&amp;gt;</field>
++    <field name="series_si">Series I: French Manuscripts &gt;&gt; Sebbar, Leila. 'Au fr bien-aim/unittitle&gt;</field>
+     <field name="heading_ssm">Sebbar, Leila. 'Au fr bien-aim/unittitle&gt;</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

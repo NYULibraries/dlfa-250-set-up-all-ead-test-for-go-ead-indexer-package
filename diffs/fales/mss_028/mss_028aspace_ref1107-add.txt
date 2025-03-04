@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: MacLaren, Ian&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Beside the bonnie brier bush, and other stories&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Arm Chair Library&lt;strong&gt;Series Number&lt;/strong&gt;: 82&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: F. M. Lupton&lt;strong&gt;Other Notes&lt;/strong&gt;: also contains Mesmeric Revelation&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="unittitle_teim">Author: MacLaren, IanTitle: Beside the bonnie brier bush, and other storiesSeries Title: The Arm Chair LibrarySeries Number: 82City: New YorkPublisher: F. M. LuptonOther Notes: also contains Mesmeric RevelationDate: undated</field>
++    <field name="unittitle_teim">Author: MacLaren, Ian Title: Beside the bonnie brier bush, and other stories Series Title: The Arm Chair Library Series Number: 82 City: New York Publisher: F. M. Lupton Other Notes: also contains Mesmeric Revelation Date: undated</field>
+     <field name="unitdate_normal_ssm">1821/1968</field>
+     <field name="unitdate_normal_teim">1821/1968</field>
+     <field name="unitdate_normal_sim">1821/1968</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: MacLaren, Ian&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Beside the bonnie brier bush, and other stories&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Arm Chair Library&lt;strong&gt;Series Number&lt;/strong&gt;: 82&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: F. M. Lupton&lt;strong&gt;Other Notes&lt;/strong&gt;: also contains Mesmeric Revelation&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="heading_ssm">Author: MacLaren, IanTitle: Beside the bonnie brier bush, and other storiesSeries Title: The Arm Chair LibrarySeries Number: 82City: New YorkPublisher: F. M. LuptonOther Notes: also contains Mesmeric RevelationDate: undated</field>
++    <field name="heading_ssm">Author: MacLaren, Ian Title: Beside the bonnie brier bush, and other stories Series Title: The Arm Chair Library Series Number: 82 City: New York Publisher: F. M. Lupton Other Notes: also contains Mesmeric Revelation Date: undated</field>
+     <field name="unitdate_start_sim">1821</field>
+     <field name="unitdate_start_ssm">1821</field>
+     <field name="unitdate_start_si">1821</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Platt, Charles C.Poletti, CharlesPolk, Frank LyonPolk, William MecklenburgPollock, ChanningPorter, HoracePost, AugustusPost, Regis HenriPotter, CharlesPotter, Henry Codman (2)Prentice, William Satterlee PackerPresbrey, FrankPrice, Frank J.Prorok, Byron de</field>
+-    <field name="unittitle_teim">Platt, Charles C.Poletti, CharlesPolk, Frank LyonPolk, William MecklenburgPollock, ChanningPorter, HoracePost, AugustusPost, Regis HenriPotter, CharlesPotter, Henry Codman (2)Prentice, William Satterlee PackerPresbrey, FrankPrice, Frank J.Prorok, Byron de</field>
++    <field name="unittitle_teim">Platt, Charles C. Poletti, Charles Polk, Frank Lyon Polk, William Mecklenburg Pollock, Channing Porter, Horace Post, Augustus Post, Regis Henri Potter, Charles Potter, Henry Codman (2) Prentice, William Satterlee Packer Presbrey, Frank Price, Frank J. Prorok, Byron de</field>
+     <field name="ref_ssi">aspace_ref92_knx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Platt, Charles C.Poletti, CharlesPolk, Frank LyonPolk, William MecklenburgPollock, ChanningPorter, HoracePost, AugustusPost, Regis HenriPotter, CharlesPotter, Henry Codman (2)Prentice, William Satterlee PackerPresbrey, FrankPrice, Frank J.Prorok, Byron de</field>
+-    <field name="heading_ssm">Platt, Charles C.Poletti, CharlesPolk, Frank LyonPolk, William MecklenburgPollock, ChanningPorter, HoracePost, AugustusPost, Regis HenriPotter, CharlesPotter, Henry Codman (2)Prentice, William Satterlee PackerPresbrey, FrankPrice, Frank J.Prorok, Byron de</field>
++    <field name="heading_ssm">Platt, Charles C. Poletti, Charles Polk, Frank Lyon Polk, William Mecklenburg Pollock, Channing Porter, Horace Post, Augustus Post, Regis Henri Potter, Charles Potter, Henry Codman (2) Prentice, William Satterlee Packer Presbrey, Frank Price, Frank J. Prorok, Byron de</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">64</field>
+   </doc>

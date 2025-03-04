@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;em&gt;The St. James's Chronicle; or, British Evening-post&lt;/em&gt;no. 2534 &lt;strong&gt;place&lt;/strong&gt;: London</field>
+-    <field name="unittitle_teim">The St. James's Chronicle; or, British Evening-postno. 2534 place: London</field>
++    <field name="unittitle_teim">The St. James's Chronicle; or, British Evening-post no. 2534 place: London</field>
+     <field name="unitid_teim">055-005-A-1870</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404753</field>
+     <field name="unitid_ssm">055-005-A-1870</field>
+@@ -27,8 +27,8 @@
+     <field name="title_teim">The St. James's Chronicle; or, British Evening-post</field>
+     <field name="title_ssm">The St. James's Chronicle; or, British Evening-post</field>
+     <field name="title_ssm">The St. James's Chronicle; or, British Evening-post</field>
+-    <field name="dao_teim">The St. James's Chronicle; or, British Evening-postno. 2534 place: London: Jun 7, 1777</field>
+-    <field name="dao_ssm">The St. James's Chronicle; or, British Evening-postno. 2534 place: London: Jun 7, 1777</field>
++    <field name="dao_teim">The St. James's Chronicle; or, British Evening-post no. 2534 place: London: Jun 7, 1777</field>
++    <field name="dao_ssm">The St. James's Chronicle; or, British Evening-post no. 2534 place: London: Jun 7, 1777</field>
+     <field name="ref_ssi">aspace_ref2266</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series V: Printed Materials</field>
+     <field name="series_sim">Subseries A: Newspapers and Other Printed Materials</field>
+     <field name="series_si">Series V: Printed Materials &gt;&gt; Subseries A: Newspapers and Other Printed Materials &gt;&gt; &lt;em&gt;The St. James's Chronicle; or, British Evening-post&lt;/em&gt;no. 2534 &lt;strong&gt;place&lt;/strong&gt;: London</field>
+-    <field name="heading_ssm">The St. James's Chronicle; or, British Evening-postno. 2534 place: London</field>
++    <field name="heading_ssm">The St. James's Chronicle; or, British Evening-post no. 2534 place: London</field>
+     <field name="unitdate_ssm">Jun 7, 1777</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">621</field>

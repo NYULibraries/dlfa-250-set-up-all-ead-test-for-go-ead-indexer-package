@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 4</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">"U-Wh" general, including:Unger, EdithVinton, Frederick PorterVolpi, CountessVonnoh, Bessie PotterWade, Alzirc Hewitt, Mrs.Walker, Mary EdwardsWatson, Dudley CraftsWeir, Julian AldenWenzell, Albert BeckWhite, William Allen</field>
+-    <field name="unittitle_teim">"U-Wh" general, including:Unger, EdithVinton, Frederick PorterVolpi, CountessVonnoh, Bessie PotterWade, Alzirc Hewitt, Mrs.Walker, Mary EdwardsWatson, Dudley CraftsWeir, Julian AldenWenzell, Albert BeckWhite, William Allen</field>
++    <field name="unittitle_teim">"U-Wh" general, including: Unger, Edith Vinton, Frederick Porter Volpi, Countess Vonnoh, Bessie Potter Wade, Alzirc Hewitt, Mrs. Walker, Mary Edwards Watson, Dudley Crafts Weir, Julian Alden Wenzell, Albert Beck White, William Allen</field>
+     <field name="ref_ssi">aspace_ref36_pku</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 4</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_si">Series I. Portraits &gt;&gt; "U-Wh" general, including:Unger, EdithVinton, Frederick PorterVolpi, CountessVonnoh, Bessie PotterWade, Alzirc Hewitt, Mrs.Walker, Mary EdwardsWatson, Dudley CraftsWeir, Julian AldenWenzell, Albert BeckWhite, William Allen</field>
+-    <field name="heading_ssm">"U-Wh" general, including:Unger, EdithVinton, Frederick PorterVolpi, CountessVonnoh, Bessie PotterWade, Alzirc Hewitt, Mrs.Walker, Mary EdwardsWatson, Dudley CraftsWeir, Julian AldenWenzell, Albert BeckWhite, William Allen</field>
++    <field name="heading_ssm">"U-Wh" general, including: Unger, Edith Vinton, Frederick Porter Volpi, Countess Vonnoh, Bessie Potter Wade, Alzirc Hewitt, Mrs. Walker, Mary Edwards Watson, Dudley Crafts Weir, Julian Alden Wenzell, Albert Beck White, William Allen</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">20</field>
+   </doc>

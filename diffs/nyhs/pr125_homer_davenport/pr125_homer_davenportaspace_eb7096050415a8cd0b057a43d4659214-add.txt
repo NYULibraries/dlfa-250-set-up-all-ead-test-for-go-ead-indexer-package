@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names G</field>
+     <field name="unittitle_teim">Various Names G</field>
+-    <field name="scopecontent_teim">GatesGibbs, FredGoddard, JoeGrady, Thomas (also one with Grady, Martin, Van Wyck)GreenGregg, Rev. A.Groot, GeorgeGrout, Edward M.</field>
++    <field name="scopecontent_teim">Gates Gibbs, Fred Goddard, Joe Grady, Thomas (also one with Grady, Martin, Van Wyck) Green Gregg, Rev. A. Groot, George Grout, Edward M.</field>
+     <field name="ref_ssi">aspace_eb7096050415a8cd0b057a43d4659214</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Stokes, James Graham PhelpsStokes FamilyStotesbury, Edward TownsendStralem, CasimirStralem, DonaldStraus, IdaStraus, Isidor and IdaStraus, Jack I.Straus, Jesse, Mrs.Straus, NathanStraus, Oscar SolomonStrauss, OscarStroock, Solomon M.Sturges, Ralph A.Sulzberger, FrederickSwann, Edward</field>
+-    <field name="unittitle_teim">Stokes, James Graham PhelpsStokes FamilyStotesbury, Edward TownsendStralem, CasimirStralem, DonaldStraus, IdaStraus, Isidor and IdaStraus, Jack I.Straus, Jesse, Mrs.Straus, NathanStraus, Oscar SolomonStrauss, OscarStroock, Solomon M.Sturges, Ralph A.Sulzberger, FrederickSwann, Edward</field>
++    <field name="unittitle_teim">Stokes, James Graham Phelps Stokes Family Stotesbury, Edward Townsend Stralem, Casimir Stralem, Donald Straus, Ida Straus, Isidor and Ida Straus, Jack I. Straus, Jesse, Mrs. Straus, Nathan Straus, Oscar Solomon Strauss, Oscar Stroock, Solomon M. Sturges, Ralph A. Sulzberger, Frederick Swann, Edward</field>
+     <field name="ref_ssi">aspace_ref108_e09</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Stokes, James Graham PhelpsStokes FamilyStotesbury, Edward TownsendStralem, CasimirStralem, DonaldStraus, IdaStraus, Isidor and IdaStraus, Jack I.Straus, Jesse, Mrs.Straus, NathanStraus, Oscar SolomonStrauss, OscarStroock, Solomon M.Sturges, Ralph A.Sulzberger, FrederickSwann, Edward</field>
+-    <field name="heading_ssm">Stokes, James Graham PhelpsStokes FamilyStotesbury, Edward TownsendStralem, CasimirStralem, DonaldStraus, IdaStraus, Isidor and IdaStraus, Jack I.Straus, Jesse, Mrs.Straus, NathanStraus, Oscar SolomonStrauss, OscarStroock, Solomon M.Sturges, Ralph A.Sulzberger, FrederickSwann, Edward</field>
++    <field name="heading_ssm">Stokes, James Graham Phelps Stokes Family Stotesbury, Edward Townsend Stralem, Casimir Stralem, Donald Straus, Ida Straus, Isidor and Ida Straus, Jack I. Straus, Jesse, Mrs. Straus, Nathan Straus, Oscar Solomon Strauss, Oscar Stroock, Solomon M. Sturges, Ralph A. Sulzberger, Frederick Swann, Edward</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">77</field>
+   </doc>

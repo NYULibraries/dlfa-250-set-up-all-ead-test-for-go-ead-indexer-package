@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,8 +15,8 @@
+     <field name="parent_unittitles_teim">Session XII. Closing Session and Awards Ceremony</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+-    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_ssm">RISM.RG.16.(j)</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Helen McEachrane, unidentified individual</field>
+@@ -30,7 +30,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">notebook: 14A, Folder: CC84-135</field>
+     <field name="location_si">notebook: 14A, Folder: CC84-135</field>
+-    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_teim">RISM.RG.16.(j)</field>
+     <field name="series_sim">Series VIII. Photographs, August 28 - September 1, 1984 (at the Reed Foundation)</field>
+     <field name="series_sim">Subseries d. Printed Photographs</field>

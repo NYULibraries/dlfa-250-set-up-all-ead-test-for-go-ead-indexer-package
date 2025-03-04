@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.146</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">JaneSam</field>
+-    <field name="unittitle_teim">JaneSam</field>
++    <field name="unittitle_teim">Jane Sam</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/471869</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/471869</field>
+     <field name="unitdate_teim">1968</field>
+@@ -34,7 +34,7 @@
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Subseries B: One Name Only</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Subseries B: One Name Only &gt;&gt; JaneSam</field>
+-    <field name="heading_ssm">JaneSam</field>
++    <field name="heading_ssm">Jane Sam</field>
+     <field name="unitdate_ssm">1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">802</field>

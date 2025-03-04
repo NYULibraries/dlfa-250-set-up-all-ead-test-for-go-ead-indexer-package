@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Field, Cortlandt DepeysterFielding, BenjaminFinch, Edward Ridley (3)Finley, John HustonFisher, HamFisher, Henry Fisher, IrvingFisk, Willard C.Fiske, Bradley AllenFiske, HaleyFitch, William Clyde</field>
+-    <field name="unittitle_teim">Field, Cortlandt DepeysterFielding, BenjaminFinch, Edward Ridley (3)Finley, John HustonFisher, HamFisher, Henry Fisher, IrvingFisk, Willard C.Fiske, Bradley AllenFiske, HaleyFitch, William Clyde</field>
++    <field name="unittitle_teim">Field, Cortlandt Depeyster Fielding, Benjamin Finch, Edward Ridley (3) Finley, John Huston Fisher, Ham Fisher, Henry Fisher, Irving Fisk, Willard C. Fiske, Bradley Allen Fiske, Haley Fitch, William Clyde</field>
+     <field name="ref_ssi">aspace_ref50_qq7</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Field, Cortlandt DepeysterFielding, BenjaminFinch, Edward Ridley (3)Finley, John HustonFisher, HamFisher, Henry Fisher, IrvingFisk, Willard C.Fiske, Bradley AllenFiske, HaleyFitch, William Clyde</field>
+-    <field name="heading_ssm">Field, Cortlandt DepeysterFielding, BenjaminFinch, Edward Ridley (3)Finley, John HustonFisher, HamFisher, Henry Fisher, IrvingFisk, Willard C.Fiske, Bradley AllenFiske, HaleyFitch, William Clyde</field>
++    <field name="heading_ssm">Field, Cortlandt Depeyster Fielding, Benjamin Finch, Edward Ridley (3) Finley, John Huston Fisher, Ham Fisher, Henry Fisher, Irving Fisk, Willard C. Fiske, Bradley Allen Fiske, Haley Fitch, William Clyde</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">28</field>
+   </doc>

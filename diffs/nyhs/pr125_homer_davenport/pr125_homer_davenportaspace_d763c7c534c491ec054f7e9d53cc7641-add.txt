@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names P</field>
+     <field name="unittitle_teim">Various Names P</field>
+-    <field name="scopecontent_teim">Payne, Henry ClayPenn, WilliamPulitzer, Joseph, with Wm. Jennings Bryan</field>
++    <field name="scopecontent_teim">Payne, Henry Clay Penn, William Pulitzer, Joseph, with Wm. Jennings Bryan</field>
+     <field name="ref_ssi">aspace_d763c7c534c491ec054f7e9d53cc7641</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

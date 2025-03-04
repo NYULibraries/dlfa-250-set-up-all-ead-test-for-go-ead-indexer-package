@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Hedges, Job ElmerHedley, FrankHegeman, John RogersHempel, FriedaHenderson, LeonHenri, RobertHenschel, Charles R.Hepburn, Alonzo BartonHerbert, H. H.Herbert, VictorHiggins, Frank WaylandHill, James JeromeHilles, Charles DeweyHilles, Newell DwightHilton, Conrad N.</field>
+-    <field name="unittitle_teim">Hedges, Job ElmerHedley, FrankHegeman, John RogersHempel, FriedaHenderson, LeonHenri, RobertHenschel, Charles R.Hepburn, Alonzo BartonHerbert, H. H.Herbert, VictorHiggins, Frank WaylandHill, James JeromeHilles, Charles DeweyHilles, Newell DwightHilton, Conrad N.</field>
++    <field name="unittitle_teim">Hedges, Job Elmer Hedley, Frank Hegeman, John Rogers Hempel, Frieda Henderson, Leon Henri, Robert Henschel, Charles R. Hepburn, Alonzo Barton Herbert, H. H. Herbert, Victor Higgins, Frank Wayland Hill, James Jerome Hilles, Charles Dewey Hilles, Newell Dwight Hilton, Conrad N.</field>
+     <field name="ref_ssi">aspace_ref64_0h3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Hedges, Job ElmerHedley, FrankHegeman, John RogersHempel, FriedaHenderson, LeonHenri, RobertHenschel, Charles R.Hepburn, Alonzo BartonHerbert, H. H.Herbert, VictorHiggins, Frank WaylandHill, James JeromeHilles, Charles DeweyHilles, Newell DwightHilton, Conrad N.</field>
+-    <field name="heading_ssm">Hedges, Job ElmerHedley, FrankHegeman, John RogersHempel, FriedaHenderson, LeonHenri, RobertHenschel, Charles R.Hepburn, Alonzo BartonHerbert, H. H.Herbert, VictorHiggins, Frank WaylandHill, James JeromeHilles, Charles DeweyHilles, Newell DwightHilton, Conrad N.</field>
++    <field name="heading_ssm">Hedges, Job Elmer Hedley, Frank Hegeman, John Rogers Hempel, Frieda Henderson, Leon Henri, Robert Henschel, Charles R. Hepburn, Alonzo Barton Herbert, H. H. Herbert, Victor Higgins, Frank Wayland Hill, James Jerome Hilles, Charles Dewey Hilles, Newell Dwight Hilton, Conrad N.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">39</field>
+   </doc>

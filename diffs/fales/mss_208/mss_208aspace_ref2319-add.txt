@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Series A: Eben Norton Horsford</field>
      <field name="series_sim">Subseries 1: Correspondence</field>
 -    <field name="series_sim">Subsubseries a: Academic and Family</field>
--    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family &gt;&gt; Horsford, Phoebe Dayton Gardiner: Cambridge &amp;amp; Lenox, MA; Shelter Island, NY</field>
+-    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family &gt;&gt; Horsford, Phoebe Dayton Gardiner: Cambridge &amp; Lenox, MA; Shelter Island, NY</field>
 +    <field name="series_sim">Subsubseries d: American Civil War Army Rations</field>
-+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Horsford, Phoebe Dayton Gardiner: Cambridge &amp;amp; Lenox, MA; Shelter Island, NY</field>
++    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries d: American Civil War Army Rations &gt;&gt; Horsford, Phoebe Dayton Gardiner: Cambridge &amp; Lenox, MA; Shelter Island, NY</field>
      <field name="heading_ssm">Horsford, Phoebe Dayton Gardiner: Cambridge &amp; Lenox, MA; Shelter Island, NY</field>
      <field name="unitdate_start_sim">1842</field>
      <field name="unitdate_start_ssm">1842</field>

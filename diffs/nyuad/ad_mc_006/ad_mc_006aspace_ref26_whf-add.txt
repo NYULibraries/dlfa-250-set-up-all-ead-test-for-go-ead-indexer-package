@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2010/2010</field>
+     <field name="unitdate_normal_sim">2010/2010</field>
+     <field name="unitdate_inclusive_teim">2010</field>
+-    <field name="scopecontent_teim">Director: Faisal Al-Harbi (Saudi Arabia)Original Title: AseelCatalog Record: Get It | AseelMore Information</field>
+-    <field name="phystech_teim">Original Format: MiniDVColorTotal Running Time: 00:15:00</field>
++    <field name="scopecontent_teim">Director: Faisal Al-Harbi (Saudi Arabia) Original Title: Aseel Catalog Record: Get It | Aseel More Information</field>
++    <field name="phystech_teim">Original Format: MiniDV Color Total Running Time: 00:15:00</field>
+     <field name="ref_ssi">aspace_ref26_whf</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

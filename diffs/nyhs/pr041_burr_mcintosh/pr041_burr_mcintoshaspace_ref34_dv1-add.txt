@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 41</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Parker, Olive Parr family (3) Passow, Capt. Peats, Alfred and family (7) Peck Pennowyer, Miss (2) Peplow's studio Petit, Mme. E. (12)Phillips, Phylis Pogue, Mrs. Saul F. Potter Jr., Mrs. E. M. (2) Power, Tyrone (2) Presley Proctor, Katherine</field>
+-    <field name="unittitle_teim">Parker, Olive Parr family (3) Passow, Capt. Peats, Alfred and family (7) Peck Pennowyer, Miss (2) Peplow's studio Petit, Mme. E. (12)Phillips, Phylis Pogue, Mrs. Saul F. Potter Jr., Mrs. E. M. (2) Power, Tyrone (2) Presley Proctor, Katherine</field>
++    <field name="unittitle_teim">Parker, Olive Parr family (3) Passow, Capt. Peats, Alfred and family (7) Peck Pennowyer, Miss (2) Peplow's studio Petit, Mme. E. (12) Phillips, Phylis Pogue, Mrs. Saul F. Potter Jr., Mrs. E. M. (2) Power, Tyrone (2) Presley Proctor, Katherine</field>
+     <field name="ref_ssi">aspace_ref34_dv1</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series I. 8 x 10 inch prints</field>
+     <field name="series_sim">PORTRAITS</field>
+     <field name="series_si">Series I. 8 x 10 inch prints &gt;&gt; PORTRAITS &gt;&gt; Parker, Olive Parr family (3) Passow, Capt. Peats, Alfred and family (7) Peck Pennowyer, Miss (2) Peplow's studio Petit, Mme. E. (12)Phillips, Phylis Pogue, Mrs. Saul F. Potter Jr., Mrs. E. M. (2) Power, Tyrone (2) Presley Proctor, Katherine</field>
+-    <field name="heading_ssm">Parker, Olive Parr family (3) Passow, Capt. Peats, Alfred and family (7) Peck Pennowyer, Miss (2) Peplow's studio Petit, Mme. E. (12)Phillips, Phylis Pogue, Mrs. Saul F. Potter Jr., Mrs. E. M. (2) Power, Tyrone (2) Presley Proctor, Katherine</field>
++    <field name="heading_ssm">Parker, Olive Parr family (3) Passow, Capt. Peats, Alfred and family (7) Peck Pennowyer, Miss (2) Peplow's studio Petit, Mme. E. (12) Phillips, Phylis Pogue, Mrs. Saul F. Potter Jr., Mrs. E. M. (2) Power, Tyrone (2) Presley Proctor, Katherine</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">21</field>
+   </doc>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Hall, Ellen Pickford&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Faith Harding's folly the story of a lost honeymoon&lt;/em&gt;&lt;strong&gt;Series Number&lt;/strong&gt;: 2&lt;strong&gt;City&lt;/strong&gt;: Cincinnati, Ohio&lt;strong&gt;Publisher&lt;/strong&gt;: The Nielen Publishing Co.&lt;strong&gt;Date&lt;/strong&gt;: 1936</field>
+-    <field name="unittitle_teim">Author: Hall, Ellen PickfordTitle: Faith Harding's folly the story of a lost honeymoonSeries Number: 2City: Cincinnati, OhioPublisher: The Nielen Publishing Co.Date: 1936</field>
++    <field name="unittitle_teim">Author: Hall, Ellen Pickford Title: Faith Harding's folly the story of a lost honeymoon Series Number: 2 City: Cincinnati, Ohio Publisher: The Nielen Publishing Co. Date: 1936</field>
+     <field name="unitdate_normal_ssm">1936/1936</field>
+     <field name="unitdate_normal_teim">1936/1936</field>
+     <field name="unitdate_normal_sim">1936/1936</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series II: Monographic Series (Box 85-91)</field>
+     <field name="series_si">Series II: Monographic Series (Box 85-91) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Hall, Ellen Pickford&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Faith Harding's folly the story of a lost honeymoon&lt;/em&gt;&lt;strong&gt;Series Number&lt;/strong&gt;: 2&lt;strong&gt;City&lt;/strong&gt;: Cincinnati, Ohio&lt;strong&gt;Publisher&lt;/strong&gt;: The Nielen Publishing Co.&lt;strong&gt;Date&lt;/strong&gt;: 1936</field>
+-    <field name="heading_ssm">Author: Hall, Ellen PickfordTitle: Faith Harding's folly the story of a lost honeymoonSeries Number: 2City: Cincinnati, OhioPublisher: The Nielen Publishing Co.Date: 1936</field>
++    <field name="heading_ssm">Author: Hall, Ellen Pickford Title: Faith Harding's folly the story of a lost honeymoon Series Number: 2 City: Cincinnati, Ohio Publisher: The Nielen Publishing Co. Date: 1936</field>
+     <field name="unitdate_start_sim">1936</field>
+     <field name="unitdate_start_ssm">1936</field>
+     <field name="unitdate_start_si">1936</field>

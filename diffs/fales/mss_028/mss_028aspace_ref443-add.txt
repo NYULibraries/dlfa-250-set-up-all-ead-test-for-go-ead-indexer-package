@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Cooke, John Esten&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Mohun&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Globe Library&lt;strong&gt;Series Number&lt;/strong&gt;: 5&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: G. W. Dillingham&lt;strong&gt;Date&lt;/strong&gt;: 1895</field>
+-    <field name="unittitle_teim">Author: Cooke, John EstenTitle: MohunSeries Title: Globe LibrarySeries Number: 5City: New YorkPublisher: G. W. DillinghamDate: 1895</field>
++    <field name="unittitle_teim">Author: Cooke, John Esten Title: Mohun Series Title: Globe Library Series Number: 5 City: New York Publisher: G. W. Dillingham Date: 1895</field>
+     <field name="unitdate_normal_ssm">1895/1895</field>
+     <field name="unitdate_normal_teim">1895/1895</field>
+     <field name="unitdate_normal_sim">1895/1895</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Cooke, John Esten&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Mohun&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Globe Library&lt;strong&gt;Series Number&lt;/strong&gt;: 5&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: G. W. Dillingham&lt;strong&gt;Date&lt;/strong&gt;: 1895</field>
+-    <field name="heading_ssm">Author: Cooke, John EstenTitle: MohunSeries Title: Globe LibrarySeries Number: 5City: New YorkPublisher: G. W. DillinghamDate: 1895</field>
++    <field name="heading_ssm">Author: Cooke, John Esten Title: Mohun Series Title: Globe Library Series Number: 5 City: New York Publisher: G. W. Dillingham Date: 1895</field>
+     <field name="unitdate_start_sim">1895</field>
+     <field name="unitdate_start_ssm">1895</field>
+     <field name="unitdate_start_si">1895</field>

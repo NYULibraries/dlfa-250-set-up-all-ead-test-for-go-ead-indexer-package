@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+     <field name="unitdate_inclusive_teim">2013</field>
+-    <field name="scopecontent_teim">Director: Abdulrahman Al Madani (United Arabi Emirates)(None)Original Title: DhanbCatalog Record: GetIt | GuiltMore Info</field>
+-    <field name="phystech_teim">Original Format: DCPColorTotal Running Time: 00:05:00</field>
++    <field name="scopecontent_teim">Director: Abdulrahman Al Madani (United Arabi Emirates) (None) Original Title: Dhanb Catalog Record: GetIt | Guilt More Info</field>
++    <field name="phystech_teim">Original Format: DCP Color Total Running Time: 00:05:00</field>
+     <field name="ref_ssi">aspace_ref300_ny7</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Cable, George WashingtonCallaway, Samuel RodgerCalvert, CatherineCampbell, Oliver A.Cannon, Joseph G.Carl, William CraneCarnegie, AndrewCarnegie, DaleCarpenter, J. HenryCarstairs, C. S.Carty, John J.Casey, J. Schuyler (3)Cashin, William E.Cassini, Igor (Cholly Knickerbocker)Cerf, Bennett A.</field>
+-    <field name="unittitle_teim">Cable, George WashingtonCallaway, Samuel RodgerCalvert, CatherineCampbell, Oliver A.Cannon, Joseph G.Carl, William CraneCarnegie, AndrewCarnegie, DaleCarpenter, J. HenryCarstairs, C. S.Carty, John J.Casey, J. Schuyler (3)Cashin, William E.Cassini, Igor (Cholly Knickerbocker)Cerf, Bennett A.</field>
++    <field name="unittitle_teim">Cable, George Washington Callaway, Samuel Rodger Calvert, Catherine Campbell, Oliver A. Cannon, Joseph G. Carl, William Crane Carnegie, Andrew Carnegie, Dale Carpenter, J. Henry Carstairs, C. S. Carty, John J. Casey, J. Schuyler (3) Cashin, William E. Cassini, Igor (Cholly Knickerbocker) Cerf, Bennett A.</field>
+     <field name="ref_ssi">aspace_ref27_cbo</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Cable, George WashingtonCallaway, Samuel RodgerCalvert, CatherineCampbell, Oliver A.Cannon, Joseph G.Carl, William CraneCarnegie, AndrewCarnegie, DaleCarpenter, J. HenryCarstairs, C. S.Carty, John J.Casey, J. Schuyler (3)Cashin, William E.Cassini, Igor (Cholly Knickerbocker)Cerf, Bennett A.</field>
+-    <field name="heading_ssm">Cable, George WashingtonCallaway, Samuel RodgerCalvert, CatherineCampbell, Oliver A.Cannon, Joseph G.Carl, William CraneCarnegie, AndrewCarnegie, DaleCarpenter, J. HenryCarstairs, C. S.Carty, John J.Casey, J. Schuyler (3)Cashin, William E.Cassini, Igor (Cholly Knickerbocker)Cerf, Bennett A.</field>
++    <field name="heading_ssm">Cable, George Washington Callaway, Samuel Rodger Calvert, Catherine Campbell, Oliver A. Cannon, Joseph G. Carl, William Crane Carnegie, Andrew Carnegie, Dale Carpenter, J. Henry Carstairs, C. S. Carty, John J. Casey, J. Schuyler (3) Cashin, William E. Cassini, Igor (Cholly Knickerbocker) Cerf, Bennett A.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">12</field>
+   </doc>

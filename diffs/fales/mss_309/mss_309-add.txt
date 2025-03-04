@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="unitdate_normal_teim">2009/2011</field>
+     <field name="unitdate_normal_sim">2009/2011</field>
+     <field name="unitdate_inclusive_teim">2009-2011</field>
+-    <field name="bioghist_teim">Voices from the Food Revolution: People Who Changed The Way Americans EatAn oral history project conducted by Judith Weinraub</field>
++    <field name="bioghist_teim">Voices from the Food Revolution: People Who Changed The Way Americans Eat An oral history project conducted by Judith Weinraub</field>
+     <field name="bioghist_teim">Ten years into the 21st century, food is a hot topic. Americans have learned that there are consequences to what we cook, eat, and feed our families. We acknowledge the relationship between our agricultural policy and the country's food system. We recognize cooking as a legitimate and increasingly popular career option and field of study. We lionize successful chefs.</field>
+     <field name="bioghist_teim">Visitors from fifty years ago wouldn't recognize today's preoccupation with food. They lived in a world where cherished new 'convenience' foods de-emphasized actual cooking, and the shelves at neighborhood grocery stores and supermarkets were lined with increasingly industrialized products. Fine restaurants of the time were mostly French. And nobody thought of taking on the American food system as a legitimate and desirable way to change the world.</field>
+     <field name="bioghist_teim">But over time, post-WW II attitudes and buying habits as well as the arrival of new immigrant groups, the re-emergence of farmers markets, and a growing awareness of the consequences of eating poorly have slowly redefined our relationships with food.</field>

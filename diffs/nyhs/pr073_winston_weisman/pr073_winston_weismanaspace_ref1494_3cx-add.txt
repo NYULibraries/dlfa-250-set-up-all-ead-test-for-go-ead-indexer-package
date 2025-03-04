@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">roll AA: plans of 91 Grand Street9 -- 13 Mercer Street425 Broadway444 Broadway (10 -- 12 Crosby Street)478 -- 482 Broadway (Roosevelt Building)483 -- 485 Broadway (56 -- 58 Mercer Street)96 -- 102 Grand Street461 Broome Street457 -- 459 Broome Street453 -- 455 Broome Street (57 -- 59 Mercer Street)351 -- 357 Canal Street (2 -- 4 Wooster Street)18 -- 20 Wooster Street27 Greene Street23 -- 25 Greene Street27 Howard Street269 Canal Street365 -- 367 Canal Street28 -- 30 Greene Street34 Greene Street</field>
+-    <field name="unittitle_teim">roll AA: plans of 91 Grand Street9 -- 13 Mercer Street425 Broadway444 Broadway (10 -- 12 Crosby Street)478 -- 482 Broadway (Roosevelt Building)483 -- 485 Broadway (56 -- 58 Mercer Street)96 -- 102 Grand Street461 Broome Street457 -- 459 Broome Street453 -- 455 Broome Street (57 -- 59 Mercer Street)351 -- 357 Canal Street (2 -- 4 Wooster Street)18 -- 20 Wooster Street27 Greene Street23 -- 25 Greene Street27 Howard Street269 Canal Street365 -- 367 Canal Street28 -- 30 Greene Street34 Greene Street</field>
++    <field name="unittitle_teim">roll AA: plans of 91 Grand Street 9 -- 13 Mercer Street 425 Broadway 444 Broadway (10 -- 12 Crosby Street) 478 -- 482 Broadway (Roosevelt Building) 483 -- 485 Broadway (56 -- 58 Mercer Street) 96 -- 102 Grand Street 461 Broome Street 457 -- 459 Broome Street 453 -- 455 Broome Street (57 -- 59 Mercer Street) 351 -- 357 Canal Street (2 -- 4 Wooster Street) 18 -- 20 Wooster Street 27 Greene Street 23 -- 25 Greene Street 27 Howard Street 269 Canal Street 365 -- 367 Canal Street 28 -- 30 Greene Street 34 Greene Street</field>
+     <field name="ref_ssi">aspace_ref1494_3cx</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">35 mm film prints of original architect's drawings</field>
+     <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35 mm film prints of original architect's drawings &gt;&gt; roll AA: plans of 91 Grand Street9 -- 13 Mercer Street425 Broadway444 Broadway (10 -- 12 Crosby Street)478 -- 482 Broadway (Roosevelt Building)483 -- 485 Broadway (56 -- 58 Mercer Street)96 -- 102 Grand Street461 Broome Street457 -- 459 Broome Street453 -- 455 Broome Street (57 -- 59 Mercer Street)351 -- 357 Canal Street (2 -- 4 Wooster Street)18 -- 20 Wooster Street27 Greene Street23 -- 25 Greene Street27 Howard Street269 Canal Street365 -- 367 Canal Street28 -- 30 Greene Street34 Greene Street</field>
+-    <field name="heading_ssm">roll AA: plans of 91 Grand Street9 -- 13 Mercer Street425 Broadway444 Broadway (10 -- 12 Crosby Street)478 -- 482 Broadway (Roosevelt Building)483 -- 485 Broadway (56 -- 58 Mercer Street)96 -- 102 Grand Street461 Broome Street457 -- 459 Broome Street453 -- 455 Broome Street (57 -- 59 Mercer Street)351 -- 357 Canal Street (2 -- 4 Wooster Street)18 -- 20 Wooster Street27 Greene Street23 -- 25 Greene Street27 Howard Street269 Canal Street365 -- 367 Canal Street28 -- 30 Greene Street34 Greene Street</field>
++    <field name="heading_ssm">roll AA: plans of 91 Grand Street 9 -- 13 Mercer Street 425 Broadway 444 Broadway (10 -- 12 Crosby Street) 478 -- 482 Broadway (Roosevelt Building) 483 -- 485 Broadway (56 -- 58 Mercer Street) 96 -- 102 Grand Street 461 Broome Street 457 -- 459 Broome Street 453 -- 455 Broome Street (57 -- 59 Mercer Street) 351 -- 357 Canal Street (2 -- 4 Wooster Street) 18 -- 20 Wooster Street 27 Greene Street 23 -- 25 Greene Street 27 Howard Street 269 Canal Street 365 -- 367 Canal Street 28 -- 30 Greene Street 34 Greene Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">929</field>
+   </doc>

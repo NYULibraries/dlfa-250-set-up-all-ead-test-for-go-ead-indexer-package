@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 51 Projects: folder of sketchbook pages from "Till Us Do Part"</field>
+     <field name="unitid_teim">cuid22060</field>
+     <field name="unitid_ssm">cuid22060</field>
+-    <field name="scopecontent_teim">Box 52 Projects: Folder of sketchbook pages and legal pad, "Treasure Island".Box 53 Projects: Legal pads, "Treasure Island"Box 54 Projects: legal pads and sketchpad, "Treasure Island"Box 55 Projects: sketch page, maps from "Treasure Island"Box 59 Projects: Galley proofs, manuscript fragments and notes from "Wings".</field>
++    <field name="scopecontent_teim">Box 52 Projects: Folder of sketchbook pages and legal pad, "Treasure Island". Box 53 Projects: Legal pads, "Treasure Island" Box 54 Projects: legal pads and sketchpad, "Treasure Island" Box 55 Projects: sketch page, maps from "Treasure Island" Box 59 Projects: Galley proofs, manuscript fragments and notes from "Wings".</field>
+     <field name="ref_ssi">aspace_ref377</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

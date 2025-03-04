@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">The Packer Collegiate Institute records</field>
+     <field name="collection_unitid_ssm">2014.019</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">"Property of Cliff Ross. PE -&amp;gt; Sookey".</field>
++    <field name="unittitle_ssm">"Property of Cliff Ross. PE -&gt; Sookey".</field>
+     <field name="unittitle_teim">"Property of Cliff Ross. PE -&gt; Sookey".</field>
+     <field name="unitdate_normal_ssm">1987/1997</field>
+     <field name="unitdate_normal_teim">1987/1997</field>
+@@ -37,7 +37,7 @@
+     <field name="collection_unitid_teim">2014.019</field>
+     <field name="series_sim">Series 18: Audio, film, and video recordings</field>
+     <field name="series_sim">Sub-series 18.4: Video recordings</field>
+-    <field name="series_si">Series 18: Audio, film, and video recordings &gt;&gt; Sub-series 18.4: Video recordings &gt;&gt; "Property of Cliff Ross. PE -&amp;gt; Sookey".</field>
++    <field name="series_si">Series 18: Audio, film, and video recordings &gt;&gt; Sub-series 18.4: Video recordings &gt;&gt; "Property of Cliff Ross. PE -&gt; Sookey".</field>
+     <field name="heading_ssm">"Property of Cliff Ross. PE -&gt; Sookey".</field>
+     <field name="unitdate_start_sim">1987</field>
+     <field name="unitdate_start_ssm">1987</field>

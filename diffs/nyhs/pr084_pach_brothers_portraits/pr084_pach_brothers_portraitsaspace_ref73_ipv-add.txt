@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">La Farge, Francis W.La Gatta, JohnLambert, EleanorLamont, Daniel ScottLamont, Thomas WilliamLangdon, WoodburyLanghorne, ColonelLanier, CharlesLaurel, KayLauterbach, EdwardLavelle, Michael J.Law, Walter WilliamLawes, Lewis E.</field>
+-    <field name="unittitle_teim">La Farge, Francis W.La Gatta, JohnLambert, EleanorLamont, Daniel ScottLamont, Thomas WilliamLangdon, WoodburyLanghorne, ColonelLanier, CharlesLaurel, KayLauterbach, EdwardLavelle, Michael J.Law, Walter WilliamLawes, Lewis E.</field>
++    <field name="unittitle_teim">La Farge, Francis W. La Gatta, John Lambert, Eleanor Lamont, Daniel Scott Lamont, Thomas William Langdon, Woodbury Langhorne, Colonel Lanier, Charles Laurel, Kay Lauterbach, Edward Lavelle, Michael J. Law, Walter William Lawes, Lewis E.</field>
+     <field name="ref_ssi">aspace_ref73_ipv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; La Farge, Francis W.La Gatta, JohnLambert, EleanorLamont, Daniel ScottLamont, Thomas WilliamLangdon, WoodburyLanghorne, ColonelLanier, CharlesLaurel, KayLauterbach, EdwardLavelle, Michael J.Law, Walter WilliamLawes, Lewis E.</field>
+-    <field name="heading_ssm">La Farge, Francis W.La Gatta, JohnLambert, EleanorLamont, Daniel ScottLamont, Thomas WilliamLangdon, WoodburyLanghorne, ColonelLanier, CharlesLaurel, KayLauterbach, EdwardLavelle, Michael J.Law, Walter WilliamLawes, Lewis E.</field>
++    <field name="heading_ssm">La Farge, Francis W. La Gatta, John Lambert, Eleanor Lamont, Daniel Scott Lamont, Thomas William Langdon, Woodbury Langhorne, Colonel Lanier, Charles Laurel, Kay Lauterbach, Edward Lavelle, Michael J. Law, Walter William Lawes, Lewis E.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">47</field>
+   </doc>

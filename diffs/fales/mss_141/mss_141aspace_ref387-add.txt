@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 97 Business: heavily annotated wall calendar from 1997, plaques.</field>
+     <field name="unitid_teim">cuid22065</field>
+     <field name="unitid_ssm">cuid22065</field>
+-    <field name="scopecontent_teim">Box 98 Business: folder of "Phantom" contractsBox 99 Business: folder of material on home appraisal and mortgage, one folder of trust agreements, two award plaques.Box 106 Business: legal folder of material, all royalty statements.</field>
++    <field name="scopecontent_teim">Box 98 Business: folder of "Phantom" contracts Box 99 Business: folder of material on home appraisal and mortgage, one folder of trust agreements, two award plaques. Box 106 Business: legal folder of material, all royalty statements.</field>
+     <field name="ref_ssi">aspace_ref387</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

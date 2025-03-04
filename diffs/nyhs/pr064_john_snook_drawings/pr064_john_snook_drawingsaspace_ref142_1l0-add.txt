@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Patrick Skelly, Tenement, 305 Spring Street, New York, NYProject #120</field>
+-    <field name="unittitle_teim">Patrick Skelly, Tenement, 305 Spring Street, New York, NYProject #120</field>
++    <field name="unittitle_teim">Patrick Skelly, Tenement, 305 Spring Street, New York, NY Project #120</field>
+     <field name="unitdate_teim">1873</field>
+     <field name="ref_ssi">aspace_ref142_1l0</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">PR 64</field>
+     <field name="series_sim">Series I: Architectural Drawings</field>
+     <field name="series_si">Series I: Architectural Drawings &gt;&gt; Patrick Skelly, Tenement, 305 Spring Street, New York, NYProject #120</field>
+-    <field name="heading_ssm">Patrick Skelly, Tenement, 305 Spring Street, New York, NYProject #120</field>
++    <field name="heading_ssm">Patrick Skelly, Tenement, 305 Spring Street, New York, NY Project #120</field>
+     <field name="unitdate_ssm">1873</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">121</field>

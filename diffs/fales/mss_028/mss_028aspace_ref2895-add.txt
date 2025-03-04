@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Clinch, Police Capt.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The safe breakers gang&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Log Cabin Library&lt;strong&gt;Series Number&lt;/strong&gt;: 194&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Street &amp; Smith&lt;strong&gt;Date&lt;/strong&gt;: December 3, 1892</field>
+-    <field name="unittitle_teim">Author: Clinch, Police Capt.Title: The safe breakers gangSeries Title: Log Cabin LibrarySeries Number: 194City: New YorkPublisher: Street &amp; SmithDate: December 3, 1892</field>
++    <field name="unittitle_teim">Author: Clinch, Police Capt. Title: The safe breakers gang Series Title: Log Cabin Library Series Number: 194 City: New York Publisher: Street &amp; Smith Date: December 3, 1892</field>
+     <field name="unitdate_normal_ssm">1892/1892</field>
+     <field name="unitdate_normal_teim">1892/1892</field>
+     <field name="unitdate_normal_sim">1892/1892</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series V: Misc. Addenda</field>
+     <field name="series_si">Series V: Misc. Addenda &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Clinch, Police Capt.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The safe breakers gang&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Log Cabin Library&lt;strong&gt;Series Number&lt;/strong&gt;: 194&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Street &amp; Smith&lt;strong&gt;Date&lt;/strong&gt;: December 3, 1892</field>
+-    <field name="heading_ssm">Author: Clinch, Police Capt.Title: The safe breakers gangSeries Title: Log Cabin LibrarySeries Number: 194City: New YorkPublisher: Street &amp; SmithDate: December 3, 1892</field>
++    <field name="heading_ssm">Author: Clinch, Police Capt. Title: The safe breakers gang Series Title: Log Cabin Library Series Number: 194 City: New York Publisher: Street &amp; Smith Date: December 3, 1892</field>
+     <field name="unitdate_start_sim">1892</field>
+     <field name="unitdate_start_ssm">1892</field>
+     <field name="unitdate_start_si">1892</field>

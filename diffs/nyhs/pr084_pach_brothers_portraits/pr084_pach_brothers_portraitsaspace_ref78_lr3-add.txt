@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">McAdoo, WilliamMcAdoo, William GibbsMcAuliffe, G.W.McBride, Thomas J.McCain, Arthur W.McCall, John A.McCann, Alfred WattersonMcCann, HarryMcCarroll, WilliamMcCardell, Roy L.McCarter, Thomas NesbittMcCarthy, James A.McClellan, George BrintonMcCooey, John H. (2)McCormick, Robert R.McCoy, PaulMcDermott, Terrence S.MacDowell, Noah</field>
+-    <field name="unittitle_teim">McAdoo, WilliamMcAdoo, William GibbsMcAuliffe, G.W.McBride, Thomas J.McCain, Arthur W.McCall, John A.McCann, Alfred WattersonMcCann, HarryMcCarroll, WilliamMcCardell, Roy L.McCarter, Thomas NesbittMcCarthy, James A.McClellan, George BrintonMcCooey, John H. (2)McCormick, Robert R.McCoy, PaulMcDermott, Terrence S.MacDowell, Noah</field>
++    <field name="unittitle_teim">McAdoo, William McAdoo, William Gibbs McAuliffe, G.W. McBride, Thomas J. McCain, Arthur W. McCall, John A. McCann, Alfred Watterson McCann, Harry McCarroll, William McCardell, Roy L. McCarter, Thomas Nesbitt McCarthy, James A. McClellan, George Brinton McCooey, John H. (2) McCormick, Robert R. McCoy, Paul McDermott, Terrence S. MacDowell, Noah</field>
+     <field name="ref_ssi">aspace_ref78_lr3</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; McAdoo, WilliamMcAdoo, William GibbsMcAuliffe, G.W.McBride, Thomas J.McCain, Arthur W.McCall, John A.McCann, Alfred WattersonMcCann, HarryMcCarroll, WilliamMcCardell, Roy L.McCarter, Thomas NesbittMcCarthy, James A.McClellan, George BrintonMcCooey, John H. (2)McCormick, Robert R.McCoy, PaulMcDermott, Terrence S.MacDowell, Noah</field>
+-    <field name="heading_ssm">McAdoo, WilliamMcAdoo, William GibbsMcAuliffe, G.W.McBride, Thomas J.McCain, Arthur W.McCall, John A.McCann, Alfred WattersonMcCann, HarryMcCarroll, WilliamMcCardell, Roy L.McCarter, Thomas NesbittMcCarthy, James A.McClellan, George BrintonMcCooey, John H. (2)McCormick, Robert R.McCoy, PaulMcDermott, Terrence S.MacDowell, Noah</field>
++    <field name="heading_ssm">McAdoo, William McAdoo, William Gibbs McAuliffe, G.W. McBride, Thomas J. McCain, Arthur W. McCall, John A. McCann, Alfred Watterson McCann, Harry McCarroll, William McCardell, Roy L. McCarter, Thomas Nesbitt McCarthy, James A. McClellan, George Brinton McCooey, John H. (2) McCormick, Robert R. McCoy, Paul McDermott, Terrence S. MacDowell, Noah</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">51</field>
+   </doc>

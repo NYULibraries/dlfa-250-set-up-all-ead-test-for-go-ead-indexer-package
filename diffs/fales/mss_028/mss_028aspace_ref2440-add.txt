@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Murray, Lieutenant&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Roderick the rover: the spirit of the wave. A story of the old and new world&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Ballou's Weekly Novelette -- Extra&lt;strong&gt;Series Number&lt;/strong&gt;: 26&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: The Flag of Our Union&lt;strong&gt;Date&lt;/strong&gt;: October 1826</field>
+-    <field name="unittitle_teim">Author: Murray, LieutenantTitle: Roderick the rover: the spirit of the wave. A story of the old and new worldSeries Title: Ballou's Weekly Novelette -- ExtraSeries Number: 26City: BostonPublisher: The Flag of Our UnionDate: October 1826</field>
++    <field name="unittitle_teim">Author: Murray, Lieutenant Title: Roderick the rover: the spirit of the wave. A story of the old and new world Series Title: Ballou's Weekly Novelette -- Extra Series Number: 26 City: Boston Publisher: The Flag of Our Union Date: October 1826</field>
+     <field name="unitdate_normal_ssm">1826/1826</field>
+     <field name="unitdate_normal_teim">1826/1826</field>
+     <field name="unitdate_normal_sim">1826/1826</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Murray, Lieutenant&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Roderick the rover: the spirit of the wave. A story of the old and new world&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Ballou's Weekly Novelette -- Extra&lt;strong&gt;Series Number&lt;/strong&gt;: 26&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: The Flag of Our Union&lt;strong&gt;Date&lt;/strong&gt;: October 1826</field>
+-    <field name="heading_ssm">Author: Murray, LieutenantTitle: Roderick the rover: the spirit of the wave. A story of the old and new worldSeries Title: Ballou's Weekly Novelette -- ExtraSeries Number: 26City: BostonPublisher: The Flag of Our UnionDate: October 1826</field>
++    <field name="heading_ssm">Author: Murray, Lieutenant Title: Roderick the rover: the spirit of the wave. A story of the old and new world Series Title: Ballou's Weekly Novelette -- Extra Series Number: 26 City: Boston Publisher: The Flag of Our Union Date: October 1826</field>
+     <field name="unitdate_start_sim">1826</field>
+     <field name="unitdate_start_ssm">1826</field>
+     <field name="unitdate_start_si">1826</field>

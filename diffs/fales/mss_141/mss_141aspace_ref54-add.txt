@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142040619366</field>
+     <field name="unitid_ssm">31142040619366</field>
+     <field name="unitdate_teim">1984</field>
+-    <field name="scopecontent_teim">Research, correspondence, notes, drafts, extensive series of notes on small slips of paper and clippings inside labeled Manila envelopes, very early preparations for play.PublicationsGround Zero, Nuclear War: What's in it For You? (Pocket Books: New York, 1982)Two folders of sketch pages and notes moved to Flat Box 3.Offsite Barcode: 31142040619366</field>
++    <field name="scopecontent_teim">Research, correspondence, notes, drafts, extensive series of notes on small slips of paper and clippings inside labeled Manila envelopes, very early preparations for play. Publications Ground Zero, Nuclear War: What's in it For You? (Pocket Books: New York, 1982) Two folders of sketch pages and notes moved to Flat Box 3. Offsite Barcode: 31142040619366</field>
+     <field name="ref_ssi">aspace_ref54</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

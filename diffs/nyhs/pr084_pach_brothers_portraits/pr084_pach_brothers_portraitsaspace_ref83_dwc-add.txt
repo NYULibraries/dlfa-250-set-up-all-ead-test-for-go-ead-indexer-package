@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Martin, BradleyMathews, A. E.Matthews, Frank A., Jr.Matthews, James BranderMaxim, HudsonMaxwell, ElsaMay, EdnaMay, George O.Mayo, Henry ThomasMartin, BradleyMeighan, ThomasMellon, AndrewMerrill, W. P.Merry, Glenn N.Metcalfe, James StetsonMilburn, John GeorgeMilford-Haven, Marquess of (Prince Louis of Battenburg)Miller, Charles AddisonMiller, Kenneth D.Miller, Roswell</field>
+-    <field name="unittitle_teim">Martin, BradleyMathews, A. E.Matthews, Frank A., Jr.Matthews, James BranderMaxim, HudsonMaxwell, ElsaMay, EdnaMay, George O.Mayo, Henry ThomasMartin, BradleyMeighan, ThomasMellon, AndrewMerrill, W. P.Merry, Glenn N.Metcalfe, James StetsonMilburn, John GeorgeMilford-Haven, Marquess of (Prince Louis of Battenburg)Miller, Charles AddisonMiller, Kenneth D.Miller, Roswell</field>
++    <field name="unittitle_teim">Martin, Bradley Mathews, A. E. Matthews, Frank A., Jr. Matthews, James Brander Maxim, Hudson Maxwell, Elsa May, Edna May, George O. Mayo, Henry Thomas Martin, Bradley Meighan, Thomas Mellon, Andrew Merrill, W. P. Merry, Glenn N. Metcalfe, James Stetson Milburn, John George Milford-Haven, Marquess of (Prince Louis of Battenburg) Miller, Charles Addison Miller, Kenneth D. Miller, Roswell</field>
+     <field name="ref_ssi">aspace_ref83_dwc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Martin, BradleyMathews, A. E.Matthews, Frank A., Jr.Matthews, James BranderMaxim, HudsonMaxwell, ElsaMay, EdnaMay, George O.Mayo, Henry ThomasMartin, BradleyMeighan, ThomasMellon, AndrewMerrill, W. P.Merry, Glenn N.Metcalfe, James StetsonMilburn, John GeorgeMilford-Haven, Marquess of (Prince Louis of Battenburg)Miller, Charles AddisonMiller, Kenneth D.Miller, Roswell</field>
+-    <field name="heading_ssm">Martin, BradleyMathews, A. E.Matthews, Frank A., Jr.Matthews, James BranderMaxim, HudsonMaxwell, ElsaMay, EdnaMay, George O.Mayo, Henry ThomasMartin, BradleyMeighan, ThomasMellon, AndrewMerrill, W. P.Merry, Glenn N.Metcalfe, James StetsonMilburn, John GeorgeMilford-Haven, Marquess of (Prince Louis of Battenburg)Miller, Charles AddisonMiller, Kenneth D.Miller, Roswell</field>
++    <field name="heading_ssm">Martin, Bradley Mathews, A. E. Matthews, Frank A., Jr. Matthews, James Brander Maxim, Hudson Maxwell, Elsa May, Edna May, George O. Mayo, Henry Thomas Martin, Bradley Meighan, Thomas Mellon, Andrew Merrill, W. P. Merry, Glenn N. Metcalfe, James Stetson Milburn, John George Milford-Haven, Marquess of (Prince Louis of Battenburg) Miller, Charles Addison Miller, Kenneth D. Miller, Roswell</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">55</field>
+   </doc>

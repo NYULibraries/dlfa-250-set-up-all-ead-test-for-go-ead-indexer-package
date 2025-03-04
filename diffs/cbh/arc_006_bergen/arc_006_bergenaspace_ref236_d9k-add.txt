@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Series 7: Surveying records</field>
      <field name="series_sim">Subseries 4: Maps and surveys</field>
 -    <field name="series_sim">Brooklyn and Bushwick</field>
--    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Brooklyn and Bushwick &gt;&gt; Crooke, Margaret &amp;amp; P.S.</field>
+-    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Brooklyn and Bushwick &gt;&gt; Crooke, Margaret &amp; P.S.</field>
 +    <field name="series_sim">Index to Maps and Surveys (Bound Volume)</field>
-+    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Index to Maps and Surveys (Bound Volume) &gt;&gt; Crooke, Margaret &amp;amp; P.S.</field>
++    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Index to Maps and Surveys (Bound Volume) &gt;&gt; Crooke, Margaret &amp; P.S.</field>
      <field name="heading_ssm">Crooke, Margaret &amp; P.S.</field>
      <field name="unitdate_ssm">circa 1830-1881</field>
      <field name="date_range_sim">undated &amp; other</field>

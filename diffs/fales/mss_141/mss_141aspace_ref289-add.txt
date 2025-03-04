@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718843</field>
+     <field name="unitid_ssm">31142050718843</field>
+     <field name="unitdate_teim">1995-1997</field>
+-    <field name="scopecontent_teim">Continues ledger and checking records from previous box.The ledgers begin in January of 1997 in the last box and continue until August or September here. A group of files are labeled as "Income 1997" and contain royalty receipts from miscellaneous plays, and from specific plays including "Wings", "Nirvana", "Phantom" and others. This box also contains a gigantic mass of unsorted receipts, statements, invoices and other documents; they have been foldered in the order found.Note: Box includes heavily annotated wall calendar from 1997 moved to Flat Box 14.</field>
++    <field name="scopecontent_teim">Continues ledger and checking records from previous box.The ledgers begin in January of 1997 in the last box and continue until August or September here. A group of files are labeled as "Income 1997" and contain royalty receipts from miscellaneous plays, and from specific plays including "Wings", "Nirvana", "Phantom" and others. This box also contains a gigantic mass of unsorted receipts, statements, invoices and other documents; they have been foldered in the order found. Note: Box includes heavily annotated wall calendar from 1997 moved to Flat Box 14.</field>
+     <field name="ref_ssi">aspace_ref289</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

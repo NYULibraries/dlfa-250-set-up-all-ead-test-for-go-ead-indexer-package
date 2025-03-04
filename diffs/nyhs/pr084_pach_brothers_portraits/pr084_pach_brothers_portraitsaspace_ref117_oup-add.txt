@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Wickersham, George WoodwardWilcox, Ella Wheeler (2)Wilcox, William WalterWiles, Irving RamseyWiley, LouisWilkie, WendellWilliams, John SharpWilliamson, Frederick ElyWilson, James GrantWilson, John MoulderWilson, WoodrowWindels, Paul H.Windsor, Claire</field>
+-    <field name="unittitle_teim">Wickersham, George WoodwardWilcox, Ella Wheeler (2)Wilcox, William WalterWiles, Irving RamseyWiley, LouisWilkie, WendellWilliams, John SharpWilliamson, Frederick ElyWilson, James GrantWilson, John MoulderWilson, WoodrowWindels, Paul H.Windsor, Claire</field>
++    <field name="unittitle_teim">Wickersham, George Woodward Wilcox, Ella Wheeler (2) Wilcox, William Walter Wiles, Irving Ramsey Wiley, Louis Wilkie, Wendell Williams, John Sharp Williamson, Frederick Ely Wilson, James Grant Wilson, John Moulder Wilson, Woodrow Windels, Paul H. Windsor, Claire</field>
+     <field name="ref_ssi">aspace_ref117_oup</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Wickersham, George WoodwardWilcox, Ella Wheeler (2)Wilcox, William WalterWiles, Irving RamseyWiley, LouisWilkie, WendellWilliams, John SharpWilliamson, Frederick ElyWilson, James GrantWilson, John MoulderWilson, WoodrowWindels, Paul H.Windsor, Claire</field>
+-    <field name="heading_ssm">Wickersham, George WoodwardWilcox, Ella Wheeler (2)Wilcox, William WalterWiles, Irving RamseyWiley, LouisWilkie, WendellWilliams, John SharpWilliamson, Frederick ElyWilson, James GrantWilson, John MoulderWilson, WoodrowWindels, Paul H.Windsor, Claire</field>
++    <field name="heading_ssm">Wickersham, George Woodward Wilcox, Ella Wheeler (2) Wilcox, William Walter Wiles, Irving Ramsey Wiley, Louis Wilkie, Wendell Williams, John Sharp Williamson, Frederick Ely Wilson, James Grant Wilson, John Moulder Wilson, Woodrow Windels, Paul H. Windsor, Claire</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">85</field>
+   </doc>

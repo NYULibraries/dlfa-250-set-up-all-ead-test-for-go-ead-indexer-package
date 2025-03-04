@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 4</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">"F-G" general, including:Farnham, Sally JamesFarquhan, SamFaversham, WilliamFenn, HarryFinley, John HustonFisher, HarrisonFokine, MichelFokina, Vera PetrovnaFox, FontaineFrench, Daniel ChesterGelber, WalterGirard, MadameGregory, Alyse (See: Box 2, Folder 15)</field>
+-    <field name="unittitle_teim">"F-G" general, including:Farnham, Sally JamesFarquhan, SamFaversham, WilliamFenn, HarryFinley, John HustonFisher, HarrisonFokine, MichelFokina, Vera PetrovnaFox, FontaineFrench, Daniel ChesterGelber, WalterGirard, MadameGregory, Alyse (See: Box 2, Folder 15)</field>
++    <field name="unittitle_teim">"F-G" general, including: Farnham, Sally James Farquhan, Sam Faversham, William Fenn, Harry Finley, John Huston Fisher, Harrison Fokine, Michel Fokina, Vera Petrovna Fox, Fontaine French, Daniel Chester Gelber, Walter Girard, Madame Gregory, Alyse (See: Box 2, Folder 15)</field>
+     <field name="ref_ssi">aspace_ref23_s34</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 4</field>
+     <field name="series_sim">Series I. Portraits</field>
+     <field name="series_si">Series I. Portraits &gt;&gt; "F-G" general, including:Farnham, Sally JamesFarquhan, SamFaversham, WilliamFenn, HarryFinley, John HustonFisher, HarrisonFokine, MichelFokina, Vera PetrovnaFox, FontaineFrench, Daniel ChesterGelber, WalterGirard, MadameGregory, Alyse (See: Box 2, Folder 15)</field>
+-    <field name="heading_ssm">"F-G" general, including:Farnham, Sally JamesFarquhan, SamFaversham, WilliamFenn, HarryFinley, John HustonFisher, HarrisonFokine, MichelFokina, Vera PetrovnaFox, FontaineFrench, Daniel ChesterGelber, WalterGirard, MadameGregory, Alyse (See: Box 2, Folder 15)</field>
++    <field name="heading_ssm">"F-G" general, including: Farnham, Sally James Farquhan, Sam Faversham, William Fenn, Harry Finley, John Huston Fisher, Harrison Fokine, Michel Fokina, Vera Petrovna Fox, Fontaine French, Daniel Chester Gelber, Walter Girard, Madame Gregory, Alyse (See: Box 2, Folder 15)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">7</field>
+   </doc>

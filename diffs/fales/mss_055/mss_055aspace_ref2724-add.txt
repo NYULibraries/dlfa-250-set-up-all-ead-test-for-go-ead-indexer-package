@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Beekman, William&lt;strong&gt;place&lt;/strong&gt;: [New Amsterdam]</field>
+-    <field name="unittitle_teim">creator: Beekman, Williamplace: [New Amsterdam]</field>
++    <field name="unittitle_teim">creator: Beekman, William place: [New Amsterdam]</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404211</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/404211</field>
+     <field name="unitdate_teim">undated</field>
+@@ -25,8 +25,8 @@
+     <field name="name_teim">Beekman, William</field>
+     <field name="name_ssm">Beekman, William</field>
+     <field name="name_ssm">Beekman, William</field>
+-    <field name="dao_teim">creator: Beekman, Williamplace: [New Amsterdam]: undated</field>
+-    <field name="dao_ssm">creator: Beekman, Williamplace: [New Amsterdam]: undated</field>
++    <field name="dao_teim">creator: Beekman, William place: [New Amsterdam]: undated</field>
++    <field name="dao_ssm">creator: Beekman, William place: [New Amsterdam]: undated</field>
+     <field name="ref_ssi">aspace_ref2724</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series I: New York State</field>
+     <field name="series_sim">Subseries C: Oversize Materials</field>
+     <field name="series_si">Series I: New York State &gt;&gt; Subseries C: Oversize Materials &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Beekman, William&lt;strong&gt;place&lt;/strong&gt;: [New Amsterdam]</field>
+-    <field name="heading_ssm">creator: Beekman, Williamplace: [New Amsterdam]</field>
++    <field name="heading_ssm">creator: Beekman, William place: [New Amsterdam]</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">79</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 85</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Dickinson, Daniel Stevens Dillan, Mrs. Dillon, Robert J. Disoway, Cornelius Dittmarsh Dodge, William Earle Doft, Mrs. Donaldson Donnell / Conley Douglass Douglass, Edward Dripol Dudly Duesnard Duffie, Cornelius, Jr. Duncan Duncan, Henry, Mrs.Dwight, William, Col. (2) Dwight, William, Mrs. Dyer Dymes, Mrs. / Byers</field>
+-    <field name="unittitle_teim">Dickinson, Daniel Stevens Dillan, Mrs. Dillon, Robert J. Disoway, Cornelius Dittmarsh Dodge, William Earle Doft, Mrs. Donaldson Donnell / Conley Douglass Douglass, Edward Dripol Dudly Duesnard Duffie, Cornelius, Jr. Duncan Duncan, Henry, Mrs.Dwight, William, Col. (2) Dwight, William, Mrs. Dyer Dymes, Mrs. / Byers</field>
++    <field name="unittitle_teim">Dickinson, Daniel Stevens Dillan, Mrs. Dillon, Robert J. Disoway, Cornelius Dittmarsh Dodge, William Earle Doft, Mrs. Donaldson Donnell / Conley Douglass Douglass, Edward Dripol Dudly Duesnard Duffie, Cornelius, Jr. Duncan Duncan, Henry, Mrs. Dwight, William, Col. (2) Dwight, William, Mrs. Dyer Dymes, Mrs. / Byers</field>
+     <field name="ref_ssi">aspace_ref18_1n5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 85</field>
+     <field name="series_sim">Series I: Imperial Format Portraits</field>
+     <field name="series_si">Series I: Imperial Format Portraits &gt;&gt; Dickinson, Daniel Stevens Dillan, Mrs. Dillon, Robert J. Disoway, Cornelius Dittmarsh Dodge, William Earle Doft, Mrs. Donaldson Donnell / Conley Douglass Douglass, Edward Dripol Dudly Duesnard Duffie, Cornelius, Jr. Duncan Duncan, Henry, Mrs.Dwight, William, Col. (2) Dwight, William, Mrs. Dyer Dymes, Mrs. / Byers</field>
+-    <field name="heading_ssm">Dickinson, Daniel Stevens Dillan, Mrs. Dillon, Robert J. Disoway, Cornelius Dittmarsh Dodge, William Earle Doft, Mrs. Donaldson Donnell / Conley Douglass Douglass, Edward Dripol Dudly Duesnard Duffie, Cornelius, Jr. Duncan Duncan, Henry, Mrs.Dwight, William, Col. (2) Dwight, William, Mrs. Dyer Dymes, Mrs. / Byers</field>
++    <field name="heading_ssm">Dickinson, Daniel Stevens Dillan, Mrs. Dillon, Robert J. Disoway, Cornelius Dittmarsh Dodge, William Earle Doft, Mrs. Donaldson Donnell / Conley Douglass Douglass, Edward Dripol Dudly Duesnard Duffie, Cornelius, Jr. Duncan Duncan, Henry, Mrs. Dwight, William, Col. (2) Dwight, William, Mrs. Dyer Dymes, Mrs. / Byers</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">7</field>
+   </doc>

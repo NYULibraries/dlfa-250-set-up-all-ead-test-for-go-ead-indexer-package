@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 38 Projects: One large legal-sized photocopy of complete manuscript by Valdamar Valerian and small amount of sketches and notes from "Roswell"</field>
+     <field name="unitid_teim">cuid22058</field>
+     <field name="unitid_ssm">cuid22058</field>
+-    <field name="scopecontent_teim">Box 39 Projects: "Scientific Process" sketch pages.Box 43 Projects: three folders including two oversized rolls of maps, one legal folder of same with handwritten notes and pages, one folder of contracts and correspondence.</field>
++    <field name="scopecontent_teim">Box 39 Projects: "Scientific Process" sketch pages. Box 43 Projects: three folders including two oversized rolls of maps, one legal folder of same with handwritten notes and pages, one folder of contracts and correspondence.</field>
+     <field name="ref_ssi">aspace_ref373</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

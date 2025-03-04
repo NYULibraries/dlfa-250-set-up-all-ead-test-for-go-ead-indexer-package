@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">NY &amp; Harlem RR, NY Central RR, and Cornelius Vanderbilt, Grand Central Station, New York, NYProject #225</field>
+-    <field name="unittitle_teim">NY &amp; Harlem RR, NY Central RR, and Cornelius Vanderbilt, Grand Central Station, New York, NYProject #225</field>
++    <field name="unittitle_teim">NY &amp; Harlem RR, NY Central RR, and Cornelius Vanderbilt, Grand Central Station, New York, NY Project #225</field>
+     <field name="unitdate_teim">1869</field>
+     <field name="ref_ssi">aspace_ref293_qj9</field>
+     <field name="repository_ssi">nyhs</field>
+@@ -32,7 +32,7 @@
+     <field name="series_sim">Series I: Architectural Drawings</field>
+     <field name="series_sim">OVERSIZE Architectural Drawings</field>
+     <field name="series_si">Series I: Architectural Drawings &gt;&gt; OVERSIZE Architectural Drawings &gt;&gt; NY &amp; Harlem RR, NY Central RR, and Cornelius Vanderbilt, Grand Central Station, New York, NYProject #225</field>
+-    <field name="heading_ssm">NY &amp; Harlem RR, NY Central RR, and Cornelius Vanderbilt, Grand Central Station, New York, NYProject #225</field>
++    <field name="heading_ssm">NY &amp; Harlem RR, NY Central RR, and Cornelius Vanderbilt, Grand Central Station, New York, NY Project #225</field>
+     <field name="unitdate_ssm">1869</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">254</field>

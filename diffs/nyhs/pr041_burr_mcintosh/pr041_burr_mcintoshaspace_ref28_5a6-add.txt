@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 41</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Kahn, Florence Keen, Mrs. Wilson Keldy, Herbert Kierney, James (2)Kouatze, B. C. (2)</field>
+-    <field name="unittitle_teim">Kahn, Florence Keen, Mrs. Wilson Keldy, Herbert Kierney, James (2)Kouatze, B. C. (2)</field>
++    <field name="unittitle_teim">Kahn, Florence Keen, Mrs. Wilson Keldy, Herbert Kierney, James (2) Kouatze, B. C. (2)</field>
+     <field name="ref_ssi">aspace_ref28_5a6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series I. 8 x 10 inch prints</field>
+     <field name="series_sim">PORTRAITS</field>
+     <field name="series_si">Series I. 8 x 10 inch prints &gt;&gt; PORTRAITS &gt;&gt; Kahn, Florence Keen, Mrs. Wilson Keldy, Herbert Kierney, James (2)Kouatze, B. C. (2)</field>
+-    <field name="heading_ssm">Kahn, Florence Keen, Mrs. Wilson Keldy, Herbert Kierney, James (2)Kouatze, B. C. (2)</field>
++    <field name="heading_ssm">Kahn, Florence Keen, Mrs. Wilson Keldy, Herbert Kierney, James (2) Kouatze, B. C. (2)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">15</field>
+   </doc>

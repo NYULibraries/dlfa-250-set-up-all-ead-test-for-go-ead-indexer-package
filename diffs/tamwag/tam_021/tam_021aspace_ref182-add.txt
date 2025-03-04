@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">TAM.021</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Sex and Society contains: &lt;em&gt;Women and Modern Industry&lt;/em&gt;&lt;em&gt;Prostitution&lt;/em&gt;&lt;em&gt;Marriage and Economics&lt;/em&gt;&lt;em&gt;The Home-Present and Future&lt;/em&gt;&lt;em&gt;The Home and Social Changes&lt;/em&gt;&lt;em&gt;Marital Incompatibility&lt;/em&gt;&lt;em&gt;Mental Differences of Men and Women&lt;/em&gt; (2 copies) &lt;em&gt;Sex Prejudices&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Sex and Society contains: Women and Modern IndustryProstitutionMarriage and EconomicsThe Home-Present and FutureThe Home and Social ChangesMarital IncompatibilityMental Differences of Men and Women (2 copies) Sex Prejudices</field>
++    <field name="unittitle_teim">Sex and Society contains: Women and Modern Industry Prostitution Marriage and Economics The Home-Present and Future The Home and Social Changes Marital Incompatibility Mental Differences of Men and Women (2 copies) Sex Prejudices</field>
+     <field name="unitdate_normal_ssm">1911/1955</field>
+     <field name="unitdate_normal_teim">1911/1955</field>
+     <field name="unitdate_normal_sim">1911/1955</field>
+@@ -47,7 +47,7 @@
+     <field name="collection_unitid_teim">TAM.021</field>
+     <field name="series_sim">Series II. Manuscript and Lecture Notes, 1906-1954</field>
+     <field name="series_si">Series II. Manuscript and Lecture Notes, 1906-1954 &gt;&gt; Sex and Society contains: &lt;em&gt;Women and Modern Industry&lt;/em&gt;&lt;em&gt;Prostitution&lt;/em&gt;&lt;em&gt;Marriage and Economics&lt;/em&gt;&lt;em&gt;The Home-Present and Future&lt;/em&gt;&lt;em&gt;The Home and Social Changes&lt;/em&gt;&lt;em&gt;Marital Incompatibility&lt;/em&gt;&lt;em&gt;Mental Differences of Men and Women&lt;/em&gt; (2 copies) &lt;em&gt;Sex Prejudices&lt;/em&gt;</field>
+-    <field name="heading_ssm">Sex and Society contains: Women and Modern IndustryProstitutionMarriage and EconomicsThe Home-Present and FutureThe Home and Social ChangesMarital IncompatibilityMental Differences of Men and Women (2 copies) Sex Prejudices</field>
++    <field name="heading_ssm">Sex and Society contains: Women and Modern Industry Prostitution Marriage and Economics The Home-Present and Future The Home and Social Changes Marital Incompatibility Mental Differences of Men and Women (2 copies) Sex Prejudices</field>
+     <field name="unitdate_start_sim">1911</field>
+     <field name="unitdate_start_ssm">1911</field>
+     <field name="unitdate_start_si">1911</field>

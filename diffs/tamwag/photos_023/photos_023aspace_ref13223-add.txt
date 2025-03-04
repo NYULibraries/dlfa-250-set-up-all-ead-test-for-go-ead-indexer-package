@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="collection_ssm">United Automobile Workers of America, District 65 Negatives</field>
+     <field name="collection_unitid_ssm">PHOTOS.023</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Madison Square Garden Meeting, Brother In Action Entering Meeting [C&amp;gt; Robinson]</field>
++    <field name="unittitle_ssm">Madison Square Garden Meeting, Brother In Action Entering Meeting [C&gt; Robinson]</field>
+     <field name="unittitle_teim">Madison Square Garden Meeting, Brother In Action Entering Meeting [C&gt; Robinson]</field>
+     <field name="unitid_teim">15687</field>
+     <field name="unitid_ssm">15687</field>
+@@ -81,7 +81,7 @@
+     <field name="collection_unitid_teim">PHOTOS.023</field>
+     <field name="series_sim">Series I. Negatives</field>
+     <field name="series_sim">Political Activities</field>
+-    <field name="series_si">Series I. Negatives &gt;&gt; Political Activities &gt;&gt; Madison Square Garden Meeting, Brother In Action Entering Meeting [C&amp;gt; Robinson]</field>
++    <field name="series_si">Series I. Negatives &gt;&gt; Political Activities &gt;&gt; Madison Square Garden Meeting, Brother In Action Entering Meeting [C&gt; Robinson]</field>
+     <field name="heading_ssm">Madison Square Garden Meeting, Brother In Action Entering Meeting [C&gt; Robinson]</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

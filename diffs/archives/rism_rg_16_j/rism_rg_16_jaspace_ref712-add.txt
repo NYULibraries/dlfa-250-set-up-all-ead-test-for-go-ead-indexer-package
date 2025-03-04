@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Audio Tapes</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+-    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_ssm">RISM.RG.16.(j)</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">"'Regional and International Migration,' Aug 31, Tape 3," Sides A: no listing; Side B: no listing</field>
+@@ -30,7 +30,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 25, Cassette: 19</field>
+     <field name="location_si">Box: 25, Cassette: 19</field>
+-    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_teim">RISM.RG.16.(j)</field>
+     <field name="series_sim">Series XVI. Audio and Video Recordings, August 1984 - March 1985</field>
+     <field name="series_sim">Audio Tapes</field>

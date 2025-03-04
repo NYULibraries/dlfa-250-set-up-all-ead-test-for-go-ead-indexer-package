@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -16,7 +16,7 @@
+     <field name="unittitle_ssm">&lt;em&gt;Lord Bateman&lt;/em&gt;</field>
+     <field name="unittitle_teim">Lord Bateman</field>
+     <field name="scopecontent_teim">4 woodblocks.</field>
+-    <field name="bioghist_teim">Engravings done afte George Cruikshank.Reprinted in Uncle Frank's series. The Uncle Frank's series reprinted a number of titles published in the pre-McLoughlin Brothers, Inc. era by Robert H. Elton.</field>
++    <field name="bioghist_teim">Engravings done afte George Cruikshank. Reprinted in Uncle Frank's series. The Uncle Frank's series reprinted a number of titles published in the pre-McLoughlin Brothers, Inc. era by Robert H. Elton.</field>
+     <field name="title_teim">Lord Bateman</field>
+     <field name="title_teim">Uncle Frank's</field>
+     <field name="title_teim">Uncle Frank's</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Box 19 Projects: notebook from "Hands of a Stranger".</field>
+     <field name="unitid_teim">cuid22055</field>
+     <field name="unitid_ssm">cuid22055</field>
+-    <field name="scopecontent_teim">Box 20 Projects: sketchbook from "High Society"Box 26 Projects: Research and notes form "In a Child's Name" ("Legacy of a Mother's Murder") work with Peter Maas.</field>
++    <field name="scopecontent_teim">Box 20 Projects: sketchbook from "High Society" Box 26 Projects: Research and notes form "In a Child's Name" ("Legacy of a Mother's Murder") work with Peter Maas.</field>
+     <field name="ref_ssi">aspace_ref367</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

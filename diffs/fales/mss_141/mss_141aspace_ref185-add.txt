@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142040619598</field>
+     <field name="unitid_ssm">31142040619598</field>
+     <field name="unitdate_teim">1976-1978</field>
+-    <field name="scopecontent_teim">Production scripts and other scripts and script fragments, French adaptation of Wings (undated), handwritten notes and notebooks, much apparently from the production of the Yale Repertory Theater, design and layout of playbill, production contract between Roger L. Stevens and Kopit, and Yale and Kopit, galleys of publication of play.Audio Cassettes"Nancy Darboun and Jacqueline Doolittle discussing Wings" 2 tapes with same labelunlabeled tape without case"demo tape for earplay various persons talking--Laura Killian""Earplay '76 demo tape"Note: One oversized (approx 11x17") production script to separate out.</field>
++    <field name="scopecontent_teim">Production scripts and other scripts and script fragments, French adaptation of Wings (undated), handwritten notes and notebooks, much apparently from the production of the Yale Repertory Theater, design and layout of playbill, production contract between Roger L. Stevens and Kopit, and Yale and Kopit, galleys of publication of play. Audio Cassettes "Nancy Darboun and Jacqueline Doolittle discussing Wings" 2 tapes with same label unlabeled tape without case "demo tape for earplay various persons talking--Laura Killian" "Earplay '76 demo tape" Note: One oversized (approx 11x17") production script to separate out.</field>
+     <field name="ref_ssi">aspace_ref185</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

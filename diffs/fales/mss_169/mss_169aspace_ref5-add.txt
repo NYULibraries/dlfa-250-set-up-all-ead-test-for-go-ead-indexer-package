@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1983/1995</field>
+     <field name="unitdate_normal_sim">1983/1995</field>
+     <field name="unitdate_inclusive_teim">1983-1995</field>
+-    <field name="scopecontent_teim">Series contains material created by Will Olander (his dissertation) or concerning his memorial service and a memorial fund in his name.Material in this series is arranged chronologically.</field>
++    <field name="scopecontent_teim">Series contains material created by Will Olander (his dissertation) or concerning his memorial service and a memorial fund in his name. Material in this series is arranged chronologically.</field>
+     <field name="ref_ssi">aspace_ref5</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

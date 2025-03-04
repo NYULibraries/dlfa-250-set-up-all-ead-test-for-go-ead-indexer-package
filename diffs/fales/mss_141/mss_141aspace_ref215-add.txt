@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Works Box 4 (Scripts Box 2)</field>
+     <field name="unitid_teim">31142040619747</field>
+     <field name="unitid_ssm">31142040619747</field>
+-    <field name="scopecontent_teim">"Louisiana Territory or Lewis and Clark...." descriptive booklet"End of the World...." undated"Discovery of America" undated, lacking Act I scene 1."On the Runway of Life You Never Know What's Coming Off Next" ca. 1958"Indians" Scandinavian translation, undatedseries of working drafts and revisions of "Good Help is Hard to Find" ca. 1981"Business Day" proposal and notes for radio play, undated"Staying Afloat", teleplay written with Davis Weinstock, 1979, includes handwritten notes and revisions."The Day the Whores Came Out to Play Tennis" ca. 1964, typescripts with hand revisions and edits, extensive handwritten drafts "An Incident in the Park" rough typescript with revisions, ca. 1968"Endplay" undated, typescripts"Asylum" ca. 1963, rough typescripts with hand revisions.</field>
++    <field name="scopecontent_teim">"Louisiana Territory or Lewis and Clark...." descriptive booklet "End of the World...." undated "Discovery of America" undated, lacking Act I scene 1. "On the Runway of Life You Never Know What's Coming Off Next" ca. 1958 "Indians" Scandinavian translation, undated series of working drafts and revisions of "Good Help is Hard to Find" ca. 1981 "Business Day" proposal and notes for radio play, undated "Staying Afloat", teleplay written with Davis Weinstock, 1979, includes handwritten notes and revisions. "The Day the Whores Came Out to Play Tennis" ca. 1964, typescripts with hand revisions and edits, extensive handwritten drafts "An Incident in the Park" rough typescript with revisions, ca. 1968 "Endplay" undated, typescripts "Asylum" ca. 1963, rough typescripts with hand revisions.</field>
+     <field name="ref_ssi">aspace_ref215</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

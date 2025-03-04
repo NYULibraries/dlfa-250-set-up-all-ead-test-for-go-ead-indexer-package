@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Fantasy&lt;em&gt;Note&lt;/em&gt;: Recorded at CT concert 1968 (demo)&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="unittitle_teim">FantasyNote: Recorded at CT concert 1968 (demo)Format: 1/4" sm.</field>
++    <field name="unittitle_teim">Fantasy Note: Recorded at CT concert 1968 (demo) Format: 1/4" sm.</field>
+     <field name="unitdate_teim">1968</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Format</field>
+@@ -36,7 +36,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries A: Watts - Works on Tape</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries A: Watts - Works on Tape &gt;&gt; Fantasy&lt;em&gt;Note&lt;/em&gt;: Recorded at CT concert 1968 (demo)&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="heading_ssm">FantasyNote: Recorded at CT concert 1968 (demo)Format: 1/4" sm.</field>
++    <field name="heading_ssm">Fantasy Note: Recorded at CT concert 1968 (demo) Format: 1/4" sm.</field>
+     <field name="unitdate_ssm">1968</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">693</field>

@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2012/2012</field>
+     <field name="unitdate_normal_sim">2012/2012</field>
+     <field name="unitdate_inclusive_teim">2012</field>
+-    <field name="scopecontent_teim">Director: Mohammed Ibrahim (Bahrain)ArabicOriginal Title: Sabr Al MelhCatalog Record: GetIt | Patience Salt</field>
+-    <field name="phystech_teim">Original Format: HDCAMColor, Black and WhiteTotal Running Time: 00:15:00</field>
++    <field name="scopecontent_teim">Director: Mohammed Ibrahim (Bahrain) Arabic Original Title: Sabr Al Melh Catalog Record: GetIt | Patience Salt</field>
++    <field name="phystech_teim">Original Format: HDCAM Color, Black and White Total Running Time: 00:15:00</field>
+     <field name="ref_ssi">aspace_ref102_5xn</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

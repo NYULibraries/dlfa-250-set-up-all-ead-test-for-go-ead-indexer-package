@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718926</field>
+     <field name="unitid_ssm">31142050718926</field>
+     <field name="unitdate_teim">ca. 1993-1996</field>
+-    <field name="scopecontent_teim">Miscellaneous material found elsewhere in the collection. Includes memos and documents from CCNY, an Italian translation of "Wings", synopsis and full script of "Salvage" by Mary Beth Becker, and materials sent to Kopit for possible film adaptation.PublicationsNancy Taylor Rosenberg, Interest of Justice (Dutton: New York, 1993)Video CassettesPublished information package and VHS tape by Communications Control Systems, a surveillance manufacturer.</field>
++    <field name="scopecontent_teim">Miscellaneous material found elsewhere in the collection. Includes memos and documents from CCNY, an Italian translation of "Wings", synopsis and full script of "Salvage" by Mary Beth Becker, and materials sent to Kopit for possible film adaptation. Publications Nancy Taylor Rosenberg, Interest of Justice (Dutton: New York, 1993) Video Cassettes Published information package and VHS tape by Communications Control Systems, a surveillance manufacturer.</field>
+     <field name="ref_ssi">aspace_ref305</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Video Tapes Box 3</field>
+     <field name="unitid_teim">31142050718751</field>
+     <field name="unitid_ssm">31142050718751</field>
+-    <field name="scopecontent_teim">Video CassettesThe following nineteen cassettes are all Sony KCS20 U-Matic cassettes. They are numbered twice on the spine, 1-19 and K122-K140 with additional abbreviated labels. There are extensive content notes with time signatures on the inside covers. None of the labels, interior or exterior, bear any reference to known projects or works by Kopit except some possible recordings of Lewis and Clark."1 Huck, Pinball""2 Barbershop, Jack-Stalk, Letters, Pieta, Fights""3 Lulu+Clark, American Family, Box+Puppets""4 Reel of Ahab, Yank""5 Fights, subjective fights, samuri, gauze""6 Gauze""7 End piece""8 Lois+Clark, Superman...Tempest, Pinball"9 [unlabeled]10 [unlabeled]11[unlabeled]12 [unlabeled]"13 Reception""14 #1 Gauze in Circle""15 Ahab + the cars""16 Circle Game and Raoul Inter.""17 Morning Wkout"18 [unlabeled]19 [unlabeled]</field>
++    <field name="scopecontent_teim">Video Cassettes The following nineteen cassettes are all Sony KCS20 U-Matic cassettes. They are numbered twice on the spine, 1-19 and K122-K140 with additional abbreviated labels. There are extensive content notes with time signatures on the inside covers. None of the labels, interior or exterior, bear any reference to known projects or works by Kopit except some possible recordings of Lewis and Clark. "1 Huck, Pinball" "2 Barbershop, Jack-Stalk, Letters, Pieta, Fights" "3 Lulu+Clark, American Family, Box+Puppets" "4 Reel of Ahab, Yank" "5 Fights, subjective fights, samuri, gauze" "6 Gauze" "7 End piece" "8 Lois+Clark, Superman...Tempest, Pinball" 9 [unlabeled] 10 [unlabeled] 11[unlabeled] 12 [unlabeled] "13 Reception" "14 #1 Gauze in Circle" "15 Ahab + the cars" "16 Circle Game and Raoul Inter." "17 Morning Wkout" 18 [unlabeled] 19 [unlabeled]</field>
+     <field name="ref_ssi">aspace_ref269</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Lawrence, GertrudeLawrence, PaulaLeahy, William D.Lee, Frank AugustusLe Fevre, JayLeggett, Francis HowardLehman, Herbert H.Lehman, RobertLeipzig, NatLeipziger, Henry MarcusLengyel, EmilLert, Vicki BaumLevey, EthelLevinthal, Israel H.Levy, RobertLewis, SinclairLewisohn, Adolph (2)</field>
+-    <field name="unittitle_teim">Lawrence, GertrudeLawrence, PaulaLeahy, William D.Lee, Frank AugustusLe Fevre, JayLeggett, Francis HowardLehman, Herbert H.Lehman, RobertLeipzig, NatLeipziger, Henry MarcusLengyel, EmilLert, Vicki BaumLevey, EthelLevinthal, Israel H.Levy, RobertLewis, SinclairLewisohn, Adolph (2)</field>
++    <field name="unittitle_teim">Lawrence, Gertrude Lawrence, Paula Leahy, William D. Lee, Frank Augustus Le Fevre, Jay Leggett, Francis Howard Lehman, Herbert H. Lehman, Robert Leipzig, Nat Leipziger, Henry Marcus Lengyel, Emil Lert, Vicki Baum Levey, Ethel Levinthal, Israel H. Levy, Robert Lewis, Sinclair Lewisohn, Adolph (2)</field>
+     <field name="ref_ssi">aspace_ref74_jvc</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Lawrence, GertrudeLawrence, PaulaLeahy, William D.Lee, Frank AugustusLe Fevre, JayLeggett, Francis HowardLehman, Herbert H.Lehman, RobertLeipzig, NatLeipziger, Henry MarcusLengyel, EmilLert, Vicki BaumLevey, EthelLevinthal, Israel H.Levy, RobertLewis, SinclairLewisohn, Adolph (2)</field>
+-    <field name="heading_ssm">Lawrence, GertrudeLawrence, PaulaLeahy, William D.Lee, Frank AugustusLe Fevre, JayLeggett, Francis HowardLehman, Herbert H.Lehman, RobertLeipzig, NatLeipziger, Henry MarcusLengyel, EmilLert, Vicki BaumLevey, EthelLevinthal, Israel H.Levy, RobertLewis, SinclairLewisohn, Adolph (2)</field>
++    <field name="heading_ssm">Lawrence, Gertrude Lawrence, Paula Leahy, William D. Lee, Frank Augustus Le Fevre, Jay Leggett, Francis Howard Lehman, Herbert H. Lehman, Robert Leipzig, Nat Leipziger, Henry Marcus Lengyel, Emil Lert, Vicki Baum Levey, Ethel Levinthal, Israel H. Levy, Robert Lewis, Sinclair Lewisohn, Adolph (2)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">48</field>
+   </doc>

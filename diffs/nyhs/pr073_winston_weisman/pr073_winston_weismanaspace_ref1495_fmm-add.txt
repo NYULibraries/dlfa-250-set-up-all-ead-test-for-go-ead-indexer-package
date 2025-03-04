@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">roll BB: plans of 55 Mercer Street47 -- 49 Mercer Street489 -- 493 Broome Street51 Wooster Street454 Broome Street (65 -- 67 Mercer Street)85 -- 87 Mercer Street72 Greene Street68 Greene Street66 Greene Street118 Prince Street</field>
+-    <field name="unittitle_teim">roll BB: plans of 55 Mercer Street47 -- 49 Mercer Street489 -- 493 Broome Street51 Wooster Street454 Broome Street (65 -- 67 Mercer Street)85 -- 87 Mercer Street72 Greene Street68 Greene Street66 Greene Street118 Prince Street</field>
++    <field name="unittitle_teim">roll BB: plans of 55 Mercer Street 47 -- 49 Mercer Street 489 -- 493 Broome Street 51 Wooster Street 454 Broome Street (65 -- 67 Mercer Street) 85 -- 87 Mercer Street 72 Greene Street 68 Greene Street 66 Greene Street 118 Prince Street</field>
+     <field name="ref_ssi">aspace_ref1495_fmm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">35 mm film prints of original architect's drawings</field>
+     <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35 mm film prints of original architect's drawings &gt;&gt; roll BB: plans of 55 Mercer Street47 -- 49 Mercer Street489 -- 493 Broome Street51 Wooster Street454 Broome Street (65 -- 67 Mercer Street)85 -- 87 Mercer Street72 Greene Street68 Greene Street66 Greene Street118 Prince Street</field>
+-    <field name="heading_ssm">roll BB: plans of 55 Mercer Street47 -- 49 Mercer Street489 -- 493 Broome Street51 Wooster Street454 Broome Street (65 -- 67 Mercer Street)85 -- 87 Mercer Street72 Greene Street68 Greene Street66 Greene Street118 Prince Street</field>
++    <field name="heading_ssm">roll BB: plans of 55 Mercer Street 47 -- 49 Mercer Street 489 -- 493 Broome Street 51 Wooster Street 454 Broome Street (65 -- 67 Mercer Street) 85 -- 87 Mercer Street 72 Greene Street 68 Greene Street 66 Greene Street 118 Prince Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">930</field>
+   </doc>

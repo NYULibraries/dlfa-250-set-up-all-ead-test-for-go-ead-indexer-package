@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Morris, Lewis, 1671-1746.&lt;strong&gt;place&lt;/strong&gt;: [New York]</field>
+-    <field name="unittitle_teim">creator: Morris, Lewis, 1671-1746.place: [New York]</field>
++    <field name="unittitle_teim">creator: Morris, Lewis, 1671-1746. place: [New York]</field>
+     <field name="unitid_teim">055-003-B-2059</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404575</field>
+     <field name="unitid_ssm">055-003-B-2059</field>
+@@ -30,8 +30,8 @@
+     <field name="name_teim">Morris, Lewis, 1671-1746.</field>
+     <field name="name_ssm">Morris, Lewis, 1671-1746.</field>
+     <field name="name_ssm">Morris, Lewis, 1671-1746.</field>
+-    <field name="dao_teim">creator: Morris, Lewis, 1671-1746.place: [New York]: 1697</field>
+-    <field name="dao_ssm">creator: Morris, Lewis, 1671-1746.place: [New York]: 1697</field>
++    <field name="dao_teim">creator: Morris, Lewis, 1671-1746. place: [New York]: 1697</field>
++    <field name="dao_ssm">creator: Morris, Lewis, 1671-1746. place: [New York]: 1697</field>
+     <field name="ref_ssi">aspace_ref1735</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -46,7 +46,7 @@
+     <field name="series_sim">Series III: Mayors and Governors Autographs</field>
+     <field name="series_sim">Subseries B: Oversize Materials</field>
+     <field name="series_si">Series III: Mayors and Governors Autographs &gt;&gt; Subseries B: Oversize Materials &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Morris, Lewis, 1671-1746.&lt;strong&gt;place&lt;/strong&gt;: [New York]</field>
+-    <field name="heading_ssm">creator: Morris, Lewis, 1671-1746.place: [New York]</field>
++    <field name="heading_ssm">creator: Morris, Lewis, 1671-1746. place: [New York]</field>
+     <field name="unitdate_start_sim">1697</field>
+     <field name="unitdate_start_ssm">1697</field>
+     <field name="unitdate_start_si">1697</field>

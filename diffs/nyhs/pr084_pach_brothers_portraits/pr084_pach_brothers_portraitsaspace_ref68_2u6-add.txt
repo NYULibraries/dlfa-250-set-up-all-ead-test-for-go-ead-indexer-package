@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Huntington, FordHurst, FannieHutchinson, A. A.Hutchinson, WoodsHuyler, John S.Hyde, James HazenHyser, C. L.</field>
+-    <field name="unittitle_teim">Huntington, FordHurst, FannieHutchinson, A. A.Hutchinson, WoodsHuyler, John S.Hyde, James HazenHyser, C. L.</field>
++    <field name="unittitle_teim">Huntington, Ford Hurst, Fannie Hutchinson, A. A. Hutchinson, Woods Huyler, John S. Hyde, James Hazen Hyser, C. L.</field>
+     <field name="ref_ssi">aspace_ref68_2u6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Huntington, FordHurst, FannieHutchinson, A. A.Hutchinson, WoodsHuyler, John S.Hyde, James HazenHyser, C. L.</field>
+-    <field name="heading_ssm">Huntington, FordHurst, FannieHutchinson, A. A.Hutchinson, WoodsHuyler, John S.Hyde, James HazenHyser, C. L.</field>
++    <field name="heading_ssm">Huntington, Ford Hurst, Fannie Hutchinson, A. A. Hutchinson, Woods Huyler, John S. Hyde, James Hazen Hyser, C. L.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">42</field>
+   </doc>

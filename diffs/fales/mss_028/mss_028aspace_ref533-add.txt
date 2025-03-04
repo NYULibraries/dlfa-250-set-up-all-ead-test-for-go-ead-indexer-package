@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Dowie, Muriel Menie&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A girl in trousers, being the history of a young lady's adventures in the Karpathians&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Leisure-Time Series&lt;strong&gt;Series Number&lt;/strong&gt;: 9&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: W. D. Rowland&lt;strong&gt;Date&lt;/strong&gt;: 1891</field>
+-    <field name="unittitle_teim">Author: Dowie, Muriel MenieTitle: A girl in trousers, being the history of a young lady's adventures in the KarpathiansSeries Title: Leisure-Time SeriesSeries Number: 9City: New YorkPublisher: W. D. RowlandDate: 1891</field>
++    <field name="unittitle_teim">Author: Dowie, Muriel Menie Title: A girl in trousers, being the history of a young lady's adventures in the Karpathians Series Title: Leisure-Time Series Series Number: 9 City: New York Publisher: W. D. Rowland Date: 1891</field>
+     <field name="unitdate_normal_ssm">1891/1891</field>
+     <field name="unitdate_normal_teim">1891/1891</field>
+     <field name="unitdate_normal_sim">1891/1891</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Dowie, Muriel Menie&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A girl in trousers, being the history of a young lady's adventures in the Karpathians&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Leisure-Time Series&lt;strong&gt;Series Number&lt;/strong&gt;: 9&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: W. D. Rowland&lt;strong&gt;Date&lt;/strong&gt;: 1891</field>
+-    <field name="heading_ssm">Author: Dowie, Muriel MenieTitle: A girl in trousers, being the history of a young lady's adventures in the KarpathiansSeries Title: Leisure-Time SeriesSeries Number: 9City: New YorkPublisher: W. D. RowlandDate: 1891</field>
++    <field name="heading_ssm">Author: Dowie, Muriel Menie Title: A girl in trousers, being the history of a young lady's adventures in the Karpathians Series Title: Leisure-Time Series Series Number: 9 City: New York Publisher: W. D. Rowland Date: 1891</field>
+     <field name="unitdate_start_sim">1891</field>
+     <field name="unitdate_start_ssm">1891</field>
+     <field name="unitdate_start_si">1891</field>

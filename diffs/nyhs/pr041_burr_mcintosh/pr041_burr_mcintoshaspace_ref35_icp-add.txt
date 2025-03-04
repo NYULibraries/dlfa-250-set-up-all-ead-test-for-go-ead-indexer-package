@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 41</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Radford, Mrs. (3) Radford, Miss B. Rainsford, Mr. R. E. Ray, Col. Frank (4) Ray, Robert Remsen (3) Reynolds Reynolds, Mrs. William H. and childrenRhodes, Mrs. R. R. (2) Rice, Rev. W. H. Richman, Charles (11) Richman, Mrs. Charles (2) Ricker, Mrs. A. P. Ring, Blanche (2) Ring, Florence Ritchie, Adele (19) Robinson, Mrs. Robinson, D. T. L. Robinson, Elsie Robson (Belmont), Eleanor (9) Roosevelt, Theodore Roseberry, Augusta C. Rowan, Miss Lansing (2) Ryan, Elsa (3)</field>
+-    <field name="unittitle_teim">Radford, Mrs. (3) Radford, Miss B. Rainsford, Mr. R. E. Ray, Col. Frank (4) Ray, Robert Remsen (3) Reynolds Reynolds, Mrs. William H. and childrenRhodes, Mrs. R. R. (2) Rice, Rev. W. H. Richman, Charles (11) Richman, Mrs. Charles (2) Ricker, Mrs. A. P. Ring, Blanche (2) Ring, Florence Ritchie, Adele (19) Robinson, Mrs. Robinson, D. T. L. Robinson, Elsie Robson (Belmont), Eleanor (9) Roosevelt, Theodore Roseberry, Augusta C. Rowan, Miss Lansing (2) Ryan, Elsa (3)</field>
++    <field name="unittitle_teim">Radford, Mrs. (3) Radford, Miss B. Rainsford, Mr. R. E. Ray, Col. Frank (4) Ray, Robert Remsen (3) Reynolds Reynolds, Mrs. William H. and children Rhodes, Mrs. R. R. (2) Rice, Rev. W. H. Richman, Charles (11) Richman, Mrs. Charles (2) Ricker, Mrs. A. P. Ring, Blanche (2) Ring, Florence Ritchie, Adele (19) Robinson, Mrs. Robinson, D. T. L. Robinson, Elsie Robson (Belmont), Eleanor (9) Roosevelt, Theodore Roseberry, Augusta C. Rowan, Miss Lansing (2) Ryan, Elsa (3)</field>
+     <field name="ref_ssi">aspace_ref35_icp</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series I. 8 x 10 inch prints</field>
+     <field name="series_sim">PORTRAITS</field>
+     <field name="series_si">Series I. 8 x 10 inch prints &gt;&gt; PORTRAITS &gt;&gt; Radford, Mrs. (3) Radford, Miss B. Rainsford, Mr. R. E. Ray, Col. Frank (4) Ray, Robert Remsen (3) Reynolds Reynolds, Mrs. William H. and childrenRhodes, Mrs. R. R. (2) Rice, Rev. W. H. Richman, Charles (11) Richman, Mrs. Charles (2) Ricker, Mrs. A. P. Ring, Blanche (2) Ring, Florence Ritchie, Adele (19) Robinson, Mrs. Robinson, D. T. L. Robinson, Elsie Robson (Belmont), Eleanor (9) Roosevelt, Theodore Roseberry, Augusta C. Rowan, Miss Lansing (2) Ryan, Elsa (3)</field>
+-    <field name="heading_ssm">Radford, Mrs. (3) Radford, Miss B. Rainsford, Mr. R. E. Ray, Col. Frank (4) Ray, Robert Remsen (3) Reynolds Reynolds, Mrs. William H. and childrenRhodes, Mrs. R. R. (2) Rice, Rev. W. H. Richman, Charles (11) Richman, Mrs. Charles (2) Ricker, Mrs. A. P. Ring, Blanche (2) Ring, Florence Ritchie, Adele (19) Robinson, Mrs. Robinson, D. T. L. Robinson, Elsie Robson (Belmont), Eleanor (9) Roosevelt, Theodore Roseberry, Augusta C. Rowan, Miss Lansing (2) Ryan, Elsa (3)</field>
++    <field name="heading_ssm">Radford, Mrs. (3) Radford, Miss B. Rainsford, Mr. R. E. Ray, Col. Frank (4) Ray, Robert Remsen (3) Reynolds Reynolds, Mrs. William H. and children Rhodes, Mrs. R. R. (2) Rice, Rev. W. H. Richman, Charles (11) Richman, Mrs. Charles (2) Ricker, Mrs. A. P. Ring, Blanche (2) Ring, Florence Ritchie, Adele (19) Robinson, Mrs. Robinson, D. T. L. Robinson, Elsie Robson (Belmont), Eleanor (9) Roosevelt, Theodore Roseberry, Augusta C. Rowan, Miss Lansing (2) Ryan, Elsa (3)</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">22</field>
+   </doc>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Knox, Cleone&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The diary of a young lady of fashion in the year 1764-1765&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: D. Appleton and Company&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Date&lt;/strong&gt;: 1926</field>
+-    <field name="unittitle_teim">Author: Knox, CleoneTitle: The diary of a young lady of fashion in the year 1764-1765City: New YorkPublisher: D. Appleton and CompanyFormat: hard coverDate: 1926</field>
++    <field name="unittitle_teim">Author: Knox, Cleone Title: The diary of a young lady of fashion in the year 1764-1765 City: New York Publisher: D. Appleton and Company Format: hard cover Date: 1926</field>
+     <field name="unitdate_normal_ssm">1926/1926</field>
+     <field name="unitdate_normal_teim">1926/1926</field>
+     <field name="unitdate_normal_sim">1926/1926</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Knox, Cleone&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The diary of a young lady of fashion in the year 1764-1765&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: D. Appleton and Company&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Date&lt;/strong&gt;: 1926</field>
+-    <field name="heading_ssm">Author: Knox, CleoneTitle: The diary of a young lady of fashion in the year 1764-1765City: New YorkPublisher: D. Appleton and CompanyFormat: hard coverDate: 1926</field>
++    <field name="heading_ssm">Author: Knox, Cleone Title: The diary of a young lady of fashion in the year 1764-1765 City: New York Publisher: D. Appleton and Company Format: hard cover Date: 1926</field>
+     <field name="unitdate_start_sim">1926</field>
+     <field name="unitdate_start_ssm">1926</field>
+     <field name="unitdate_start_si">1926</field>

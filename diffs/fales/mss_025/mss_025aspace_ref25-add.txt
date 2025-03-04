@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.025</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Silliman, RonaldSnyder, GarySpann, MarcellaVas Dias, Robert</field>
+-    <field name="unittitle_teim">Silliman, RonaldSnyder, GarySpann, MarcellaVas Dias, Robert</field>
++    <field name="unittitle_teim">Silliman, Ronald Snyder, Gary Spann, Marcella Vas Dias, Robert</field>
+     <field name="unitdate_teim">1970-1971</field>
+     <field name="ref_ssi">aspace_ref25</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.025</field>
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Silliman, RonaldSnyder, GarySpann, MarcellaVas Dias, Robert</field>
+-    <field name="heading_ssm">Silliman, RonaldSnyder, GarySpann, MarcellaVas Dias, Robert</field>
++    <field name="heading_ssm">Silliman, Ronald Snyder, Gary Spann, Marcella Vas Dias, Robert</field>
+     <field name="unitdate_ssm">1970-1971</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">14</field>

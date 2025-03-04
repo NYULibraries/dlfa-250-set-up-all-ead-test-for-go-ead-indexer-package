@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Roche, Regina Maria&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The children of the abbey&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Universal Publishing Company&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Date&lt;/strong&gt;: [1854]</field>
+-    <field name="unittitle_teim">Author: Roche, Regina MariaTitle: The children of the abbeyCity: New YorkPublisher: Universal Publishing CompanyFormat: hard coverDate: [1854]</field>
++    <field name="unittitle_teim">Author: Roche, Regina Maria Title: The children of the abbey City: New York Publisher: Universal Publishing Company Format: hard cover Date: [1854]</field>
+     <field name="unitdate_teim">[1854]</field>
+     <field name="title_teim">The children of the abbey</field>
+     <field name="title_ssm">The children of the abbey</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Roche, Regina Maria&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The children of the abbey&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Universal Publishing Company&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Date&lt;/strong&gt;: [1854]</field>
+-    <field name="heading_ssm">Author: Roche, Regina MariaTitle: The children of the abbeyCity: New YorkPublisher: Universal Publishing CompanyFormat: hard coverDate: [1854]</field>
++    <field name="heading_ssm">Author: Roche, Regina Maria Title: The children of the abbey City: New York Publisher: Universal Publishing Company Format: hard cover Date: [1854]</field>
+     <field name="unitdate_ssm">[1854]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1297</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Various - Composers:Calabro, LouisChadabe, JoelConstantinides, DinosConrad (unknown surname)Custer, ArthurDenis, SolDoktor, PaulElly (unknown surname)Felder, DavidFennelly, BrianFletcher, GrantFried, GeorgeGumbel, AllenGideon, MiriamGinastera, AlbertoGlickman, GeneGrant, W. Parks</field>
+-    <field name="unittitle_teim">Various - Composers:Calabro, LouisChadabe, JoelConstantinides, DinosConrad (unknown surname)Custer, ArthurDenis, SolDoktor, PaulElly (unknown surname)Felder, DavidFennelly, BrianFletcher, GrantFried, GeorgeGumbel, AllenGideon, MiriamGinastera, AlbertoGlickman, GeneGrant, W. Parks</field>
++    <field name="unittitle_teim">Various - Composers: Calabro, Louis Chadabe, Joel Constantinides, Dinos Conrad (unknown surname) Custer, Arthur Denis, Sol Doktor, Paul Elly (unknown surname) Felder, David Fennelly, Brian Fletcher, Grant Fried, George Gumbel, Allen Gideon, Miriam Ginastera, Alberto Glickman, Gene Grant, W. Parks</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref185</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.093</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_si">Series II: Correspondence &gt;&gt; Various - Composers:Calabro, LouisChadabe, JoelConstantinides, DinosConrad (unknown surname)Custer, ArthurDenis, SolDoktor, PaulElly (unknown surname)Felder, DavidFennelly, BrianFletcher, GrantFried, GeorgeGumbel, AllenGideon, MiriamGinastera, AlbertoGlickman, GeneGrant, W. Parks</field>
+-    <field name="heading_ssm">Various - Composers:Calabro, LouisChadabe, JoelConstantinides, DinosConrad (unknown surname)Custer, ArthurDenis, SolDoktor, PaulElly (unknown surname)Felder, DavidFennelly, BrianFletcher, GrantFried, GeorgeGumbel, AllenGideon, MiriamGinastera, AlbertoGlickman, GeneGrant, W. Parks</field>
++    <field name="heading_ssm">Various - Composers: Calabro, Louis Chadabe, Joel Constantinides, Dinos Conrad (unknown surname) Custer, Arthur Denis, Sol Doktor, Paul Elly (unknown surname) Felder, David Fennelly, Brian Fletcher, Grant Fried, George Gumbel, Allen Gideon, Miriam Ginastera, Alberto Glickman, Gene Grant, W. Parks</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">167</field>

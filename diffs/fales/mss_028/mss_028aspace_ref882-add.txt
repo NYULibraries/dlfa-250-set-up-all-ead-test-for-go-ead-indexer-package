@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Gunter, Archibald Clavering&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The King's stockbroker, the sequel to "A princess of Paris"&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The Home Publishing Company&lt;strong&gt;Date&lt;/strong&gt;: 1894</field>
+-    <field name="unittitle_teim">Author: Gunter, Archibald ClaveringTitle: The King's stockbroker, the sequel to "A princess of Paris"City: New YorkPublisher: The Home Publishing CompanyDate: 1894</field>
++    <field name="unittitle_teim">Author: Gunter, Archibald Clavering Title: The King's stockbroker, the sequel to "A princess of Paris" City: New York Publisher: The Home Publishing Company Date: 1894</field>
+     <field name="unitdate_normal_ssm">1894/1894</field>
+     <field name="unitdate_normal_teim">1894/1894</field>
+     <field name="unitdate_normal_sim">1894/1894</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Gunter, Archibald Clavering&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The King's stockbroker, the sequel to "A princess of Paris"&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The Home Publishing Company&lt;strong&gt;Date&lt;/strong&gt;: 1894</field>
+-    <field name="heading_ssm">Author: Gunter, Archibald ClaveringTitle: The King's stockbroker, the sequel to "A princess of Paris"City: New YorkPublisher: The Home Publishing CompanyDate: 1894</field>
++    <field name="heading_ssm">Author: Gunter, Archibald Clavering Title: The King's stockbroker, the sequel to "A princess of Paris" City: New York Publisher: The Home Publishing Company Date: 1894</field>
+     <field name="unitdate_start_sim">1894</field>
+     <field name="unitdate_start_ssm">1894</field>
+     <field name="unitdate_start_si">1894</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Cleveland, GroverClews, HenryClyde, William P.Clyde, William PancoastCobb, John BlackwellCoffman, De WittCoghlan, Joseph BullockColby, BainbridgeColeman, LeightonColer, Bird SimColey, B. L.Collier, Robert Joseph (2)Collyer, BudCollyer, Robert</field>
+-    <field name="unittitle_teim">Cleveland, GroverClews, HenryClyde, William P.Clyde, William PancoastCobb, John BlackwellCoffman, De WittCoghlan, Joseph BullockColby, BainbridgeColeman, LeightonColer, Bird SimColey, B. L.Collier, Robert Joseph (2)Collyer, BudCollyer, Robert</field>
++    <field name="unittitle_teim">Cleveland, Grover Clews, Henry Clyde, William P. Clyde, William Pancoast Cobb, John Blackwell Coffman, De Witt Coghlan, Joseph Bullock Colby, Bainbridge Coleman, Leighton Coler, Bird Sim Coley, B. L. Collier, Robert Joseph (2) Collyer, Bud Collyer, Robert</field>
+     <field name="ref_ssi">aspace_ref33_jod</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Cleveland, GroverClews, HenryClyde, William P.Clyde, William PancoastCobb, John BlackwellCoffman, De WittCoghlan, Joseph BullockColby, BainbridgeColeman, LeightonColer, Bird SimColey, B. L.Collier, Robert Joseph (2)Collyer, BudCollyer, Robert</field>
+-    <field name="heading_ssm">Cleveland, GroverClews, HenryClyde, William P.Clyde, William PancoastCobb, John BlackwellCoffman, De WittCoghlan, Joseph BullockColby, BainbridgeColeman, LeightonColer, Bird SimColey, B. L.Collier, Robert Joseph (2)Collyer, BudCollyer, Robert</field>
++    <field name="heading_ssm">Cleveland, Grover Clews, Henry Clyde, William P. Clyde, William Pancoast Cobb, John Blackwell Coffman, De Witt Coghlan, Joseph Bullock Colby, Bainbridge Coleman, Leighton Coler, Bird Sim Coley, B. L. Collier, Robert Joseph (2) Collyer, Bud Collyer, Robert</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">16</field>
+   </doc>

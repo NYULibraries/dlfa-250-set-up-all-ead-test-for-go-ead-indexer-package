@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -12,8 +12,8 @@
+     <field name="parent_unittitles_teim">Chapter I. The Nature of Caribbean Society [h4]</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+-    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+-    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_sim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_ssm">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_ssm">RISM.RG.16.(j)</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">"Class, Race and Culture in the Caribbean: Some Speculations on Theory," Ken Post</field>
+@@ -30,7 +30,7 @@
+     <field name="format_ssm">Archival Object</field>
+     <field name="location_ssm">Box: 20, Folder: 8</field>
+     <field name="location_si">Box: 20, Folder: 8</field>
+-    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration(Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
++    <field name="collection_teim">Records of New Perspectives on Caribbean Studies: Toward the 21st Century and Prospects for Caribbean Basin Integration (Conference held at Hunter College, CUNY, August 28-September 1, 1984)</field>
+     <field name="collection_unitid_teim">RISM.RG.16.(j)</field>
+     <field name="series_sim">Series XII. Yale University Press Manuscripts (unpublished) June 1984 - May 1987</field>
+     <field name="series_sim">Chapter I. The Nature of Caribbean Society [h4]</field>

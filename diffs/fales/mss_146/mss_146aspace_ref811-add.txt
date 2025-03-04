@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.146</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Vinaver, SteveWinchell, Walter</field>
+-    <field name="unittitle_teim">Vinaver, SteveWinchell, Walter</field>
++    <field name="unittitle_teim">Vinaver, Steve Winchell, Walter</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/471772</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/471772</field>
+     <field name="unitdate_teim">1966</field>
+@@ -34,7 +34,7 @@
+     <field name="series_sim">Series I: Correspondence</field>
+     <field name="series_sim">Subseries A</field>
+     <field name="series_si">Series I: Correspondence &gt;&gt; Subseries A &gt;&gt; Vinaver, SteveWinchell, Walter</field>
+-    <field name="heading_ssm">Vinaver, SteveWinchell, Walter</field>
++    <field name="heading_ssm">Vinaver, Steve Winchell, Walter</field>
+     <field name="unitdate_ssm">1966</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">705</field>

@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2009/2009</field>
+     <field name="unitdate_normal_sim">2009/2009</field>
+     <field name="unitdate_inclusive_teim">2009</field>
+-    <field name="scopecontent_teim">Director: Matt Faust (USA)Original Title: HomeCatalog Record: GetIt | HomeMore Information</field>
+-    <field name="phystech_teim">Original Format: HDCAMColorTotal Running Time: 00:06:00</field>
++    <field name="scopecontent_teim">Director: Matt Faust (USA) Original Title: Home Catalog Record: GetIt | Home More Information</field>
++    <field name="phystech_teim">Original Format: HDCAM Color Total Running Time: 00:06:00</field>
+     <field name="ref_ssi">aspace_ref12_vyt</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

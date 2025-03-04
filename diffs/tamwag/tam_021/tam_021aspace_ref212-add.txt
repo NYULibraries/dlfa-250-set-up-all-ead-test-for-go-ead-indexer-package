@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">TAM.021</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt;We Struggled with a Smile&lt;/em&gt; contains: &lt;em&gt;An Innocent Deception&lt;/em&gt; (3 copies) &lt;em&gt;On the Plains of Colorado&lt;/em&gt; (3 copies) &lt;em&gt;Good Heavens!&lt;/em&gt; (3 copies) &lt;em&gt;A British Prime Minister Meets His American&lt;/em&gt;&lt;em&gt;Comrades&lt;/em&gt; (3 copies) &lt;em&gt;I Work with a Notorious Racketeer&lt;/em&gt;&lt;em&gt;Some Funny Moments in the Labor Movement&lt;/em&gt;&lt;em&gt;The Germans in Our Midst&lt;/em&gt;&lt;em&gt;The Benefits of Materialism&lt;/em&gt; (2 copies)</field>
+-    <field name="unittitle_teim">We Struggled with a Smile contains: An Innocent Deception (3 copies) On the Plains of Colorado (3 copies) Good Heavens! (3 copies) A British Prime Minister Meets His AmericanComrades (3 copies) I Work with a Notorious RacketeerSome Funny Moments in the Labor MovementThe Germans in Our MidstThe Benefits of Materialism (2 copies)</field>
++    <field name="unittitle_teim">We Struggled with a Smile contains: An Innocent Deception (3 copies) On the Plains of Colorado (3 copies) Good Heavens! (3 copies) A British Prime Minister Meets His American Comrades (3 copies) I Work with a Notorious Racketeer Some Funny Moments in the Labor Movement The Germans in Our Midst The Benefits of Materialism (2 copies)</field>
+     <field name="unitdate_normal_ssm">1911/1955</field>
+     <field name="unitdate_normal_teim">1911/1955</field>
+     <field name="unitdate_normal_sim">1911/1955</field>
+@@ -51,7 +51,7 @@
+     <field name="collection_unitid_teim">TAM.021</field>
+     <field name="series_sim">Series II. Manuscript and Lecture Notes, 1906-1954</field>
+     <field name="series_si">Series II. Manuscript and Lecture Notes, 1906-1954 &gt;&gt; &lt;em&gt;We Struggled with a Smile&lt;/em&gt; contains: &lt;em&gt;An Innocent Deception&lt;/em&gt; (3 copies) &lt;em&gt;On the Plains of Colorado&lt;/em&gt; (3 copies) &lt;em&gt;Good Heavens!&lt;/em&gt; (3 copies) &lt;em&gt;A British Prime Minister Meets His American&lt;/em&gt;&lt;em&gt;Comrades&lt;/em&gt; (3 copies) &lt;em&gt;I Work with a Notorious Racketeer&lt;/em&gt;&lt;em&gt;Some Funny Moments in the Labor Movement&lt;/em&gt;&lt;em&gt;The Germans in Our Midst&lt;/em&gt;&lt;em&gt;The Benefits of Materialism&lt;/em&gt; (2 copies)</field>
+-    <field name="heading_ssm">We Struggled with a Smile contains: An Innocent Deception (3 copies) On the Plains of Colorado (3 copies) Good Heavens! (3 copies) A British Prime Minister Meets His AmericanComrades (3 copies) I Work with a Notorious RacketeerSome Funny Moments in the Labor MovementThe Germans in Our MidstThe Benefits of Materialism (2 copies)</field>
++    <field name="heading_ssm">We Struggled with a Smile contains: An Innocent Deception (3 copies) On the Plains of Colorado (3 copies) Good Heavens! (3 copies) A British Prime Minister Meets His American Comrades (3 copies) I Work with a Notorious Racketeer Some Funny Moments in the Labor Movement The Germans in Our Midst The Benefits of Materialism (2 copies)</field>
+     <field name="unitdate_start_sim">1911</field>
+     <field name="unitdate_start_ssm">1911</field>
+     <field name="unitdate_start_si">1911</field>

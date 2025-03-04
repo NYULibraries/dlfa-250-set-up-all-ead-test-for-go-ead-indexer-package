@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Wicked John Rehearsal&lt;em&gt;Note&lt;/em&gt;: St. Peter's tape, 1970 Master&lt;em&gt;Brand&lt;/em&gt;: Scotch&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="unittitle_teim">Wicked John RehearsalNote: St. Peter's tape, 1970 MasterBrand: ScotchFormat: 1/4" sm.</field>
++    <field name="unittitle_teim">Wicked John Rehearsal Note: St. Peter's tape, 1970 Master Brand: Scotch Format: 1/4" sm.</field>
+     <field name="unitdate_teim">1970</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Brand</field>
+@@ -38,7 +38,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries A: Watts - Works on Tape</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries A: Watts - Works on Tape &gt;&gt; Wicked John Rehearsal&lt;em&gt;Note&lt;/em&gt;: St. Peter's tape, 1970 Master&lt;em&gt;Brand&lt;/em&gt;: Scotch&lt;em&gt;Format&lt;/em&gt;: 1/4" sm.</field>
+-    <field name="heading_ssm">Wicked John RehearsalNote: St. Peter's tape, 1970 MasterBrand: ScotchFormat: 1/4" sm.</field>
++    <field name="heading_ssm">Wicked John Rehearsal Note: St. Peter's tape, 1970 Master Brand: Scotch Format: 1/4" sm.</field>
+     <field name="unitdate_ssm">1970</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">939</field>

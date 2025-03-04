@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Dafoe, AllanDaley, Charles FrederickDamrosch, Frank HeinoDamrosch, Walter JohannesDaniel, John F.Darlington, HenryDarlington, ThomasDavenport, Frank F.Davenport, Homer CalvinDavis, Henry GassawayDavis, John WilliamDavis, Lee ParsonsDavis, Richard HardingDavis, Varina Howell</field>
+-    <field name="unittitle_teim">Dafoe, AllanDaley, Charles FrederickDamrosch, Frank HeinoDamrosch, Walter JohannesDaniel, John F.Darlington, HenryDarlington, ThomasDavenport, Frank F.Davenport, Homer CalvinDavis, Henry GassawayDavis, John WilliamDavis, Lee ParsonsDavis, Richard HardingDavis, Varina Howell</field>
++    <field name="unittitle_teim">Dafoe, Allan Daley, Charles Frederick Damrosch, Frank Heino Damrosch, Walter Johannes Daniel, John F. Darlington, Henry Darlington, Thomas Davenport, Frank F. Davenport, Homer Calvin Davis, Henry Gassaway Davis, John William Davis, Lee Parsons Davis, Richard Harding Davis, Varina Howell</field>
+     <field name="ref_ssi">aspace_ref38_urg</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Dafoe, AllanDaley, Charles FrederickDamrosch, Frank HeinoDamrosch, Walter JohannesDaniel, John F.Darlington, HenryDarlington, ThomasDavenport, Frank F.Davenport, Homer CalvinDavis, Henry GassawayDavis, John WilliamDavis, Lee ParsonsDavis, Richard HardingDavis, Varina Howell</field>
+-    <field name="heading_ssm">Dafoe, AllanDaley, Charles FrederickDamrosch, Frank HeinoDamrosch, Walter JohannesDaniel, John F.Darlington, HenryDarlington, ThomasDavenport, Frank F.Davenport, Homer CalvinDavis, Henry GassawayDavis, John WilliamDavis, Lee ParsonsDavis, Richard HardingDavis, Varina Howell</field>
++    <field name="heading_ssm">Dafoe, Allan Daley, Charles Frederick Damrosch, Frank Heino Damrosch, Walter Johannes Daniel, John F. Darlington, Henry Darlington, Thomas Davenport, Frank F. Davenport, Homer Calvin Davis, Henry Gassaway Davis, John William Davis, Lee Parsons Davis, Richard Harding Davis, Varina Howell</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">20</field>
+   </doc>

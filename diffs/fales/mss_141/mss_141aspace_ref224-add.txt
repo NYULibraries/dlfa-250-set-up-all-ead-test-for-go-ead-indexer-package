@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Works Box 7 (Scripts Box 8)</field>
+     <field name="unitid_teim">31142040619770</field>
+     <field name="unitid_ssm">31142040619770</field>
+-    <field name="scopecontent_teim">"Discovery of America" copious typescript versions, revisions, and fragments, original notes, notes on "Masters of the Wind" possibly relatedNotes on "Hollywood" City of Faith Part III, ca. 1974"An Incident in the Park", typescript ca. 1964"Wings", undated"Hands of a Stranger" various copies, drafts, notes, correspondence and other documents relating to production, ca. 1986-1987.</field>
++    <field name="scopecontent_teim">"Discovery of America" copious typescript versions, revisions, and fragments, original notes, notes on "Masters of the Wind" possibly related Notes on "Hollywood" City of Faith Part III, ca. 1974 "An Incident in the Park", typescript ca. 1964 "Wings", undated "Hands of a Stranger" various copies, drafts, notes, correspondence and other documents relating to production, ca. 1986-1987.</field>
+     <field name="ref_ssi">aspace_ref224</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

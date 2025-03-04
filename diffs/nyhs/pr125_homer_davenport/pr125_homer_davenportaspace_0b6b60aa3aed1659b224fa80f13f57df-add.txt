@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names A-B</field>
+     <field name="unittitle_teim">Various Names A-B</field>
+-    <field name="scopecontent_teim">AnaniasAshbridgeBaer, (George Frederick?)Bailey, (Joseph Weldon?)Belmont, (August?)Berry, Sen.- with Bill SterretBlackBoyle, James with Wm. Penney, Wm. Barnes, John McQuade, "Aquarium" JonesBryan, William Jennings (see also 'Pulitzer, Joseph')Bull, John</field>
++    <field name="scopecontent_teim">Ananias Ashbridge Baer, (George Frederick?) Bailey, (Joseph Weldon?) Belmont, (August?) Berry, Sen.- with Bill Sterret Black Boyle, James with Wm. Penney, Wm. Barnes, John McQuade, "Aquarium" Jones Bryan, William Jennings (see also 'Pulitzer, Joseph') Bull, John</field>
+     <field name="ref_ssi">aspace_0b6b60aa3aed1659b224fa80f13f57df</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

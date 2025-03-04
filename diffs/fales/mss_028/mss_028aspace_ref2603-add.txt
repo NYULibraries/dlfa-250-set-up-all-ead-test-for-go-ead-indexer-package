@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Recreation&lt;strong&gt;Series Number&lt;/strong&gt;: vol. VII, no. 3&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: G. O. Shields&lt;strong&gt;Date&lt;/strong&gt;: September, 1897</field>
+-    <field name="unittitle_teim">Series Title: RecreationSeries Number: vol. VII, no. 3City: New YorkPublisher: G. O. ShieldsDate: September, 1897</field>
++    <field name="unittitle_teim">Series Title: Recreation Series Number: vol. VII, no. 3 City: New York Publisher: G. O. Shields Date: September, 1897</field>
+     <field name="unitdate_normal_ssm">1897/1897</field>
+     <field name="unitdate_normal_teim">1897/1897</field>
+     <field name="unitdate_normal_sim">1897/1897</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Recreation&lt;strong&gt;Series Number&lt;/strong&gt;: vol. VII, no. 3&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: G. O. Shields&lt;strong&gt;Date&lt;/strong&gt;: September, 1897</field>
+-    <field name="heading_ssm">Series Title: RecreationSeries Number: vol. VII, no. 3City: New YorkPublisher: G. O. ShieldsDate: September, 1897</field>
++    <field name="heading_ssm">Series Title: Recreation Series Number: vol. VII, no. 3 City: New York Publisher: G. O. Shields Date: September, 1897</field>
+     <field name="unitdate_start_sim">1897</field>
+     <field name="unitdate_start_ssm">1897</field>
+     <field name="unitdate_start_si">1897</field>

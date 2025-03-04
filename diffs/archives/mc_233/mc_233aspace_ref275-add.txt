@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="collection_ssm">Tony Judt Papers</field>
+     <field name="collection_unitid_ssm">MC.233</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">13E: End of Master Narratives 14A --&amp;gt; 14L</field>
++    <field name="unittitle_ssm">13E: End of Master Narratives 14A --&gt; 14L</field>
+     <field name="unittitle_teim">13E: End of Master Narratives 14A --&gt; 14L</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref275</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">Series I: Books</field>
+     <field name="series_sim">Subseries I: Postwar (2005)</field>
+     <field name="series_sim">Sub-subseries i: Outline Notes</field>
+-    <field name="series_si">Series I: Books &gt;&gt; Subseries I: Postwar (2005) &gt;&gt; Sub-subseries i: Outline Notes &gt;&gt; 13E: End of Master Narratives 14A --&amp;gt; 14L</field>
++    <field name="series_si">Series I: Books &gt;&gt; Subseries I: Postwar (2005) &gt;&gt; Sub-subseries i: Outline Notes &gt;&gt; 13E: End of Master Narratives 14A --&gt; 14L</field>
+     <field name="heading_ssm">13E: End of Master Narratives 14A --&gt; 14L</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.034</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Jeffrey, Francis, LordJerdan, WilliamJerningham, EdwardJerome, Jerome KlapkaJones, Henry Adkins</field>
+-    <field name="unittitle_teim">Jeffrey, Francis, LordJerdan, WilliamJerningham, EdwardJerome, Jerome KlapkaJones, Henry Adkins</field>
++    <field name="unittitle_teim">Jeffrey, Francis, Lord Jerdan, William Jerningham, Edward Jerome, Jerome Klapka Jones, Henry Adkins</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref313</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.034</field>
+     <field name="series_sim">Series I</field>
+     <field name="series_si">Series I &gt;&gt; Jeffrey, Francis, LordJerdan, WilliamJerningham, EdwardJerome, Jerome KlapkaJones, Henry Adkins</field>
+-    <field name="heading_ssm">Jeffrey, Francis, LordJerdan, WilliamJerningham, EdwardJerome, Jerome KlapkaJones, Henry Adkins</field>
++    <field name="heading_ssm">Jeffrey, Francis, Lord Jerdan, William Jerningham, Edward Jerome, Jerome Klapka Jones, Henry Adkins</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">293</field>

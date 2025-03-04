@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 85</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Bacon, H. D. Bancroft, George Barnard, Frederick Barnard, John G. Barnes Barry, E. P., Mrs. Battee Beach, Alfred, Rev. Bell Belly (2) Beninger Bigelow, John Bird Bishop Black, Jeremiah S. Blackstock (2) Blair, Montgomery Boatwright Borie Bosworth, Joseph Bowen Bowie Bowlin Boyd Brewster Brickett Briggs Bright Bright, JesseBrook, R. L. Bruce Buckley, Andrew Bush Butler Butterfield, Daniel Butterworth</field>
+-    <field name="unittitle_teim">Bacon, H. D. Bancroft, George Barnard, Frederick Barnard, John G. Barnes Barry, E. P., Mrs. Battee Beach, Alfred, Rev. Bell Belly (2) Beninger Bigelow, John Bird Bishop Black, Jeremiah S. Blackstock (2) Blair, Montgomery Boatwright Borie Bosworth, Joseph Bowen Bowie Bowlin Boyd Brewster Brickett Briggs Bright Bright, JesseBrook, R. L. Bruce Buckley, Andrew Bush Butler Butterfield, Daniel Butterworth</field>
++    <field name="unittitle_teim">Bacon, H. D. Bancroft, George Barnard, Frederick Barnard, John G. Barnes Barry, E. P., Mrs. Battee Beach, Alfred, Rev. Bell Belly (2) Beninger Bigelow, John Bird Bishop Black, Jeremiah S. Blackstock (2) Blair, Montgomery Boatwright Borie Bosworth, Joseph Bowen Bowie Bowlin Boyd Brewster Brickett Briggs Bright Bright, Jesse Brook, R. L. Bruce Buckley, Andrew Bush Butler Butterfield, Daniel Butterworth</field>
+     <field name="ref_ssi">aspace_ref14_icv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 85</field>
+     <field name="series_sim">Series I: Imperial Format Portraits</field>
+     <field name="series_si">Series I: Imperial Format Portraits &gt;&gt; Bacon, H. D. Bancroft, George Barnard, Frederick Barnard, John G. Barnes Barry, E. P., Mrs. Battee Beach, Alfred, Rev. Bell Belly (2) Beninger Bigelow, John Bird Bishop Black, Jeremiah S. Blackstock (2) Blair, Montgomery Boatwright Borie Bosworth, Joseph Bowen Bowie Bowlin Boyd Brewster Brickett Briggs Bright Bright, JesseBrook, R. L. Bruce Buckley, Andrew Bush Butler Butterfield, Daniel Butterworth</field>
+-    <field name="heading_ssm">Bacon, H. D. Bancroft, George Barnard, Frederick Barnard, John G. Barnes Barry, E. P., Mrs. Battee Beach, Alfred, Rev. Bell Belly (2) Beninger Bigelow, John Bird Bishop Black, Jeremiah S. Blackstock (2) Blair, Montgomery Boatwright Borie Bosworth, Joseph Bowen Bowie Bowlin Boyd Brewster Brickett Briggs Bright Bright, JesseBrook, R. L. Bruce Buckley, Andrew Bush Butler Butterfield, Daniel Butterworth</field>
++    <field name="heading_ssm">Bacon, H. D. Bancroft, George Barnard, Frederick Barnard, John G. Barnes Barry, E. P., Mrs. Battee Beach, Alfred, Rev. Bell Belly (2) Beninger Bigelow, John Bird Bishop Black, Jeremiah S. Blackstock (2) Blair, Montgomery Boatwright Borie Bosworth, Joseph Bowen Bowie Bowlin Boyd Brewster Brickett Briggs Bright Bright, Jesse Brook, R. L. Bruce Buckley, Andrew Bush Butler Butterfield, Daniel Butterworth</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3</field>
+   </doc>

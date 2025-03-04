@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Dongan, Walter.&lt;strong&gt;place&lt;/strong&gt;: s.l.</field>
+-    <field name="unittitle_teim">creator: Dongan, Walter.place: s.l.</field>
++    <field name="unittitle_teim">creator: Dongan, Walter. place: s.l.</field>
+     <field name="unitid_teim">055-001-b-0192</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404206</field>
+     <field name="unitid_ssm">055-001-b-0192</field>
+@@ -27,8 +27,8 @@
+     <field name="name_teim">Dongan, Walter.</field>
+     <field name="name_ssm">Dongan, Walter.</field>
+     <field name="name_ssm">Dongan, Walter.</field>
+-    <field name="dao_teim">creator: Dongan, Walter.place: s.l.: Dec 20, 1745</field>
+-    <field name="dao_ssm">creator: Dongan, Walter.place: s.l.: Dec 20, 1745</field>
++    <field name="dao_teim">creator: Dongan, Walter. place: s.l.: Dec 20, 1745</field>
++    <field name="dao_ssm">creator: Dongan, Walter. place: s.l.: Dec 20, 1745</field>
+     <field name="ref_ssi">aspace_ref289</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series I: New York State</field>
+     <field name="series_sim">Subseries B: James Alexander Collection</field>
+     <field name="series_si">Series I: New York State &gt;&gt; Subseries B: James Alexander Collection &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Dongan, Walter.&lt;strong&gt;place&lt;/strong&gt;: s.l.</field>
+-    <field name="heading_ssm">creator: Dongan, Walter.place: s.l.</field>
++    <field name="heading_ssm">creator: Dongan, Walter. place: s.l.</field>
+     <field name="unitdate_ssm">Dec 20, 1745</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">74</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Personal Materials Box 6 Oversize</field>
+     <field name="unitid_teim">31142050719015</field>
+     <field name="unitid_ssm">31142050719015</field>
+-    <field name="scopecontent_teim">Gigantic amount of newspaper, mostly copies of the Harvard crimson with other assorted clippings, check register from 1964-1965, a copy of the hardcover periodical "Eros", a red handmade flag with a white letter "H", a framed news clipping of 1963 and a framed Drama Desk Award from 1962; roll of three photocopies of 1962 Outer Circle Award, Audio RecordingsTwo LP phonographs, labeled "Harvard Radio Network"Note: Realia to possibly deaccession include a completely blank appointment book, a wire "in" basket, a brass box and a box containing a variety of bibelots including tie pins, dice, and a hash pipe moved to box 101a</field>
++    <field name="scopecontent_teim">Gigantic amount of newspaper, mostly copies of the Harvard crimson with other assorted clippings, check register from 1964-1965, a copy of the hardcover periodical "Eros", a red handmade flag with a white letter "H", a framed news clipping of 1963 and a framed Drama Desk Award from 1962; roll of three photocopies of 1962 Outer Circle Award, Audio Recordings Two LP phonographs, labeled "Harvard Radio Network" Note: Realia to possibly deaccession include a completely blank appointment book, a wire "in" basket, a brass box and a box containing a variety of bibelots including tie pins, dice, and a hash pipe moved to box 101a</field>
+     <field name="ref_ssi">aspace_ref325</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

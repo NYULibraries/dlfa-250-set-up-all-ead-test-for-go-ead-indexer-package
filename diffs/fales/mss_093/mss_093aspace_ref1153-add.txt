@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Tomorrow's Television Tonight&lt;em&gt;Note&lt;/em&gt;: Nick Yanni with Laura, John, and others, Channel D- Manhattan, 1979&lt;em&gt;Format&lt;/em&gt;: Audio cass.</field>
+-    <field name="unittitle_teim">Tomorrow's Television TonightNote: Nick Yanni with Laura, John, and others, Channel D- Manhattan, 1979Format: Audio cass.</field>
++    <field name="unittitle_teim">Tomorrow's Television Tonight Note: Nick Yanni with Laura, John, and others, Channel D- Manhattan, 1979 Format: Audio cass.</field>
+     <field name="unitdate_teim">1979</field>
+     <field name="title_teim">Note</field>
+     <field name="title_teim">Format</field>
+@@ -36,7 +36,7 @@
+     <field name="series_sim">Series IX: Audio Recordings</field>
+     <field name="series_sim">Subseries F: Audio Cassettes</field>
+     <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries F: Audio Cassettes &gt;&gt; Tomorrow's Television Tonight&lt;em&gt;Note&lt;/em&gt;: Nick Yanni with Laura, John, and others, Channel D- Manhattan, 1979&lt;em&gt;Format&lt;/em&gt;: Audio cass.</field>
+-    <field name="heading_ssm">Tomorrow's Television TonightNote: Nick Yanni with Laura, John, and others, Channel D- Manhattan, 1979Format: Audio cass.</field>
++    <field name="heading_ssm">Tomorrow's Television Tonight Note: Nick Yanni with Laura, John, and others, Channel D- Manhattan, 1979 Format: Audio cass.</field>
+     <field name="unitdate_ssm">1979</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">1132</field>

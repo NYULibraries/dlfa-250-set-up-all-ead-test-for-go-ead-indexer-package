@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.146</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">"Norman Mailer's Barbary Shore" (Annotated Typescript)New York Shakespeare Festival, Annotated Audition Form</field>
+-    <field name="unittitle_teim">"Norman Mailer's Barbary Shore" (Annotated Typescript)New York Shakespeare Festival, Annotated Audition Form</field>
++    <field name="unittitle_teim">"Norman Mailer's Barbary Shore" (Annotated Typescript) New York Shakespeare Festival, Annotated Audition Form</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/472036</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/472036</field>
+     <field name="unitdate_teim">1973</field>
+@@ -34,7 +34,7 @@
+     <field name="series_sim">Series II: Production Files</field>
+     <field name="series_sim">Subseries G: Barbary Shore</field>
+     <field name="series_si">Series II: Production Files &gt;&gt; Subseries G: Barbary Shore &gt;&gt; "Norman Mailer's Barbary Shore" (Annotated Typescript)New York Shakespeare Festival, Annotated Audition Form</field>
+-    <field name="heading_ssm">"Norman Mailer's Barbary Shore" (Annotated Typescript)New York Shakespeare Festival, Annotated Audition Form</field>
++    <field name="heading_ssm">"Norman Mailer's Barbary Shore" (Annotated Typescript) New York Shakespeare Festival, Annotated Audition Form</field>
+     <field name="unitdate_ssm">1973</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">969</field>

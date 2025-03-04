@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Dodge, Grenville MellenDodge, William EarlDonovan, EdwardDoolittle, JamesDouglas, William O.Dowling, Victor JamesDribben, S. F.Ducey, Thomas JamesDuchin, EddieDuke, DorisDuncan, William ButlerDunlap, Charles E.Dupuy, HerbertDyer, George R.</field>
+-    <field name="unittitle_teim">Dodge, Grenville MellenDodge, William EarlDonovan, EdwardDoolittle, JamesDouglas, William O.Dowling, Victor JamesDribben, S. F.Ducey, Thomas JamesDuchin, EddieDuke, DorisDuncan, William ButlerDunlap, Charles E.Dupuy, HerbertDyer, George R.</field>
++    <field name="unittitle_teim">Dodge, Grenville Mellen Dodge, William Earl Donovan, Edward Doolittle, James Douglas, William O. Dowling, Victor James Dribben, S. F. Ducey, Thomas James Duchin, Eddie Duke, Doris Duncan, William Butler Dunlap, Charles E. Dupuy, Herbert Dyer, George R.</field>
+     <field name="ref_ssi">aspace_ref45_67e</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Dodge, Grenville MellenDodge, William EarlDonovan, EdwardDoolittle, JamesDouglas, William O.Dowling, Victor JamesDribben, S. F.Ducey, Thomas JamesDuchin, EddieDuke, DorisDuncan, William ButlerDunlap, Charles E.Dupuy, HerbertDyer, George R.</field>
+-    <field name="heading_ssm">Dodge, Grenville MellenDodge, William EarlDonovan, EdwardDoolittle, JamesDouglas, William O.Dowling, Victor JamesDribben, S. F.Ducey, Thomas JamesDuchin, EddieDuke, DorisDuncan, William ButlerDunlap, Charles E.Dupuy, HerbertDyer, George R.</field>
++    <field name="heading_ssm">Dodge, Grenville Mellen Dodge, William Earl Donovan, Edward Doolittle, James Douglas, William O. Dowling, Victor James Dribben, S. F. Ducey, Thomas James Duchin, Eddie Duke, Doris Duncan, William Butler Dunlap, Charles E. Dupuy, Herbert Dyer, George R.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">24</field>
+   </doc>

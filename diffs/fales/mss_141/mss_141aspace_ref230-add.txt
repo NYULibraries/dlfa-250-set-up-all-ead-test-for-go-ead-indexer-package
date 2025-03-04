@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Works Box 9 (Scripts Box 12)</field>
+     <field name="unitid_teim">31142040619762</field>
+     <field name="unitid_ssm">31142040619762</field>
+-    <field name="scopecontent_teim">"The Poet", 1st and 2nd drafts of screenplay, 1990-1991"The Frog" screenplay numerous copies including original handwritten draft and original typescript with hand edits undated"Fresh Game" 2 different versions of film outline, undatedfragment of unknown work"Starstruck", materials for unproduced science fiction tv series including binders and notebooks, index cards, script, audiotape, handwritten and typescript notes, character outlines, time lines, etc., ca.1978Handwritten and typescript drafts of undated work entitled "Sensuous Woman""End of the World", two copies of scriptAudio Cassettes"Starstruck 8/13/78" 1 micro cassetteNote: 1 folder of legal size material on "Starstruck" moved to Flat Box 12.</field>
++    <field name="scopecontent_teim">"The Poet", 1st and 2nd drafts of screenplay, 1990-1991 "The Frog" screenplay numerous copies including original handwritten draft and original typescript with hand edits undated "Fresh Game" 2 different versions of film outline, undated fragment of unknown work "Starstruck", materials for unproduced science fiction tv series including binders and notebooks, index cards, script, audiotape, handwritten and typescript notes, character outlines, time lines, etc., ca.1978 Handwritten and typescript drafts of undated work entitled "Sensuous Woman" "End of the World", two copies of script Audio Cassettes "Starstruck 8/13/78" 1 micro cassette Note: 1 folder of legal size material on "Starstruck" moved to Flat Box 12.</field>
+     <field name="ref_ssi">aspace_ref230</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

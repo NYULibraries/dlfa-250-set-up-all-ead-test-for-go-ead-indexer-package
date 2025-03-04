@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Ward, John Quincy AdamsWard, WilburWaring, George Edwin, Jr.Warren, James C.Warren, LindsayWarren, StaffordWashington, Booker T.Wasserman, S. Waterman, Lewis EdsonWatson, James E.Watson, Thomas J., Sr.Watson, Thomas, Jr.Watts, Charles H.Webb, Alexander StewartWebb, CliftonWebb, CreightonWebb, William Seward, and daughter</field>
+-    <field name="unittitle_teim">Ward, John Quincy AdamsWard, WilburWaring, George Edwin, Jr.Warren, James C.Warren, LindsayWarren, StaffordWashington, Booker T.Wasserman, S. Waterman, Lewis EdsonWatson, James E.Watson, Thomas J., Sr.Watson, Thomas, Jr.Watts, Charles H.Webb, Alexander StewartWebb, CliftonWebb, CreightonWebb, William Seward, and daughter</field>
++    <field name="unittitle_teim">Ward, John Quincy Adams Ward, Wilbur Waring, George Edwin, Jr. Warren, James C. Warren, Lindsay Warren, Stafford Washington, Booker T. Wasserman, S. Waterman, Lewis Edson Watson, James E. Watson, Thomas J., Sr. Watson, Thomas, Jr. Watts, Charles H. Webb, Alexander Stewart Webb, Clifton Webb, Creighton Webb, William Seward, and daughter</field>
+     <field name="ref_ssi">aspace_ref115_0ki</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Ward, John Quincy AdamsWard, WilburWaring, George Edwin, Jr.Warren, James C.Warren, LindsayWarren, StaffordWashington, Booker T.Wasserman, S. Waterman, Lewis EdsonWatson, James E.Watson, Thomas J., Sr.Watson, Thomas, Jr.Watts, Charles H.Webb, Alexander StewartWebb, CliftonWebb, CreightonWebb, William Seward, and daughter</field>
+-    <field name="heading_ssm">Ward, John Quincy AdamsWard, WilburWaring, George Edwin, Jr.Warren, James C.Warren, LindsayWarren, StaffordWashington, Booker T.Wasserman, S. Waterman, Lewis EdsonWatson, James E.Watson, Thomas J., Sr.Watson, Thomas, Jr.Watts, Charles H.Webb, Alexander StewartWebb, CliftonWebb, CreightonWebb, William Seward, and daughter</field>
++    <field name="heading_ssm">Ward, John Quincy Adams Ward, Wilbur Waring, George Edwin, Jr. Warren, James C. Warren, Lindsay Warren, Stafford Washington, Booker T. Wasserman, S. Waterman, Lewis Edson Watson, James E. Watson, Thomas J., Sr. Watson, Thomas, Jr. Watts, Charles H. Webb, Alexander Stewart Webb, Clifton Webb, Creighton Webb, William Seward, and daughter</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">83</field>
+   </doc>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Denison, Isabel&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The discipline of life&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Library of Select Novels&lt;strong&gt;Series Number&lt;/strong&gt;: 119&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Harper &amp; Brothers&lt;strong&gt;Date&lt;/strong&gt;: 1848</field>
+-    <field name="unittitle_teim">Author: Denison, IsabelTitle: The discipline of lifeSeries Title: Library of Select NovelsSeries Number: 119City: New YorkPublisher: Harper &amp; BrothersDate: 1848</field>
++    <field name="unittitle_teim">Author: Denison, Isabel Title: The discipline of life Series Title: Library of Select Novels Series Number: 119 City: New York Publisher: Harper &amp; Brothers Date: 1848</field>
+     <field name="unitdate_normal_ssm">1848/1848</field>
+     <field name="unitdate_normal_teim">1848/1848</field>
+     <field name="unitdate_normal_sim">1848/1848</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Denison, Isabel&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The discipline of life&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Library of Select Novels&lt;strong&gt;Series Number&lt;/strong&gt;: 119&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Harper &amp; Brothers&lt;strong&gt;Date&lt;/strong&gt;: 1848</field>
+-    <field name="heading_ssm">Author: Denison, IsabelTitle: The discipline of lifeSeries Title: Library of Select NovelsSeries Number: 119City: New YorkPublisher: Harper &amp; BrothersDate: 1848</field>
++    <field name="heading_ssm">Author: Denison, Isabel Title: The discipline of life Series Title: Library of Select Novels Series Number: 119 City: New York Publisher: Harper &amp; Brothers Date: 1848</field>
+     <field name="unitdate_start_sim">1848</field>
+     <field name="unitdate_start_ssm">1848</field>
+     <field name="unitdate_start_si">1848</field>

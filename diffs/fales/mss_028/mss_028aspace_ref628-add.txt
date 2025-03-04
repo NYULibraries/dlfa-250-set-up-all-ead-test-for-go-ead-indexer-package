@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Dumas, Alexandre&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Olympia of Celves; or, the loves of a king&lt;/em&gt;&lt;strong&gt;Date&lt;/strong&gt;: [1882]</field>
+-    <field name="unittitle_teim">Author: Dumas, AlexandreTitle: Olympia of Celves; or, the loves of a kingDate: [1882]</field>
++    <field name="unittitle_teim">Author: Dumas, Alexandre Title: Olympia of Celves; or, the loves of a king Date: [1882]</field>
+     <field name="unitdate_teim">[1882]</field>
+     <field name="title_teim">Olympia of Celves; or, the loves of a king</field>
+     <field name="title_ssm">Olympia of Celves; or, the loves of a king</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Dumas, Alexandre&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Olympia of Celves; or, the loves of a king&lt;/em&gt;&lt;strong&gt;Date&lt;/strong&gt;: [1882]</field>
+-    <field name="heading_ssm">Author: Dumas, AlexandreTitle: Olympia of Celves; or, the loves of a kingDate: [1882]</field>
++    <field name="heading_ssm">Author: Dumas, Alexandre Title: Olympia of Celves; or, the loves of a king Date: [1882]</field>
+     <field name="unitdate_ssm">[1882]</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">617</field>

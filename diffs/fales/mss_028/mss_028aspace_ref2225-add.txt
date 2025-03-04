@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Franklin Square Library&lt;strong&gt;Series Number&lt;/strong&gt;: 203, 208, 209&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Harper &amp; Brothers&lt;strong&gt;Date&lt;/strong&gt;: September 2, October 7, 14, 1881</field>
+-    <field name="unittitle_teim">Series Title: Franklin Square LibrarySeries Number: 203, 208, 209City: New YorkPublisher: Harper &amp; BrothersDate: September 2, October 7, 14, 1881</field>
++    <field name="unittitle_teim">Series Title: Franklin Square Library Series Number: 203, 208, 209 City: New York Publisher: Harper &amp; Brothers Date: September 2, October 7, 14, 1881</field>
+     <field name="unitdate_normal_ssm">1881/1881</field>
+     <field name="unitdate_normal_teim">1881/1881</field>
+     <field name="unitdate_normal_sim">1881/1881</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Franklin Square Library&lt;strong&gt;Series Number&lt;/strong&gt;: 203, 208, 209&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Harper &amp; Brothers&lt;strong&gt;Date&lt;/strong&gt;: September 2, October 7, 14, 1881</field>
+-    <field name="heading_ssm">Series Title: Franklin Square LibrarySeries Number: 203, 208, 209City: New YorkPublisher: Harper &amp; BrothersDate: September 2, October 7, 14, 1881</field>
++    <field name="heading_ssm">Series Title: Franklin Square Library Series Number: 203, 208, 209 City: New York Publisher: Harper &amp; Brothers Date: September 2, October 7, 14, 1881</field>
+     <field name="unitdate_start_sim">1881</field>
+     <field name="unitdate_start_ssm">1881</field>
+     <field name="unitdate_start_si">1881</field>

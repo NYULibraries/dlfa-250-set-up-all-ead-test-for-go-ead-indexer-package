@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Brady, Cyrus Townsend&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The better man, with some account of what he struggled for and what he won&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Howell's Adventure Story Series&lt;strong&gt;Series Number&lt;/strong&gt;: 64&lt;strong&gt;City&lt;/strong&gt;: Chicago&lt;strong&gt;Publisher&lt;/strong&gt;: The Howell Publishing Company&lt;strong&gt;Date&lt;/strong&gt;: 1920</field>
+-    <field name="unittitle_teim">Author: Brady, Cyrus TownsendTitle: The better man, with some account of what he struggled for and what he wonSeries Title: Howell's Adventure Story SeriesSeries Number: 64City: ChicagoPublisher: The Howell Publishing CompanyDate: 1920</field>
++    <field name="unittitle_teim">Author: Brady, Cyrus Townsend Title: The better man, with some account of what he struggled for and what he won Series Title: Howell's Adventure Story Series Series Number: 64 City: Chicago Publisher: The Howell Publishing Company Date: 1920</field>
+     <field name="unitdate_normal_ssm">1920/1920</field>
+     <field name="unitdate_normal_teim">1920/1920</field>
+     <field name="unitdate_normal_sim">1920/1920</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Brady, Cyrus Townsend&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The better man, with some account of what he struggled for and what he won&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Howell's Adventure Story Series&lt;strong&gt;Series Number&lt;/strong&gt;: 64&lt;strong&gt;City&lt;/strong&gt;: Chicago&lt;strong&gt;Publisher&lt;/strong&gt;: The Howell Publishing Company&lt;strong&gt;Date&lt;/strong&gt;: 1920</field>
+-    <field name="heading_ssm">Author: Brady, Cyrus TownsendTitle: The better man, with some account of what he struggled for and what he wonSeries Title: Howell's Adventure Story SeriesSeries Number: 64City: ChicagoPublisher: The Howell Publishing CompanyDate: 1920</field>
++    <field name="heading_ssm">Author: Brady, Cyrus Townsend Title: The better man, with some account of what he struggled for and what he won Series Title: Howell's Adventure Story Series Series Number: 64 City: Chicago Publisher: The Howell Publishing Company Date: 1920</field>
+     <field name="unitdate_start_sim">1920</field>
+     <field name="unitdate_start_ssm">1920</field>
+     <field name="unitdate_start_si">1920</field>

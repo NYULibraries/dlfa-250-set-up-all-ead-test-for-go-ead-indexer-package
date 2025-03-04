@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Haynes, John W.Hayward, WilliamHayward, William, Mrs.Hearst, Millicent Willson, and sonHearst, Phoebe AppersonHearst, Phoebe Apperson, and grandsonHearst, William RandolphHearst, William Randolph, Jr.Hecksher, AugustHecksher, John G.</field>
+-    <field name="unittitle_teim">Haynes, John W.Hayward, WilliamHayward, William, Mrs.Hearst, Millicent Willson, and sonHearst, Phoebe AppersonHearst, Phoebe Apperson, and grandsonHearst, William RandolphHearst, William Randolph, Jr.Hecksher, AugustHecksher, John G.</field>
++    <field name="unittitle_teim">Haynes, John W. Hayward, William Hayward, William, Mrs. Hearst, Millicent Willson, and son Hearst, Phoebe Apperson Hearst, Phoebe Apperson, and grandson Hearst, William Randolph Hearst, William Randolph, Jr. Hecksher, August Hecksher, John G.</field>
+     <field name="ref_ssi">aspace_ref63_x1b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Haynes, John W.Hayward, WilliamHayward, William, Mrs.Hearst, Millicent Willson, and sonHearst, Phoebe AppersonHearst, Phoebe Apperson, and grandsonHearst, William RandolphHearst, William Randolph, Jr.Hecksher, AugustHecksher, John G.</field>
+-    <field name="heading_ssm">Haynes, John W.Hayward, WilliamHayward, William, Mrs.Hearst, Millicent Willson, and sonHearst, Phoebe AppersonHearst, Phoebe Apperson, and grandsonHearst, William RandolphHearst, William Randolph, Jr.Hecksher, AugustHecksher, John G.</field>
++    <field name="heading_ssm">Haynes, John W. Hayward, William Hayward, William, Mrs. Hearst, Millicent Willson, and son Hearst, Phoebe Apperson Hearst, Phoebe Apperson, and grandson Hearst, William Randolph Hearst, William Randolph, Jr. Hecksher, August Hecksher, John G.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">38</field>
+   </doc>

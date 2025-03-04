@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Quackenbos (Quackenbush), John DuncanQuick, DouglasRandolph, Francis Fitz Rapee, ErnoRaven Anton AdolphRay, Jackson Harvelle RandolphRaymond, Andrew Van VrankenRea, C. H.Redfield, William CoxReed, Stanley F.Reichenbach, HarryReid, WhitelawReilly, EdwinReinecke, F. C. Reynolds, Quentin, Mr. and Mrs</field>
+-    <field name="unittitle_teim">Quackenbos (Quackenbush), John DuncanQuick, DouglasRandolph, Francis Fitz Rapee, ErnoRaven Anton AdolphRay, Jackson Harvelle RandolphRaymond, Andrew Van VrankenRea, C. H.Redfield, William CoxReed, Stanley F.Reichenbach, HarryReid, WhitelawReilly, EdwinReinecke, F. C. Reynolds, Quentin, Mr. and Mrs</field>
++    <field name="unittitle_teim">Quackenbos (Quackenbush), John Duncan Quick, Douglas Randolph, Francis Fitz Rapee, Erno Raven Anton Adolph Ray, Jackson Harvelle Randolph Raymond, Andrew Van Vranken Rea, C. H. Redfield, William Cox Reed, Stanley F. Reichenbach, Harry Reid, Whitelaw Reilly, Edwin Reinecke, F. C. Reynolds, Quentin, Mr. and Mrs</field>
+     <field name="ref_ssi">aspace_ref95_buv</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Quackenbos (Quackenbush), John DuncanQuick, DouglasRandolph, Francis Fitz Rapee, ErnoRaven Anton AdolphRay, Jackson Harvelle RandolphRaymond, Andrew Van VrankenRea, C. H.Redfield, William CoxReed, Stanley F.Reichenbach, HarryReid, WhitelawReilly, EdwinReinecke, F. C. Reynolds, Quentin, Mr. and Mrs</field>
+-    <field name="heading_ssm">Quackenbos (Quackenbush), John DuncanQuick, DouglasRandolph, Francis Fitz Rapee, ErnoRaven Anton AdolphRay, Jackson Harvelle RandolphRaymond, Andrew Van VrankenRea, C. H.Redfield, William CoxReed, Stanley F.Reichenbach, HarryReid, WhitelawReilly, EdwinReinecke, F. C. Reynolds, Quentin, Mr. and Mrs</field>
++    <field name="heading_ssm">Quackenbos (Quackenbush), John Duncan Quick, Douglas Randolph, Francis Fitz Rapee, Erno Raven Anton Adolph Ray, Jackson Harvelle Randolph Raymond, Andrew Van Vranken Rea, C. H. Redfield, William Cox Reed, Stanley F. Reichenbach, Harry Reid, Whitelaw Reilly, Edwin Reinecke, F. C. Reynolds, Quentin, Mr. and Mrs</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">66</field>
+   </doc>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="unittitle_teim">Miscellaneous Works Box 12</field>
+     <field name="unitid_teim">31142040619820</field>
+     <field name="unitid_ssm">31142040619820</field>
+-    <field name="scopecontent_teim">files on various works, mostly relating to foreign productions including translations, royalties, correspondence, programs, reviews and contracts. Works include "Chamber Music", "Discovery of America", "End of the World", "Indians" (Including the "Original Hand Written Version!"), "Oh Dad, Poor Dad...", "Nine" (including snapshots of French(?) company), "Road to Nirvana", and "Phantom". A second set of records then begins composed mainly of finished copies of scripts including "Edgar's Exploits", "The Conquest of Everest", "Untitled Play", "The Questioning of Nick", and "The Day the Whores....".Note: One oversized folder of material on "Chamber Music", one folder of "Oh Dad, Poor Dad..." (original film contract); one of "Nine", unidentified handwritten script from 1976, all moved to Flat Box 12.</field>
++    <field name="scopecontent_teim">files on various works, mostly relating to foreign productions including translations, royalties, correspondence, programs, reviews and contracts. Works include "Chamber Music", "Discovery of America", "End of the World", "Indians" (Including the "Original Hand Written Version!"), "Oh Dad, Poor Dad...", "Nine" (including snapshots of French(?) company), "Road to Nirvana", and "Phantom". A second set of records then begins composed mainly of finished copies of scripts including "Edgar's Exploits", "The Conquest of Everest", "Untitled Play", "The Questioning of Nick", and "The Day the Whores....". Note: One oversized folder of material on "Chamber Music", one folder of "Oh Dad, Poor Dad..." (original film contract); one of "Nine", unidentified handwritten script from 1976, all moved to Flat Box 12.</field>
+     <field name="ref_ssi">aspace_ref239</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

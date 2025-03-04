@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 300.0002</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/553889</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Original format: DVD-RDuration: 1 hour 5 minutes</field>
++    <field name="phystech_teim">Original format: DVD-R Duration: 1 hour 5 minutes</field>
+     <field name="ref_ssi">aspace_ref69</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

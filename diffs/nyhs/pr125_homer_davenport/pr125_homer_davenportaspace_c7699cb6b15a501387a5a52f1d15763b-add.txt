@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names M</field>
+     <field name="unittitle_teim">Various Names M</field>
+-    <field name="scopecontent_teim">McAdoo, (William Gibbs?)McCarren, with McLaughlin, Shevlin, Cockran, MurphyMcClellan, George B.McKane, John Y. (re: Coney Island)McLoughlinMcNally, WilliamMontesque, RobertMyer, Allen O.</field>
++    <field name="scopecontent_teim">McAdoo, (William Gibbs?) McCarren, with McLaughlin, Shevlin, Cockran, Murphy McClellan, George B. McKane, John Y. (re: Coney Island) McLoughlin McNally, William Montesque, Robert Myer, Allen O.</field>
+     <field name="ref_ssi">aspace_c7699cb6b15a501387a5a52f1d15763b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

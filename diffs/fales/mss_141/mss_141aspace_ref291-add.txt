@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718850</field>
+     <field name="unitid_ssm">31142050718850</field>
+     <field name="unitdate_teim">ca. early 1990s</field>
+-    <field name="scopecontent_teim">Series of hanging files, many with numerous Manila folders as above. These files all pertain to specific works and productions. Records include contracts, correspondence, reviews, permissions, information on regional and international productions, including proposals for musicals based on "Wings". Productions documented include "Phantom", "Wings", "Success" (a one act play), "Legacy of a Mother's Murder" ("In a Child's Name"), "Dreamhouse", "Norman in Wonderland", "Hands of a Stranger", "The Poet", and "Roswell".Audio Cassettes"Wings" tape of musical adaptation by Jeffrey Lunden."Andrew Rudin: Excerpts from..."Note: Oversized material, "Phantom" contracts moved to Flat Box 14</field>
++    <field name="scopecontent_teim">Series of hanging files, many with numerous Manila folders as above. These files all pertain to specific works and productions. Records include contracts, correspondence, reviews, permissions, information on regional and international productions, including proposals for musicals based on "Wings". Productions documented include "Phantom", "Wings", "Success" (a one act play), "Legacy of a Mother's Murder" ("In a Child's Name"), "Dreamhouse", "Norman in Wonderland", "Hands of a Stranger", "The Poet", and "Roswell". Audio Cassettes "Wings" tape of musical adaptation by Jeffrey Lunden. "Andrew Rudin: Excerpts from..." Note: Oversized material, "Phantom" contracts moved to Flat Box 14</field>
+     <field name="ref_ssi">aspace_ref291</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

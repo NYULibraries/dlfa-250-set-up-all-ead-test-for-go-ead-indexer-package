@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitdate_normal_teim">1994/1994</field>
+     <field name="unitdate_normal_sim">1994/1994</field>
+     <field name="unitdate_inclusive_teim">28 October 1994</field>
+-    <field name="phystech_teim">Format: AudiocassetteTotal Running Time: Unknown</field>
++    <field name="phystech_teim">Format: Audiocassette Total Running Time: Unknown</field>
+     <field name="ref_ssi">aspace_ref180_3hk</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

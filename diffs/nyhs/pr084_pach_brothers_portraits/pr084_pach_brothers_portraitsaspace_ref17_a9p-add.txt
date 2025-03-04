@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Arbuckle, MaclynArchbold, John DustinArliss, GeorgeArnold, Conway HillyerArthur, Chester AlanAstor, John JacobAstor, Vincent, Mrs. and Mr. HuntingtonAstor, William Vincent (2)Atterbury, GrosvenorAuchincloss, James C.</field>
+-    <field name="unittitle_teim">Arbuckle, MaclynArchbold, John DustinArliss, GeorgeArnold, Conway HillyerArthur, Chester AlanAstor, John JacobAstor, Vincent, Mrs. and Mr. HuntingtonAstor, William Vincent (2)Atterbury, GrosvenorAuchincloss, James C.</field>
++    <field name="unittitle_teim">Arbuckle, Maclyn Archbold, John Dustin Arliss, George Arnold, Conway Hillyer Arthur, Chester Alan Astor, John Jacob Astor, Vincent, Mrs. and Mr. Huntington Astor, William Vincent (2) Atterbury, Grosvenor Auchincloss, James C.</field>
+     <field name="ref_ssi">aspace_ref17_a9p</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Arbuckle, MaclynArchbold, John DustinArliss, GeorgeArnold, Conway HillyerArthur, Chester AlanAstor, John JacobAstor, Vincent, Mrs. and Mr. HuntingtonAstor, William Vincent (2)Atterbury, GrosvenorAuchincloss, James C.</field>
+-    <field name="heading_ssm">Arbuckle, MaclynArchbold, John DustinArliss, GeorgeArnold, Conway HillyerArthur, Chester AlanAstor, John JacobAstor, Vincent, Mrs. and Mr. HuntingtonAstor, William Vincent (2)Atterbury, GrosvenorAuchincloss, James C.</field>
++    <field name="heading_ssm">Arbuckle, Maclyn Archbold, John Dustin Arliss, George Arnold, Conway Hillyer Arthur, Chester Alan Astor, John Jacob Astor, Vincent, Mrs. and Mr. Huntington Astor, William Vincent (2) Atterbury, Grosvenor Auchincloss, James C.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">3</field>
+   </doc>

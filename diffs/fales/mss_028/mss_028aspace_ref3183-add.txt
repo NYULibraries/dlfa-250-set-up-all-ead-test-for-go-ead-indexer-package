@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Young Men of America a sparkling journal for young gentlemen&lt;strong&gt;Series Number&lt;/strong&gt;: vol. IV, no. 176-181, 185, 187-188, 196, 198-199, 201, 207; vol. V, no. 211-219&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Tousey &amp; Small&lt;strong&gt;Date&lt;/strong&gt;: 1881</field>
+-    <field name="unittitle_teim">Series Title: Young Men of America a sparkling journal for young gentlemenSeries Number: vol. IV, no. 176-181, 185, 187-188, 196, 198-199, 201, 207; vol. V, no. 211-219City: New YorkPublisher: Tousey &amp; SmallDate: 1881</field>
++    <field name="unittitle_teim">Series Title: Young Men of America a sparkling journal for young gentlemen Series Number: vol. IV, no. 176-181, 185, 187-188, 196, 198-199, 201, 207; vol. V, no. 211-219 City: New York Publisher: Tousey &amp; Small Date: 1881</field>
+     <field name="unitdate_normal_ssm">1881/1881</field>
+     <field name="unitdate_normal_teim">1881/1881</field>
+     <field name="unitdate_normal_sim">1881/1881</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series VI: Flat Boxes</field>
+     <field name="series_si">Series VI: Flat Boxes &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Young Men of America a sparkling journal for young gentlemen&lt;strong&gt;Series Number&lt;/strong&gt;: vol. IV, no. 176-181, 185, 187-188, 196, 198-199, 201, 207; vol. V, no. 211-219&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Tousey &amp; Small&lt;strong&gt;Date&lt;/strong&gt;: 1881</field>
+-    <field name="heading_ssm">Series Title: Young Men of America a sparkling journal for young gentlemenSeries Number: vol. IV, no. 176-181, 185, 187-188, 196, 198-199, 201, 207; vol. V, no. 211-219City: New YorkPublisher: Tousey &amp; SmallDate: 1881</field>
++    <field name="heading_ssm">Series Title: Young Men of America a sparkling journal for young gentlemen Series Number: vol. IV, no. 176-181, 185, 187-188, 196, 198-199, 201, 207; vol. V, no. 211-219 City: New York Publisher: Tousey &amp; Small Date: 1881</field>
+     <field name="unitdate_start_sim">1881</field>
+     <field name="unitdate_start_ssm">1881</field>
+     <field name="unitdate_start_si">1881</field>

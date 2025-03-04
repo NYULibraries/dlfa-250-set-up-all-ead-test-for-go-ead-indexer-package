@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names V</field>
+     <field name="unittitle_teim">Various Names V</field>
+-    <field name="scopecontent_teim">Vanderbilt, CorneliusVan Wyck, Robert (also see 'Trusts, Ice')</field>
++    <field name="scopecontent_teim">Vanderbilt, Cornelius Van Wyck, Robert (also see 'Trusts, Ice')</field>
+     <field name="ref_ssi">aspace_2c322764bf1fb12ba9a5401dc31b2ac8</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

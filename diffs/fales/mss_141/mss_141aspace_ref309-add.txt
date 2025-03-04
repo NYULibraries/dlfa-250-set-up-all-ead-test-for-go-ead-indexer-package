@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="unitid_teim">31142050718942</field>
+     <field name="unitid_ssm">31142050718942</field>
+     <field name="unitdate_teim">ca. 1980-1995</field>
+-    <field name="scopecontent_teim">Business files found elsewhere in the collection and moved. These materials are from hanging files, all apparently from the 1980s, and consist of home improvement records, personal and business correspondence, some personal financial materials and other materials. A second set of records deal largely with the Dramatists' Guild, all materials from the 1990s, and includes a large amount of correspondence regarding various productions and Guild business, newsletters and Guild publications and materials regarding the Tony Awards, playbills and other miscellaneous materials from the period.Note: One oversized legal folder of Tony Award material moved to Flat Box 15.</field>
++    <field name="scopecontent_teim">Business files found elsewhere in the collection and moved. These materials are from hanging files, all apparently from the 1980s, and consist of home improvement records, personal and business correspondence, some personal financial materials and other materials. A second set of records deal largely with the Dramatists' Guild, all materials from the 1990s, and includes a large amount of correspondence regarding various productions and Guild business, newsletters and Guild publications and materials regarding the Tony Awards, playbills and other miscellaneous materials from the period. Note: One oversized legal folder of Tony Award material moved to Flat Box 15.</field>
+     <field name="ref_ssi">aspace_ref309</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

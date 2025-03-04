@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -20,7 +20,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">roll DD: plans of 269 Canal Street425 Broadway9 -- 13 Mercer Street34 Greene Street28 -- 30 Greene Street365 -- 367 Canal Street27 Greene Street18 --20 Wooster Street351 -- 357 Broadway47 -- 49 Mercer Street453 -- 455 Broome Street96 -- 102 Grand Street72 Greene Street64 Greene Street85 Mercer Street454 Broome Street65 Greene Street367 West Broadway (500 Broome Street)147 Spring Street</field>
+-    <field name="unittitle_teim">roll DD: plans of 269 Canal Street425 Broadway9 -- 13 Mercer Street34 Greene Street28 -- 30 Greene Street365 -- 367 Canal Street27 Greene Street18 --20 Wooster Street351 -- 357 Broadway47 -- 49 Mercer Street453 -- 455 Broome Street96 -- 102 Grand Street72 Greene Street64 Greene Street85 Mercer Street454 Broome Street65 Greene Street367 West Broadway (500 Broome Street)147 Spring Street</field>
++    <field name="unittitle_teim">roll DD: plans of 269 Canal Street 425 Broadway 9 -- 13 Mercer Street 34 Greene Street 28 -- 30 Greene Street 365 -- 367 Canal Street 27 Greene Street 18 --20 Wooster Street 351 -- 357 Broadway 47 -- 49 Mercer Street 453 -- 455 Broome Street 96 -- 102 Grand Street 72 Greene Street 64 Greene Street 85 Mercer Street 454 Broome Street 65 Greene Street 367 West Broadway (500 Broome Street) 147 Spring Street</field>
+     <field name="ref_ssi">aspace_ref1497_nlm</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">PROJECT SOHO COPY PRINTS</field>
+     <field name="series_sim">35 mm film prints of original architect's drawings</field>
+     <field name="series_si">Series IV. Project Soho &gt;&gt; PROJECT SOHO COPY PRINTS &gt;&gt; 35 mm film prints of original architect's drawings &gt;&gt; roll DD: plans of 269 Canal Street425 Broadway9 -- 13 Mercer Street34 Greene Street28 -- 30 Greene Street365 -- 367 Canal Street27 Greene Street18 --20 Wooster Street351 -- 357 Broadway47 -- 49 Mercer Street453 -- 455 Broome Street96 -- 102 Grand Street72 Greene Street64 Greene Street85 Mercer Street454 Broome Street65 Greene Street367 West Broadway (500 Broome Street)147 Spring Street</field>
+-    <field name="heading_ssm">roll DD: plans of 269 Canal Street425 Broadway9 -- 13 Mercer Street34 Greene Street28 -- 30 Greene Street365 -- 367 Canal Street27 Greene Street18 --20 Wooster Street351 -- 357 Broadway47 -- 49 Mercer Street453 -- 455 Broome Street96 -- 102 Grand Street72 Greene Street64 Greene Street85 Mercer Street454 Broome Street65 Greene Street367 West Broadway (500 Broome Street)147 Spring Street</field>
++    <field name="heading_ssm">roll DD: plans of 269 Canal Street 425 Broadway 9 -- 13 Mercer Street 34 Greene Street 28 -- 30 Greene Street 365 -- 367 Canal Street 27 Greene Street 18 --20 Wooster Street 351 -- 357 Broadway 47 -- 49 Mercer Street 453 -- 455 Broome Street 96 -- 102 Grand Street 72 Greene Street 64 Greene Street 85 Mercer Street 454 Broome Street 65 Greene Street 367 West Broadway (500 Broome Street) 147 Spring Street</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">932</field>
+   </doc>

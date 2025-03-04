@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Littell's Living Age &lt;strong&gt;Series Number&lt;/strong&gt;: 463-6&lt;strong&gt;City&lt;/strong&gt;: Boston and New York&lt;strong&gt;Publisher&lt;/strong&gt;: Littell, Son &amp; Company&lt;strong&gt;Date&lt;/strong&gt;: April 2-23, 1853</field>
+-    <field name="unittitle_teim">Series Title: Littell's Living Age Series Number: 463-6City: Boston and New YorkPublisher: Littell, Son &amp; CompanyDate: April 2-23, 1853</field>
++    <field name="unittitle_teim">Series Title: Littell's Living Age Series Number: 463-6 City: Boston and New York Publisher: Littell, Son &amp; Company Date: April 2-23, 1853</field>
+     <field name="unitdate_normal_ssm">1853/1853</field>
+     <field name="unitdate_normal_teim">1853/1853</field>
+     <field name="unitdate_normal_sim">1853/1853</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series III: Periodicals (Box 92-122)</field>
+     <field name="series_si">Series III: Periodicals (Box 92-122) &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Littell's Living Age &lt;strong&gt;Series Number&lt;/strong&gt;: 463-6&lt;strong&gt;City&lt;/strong&gt;: Boston and New York&lt;strong&gt;Publisher&lt;/strong&gt;: Littell, Son &amp; Company&lt;strong&gt;Date&lt;/strong&gt;: April 2-23, 1853</field>
+-    <field name="heading_ssm">Series Title: Littell's Living Age Series Number: 463-6City: Boston and New YorkPublisher: Littell, Son &amp; CompanyDate: April 2-23, 1853</field>
++    <field name="heading_ssm">Series Title: Littell's Living Age Series Number: 463-6 City: Boston and New York Publisher: Littell, Son &amp; Company Date: April 2-23, 1853</field>
+     <field name="unitdate_start_sim">1853</field>
+     <field name="unitdate_start_ssm">1853</field>
+     <field name="unitdate_start_si">1853</field>

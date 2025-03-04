@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="unitdate_normal_teim">1968/1996</field>
+     <field name="unitdate_normal_sim">1968/1996</field>
+     <field name="unitdate_inclusive_teim">1968-1996; undated</field>
+-    <field name="scopecontent_teim">Series comprises miscellaneous printed material found either foldered in unlabeled folders or loose in boxes. Materials are almost exclusively gallery announcements, invitations, press releases, and exhibition catalogs. Series contains some correspondence, mostly postcard announcements, left in place to preserve original order. Some items in this series are stamped "RECEIVED; [date]; LEO LERMAN."Material in this series is arranged chronologically by earliest date on folder.</field>
++    <field name="scopecontent_teim">Series comprises miscellaneous printed material found either foldered in unlabeled folders or loose in boxes. Materials are almost exclusively gallery announcements, invitations, press releases, and exhibition catalogs. Series contains some correspondence, mostly postcard announcements, left in place to preserve original order. Some items in this series are stamped "RECEIVED; [date]; LEO LERMAN." Material in this series is arranged chronologically by earliest date on folder.</field>
+     <field name="ref_ssi">aspace_ref4</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

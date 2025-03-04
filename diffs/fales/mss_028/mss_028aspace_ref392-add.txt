@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Lacroix, Frederic&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The mysteries of Russia&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: Coolidge &amp; Wiley&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Other Notes&lt;/strong&gt;: bound with The history and extraordinary adventures of Margaret Catchpole, a Suffolk girl, and The life of George Brummel, Esq., commonly called Beau Brummell&lt;strong&gt;Date&lt;/strong&gt;: 1848</field>
+-    <field name="unittitle_teim">Author: Lacroix, FredericTitle: The mysteries of RussiaCity: BostonPublisher: Coolidge &amp; WileyFormat: hard coverOther Notes: bound with The history and extraordinary adventures of Margaret Catchpole, a Suffolk girl, and The life of George Brummel, Esq., commonly called Beau BrummellDate: 1848</field>
++    <field name="unittitle_teim">Author: Lacroix, Frederic Title: The mysteries of Russia City: Boston Publisher: Coolidge &amp; Wiley Format: hard cover Other Notes: bound with The history and extraordinary adventures of Margaret Catchpole, a Suffolk girl, and The life of George Brummel, Esq., commonly called Beau Brummell Date: 1848</field>
+     <field name="unitdate_normal_ssm">1848/1848</field>
+     <field name="unitdate_normal_teim">1848/1848</field>
+     <field name="unitdate_normal_sim">1848/1848</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Lacroix, Frederic&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;The mysteries of Russia&lt;/em&gt;&lt;strong&gt;City&lt;/strong&gt;: Boston&lt;strong&gt;Publisher&lt;/strong&gt;: Coolidge &amp; Wiley&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Other Notes&lt;/strong&gt;: bound with The history and extraordinary adventures of Margaret Catchpole, a Suffolk girl, and The life of George Brummel, Esq., commonly called Beau Brummell&lt;strong&gt;Date&lt;/strong&gt;: 1848</field>
+-    <field name="heading_ssm">Author: Lacroix, FredericTitle: The mysteries of RussiaCity: BostonPublisher: Coolidge &amp; WileyFormat: hard coverOther Notes: bound with The history and extraordinary adventures of Margaret Catchpole, a Suffolk girl, and The life of George Brummel, Esq., commonly called Beau BrummellDate: 1848</field>
++    <field name="heading_ssm">Author: Lacroix, Frederic Title: The mysteries of Russia City: Boston Publisher: Coolidge &amp; Wiley Format: hard cover Other Notes: bound with The history and extraordinary adventures of Margaret Catchpole, a Suffolk girl, and The life of George Brummel, Esq., commonly called Beau Brummell Date: 1848</field>
+     <field name="unitdate_start_sim">1848</field>
+     <field name="unitdate_start_ssm">1848</field>
+     <field name="unitdate_start_si">1848</field>

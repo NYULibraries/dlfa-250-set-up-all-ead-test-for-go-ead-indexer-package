@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Evans, Augusta J.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Inez: a tale of the Alamo&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Alice Series&lt;strong&gt;Series Number&lt;/strong&gt;: 18&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The Avon Book Company&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="unittitle_teim">Author: Evans, Augusta J.Title: Inez: a tale of the AlamoSeries Title: The Alice SeriesSeries Number: 18City: New YorkPublisher: The Avon Book CompanyDate: undated</field>
++    <field name="unittitle_teim">Author: Evans, Augusta J. Title: Inez: a tale of the Alamo Series Title: The Alice Series Series Number: 18 City: New York Publisher: The Avon Book Company Date: undated</field>
+     <field name="unitdate_normal_ssm">1821/1968</field>
+     <field name="unitdate_normal_teim">1821/1968</field>
+     <field name="unitdate_normal_sim">1821/1968</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Evans, Augusta J.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Inez: a tale of the Alamo&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Alice Series&lt;strong&gt;Series Number&lt;/strong&gt;: 18&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: The Avon Book Company&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+-    <field name="heading_ssm">Author: Evans, Augusta J.Title: Inez: a tale of the AlamoSeries Title: The Alice SeriesSeries Number: 18City: New YorkPublisher: The Avon Book CompanyDate: undated</field>
++    <field name="heading_ssm">Author: Evans, Augusta J. Title: Inez: a tale of the Alamo Series Title: The Alice Series Series Number: 18 City: New York Publisher: The Avon Book Company Date: undated</field>
+     <field name="unitdate_start_sim">1821</field>
+     <field name="unitdate_start_ssm">1821</field>
+     <field name="unitdate_start_si">1821</field>

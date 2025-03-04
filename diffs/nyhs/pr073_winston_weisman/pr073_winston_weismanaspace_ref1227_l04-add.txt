@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Laing Stores 258 -- 262 Washington Streetviews of Manhattanmaps</field>
+-    <field name="unittitle_teim">Laing Stores 258 -- 262 Washington Streetviews of Manhattanmaps</field>
++    <field name="unittitle_teim">Laing Stores 258 -- 262 Washington Street views of Manhattan maps</field>
+     <field name="ref_ssi">aspace_ref1227_l04</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series II. Negatives</field>
+     <field name="series_sim">MANHATTAN</field>
+     <field name="series_si">Series II. Negatives &gt;&gt; MANHATTAN &gt;&gt; Laing Stores 258 -- 262 Washington Streetviews of Manhattanmaps</field>
+-    <field name="heading_ssm">Laing Stores 258 -- 262 Washington Streetviews of Manhattanmaps</field>
++    <field name="heading_ssm">Laing Stores 258 -- 262 Washington Street views of Manhattan maps</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">694</field>
+   </doc>

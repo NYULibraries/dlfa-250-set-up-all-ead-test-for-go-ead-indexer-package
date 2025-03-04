@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2010/2010</field>
+     <field name="unitdate_normal_sim">2010/2010</field>
+     <field name="unitdate_inclusive_teim">2010</field>
+-    <field name="scopecontent_teim">Director: Amna Ehtesham Khaishgi (UAE)Original Title: Qafzat Al-ImanCatalog Record: GetIt | Leap of FaithMore Information</field>
+-    <field name="phystech_teim">Original Format: 35mmColorTotal Running Time: 00:26:00</field>
++    <field name="scopecontent_teim">Director: Amna Ehtesham Khaishgi (UAE) Original Title: Qafzat Al-Iman Catalog Record: GetIt | Leap of Faith More Information</field>
++    <field name="phystech_teim">Original Format: 35mm Color Total Running Time: 00:26:00</field>
+     <field name="ref_ssi">aspace_ref51_mvq</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.034</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;See Oversize, Folder 1Plan of the City of New York (1797)Plan of the City of New York (1807)&lt;/strong&gt;</field>
+-    <field name="unittitle_teim">See Oversize, Folder 1Plan of the City of New York (1797)Plan of the City of New York (1807)</field>
++    <field name="unittitle_teim">See Oversize, Folder 1 Plan of the City of New York (1797) Plan of the City of New York (1807)</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_ref500</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.034</field>
+     <field name="series_sim">Series I</field>
+     <field name="series_si">Series I &gt;&gt; &lt;strong&gt;See Oversize, Folder 1Plan of the City of New York (1797)Plan of the City of New York (1807)&lt;/strong&gt;</field>
+-    <field name="heading_ssm">See Oversize, Folder 1Plan of the City of New York (1797)Plan of the City of New York (1807)</field>
++    <field name="heading_ssm">See Oversize, Folder 1 Plan of the City of New York (1797) Plan of the City of New York (1807)</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">477</field>

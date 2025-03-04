@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2011/2011</field>
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">2011</field>
+-    <field name="scopecontent_teim">Director: Ahmed Zain, Naser Al Yagobi (United Arab Emirates)ArabicOriginal Title: BaseeraCatalog Record: GetIt | ForesightMore Info</field>
+-    <field name="phystech_teim">Original Format: Digital BetacamColorTotal Running Time: 00:33:00</field>
++    <field name="scopecontent_teim">Director: Ahmed Zain, Naser Al Yagobi (United Arab Emirates) Arabic Original Title: Baseera Catalog Record: GetIt | Foresight More Info</field>
++    <field name="phystech_teim">Original Format: Digital Betacam Color Total Running Time: 00:33:00</field>
+     <field name="ref_ssi">aspace_ref137_p6d</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

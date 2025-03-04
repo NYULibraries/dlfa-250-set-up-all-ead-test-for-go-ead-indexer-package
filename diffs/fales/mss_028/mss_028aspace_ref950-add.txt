@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Hoey, Mrs. Cashel&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A stern chase&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Arrow Library&lt;strong&gt;Series Number&lt;/strong&gt;: 316&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Street and Smith&lt;strong&gt;Date&lt;/strong&gt;: 1904</field>
+-    <field name="unittitle_teim">Author: Hoey, Mrs. CashelTitle: A stern chaseSeries Title: Arrow LibrarySeries Number: 316City: New YorkPublisher: Street and SmithDate: 1904</field>
++    <field name="unittitle_teim">Author: Hoey, Mrs. Cashel Title: A stern chase Series Title: Arrow Library Series Number: 316 City: New York Publisher: Street and Smith Date: 1904</field>
+     <field name="unitdate_normal_ssm">1904/1904</field>
+     <field name="unitdate_normal_teim">1904/1904</field>
+     <field name="unitdate_normal_sim">1904/1904</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series I: Novels (Box 1-83)</field>
+     <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Hoey, Mrs. Cashel&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;A stern chase&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: Arrow Library&lt;strong&gt;Series Number&lt;/strong&gt;: 316&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Street and Smith&lt;strong&gt;Date&lt;/strong&gt;: 1904</field>
+-    <field name="heading_ssm">Author: Hoey, Mrs. CashelTitle: A stern chaseSeries Title: Arrow LibrarySeries Number: 316City: New YorkPublisher: Street and SmithDate: 1904</field>
++    <field name="heading_ssm">Author: Hoey, Mrs. Cashel Title: A stern chase Series Title: Arrow Library Series Number: 316 City: New York Publisher: Street and Smith Date: 1904</field>
+     <field name="unitdate_start_sim">1904</field>
+     <field name="unitdate_start_ssm">1904</field>
+     <field name="unitdate_start_si">1904</field>

@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Lee, Charles&lt;strong&gt;place&lt;/strong&gt;: Philadelphia</field>
+-    <field name="unittitle_teim">creator: Lee, Charlesplace: Philadelphia</field>
++    <field name="unittitle_teim">creator: Lee, Charles place: Philadelphia</field>
+     <field name="unitid_teim">055-006-A-2095</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404773</field>
+     <field name="unitid_ssm">055-006-A-2095</field>
+@@ -30,8 +30,8 @@
+     <field name="name_teim">Lee, Charles</field>
+     <field name="name_ssm">Lee, Charles</field>
+     <field name="name_ssm">Lee, Charles</field>
+-    <field name="dao_teim">creator: Lee, Charlesplace: Philadelphia: Mar 1, [1760]</field>
+-    <field name="dao_ssm">creator: Lee, Charlesplace: Philadelphia: Mar 1, [1760]</field>
++    <field name="dao_teim">creator: Lee, Charles place: Philadelphia: Mar 1, [1760]</field>
++    <field name="dao_ssm">creator: Lee, Charles place: Philadelphia: Mar 1, [1760]</field>
+     <field name="ref_ssi">aspace_ref2300</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -46,7 +46,7 @@
+     <field name="series_sim">Series VI: Accretions</field>
+     <field name="series_sim">Subseries A: Charles Lee</field>
+     <field name="series_si">Series VI: Accretions &gt;&gt; Subseries A: Charles Lee &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Lee, Charles&lt;strong&gt;place&lt;/strong&gt;: Philadelphia</field>
+-    <field name="heading_ssm">creator: Lee, Charlesplace: Philadelphia</field>
++    <field name="heading_ssm">creator: Lee, Charles place: Philadelphia</field>
+     <field name="unitdate_start_sim">1760</field>
+     <field name="unitdate_start_ssm">1760</field>
+     <field name="unitdate_start_si">1760</field>

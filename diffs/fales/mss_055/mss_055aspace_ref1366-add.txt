@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Van Cortlandt, Oloff Stevenson.&lt;strong&gt;place&lt;/strong&gt;: [New Amsterdam]</field>
+-    <field name="unittitle_teim">creator: Van Cortlandt, Oloff Stevenson.place: [New Amsterdam]</field>
++    <field name="unittitle_teim">creator: Van Cortlandt, Oloff Stevenson. place: [New Amsterdam]</field>
+     <field name="unitid_teim">055-003-A-1897</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404480</field>
+     <field name="unitid_ssm">055-003-A-1897</field>
+@@ -30,8 +30,8 @@
+     <field name="name_teim">Van Cortlandt, Oloff Stevenson.</field>
+     <field name="name_ssm">Van Cortlandt, Oloff Stevenson.</field>
+     <field name="name_ssm">Van Cortlandt, Oloff Stevenson.</field>
+-    <field name="dao_teim">creator: Van Cortlandt, Oloff Stevenson.place: [New Amsterdam]: 1655</field>
+-    <field name="dao_ssm">creator: Van Cortlandt, Oloff Stevenson.place: [New Amsterdam]: 1655</field>
++    <field name="dao_teim">creator: Van Cortlandt, Oloff Stevenson. place: [New Amsterdam]: 1655</field>
++    <field name="dao_ssm">creator: Van Cortlandt, Oloff Stevenson. place: [New Amsterdam]: 1655</field>
+     <field name="ref_ssi">aspace_ref1366</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -46,7 +46,7 @@
+     <field name="series_sim">Series III: Mayors and Governors Autographs</field>
+     <field name="series_sim">Subseries A: Letters and Documents</field>
+     <field name="series_si">Series III: Mayors and Governors Autographs &gt;&gt; Subseries A: Letters and Documents &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Van Cortlandt, Oloff Stevenson.&lt;strong&gt;place&lt;/strong&gt;: [New Amsterdam]</field>
+-    <field name="heading_ssm">creator: Van Cortlandt, Oloff Stevenson.place: [New Amsterdam]</field>
++    <field name="heading_ssm">creator: Van Cortlandt, Oloff Stevenson. place: [New Amsterdam]</field>
+     <field name="unitdate_start_sim">1655</field>
+     <field name="unitdate_start_ssm">1655</field>
+     <field name="unitdate_start_si">1655</field>

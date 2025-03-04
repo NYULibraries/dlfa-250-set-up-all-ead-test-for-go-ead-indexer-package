@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Gardiner, Asa BirdGarfield, Harry AugustusGarfield, James AbramGarfield, John HayesGaron, PaulineGarver, John AnsonGary, Elbert HenryGates, Frederick TaylorGawtry, LewisGay, Charles RichardGayley, JamesGaynor, William J.Gerard, James WatsonGibbs, George Sabin</field>
+-    <field name="unittitle_teim">Gardiner, Asa BirdGarfield, Harry AugustusGarfield, James AbramGarfield, John HayesGaron, PaulineGarver, John AnsonGary, Elbert HenryGates, Frederick TaylorGawtry, LewisGay, Charles RichardGayley, JamesGaynor, William J.Gerard, James WatsonGibbs, George Sabin</field>
++    <field name="unittitle_teim">Gardiner, Asa Bird Garfield, Harry Augustus Garfield, James Abram Garfield, John Hayes Garon, Pauline Garver, John Anson Gary, Elbert Henry Gates, Frederick Taylor Gawtry, Lewis Gay, Charles Richard Gayley, James Gaynor, William J. Gerard, James Watson Gibbs, George Sabin</field>
+     <field name="ref_ssi">aspace_ref53_iry</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Gardiner, Asa BirdGarfield, Harry AugustusGarfield, James AbramGarfield, John HayesGaron, PaulineGarver, John AnsonGary, Elbert HenryGates, Frederick TaylorGawtry, LewisGay, Charles RichardGayley, JamesGaynor, William J.Gerard, James WatsonGibbs, George Sabin</field>
+-    <field name="heading_ssm">Gardiner, Asa BirdGarfield, Harry AugustusGarfield, James AbramGarfield, John HayesGaron, PaulineGarver, John AnsonGary, Elbert HenryGates, Frederick TaylorGawtry, LewisGay, Charles RichardGayley, JamesGaynor, William J.Gerard, James WatsonGibbs, George Sabin</field>
++    <field name="heading_ssm">Gardiner, Asa Bird Garfield, Harry Augustus Garfield, James Abram Garfield, John Hayes Garon, Pauline Garver, John Anson Gary, Elbert Henry Gates, Frederick Taylor Gawtry, Lewis Gay, Charles Richard Gayley, James Gaynor, William J. Gerard, James Watson Gibbs, George Sabin</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>
+   </doc>

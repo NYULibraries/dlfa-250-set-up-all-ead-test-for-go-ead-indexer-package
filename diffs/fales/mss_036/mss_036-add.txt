@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="bioghist_teim">Dowell was given a final tribute at his apartment on November 3, 1985. A large number of famous personalities representing the worlds of dance, art, literature, music, theater, and education toasted their friend and praised his accomplishments as a gifted composer, poet, playwright, novelist, and critic.</field>
+     <field name="bioghist_teim">Sources:</field>
+     <field name="bioghist_teim">The Coleman Dowell Papers, (New York: Fales Library, NYU, 1993)Contemporary Authors, (Detroit: Gale Research, 1990)Kuehl, L., &amp; J. Kuehl, eds. (1989). Prospectus for a start-bright lie: Coleman Dowell's Theatrical Memoirs (NY: The Review of Contemporary Fiction7:3 Fall 1987)</field>
+-    <field name="acqinfo_teim">The Coleman Dowell Papers were donated by Dr. Bertram Slaff, M.D., to the Fales Library at New York University in December 1986. Mr. Frank Walker, Head of Special Collections, acted as liaison between the Archives and Dr. Slaff and arranged for the collection's delivery to the Fales Library.In 2008, Dr. Slaff donated an additional 1.5 linear feet of materials, notated hereafter as "Accretion 2008."</field>
++    <field name="acqinfo_teim">The Coleman Dowell Papers were donated by Dr. Bertram Slaff, M.D., to the Fales Library at New York University in December 1986. Mr. Frank Walker, Head of Special Collections, acted as liaison between the Archives and Dr. Slaff and arranged for the collection's delivery to the Fales Library. In 2008, Dr. Slaff donated an additional 1.5 linear feet of materials, notated hereafter as "Accretion 2008."</field>
+     <field name="corpname_teim">Fales Library and Special Collections</field>
+     <field name="corpname_ssm">Fales Library and Special Collections</field>
+     <field name="genreform_teim">Paintings (visual works)</field>

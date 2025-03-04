@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Various - Composers:Persichetti, VincentPauls, GenePenn, WilliamPone, GundarisPowell, MorganRead, GardnerRolnick, Neil B.Roosevelt, WillardRubin, Amy D.Schuller, GuntherSchuman, WilliamSchwartz, CharlesSklar, Daniel J.Setapen, JimSwift, Richard G.Thomson, VirgilTriesch, JudyWightman, ParksWinsor, PhilWilding-White, RayWuorinen, CharlesYavelow, Christopher</field>
+-    <field name="unittitle_teim">Various - Composers:Persichetti, VincentPauls, GenePenn, WilliamPone, GundarisPowell, MorganRead, GardnerRolnick, Neil B.Roosevelt, WillardRubin, Amy D.Schuller, GuntherSchuman, WilliamSchwartz, CharlesSklar, Daniel J.Setapen, JimSwift, Richard G.Thomson, VirgilTriesch, JudyWightman, ParksWinsor, PhilWilding-White, RayWuorinen, CharlesYavelow, Christopher</field>
++    <field name="unittitle_teim">Various - Composers: Persichetti, Vincent Pauls, Gene Penn, William Pone, Gundaris Powell, Morgan Read, Gardner Rolnick, Neil B. Roosevelt, Willard Rubin, Amy D. Schuller, Gunther Schuman, William Schwartz, Charles Sklar, Daniel J. Setapen, Jim Swift, Richard G. Thomson, Virgil Triesch, Judy Wightman, Parks Winsor, Phil Wilding-White, Ray Wuorinen, Charles Yavelow, Christopher</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref187</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.093</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_si">Series II: Correspondence &gt;&gt; Various - Composers:Persichetti, VincentPauls, GenePenn, WilliamPone, GundarisPowell, MorganRead, GardnerRolnick, Neil B.Roosevelt, WillardRubin, Amy D.Schuller, GuntherSchuman, WilliamSchwartz, CharlesSklar, Daniel J.Setapen, JimSwift, Richard G.Thomson, VirgilTriesch, JudyWightman, ParksWinsor, PhilWilding-White, RayWuorinen, CharlesYavelow, Christopher</field>
+-    <field name="heading_ssm">Various - Composers:Persichetti, VincentPauls, GenePenn, WilliamPone, GundarisPowell, MorganRead, GardnerRolnick, Neil B.Roosevelt, WillardRubin, Amy D.Schuller, GuntherSchuman, WilliamSchwartz, CharlesSklar, Daniel J.Setapen, JimSwift, Richard G.Thomson, VirgilTriesch, JudyWightman, ParksWinsor, PhilWilding-White, RayWuorinen, CharlesYavelow, Christopher</field>
++    <field name="heading_ssm">Various - Composers: Persichetti, Vincent Pauls, Gene Penn, William Pone, Gundaris Powell, Morgan Read, Gardner Rolnick, Neil B. Roosevelt, Willard Rubin, Amy D. Schuller, Gunther Schuman, William Schwartz, Charles Sklar, Daniel J. Setapen, Jim Swift, Richard G. Thomson, Virgil Triesch, Judy Wightman, Parks Winsor, Phil Wilding-White, Ray Wuorinen, Charles Yavelow, Christopher</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">169</field>

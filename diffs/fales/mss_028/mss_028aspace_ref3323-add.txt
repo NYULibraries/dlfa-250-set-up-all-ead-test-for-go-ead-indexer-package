@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Wheeler, Edward L.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Denver Doll's Mine&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Deadwood Dick Library&lt;strong&gt;Series Number&lt;/strong&gt;: vol. 5, no. 56&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: M. J. Ivers &amp; Co.&lt;strong&gt;Date&lt;/strong&gt;: Apr. 4, 1900</field>
+-    <field name="unittitle_teim">Author: Wheeler, Edward L.Title: Denver Doll's MineSeries Title: The Deadwood Dick LibrarySeries Number: vol. 5, no. 56City: New YorkPublisher: M. J. Ivers &amp; Co.Date: Apr. 4, 1900</field>
++    <field name="unittitle_teim">Author: Wheeler, Edward L. Title: Denver Doll's Mine Series Title: The Deadwood Dick Library Series Number: vol. 5, no. 56 City: New York Publisher: M. J. Ivers &amp; Co. Date: Apr. 4, 1900</field>
+     <field name="unitdate_normal_ssm">1900/1900</field>
+     <field name="unitdate_normal_teim">1900/1900</field>
+     <field name="unitdate_normal_sim">1900/1900</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series II: Monographic Series (Box 85-91)</field>
+     <field name="series_si">Series II: Monographic Series (Box 85-91) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Wheeler, Edward L.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Denver Doll's Mine&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The Deadwood Dick Library&lt;strong&gt;Series Number&lt;/strong&gt;: vol. 5, no. 56&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: M. J. Ivers &amp; Co.&lt;strong&gt;Date&lt;/strong&gt;: Apr. 4, 1900</field>
+-    <field name="heading_ssm">Author: Wheeler, Edward L.Title: Denver Doll's MineSeries Title: The Deadwood Dick LibrarySeries Number: vol. 5, no. 56City: New YorkPublisher: M. J. Ivers &amp; Co.Date: Apr. 4, 1900</field>
++    <field name="heading_ssm">Author: Wheeler, Edward L. Title: Denver Doll's Mine Series Title: The Deadwood Dick Library Series Number: vol. 5, no. 56 City: New York Publisher: M. J. Ivers &amp; Co. Date: Apr. 4, 1900</field>
+     <field name="unitdate_start_sim">1900</field>
+     <field name="unitdate_start_ssm">1900</field>
+     <field name="unitdate_start_si">1900</field>

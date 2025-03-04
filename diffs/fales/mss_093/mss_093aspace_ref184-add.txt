@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.093</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Various - ComposersAmirkhanian, CharlesAustin, LarryAitken, RobertAmram, DavidAndrix, GeorgeBaksa, RobertBalada, LeonardoBeer, JohnBennett, WilhelmineBen-Haim, PaulBlank, AllanBernstein, LeonardBolz, HarrietteBoulez, PierreBradshaw, MerrillBrown, Newel KayBudd, Harold</field>
+-    <field name="unittitle_teim">Various - ComposersAmirkhanian, CharlesAustin, LarryAitken, RobertAmram, DavidAndrix, GeorgeBaksa, RobertBalada, LeonardoBeer, JohnBennett, WilhelmineBen-Haim, PaulBlank, AllanBernstein, LeonardBolz, HarrietteBoulez, PierreBradshaw, MerrillBrown, Newel KayBudd, Harold</field>
++    <field name="unittitle_teim">Various - Composers Amirkhanian, Charles Austin, Larry Aitken, Robert Amram, David Andrix, George Baksa, Robert Balada, Leonardo Beer, John Bennett, Wilhelmine Ben-Haim, Paul Blank, Allan Bernstein, Leonard Bolz, Harriette Boulez, Pierre Bradshaw, Merrill Brown, Newel Kay Budd, Harold</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref184</field>
+     <field name="repository_ssi">fales</field>
+@@ -28,7 +28,7 @@
+     <field name="collection_unitid_teim">MSS.093</field>
+     <field name="series_sim">Series II: Correspondence</field>
+     <field name="series_si">Series II: Correspondence &gt;&gt; Various - ComposersAmirkhanian, CharlesAustin, LarryAitken, RobertAmram, DavidAndrix, GeorgeBaksa, RobertBalada, LeonardoBeer, JohnBennett, WilhelmineBen-Haim, PaulBlank, AllanBernstein, LeonardBolz, HarrietteBoulez, PierreBradshaw, MerrillBrown, Newel KayBudd, Harold</field>
+-    <field name="heading_ssm">Various - ComposersAmirkhanian, CharlesAustin, LarryAitken, RobertAmram, DavidAndrix, GeorgeBaksa, RobertBalada, LeonardoBeer, JohnBennett, WilhelmineBen-Haim, PaulBlank, AllanBernstein, LeonardBolz, HarrietteBoulez, PierreBradshaw, MerrillBrown, Newel KayBudd, Harold</field>
++    <field name="heading_ssm">Various - Composers Amirkhanian, Charles Austin, Larry Aitken, Robert Amram, David Andrix, George Baksa, Robert Balada, Leonardo Beer, John Bennett, Wilhelmine Ben-Haim, Paul Blank, Allan Bernstein, Leonard Bolz, Harriette Boulez, Pierre Bradshaw, Merrill Brown, Newel Kay Budd, Harold</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">166</field>

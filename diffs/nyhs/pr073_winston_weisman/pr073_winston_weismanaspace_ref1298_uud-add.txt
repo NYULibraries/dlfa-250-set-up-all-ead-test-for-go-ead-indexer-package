@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 73</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Philadelphia, PA [miscellaneous]Chicago, ILMinneapolis, MNSt. Louis, MNSan Francisco, CABoston, MAProvidence, RIKansas City, MO Los Angeles, CAPittsburgh, PA miscellaneous [predominantly Baltimore, MD]general architecture cards</field>
+-    <field name="unittitle_teim">Philadelphia, PA [miscellaneous]Chicago, ILMinneapolis, MNSt. Louis, MNSan Francisco, CABoston, MAProvidence, RIKansas City, MO Los Angeles, CAPittsburgh, PA miscellaneous [predominantly Baltimore, MD]general architecture cards</field>
++    <field name="unittitle_teim">Philadelphia, PA [miscellaneous] Chicago, IL Minneapolis, MN St. Louis, MN San Francisco, CA Boston, MA Providence, RI Kansas City, MO Los Angeles, CA Pittsburgh, PA miscellaneous [predominantly Baltimore, MD] general architecture cards</field>
+     <field name="ref_ssi">aspace_ref1298_uud</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -31,7 +31,7 @@
+     <field name="series_sim">Series III Card Files</field>
+     <field name="series_sim">AMERICAN CITIES</field>
+     <field name="series_si">Series III Card Files &gt;&gt; AMERICAN CITIES &gt;&gt; Philadelphia, PA [miscellaneous]Chicago, ILMinneapolis, MNSt. Louis, MNSan Francisco, CABoston, MAProvidence, RIKansas City, MO Los Angeles, CAPittsburgh, PA miscellaneous [predominantly Baltimore, MD]general architecture cards</field>
+-    <field name="heading_ssm">Philadelphia, PA [miscellaneous]Chicago, ILMinneapolis, MNSt. Louis, MNSan Francisco, CABoston, MAProvidence, RIKansas City, MO Los Angeles, CAPittsburgh, PA miscellaneous [predominantly Baltimore, MD]general architecture cards</field>
++    <field name="heading_ssm">Philadelphia, PA [miscellaneous] Chicago, IL Minneapolis, MN St. Louis, MN San Francisco, CA Boston, MA Providence, RI Kansas City, MO Los Angeles, CA Pittsburgh, PA miscellaneous [predominantly Baltimore, MD] general architecture cards</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">736</field>
+   </doc>

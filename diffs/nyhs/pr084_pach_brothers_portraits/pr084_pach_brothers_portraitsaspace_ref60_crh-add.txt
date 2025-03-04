@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Haggard, Henry RiderHague, James DuncanHalsey, William F.Hamilton, CosmoHammerstein, OscarHammond, Graeme MonroeHampden, WalterHarding, Warren GamalielHare, James MontgomeryHarkness, WilliamHarlow, JeanHarriman, Edward HenryHarriman, W. AverillHarris, Albert HallHarris, Charles K.Harrison, BenjaminHart, Thomas C.Hartford, Huntington</field>
+-    <field name="unittitle_teim">Haggard, Henry RiderHague, James DuncanHalsey, William F.Hamilton, CosmoHammerstein, OscarHammond, Graeme MonroeHampden, WalterHarding, Warren GamalielHare, James MontgomeryHarkness, WilliamHarlow, JeanHarriman, Edward HenryHarriman, W. AverillHarris, Albert HallHarris, Charles K.Harrison, BenjaminHart, Thomas C.Hartford, Huntington</field>
++    <field name="unittitle_teim">Haggard, Henry Rider Hague, James Duncan Halsey, William F. Hamilton, Cosmo Hammerstein, Oscar Hammond, Graeme Monroe Hampden, Walter Harding, Warren Gamaliel Hare, James Montgomery Harkness, William Harlow, Jean Harriman, Edward Henry Harriman, W. Averill Harris, Albert Hall Harris, Charles K. Harrison, Benjamin Hart, Thomas C. Hartford, Huntington</field>
+     <field name="ref_ssi">aspace_ref60_crh</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Haggard, Henry RiderHague, James DuncanHalsey, William F.Hamilton, CosmoHammerstein, OscarHammond, Graeme MonroeHampden, WalterHarding, Warren GamalielHare, James MontgomeryHarkness, WilliamHarlow, JeanHarriman, Edward HenryHarriman, W. AverillHarris, Albert HallHarris, Charles K.Harrison, BenjaminHart, Thomas C.Hartford, Huntington</field>
+-    <field name="heading_ssm">Haggard, Henry RiderHague, James DuncanHalsey, William F.Hamilton, CosmoHammerstein, OscarHammond, Graeme MonroeHampden, WalterHarding, Warren GamalielHare, James MontgomeryHarkness, WilliamHarlow, JeanHarriman, Edward HenryHarriman, W. AverillHarris, Albert HallHarris, Charles K.Harrison, BenjaminHart, Thomas C.Hartford, Huntington</field>
++    <field name="heading_ssm">Haggard, Henry Rider Hague, James Duncan Halsey, William F. Hamilton, Cosmo Hammerstein, Oscar Hammond, Graeme Monroe Hampden, Walter Harding, Warren Gamaliel Hare, James Montgomery Harkness, William Harlow, Jean Harriman, Edward Henry Harriman, W. Averill Harris, Albert Hall Harris, Charles K. Harrison, Benjamin Hart, Thomas C. Hartford, Huntington</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">36</field>
+   </doc>

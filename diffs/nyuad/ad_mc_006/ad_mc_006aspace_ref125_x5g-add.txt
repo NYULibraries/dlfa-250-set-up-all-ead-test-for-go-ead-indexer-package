@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2011/2011</field>
+     <field name="unitdate_normal_sim">2011/2011</field>
+     <field name="unitdate_inclusive_teim">2011</field>
+-    <field name="scopecontent_teim">Director: Mohammad Fikree (United Arab Emirates)ArabicCatalog Record: GetIt | Mad CamelMore Info</field>
+-    <field name="phystech_teim">Original Format: HDCAMColorTotal Running Time: 00:05:00</field>
++    <field name="scopecontent_teim">Director: Mohammad Fikree (United Arab Emirates) Arabic Catalog Record: GetIt | Mad Camel More Info</field>
++    <field name="phystech_teim">Original Format: HDCAM Color Total Running Time: 00:05:00</field>
+     <field name="ref_ssi">aspace_ref125_x5g</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

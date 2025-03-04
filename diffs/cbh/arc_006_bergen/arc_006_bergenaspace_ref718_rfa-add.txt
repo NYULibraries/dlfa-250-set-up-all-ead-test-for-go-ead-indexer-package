@@ -20,9 +20,9 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="series_sim">Series 7: Surveying records</field>
      <field name="series_sim">Subseries 4: Maps and surveys</field>
 -    <field name="series_sim">Brooklyn and Bushwick</field>
--    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Brooklyn and Bushwick &gt;&gt; Stone &amp;amp; Sother</field>
+-    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Brooklyn and Bushwick &gt;&gt; Stone &amp; Sother</field>
 +    <field name="series_sim">Index to Maps and Surveys (Bound Volume)</field>
-+    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Index to Maps and Surveys (Bound Volume) &gt;&gt; Stone &amp;amp; Sother</field>
++    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records &gt;&gt; Subseries 4: Maps and surveys &gt;&gt; Index to Maps and Surveys (Bound Volume) &gt;&gt; Stone &amp; Sother</field>
      <field name="heading_ssm">Stone &amp; Sother</field>
      <field name="unitdate_start_sim">1849</field>
      <field name="unitdate_start_ssm">1849</field>

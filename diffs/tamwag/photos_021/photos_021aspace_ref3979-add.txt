@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="collection_ssm">Sam Reiss Negatives</field>
+     <field name="collection_unitid_ssm">PHOTOS.021</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Waiters Dempsey 8/2 [?] ["To Local 89" Message From Jack Demsey at Turf Restaurant SML] [1957&amp;gt;n.d.] [Total negs: 2]</field>
++    <field name="unittitle_ssm">Waiters Dempsey 8/2 [?] ["To Local 89" Message From Jack Demsey at Turf Restaurant SML] [1957&gt;n.d.] [Total negs: 2]</field>
+     <field name="unittitle_teim">Waiters Dempsey 8/2 [?] ["To Local 89" Message From Jack Demsey at Turf Restaurant SML] [1957&gt;n.d.] [Total negs: 2]</field>
+     <field name="unitdate_teim">Aug 2 , 19??</field>
+     <field name="ref_ssi">aspace_ref3979</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">Series I: Unions.</field>
+     <field name="series_sim">Subseries W: Hotel and Restaurant Employees and Bartenders International Union - Waiters</field>
+     <field name="series_sim">Sub-subseries 3: Local 89</field>
+-    <field name="series_si">Series I: Unions. &gt;&gt; Subseries W: Hotel and Restaurant Employees and Bartenders International Union - Waiters &gt;&gt; Sub-subseries 3: Local 89 &gt;&gt; Waiters Dempsey 8/2 [?] ["To Local 89" Message From Jack Demsey at Turf Restaurant SML] [1957&amp;gt;n.d.] [Total negs: 2]</field>
++    <field name="series_si">Series I: Unions. &gt;&gt; Subseries W: Hotel and Restaurant Employees and Bartenders International Union - Waiters &gt;&gt; Sub-subseries 3: Local 89 &gt;&gt; Waiters Dempsey 8/2 [?] ["To Local 89" Message From Jack Demsey at Turf Restaurant SML] [1957&gt;n.d.] [Total negs: 2]</field>
+     <field name="heading_ssm">Waiters Dempsey 8/2 [?] ["To Local 89" Message From Jack Demsey at Turf Restaurant SML] [1957&gt;n.d.] [Total negs: 2]</field>
+     <field name="unitdate_ssm">Aug 2 , 19??</field>
+     <field name="date_range_sim">undated &amp; other</field>

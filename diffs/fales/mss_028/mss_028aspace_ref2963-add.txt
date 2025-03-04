@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MSS.028</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: Waverly Library&lt;strong&gt;Series Number&lt;/strong&gt;: vol. III, no. 73, 77; vol. IV, no. 88, 101; vol. VI, no. 136, 143, 145; vol. VII, no. 157; vol. VIII, no. 192&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Beadle and Adams&lt;strong&gt;Date&lt;/strong&gt;: 1881-1883</field>
+-    <field name="unittitle_teim">Series Title: Waverly LibrarySeries Number: vol. III, no. 73, 77; vol. IV, no. 88, 101; vol. VI, no. 136, 143, 145; vol. VII, no. 157; vol. VIII, no. 192City: New YorkPublisher: Beadle and AdamsDate: 1881-1883</field>
++    <field name="unittitle_teim">Series Title: Waverly Library Series Number: vol. III, no. 73, 77; vol. IV, no. 88, 101; vol. VI, no. 136, 143, 145; vol. VII, no. 157; vol. VIII, no. 192 City: New York Publisher: Beadle and Adams Date: 1881-1883</field>
+     <field name="unitdate_normal_ssm">1881/1883</field>
+     <field name="unitdate_normal_teim">1881/1883</field>
+     <field name="unitdate_normal_sim">1881/1883</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_unitid_teim">MSS.028</field>
+     <field name="series_sim">Series V: Misc. Addenda</field>
+     <field name="series_si">Series V: Misc. Addenda &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: Waverly Library&lt;strong&gt;Series Number&lt;/strong&gt;: vol. III, no. 73, 77; vol. IV, no. 88, 101; vol. VI, no. 136, 143, 145; vol. VII, no. 157; vol. VIII, no. 192&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: Beadle and Adams&lt;strong&gt;Date&lt;/strong&gt;: 1881-1883</field>
+-    <field name="heading_ssm">Series Title: Waverly LibrarySeries Number: vol. III, no. 73, 77; vol. IV, no. 88, 101; vol. VI, no. 136, 143, 145; vol. VII, no. 157; vol. VIII, no. 192City: New YorkPublisher: Beadle and AdamsDate: 1881-1883</field>
++    <field name="heading_ssm">Series Title: Waverly Library Series Number: vol. III, no. 73, 77; vol. IV, no. 88, 101; vol. VI, no. 136, 143, 145; vol. VII, no. 157; vol. VIII, no. 192 City: New York Publisher: Beadle and Adams Date: 1881-1883</field>
+     <field name="unitdate_start_sim">1881</field>
+     <field name="unitdate_start_ssm">1881</field>
+     <field name="unitdate_start_si">1881</field>

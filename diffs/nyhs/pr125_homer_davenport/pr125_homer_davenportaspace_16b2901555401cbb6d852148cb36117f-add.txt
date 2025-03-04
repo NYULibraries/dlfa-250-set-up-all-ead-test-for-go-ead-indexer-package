@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -11,7 +11,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Various Names N-O</field>
+     <field name="unittitle_teim">Various Names N-O</field>
+-    <field name="scopecontent_teim">Nelson, with VestOrr, (Alexander E.?)</field>
++    <field name="scopecontent_teim">Nelson, with Vest Orr, (Alexander E.?)</field>
+     <field name="ref_ssi">aspace_16b2901555401cbb6d852148cb36117f</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

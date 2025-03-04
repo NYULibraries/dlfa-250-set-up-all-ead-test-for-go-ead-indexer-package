@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Wadsworth, James Wolcott, Jr.Wagner, E. F.Waldo, RhinelanderWalker, Betty ComptonWalker, Betty Compton and childWalker, James J.Wallack, Lester, and familyWarburg, Paul MoritzWarburton, Barclay H., III</field>
+-    <field name="unittitle_teim">Wadsworth, James Wolcott, Jr.Wagner, E. F.Waldo, RhinelanderWalker, Betty ComptonWalker, Betty Compton and childWalker, James J.Wallack, Lester, and familyWarburg, Paul MoritzWarburton, Barclay H., III</field>
++    <field name="unittitle_teim">Wadsworth, James Wolcott, Jr. Wagner, E. F. Waldo, Rhinelander Walker, Betty Compton Walker, Betty Compton and child Walker, James J. Wallack, Lester, and family Warburg, Paul Moritz Warburton, Barclay H., III</field>
+     <field name="ref_ssi">aspace_ref114_sae</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Wadsworth, James Wolcott, Jr.Wagner, E. F.Waldo, RhinelanderWalker, Betty ComptonWalker, Betty Compton and childWalker, James J.Wallack, Lester, and familyWarburg, Paul MoritzWarburton, Barclay H., III</field>
+-    <field name="heading_ssm">Wadsworth, James Wolcott, Jr.Wagner, E. F.Waldo, RhinelanderWalker, Betty ComptonWalker, Betty Compton and childWalker, James J.Wallack, Lester, and familyWarburg, Paul MoritzWarburton, Barclay H., III</field>
++    <field name="heading_ssm">Wadsworth, James Wolcott, Jr. Wagner, E. F. Waldo, Rhinelander Walker, Betty Compton Walker, Betty Compton and child Walker, James J. Wallack, Lester, and family Warburg, Paul Moritz Warburton, Barclay H., III</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">82</field>
+   </doc>

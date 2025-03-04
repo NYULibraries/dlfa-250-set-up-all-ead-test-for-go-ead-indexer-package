@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Fitzgerald, Thomas I.Flagg, Elisha, birthday groupFlagg, James MontgomeryFlanagan, E. J.Flanigan, Horace C.Fleming, AlexanderFleming, JohnFlint, AustinFlower, Roswell PettiboneFoley, ThomasFolger, Henry Clay</field>
+-    <field name="unittitle_teim">Fitzgerald, Thomas I.Flagg, Elisha, birthday groupFlagg, James MontgomeryFlanagan, E. J.Flanigan, Horace C.Fleming, AlexanderFleming, JohnFlint, AustinFlower, Roswell PettiboneFoley, ThomasFolger, Henry Clay</field>
++    <field name="unittitle_teim">Fitzgerald, Thomas I. Flagg, Elisha, birthday group Flagg, James Montgomery Flanagan, E. J. Flanigan, Horace C. Fleming, Alexander Fleming, John Flint, Austin Flower, Roswell Pettibone Foley, Thomas Folger, Henry Clay</field>
+     <field name="ref_ssi">aspace_ref51_kje</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Fitzgerald, Thomas I.Flagg, Elisha, birthday groupFlagg, James MontgomeryFlanagan, E. J.Flanigan, Horace C.Fleming, AlexanderFleming, JohnFlint, AustinFlower, Roswell PettiboneFoley, ThomasFolger, Henry Clay</field>
+-    <field name="heading_ssm">Fitzgerald, Thomas I.Flagg, Elisha, birthday groupFlagg, James MontgomeryFlanagan, E. J.Flanigan, Horace C.Fleming, AlexanderFleming, JohnFlint, AustinFlower, Roswell PettiboneFoley, ThomasFolger, Henry Clay</field>
++    <field name="heading_ssm">Fitzgerald, Thomas I. Flagg, Elisha, birthday group Flagg, James Montgomery Flanagan, E. J. Flanigan, Horace C. Fleming, Alexander Fleming, John Flint, Austin Flower, Roswell Pettibone Foley, Thomas Folger, Henry Clay</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">29</field>
+   </doc>

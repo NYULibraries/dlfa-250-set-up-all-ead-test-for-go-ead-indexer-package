@@ -1,0 +1,14 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,8 +22,8 @@
+     <field name="unitdate_normal_teim">2013/2013</field>
+     <field name="unitdate_normal_sim">2013/2013</field>
+     <field name="unitdate_inclusive_teim">2013</field>
+-    <field name="scopecontent_teim">Director: Hamza Aouni (Tunisia, United Arab Emirates)ArabicOriginal Title: Jamal al-barroutaCatalog Record: GetIt | El GortMore Info</field>
+-    <field name="phystech_teim">Original Format: Digital BetacamColorTotal Running Time: 01:26:00</field>
++    <field name="scopecontent_teim">Director: Hamza Aouni (Tunisia, United Arab Emirates) Arabic Original Title: Jamal al-barrouta Catalog Record: GetIt | El Gort More Info</field>
++    <field name="phystech_teim">Original Format: Digital Betacam Color Total Running Time: 01:26:00</field>
+     <field name="ref_ssi">aspace_ref55_sr8</field>
+     <field name="repository_ssi">nyuad</field>
+     <field name="repository_sim">nyuad</field>

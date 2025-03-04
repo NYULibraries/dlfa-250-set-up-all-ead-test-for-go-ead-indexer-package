@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Taft, Charles PhelpsTaft, Henry WatersTaft, Horace DuttonTaft, Helen HerronTaft, William Howard Takamine, JokighiTalmadge, ConstanceTalmadge, Norma Tams, J. FredericTashman, LilyanTaussig, Edward DavidTerwilliger, H. G.Thom, William B.Thomas, E. R.Thomas, NormanThomas, OliveThompson, John R.Thompson, Robert Means</field>
+-    <field name="unittitle_teim">Taft, Charles PhelpsTaft, Henry WatersTaft, Horace DuttonTaft, Helen HerronTaft, William Howard Takamine, JokighiTalmadge, ConstanceTalmadge, Norma Tams, J. FredericTashman, LilyanTaussig, Edward DavidTerwilliger, H. G.Thom, William B.Thomas, E. R.Thomas, NormanThomas, OliveThompson, John R.Thompson, Robert Means</field>
++    <field name="unittitle_teim">Taft, Charles Phelps Taft, Henry Waters Taft, Horace Dutton Taft, Helen Herron Taft, William Howard Takamine, Jokighi Talmadge, Constance Talmadge, Norma Tams, J. Frederic Tashman, Lilyan Taussig, Edward David Terwilliger, H. G. Thom, William B. Thomas, E. R. Thomas, Norman Thomas, Olive Thompson, John R. Thompson, Robert Means</field>
+     <field name="ref_ssi">aspace_ref109_aob</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Taft, Charles PhelpsTaft, Henry WatersTaft, Horace DuttonTaft, Helen HerronTaft, William Howard Takamine, JokighiTalmadge, ConstanceTalmadge, Norma Tams, J. FredericTashman, LilyanTaussig, Edward DavidTerwilliger, H. G.Thom, William B.Thomas, E. R.Thomas, NormanThomas, OliveThompson, John R.Thompson, Robert Means</field>
+-    <field name="heading_ssm">Taft, Charles PhelpsTaft, Henry WatersTaft, Horace DuttonTaft, Helen HerronTaft, William Howard Takamine, JokighiTalmadge, ConstanceTalmadge, Norma Tams, J. FredericTashman, LilyanTaussig, Edward DavidTerwilliger, H. G.Thom, William B.Thomas, E. R.Thomas, NormanThomas, OliveThompson, John R.Thompson, Robert Means</field>
++    <field name="heading_ssm">Taft, Charles Phelps Taft, Henry Waters Taft, Horace Dutton Taft, Helen Herron Taft, William Howard Takamine, Jokighi Talmadge, Constance Talmadge, Norma Tams, J. Frederic Tashman, Lilyan Taussig, Edward David Terwilliger, H. G. Thom, William B. Thomas, E. R. Thomas, Norman Thomas, Olive Thompson, John R. Thompson, Robert Means</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">78</field>
+   </doc>

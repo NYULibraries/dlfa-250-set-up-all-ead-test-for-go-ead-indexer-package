@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;em&gt;The New England Chronicle: or, the Essex Gazette&lt;/em&gt;vol. 8, no. 390 &lt;strong&gt;place&lt;/strong&gt;: Cambridge</field>
+-    <field name="unittitle_teim">The New England Chronicle: or, the Essex Gazettevol. 8, no. 390 place: Cambridge</field>
++    <field name="unittitle_teim">The New England Chronicle: or, the Essex Gazette vol. 8, no. 390 place: Cambridge</field>
+     <field name="unitid_teim">055-005-A-1567</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404692</field>
+     <field name="unitid_ssm">055-005-A-1567</field>
+@@ -27,8 +27,8 @@
+     <field name="title_teim">The New England Chronicle: or, the Essex Gazette</field>
+     <field name="title_ssm">The New England Chronicle: or, the Essex Gazette</field>
+     <field name="title_ssm">The New England Chronicle: or, the Essex Gazette</field>
+-    <field name="dao_teim">The New England Chronicle: or, the Essex Gazettevol. 8, no. 390 place: Cambridge: Jan 18, 1776</field>
+-    <field name="dao_ssm">The New England Chronicle: or, the Essex Gazettevol. 8, no. 390 place: Cambridge: Jan 18, 1776</field>
++    <field name="dao_teim">The New England Chronicle: or, the Essex Gazette vol. 8, no. 390 place: Cambridge: Jan 18, 1776</field>
++    <field name="dao_ssm">The New England Chronicle: or, the Essex Gazette vol. 8, no. 390 place: Cambridge: Jan 18, 1776</field>
+     <field name="ref_ssi">aspace_ref2083</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series V: Printed Materials</field>
+     <field name="series_sim">Subseries A: Newspapers and Other Printed Materials</field>
+     <field name="series_si">Series V: Printed Materials &gt;&gt; Subseries A: Newspapers and Other Printed Materials &gt;&gt; &lt;em&gt;The New England Chronicle: or, the Essex Gazette&lt;/em&gt;vol. 8, no. 390 &lt;strong&gt;place&lt;/strong&gt;: Cambridge</field>
+-    <field name="heading_ssm">The New England Chronicle: or, the Essex Gazettevol. 8, no. 390 place: Cambridge</field>
++    <field name="heading_ssm">The New England Chronicle: or, the Essex Gazette vol. 8, no. 390 place: Cambridge</field>
+     <field name="unitdate_ssm">Jan 18, 1776</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">560</field>

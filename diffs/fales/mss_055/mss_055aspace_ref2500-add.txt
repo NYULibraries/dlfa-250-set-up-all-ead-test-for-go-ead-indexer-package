@@ -1,0 +1,32 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.055</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Edwards, Everett&lt;strong&gt;place&lt;/strong&gt;: Philadelphia, PA</field>
+-    <field name="unittitle_teim">creator: Edwards, Everettplace: Philadelphia, PA</field>
++    <field name="unittitle_teim">creator: Edwards, Everett place: Philadelphia, PA</field>
+     <field name="unitid_teim">055-006-A-2259</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/404823</field>
+     <field name="unitid_ssm">055-006-A-2259</field>
+@@ -27,8 +27,8 @@
+     <field name="name_teim">Edwards, Everett</field>
+     <field name="name_ssm">Edwards, Everett</field>
+     <field name="name_ssm">Edwards, Everett</field>
+-    <field name="dao_teim">creator: Edwards, Everettplace: Philadelphia, PA: Aug 30, 1778</field>
+-    <field name="dao_ssm">creator: Edwards, Everettplace: Philadelphia, PA: Aug 30, 1778</field>
++    <field name="dao_teim">creator: Edwards, Everett place: Philadelphia, PA: Aug 30, 1778</field>
++    <field name="dao_ssm">creator: Edwards, Everett place: Philadelphia, PA: Aug 30, 1778</field>
+     <field name="ref_ssi">aspace_ref2500</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series VI: Accretions</field>
+     <field name="series_sim">Subseries A: Charles Lee</field>
+     <field name="series_si">Series VI: Accretions &gt;&gt; Subseries A: Charles Lee &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Edwards, Everett&lt;strong&gt;place&lt;/strong&gt;: Philadelphia, PA</field>
+-    <field name="heading_ssm">creator: Edwards, Everettplace: Philadelphia, PA</field>
++    <field name="heading_ssm">creator: Edwards, Everett place: Philadelphia, PA</field>
+     <field name="unitdate_ssm">Aug 30, 1778</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">691</field>

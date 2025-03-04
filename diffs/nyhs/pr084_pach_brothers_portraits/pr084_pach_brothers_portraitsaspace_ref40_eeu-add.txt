@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 84</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Day, Joseph PaulDay, William LouisDe Beck, BillyDeegan, WilliamDe Forest, LeeDe Forest, Robert WeeksDelano, William AdamsDe Lanoy, William C.De Markoff, AlexanderDempsey, Jack (2)Dempsey, Jack and daughtersDepew, Chauncey MitchellDe Prorok, Byron</field>
+-    <field name="unittitle_teim">Day, Joseph PaulDay, William LouisDe Beck, BillyDeegan, WilliamDe Forest, LeeDe Forest, Robert WeeksDelano, William AdamsDe Lanoy, William C.De Markoff, AlexanderDempsey, Jack (2)Dempsey, Jack and daughtersDepew, Chauncey MitchellDe Prorok, Byron</field>
++    <field name="unittitle_teim">Day, Joseph Paul Day, William Louis De Beck, Billy Deegan, William De Forest, Lee De Forest, Robert Weeks Delano, William Adams De Lanoy, William C. De Markoff, Alexander Dempsey, Jack (2) Dempsey, Jack and daughters Depew, Chauncey Mitchell De Prorok, Byron</field>
+     <field name="ref_ssi">aspace_ref40_eeu</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 84</field>
+     <field name="series_sim">Series I: Individual and Family Portraits</field>
+     <field name="series_si">Series I: Individual and Family Portraits &gt;&gt; Day, Joseph PaulDay, William LouisDe Beck, BillyDeegan, WilliamDe Forest, LeeDe Forest, Robert WeeksDelano, William AdamsDe Lanoy, William C.De Markoff, AlexanderDempsey, Jack (2)Dempsey, Jack and daughtersDepew, Chauncey MitchellDe Prorok, Byron</field>
+-    <field name="heading_ssm">Day, Joseph PaulDay, William LouisDe Beck, BillyDeegan, WilliamDe Forest, LeeDe Forest, Robert WeeksDelano, William AdamsDe Lanoy, William C.De Markoff, AlexanderDempsey, Jack (2)Dempsey, Jack and daughtersDepew, Chauncey MitchellDe Prorok, Byron</field>
++    <field name="heading_ssm">Day, Joseph Paul Day, William Louis De Beck, Billy Deegan, William De Forest, Lee De Forest, Robert Weeks Delano, William Adams De Lanoy, William C. De Markoff, Alexander Dempsey, Jack (2) Dempsey, Jack and daughters Depew, Chauncey Mitchell De Prorok, Byron</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">21</field>
+   </doc>

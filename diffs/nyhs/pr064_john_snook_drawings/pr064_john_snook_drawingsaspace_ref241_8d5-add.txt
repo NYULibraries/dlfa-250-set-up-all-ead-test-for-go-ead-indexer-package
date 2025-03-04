@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 64</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Hoffmann, Store, 258 Broadway, New York, NYProject #212</field>
+-    <field name="unittitle_teim">Hoffmann, Store, 258 Broadway, New York, NYProject #212</field>
++    <field name="unittitle_teim">Hoffmann, Store, 258 Broadway, New York, NY Project #212</field>
+     <field name="ref_ssi">aspace_ref241_8d5</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 64</field>
+     <field name="series_sim">Series I: Architectural Drawings</field>
+     <field name="series_si">Series I: Architectural Drawings &gt;&gt; Hoffmann, Store, 258 Broadway, New York, NYProject #212</field>
+-    <field name="heading_ssm">Hoffmann, Store, 258 Broadway, New York, NYProject #212</field>
++    <field name="heading_ssm">Hoffmann, Store, 258 Broadway, New York, NY Project #212</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">213</field>
+   </doc>

@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">PR 85</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Gardiner / Gardner Gardner&lt;em&gt;See also: Box 12, Folder 1&lt;/em&gt; Gardner, L. [?] Garrett Gennoux [?] Gentil George (2) Gilbert Gills / Gibbs Goldsmith Goodheart GouraudGraham Graham, Charles K. Green, D., Rev. (2) Greene / Green Grey, D. [?] Grinnell, Henry Grover</field>
+-    <field name="unittitle_teim">Gardiner / Gardner GardnerSee also: Box 12, Folder 1 Gardner, L. [?] Garrett Gennoux [?] Gentil George (2) Gilbert Gills / Gibbs Goldsmith Goodheart GouraudGraham Graham, Charles K. Green, D., Rev. (2) Greene / Green Grey, D. [?] Grinnell, Henry Grover</field>
++    <field name="unittitle_teim">Gardiner / Gardner Gardner See also: Box 12, Folder 1 Gardner, L. [?] Garrett Gennoux [?] Gentil George (2) Gilbert Gills / Gibbs Goldsmith Goodheart Gouraud Graham Graham, Charles K. Green, D., Rev. (2) Greene / Green Grey, D. [?] Grinnell, Henry Grover</field>
+     <field name="ref_ssi">aspace_ref21_rf0</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_unitid_teim">PR 85</field>
+     <field name="series_sim">Series I: Imperial Format Portraits</field>
+     <field name="series_si">Series I: Imperial Format Portraits &gt;&gt; Gardiner / Gardner Gardner&lt;em&gt;See also: Box 12, Folder 1&lt;/em&gt; Gardner, L. [?] Garrett Gennoux [?] Gentil George (2) Gilbert Gills / Gibbs Goldsmith Goodheart GouraudGraham Graham, Charles K. Green, D., Rev. (2) Greene / Green Grey, D. [?] Grinnell, Henry Grover</field>
+-    <field name="heading_ssm">Gardiner / Gardner GardnerSee also: Box 12, Folder 1 Gardner, L. [?] Garrett Gennoux [?] Gentil George (2) Gilbert Gills / Gibbs Goldsmith Goodheart GouraudGraham Graham, Charles K. Green, D., Rev. (2) Greene / Green Grey, D. [?] Grinnell, Henry Grover</field>
++    <field name="heading_ssm">Gardiner / Gardner Gardner See also: Box 12, Folder 1 Gardner, L. [?] Garrett Gennoux [?] Gentil George (2) Gilbert Gills / Gibbs Goldsmith Goodheart Gouraud Graham Graham, Charles K. Green, D., Rev. (2) Greene / Green Grey, D. [?] Grinnell, Henry Grover</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">10</field>
+   </doc>
