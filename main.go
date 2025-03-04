@@ -112,7 +112,7 @@ func getGoldenFileIDs(eadID string) []string {
 				!strings.HasSuffix(path, "-commit-add") {
 
 				goldenFileIDs = append(goldenFileIDs, strings.TrimSuffix(filepath.Base(path),
-					"-add.txt"))
+					goldenFileSuffix))
 			}
 			return nil
 		})
@@ -131,7 +131,7 @@ func getGoldenFileIDs(eadID string) []string {
 }
 
 func getGoldenFilePath(testEAD string, fileID string) string {
-	return filepath.Join(goldenFilesDirPath, testEAD, fileID+"-add.txt")
+	return filepath.Join(goldenFilesDirPath, testEAD, fileID+goldenFileSuffix)
 }
 
 func getGoldenFileValue(eadID string, fileID string) (string, error) {
