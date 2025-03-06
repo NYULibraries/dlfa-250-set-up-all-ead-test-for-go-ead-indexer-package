@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153[Air Date: 6/3/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153[Air Date: 6/3/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153 [Air Date: 6/3/1985]</field>
+     <field name="unitid_teim">ID: 231.0635</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529360</field>
+     <field name="unitid_ssm">ID: 231.0635</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529360</field>
+     <field name="unitdate_teim">June 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. United States Court of Appeals declares a constitutional right for gay privacy2. Two Illinois gay rights bills voted downCOMMERCIAL: Brunch Buddies3. Democratic National Committee decides to abolish lesbian and gay caucus4. Political reaction to new NY gay judge and Chicago Archbishop's approval of gay civil rights5. Two openly gay foster parents lose custody to children due to adoption publicity6. Gay concentration camp memorial in Germany, first monument for homosexualsCOMMERCIAL: "The Connection," gay and lesbian newspaper7. Anita Bryant loses spot on television program after network receives complaints8. Interview with Candida Piel, Co-Chair, Heritage of Pride, discusses Gay Pride Week and parade9. Dallas news, includes clip of Lori Palmer, member of Oaklawn CouncilCOMMERCIAL: Chamberlain and Associates, career service professionals10. Sports, includes clip of Greg LouganisCOMMERCIAL: "New York Native" with Quentin Crisp11. Healthline: Conversations with GMHC: Dr. Susan Trauss returns, discusses study of AIDS and its psychological impact12. Closing credits The Right Stuff:1. Media report/current events/culture, includes clips of Joan Rivers and Matilda KrimCOMMERCIAL: "Manscape," a gay magazineCOMMERCIAL: Different Light BookstoreCOMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club2. Sybil Bruncheon raffle and street interviews3. Media: The Queen Mother4. Psychotherapist, Dr. Jim Serafini, discusses drugs/alcohol and gay men5. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153[Air Date: 6/3/1985]: June 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153[Air Date: 6/3/1985]: June 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. United States Court of Appeals declares a constitutional right for gay privacy 2. Two Illinois gay rights bills voted down COMMERCIAL: Brunch Buddies 3. Democratic National Committee decides to abolish lesbian and gay caucus 4. Political reaction to new NY gay judge and Chicago Archbishop's approval of gay civil rights 5. Two openly gay foster parents lose custody to children due to adoption publicity 6. Gay concentration camp memorial in Germany, first monument for homosexuals COMMERCIAL: "The Connection," gay and lesbian newspaper 7. Anita Bryant loses spot on television program after network receives complaints 8. Interview with Candida Piel, Co-Chair, Heritage of Pride, discusses Gay Pride Week and parade 9. Dallas news, includes clip of Lori Palmer, member of Oaklawn Council COMMERCIAL: Chamberlain and Associates, career service professionals 10. Sports, includes clip of Greg Louganis COMMERCIAL: "New York Native" with Quentin Crisp 11. Healthline: Conversations with GMHC: Dr. Susan Trauss returns, discusses study of AIDS and its psychological impact 12. Closing credits The Right Stuff: 1. Media report/current events/culture, includes clips of Joan Rivers and Matilda Krim COMMERCIAL: "Manscape," a gay magazine COMMERCIAL: Different Light Bookstore COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club 2. Sybil Bruncheon raffle and street interviews 3. Media: The Queen Mother 4. Psychotherapist, Dr. Jim Serafini, discusses drugs/alcohol and gay men 5. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153 [Air Date: 6/3/1985]: June 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153 [Air Date: 6/3/1985]: June 1985</field>
+     <field name="ref_ssi">aspace_ref1443</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153[Air Date: 6/3/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153[Air Date: 6/3/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 36 [2]--The Right Stuff, Episode No. 153 [Air Date: 6/3/1985]</field>
+     <field name="unitdate_ssm">June 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2627</field>

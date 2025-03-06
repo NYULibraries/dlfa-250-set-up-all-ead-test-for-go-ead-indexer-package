@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms51_beekman_family</field>
+     <field name="parent_ssi">aspace_ref525_nuq</field>
+     <field name="parent_ssm">aspace_ref525_nuq</field>
+-    <field name="parent_unittitles_ssm">Box 32(B), James Beekman, &amp; Box 33, Beekman Family Property &amp; Correspondence</field>
+-    <field name="parent_unittitles_teim">Box 32(B), James Beekman, &amp; Box 33, Beekman Family Property &amp; Correspondence</field>
++    <field name="parent_unittitles_ssm">Box 32(B), James Beekman, &amp;amp; Box 33, Beekman Family Property &amp;amp; Correspondence</field>
++    <field name="parent_unittitles_teim">Box 32(B), James Beekman, &amp;amp; Box 33, Beekman Family Property &amp;amp; Correspondence</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Beekman family papers</field>
+@@ -26,7 +26,7 @@
+     <field name="location_si">Box: 33, Folder: 1</field>
+     <field name="collection_teim">Beekman family papers</field>
+     <field name="collection_unitid_teim">MS 51</field>
+-    <field name="series_sim">Box 32(B), James Beekman, &amp; Box 33, Beekman Family Property &amp; Correspondence</field>
++    <field name="series_sim">Box 32(B), James Beekman, &amp;amp; Box 33, Beekman Family Property &amp;amp; Correspondence</field>
+     <field name="series_si">Box 32(B), James Beekman, &amp; Box 33, Beekman Family Property &amp; Correspondence &gt;&gt; Maps of Beekman Properties</field>
+     <field name="heading_ssm">Maps of Beekman Properties</field>
+     <field name="unitdate_ssm">Circa 1750s</field>

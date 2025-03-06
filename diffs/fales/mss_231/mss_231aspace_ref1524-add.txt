@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174[Air Date: 12/10/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174[Air Date: 12/10/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174 [Air Date: 12/10/1985]</field>
+     <field name="unitid_teim">ID: 231.0662</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529387</field>
+     <field name="unitid_ssm">ID: 231.0662</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529387</field>
+     <field name="unitdate_teim">December 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. New San Francisco law bans AIDS discrimination and mandatory HTLVIII tests2. Los Angeles Insurance Professionals for Human Rights hold second meeting3. Gay Anti-Defamation League protests against New York Post for slander, includes footage4. Gay community response to Governor Cuomo's banCOMMERCIAL: Orientation '85, funded by The National Gay Task Force5. Paraguayan government harasses gay Paraguayan publisherCOMMERCIAL: "New York Native" with Quentin Crisp6. human rights Texas Commission condemns employment discrimination against people with AIDS, health cards7. Greenwich Village establishes two new AIDS residences8. Interview with David Kopay, discusses coming outCOMMERCIAL: NGTF Fund for Human Dignity with "Dear Abby" Abigail Van Buren9. Sports10. Healthline: Conversations with GMHC: Dr. Mathilde Krim, Chairperson of American Medical Foundation, discusses AIDS Medical Foundation changes11. Closing credits The Right Stuff:1. Current events/media/culture, includes clipsCOMMERCIAL: AIDS hotline, New York AIDS Action2. Sybil BruncheonCOMMERCIAL: The Monster3. Sybil Bruncheon reads letters</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174[Air Date: 12/10/1985]: December 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174[Air Date: 12/10/1985]: December 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. New San Francisco law bans AIDS discrimination and mandatory HTLVIII tests 2. Los Angeles Insurance Professionals for Human Rights hold second meeting 3. Gay Anti-Defamation League protests against New York Post for slander, includes footage 4. Gay community response to Governor Cuomo's ban COMMERCIAL: Orientation '85, funded by The National Gay Task Force 5. Paraguayan government harasses gay Paraguayan publisher COMMERCIAL: "New York Native" with Quentin Crisp 6. human rights Texas Commission condemns employment discrimination against people with AIDS, health cards 7. Greenwich Village establishes two new AIDS residences 8. Interview with David Kopay, discusses coming out COMMERCIAL: NGTF Fund for Human Dignity with "Dear Abby" Abigail Van Buren 9. Sports 10. Healthline: Conversations with GMHC: Dr. Mathilde Krim, Chairperson of American Medical Foundation, discusses AIDS Medical Foundation changes 11. Closing credits The Right Stuff: 1. Current events/media/culture, includes clips COMMERCIAL: AIDS hotline, New York AIDS Action 2. Sybil Bruncheon COMMERCIAL: The Monster 3. Sybil Bruncheon reads letters</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174 [Air Date: 12/10/1985]: December 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174 [Air Date: 12/10/1985]: December 1985</field>
+     <field name="ref_ssi">aspace_ref1524</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174[Air Date: 12/10/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174[Air Date: 12/10/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 63 [2]--The Right Stuff, Episode No. 174 [Air Date: 12/10/1985]</field>
+     <field name="unitdate_ssm">December 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2654</field>

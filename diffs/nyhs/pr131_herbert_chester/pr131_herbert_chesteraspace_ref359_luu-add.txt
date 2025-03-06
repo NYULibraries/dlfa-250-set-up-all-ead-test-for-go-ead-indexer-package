@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref356_qfl</field>
+     <field name="parent_ssm">aspace_ref357_d8d</field>
+     <field name="parent_unittitles_ssm">Oregon</field>
+-    <field name="parent_unittitles_ssm">Portland – Lewis &amp; Clark Centennial American Pacific Exposition (1905)</field>
++    <field name="parent_unittitles_ssm">Portland – Lewis &amp;amp; Clark Centennial American Pacific Exposition (1905)</field>
+     <field name="parent_unittitles_teim">Oregon</field>
+-    <field name="parent_unittitles_teim">Portland – Lewis &amp; Clark Centennial American Pacific Exposition (1905)</field>
++    <field name="parent_unittitles_teim">Portland – Lewis &amp;amp; Clark Centennial American Pacific Exposition (1905)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">H.M. Chester photograph collection</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">H.M. Chester photograph collection</field>
+     <field name="collection_unitid_teim">PR 131</field>
+     <field name="series_sim">Oregon</field>
+-    <field name="series_sim">Portland – Lewis &amp; Clark Centennial American Pacific Exposition (1905)</field>
++    <field name="series_sim">Portland – Lewis &amp;amp; Clark Centennial American Pacific Exposition (1905)</field>
+     <field name="series_si">Oregon &gt;&gt; Portland – Lewis &amp; Clark Centennial American Pacific Exposition (1905) &gt;&gt; Exposition Grounds</field>
+     <field name="heading_ssm">Exposition Grounds</field>
+     <field name="unitdate_start_sim">1905</field>

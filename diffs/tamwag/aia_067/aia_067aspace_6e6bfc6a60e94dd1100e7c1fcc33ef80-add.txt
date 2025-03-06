@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">aia_067</field>
+     <field name="parent_ssi">aspace_85afed6106eb504a1172e4eea12a3c5e</field>
+     <field name="parent_ssm">aspace_85afed6106eb504a1172e4eea12a3c5e</field>
+-    <field name="parent_unittitles_ssm">Series III: Belfast Project (Boston College &amp; IRA Tapes)</field>
+-    <field name="parent_unittitles_teim">Series III: Belfast Project (Boston College &amp; IRA Tapes)</field>
++    <field name="parent_unittitles_ssm">Series III: Belfast Project (Boston College &amp;amp; IRA Tapes)</field>
++    <field name="parent_unittitles_teim">Series III: Belfast Project (Boston College &amp;amp; IRA Tapes)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Jack O'Brien Papers</field>
+@@ -31,7 +31,7 @@
+     <field name="location_si">Box: 31, Folder: 12</field>
+     <field name="collection_teim">Jack O'Brien Papers</field>
+     <field name="collection_unitid_teim">AIA.067</field>
+-    <field name="series_sim">Series III: Belfast Project (Boston College &amp; IRA Tapes)</field>
++    <field name="series_sim">Series III: Belfast Project (Boston College &amp;amp; IRA Tapes)</field>
+     <field name="series_si">Series III: Belfast Project (Boston College &amp; IRA Tapes) &gt;&gt; Correspondence - Ancient Order of Hibernians to Members of the U.S. Government</field>
+     <field name="heading_ssm">Correspondence - Ancient Order of Hibernians to Members of the U.S. Government</field>
+     <field name="unitdate_start_sim">2011</field>

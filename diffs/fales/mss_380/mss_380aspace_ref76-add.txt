@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref4</field>
+     <field name="parent_ssm">aspace_ref60</field>
+     <field name="parent_unittitles_ssm">Series III: Sound recordings</field>
+-    <field name="parent_unittitles_ssm">Subseries A: Jack Smith Performances &amp; Interviews</field>
++    <field name="parent_unittitles_ssm">Subseries A: Jack Smith Performances &amp;amp; Interviews</field>
+     <field name="parent_unittitles_teim">Series III: Sound recordings</field>
+-    <field name="parent_unittitles_teim">Subseries A: Jack Smith Performances &amp; Interviews</field>
++    <field name="parent_unittitles_teim">Subseries A: Jack Smith Performances &amp;amp; Interviews</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Ed Leffingwell Jack Smith Curatorial Files</field>
+@@ -35,7 +35,7 @@
+     <field name="collection_teim">Ed Leffingwell Jack Smith Curatorial Files</field>
+     <field name="collection_unitid_teim">MSS.380</field>
+     <field name="series_sim">Series III: Sound recordings</field>
+-    <field name="series_sim">Subseries A: Jack Smith Performances &amp; Interviews</field>
++    <field name="series_sim">Subseries A: Jack Smith Performances &amp;amp; Interviews</field>
+     <field name="series_si">Series III: Sound recordings &gt;&gt; Subseries A: Jack Smith Performances &amp; Interviews &gt;&gt; A: Repetitive Reheasal Jack Smith + Woman's Voice + Man's Voice as actors + directors B: Music</field>
+     <field name="heading_ssm">A: Repetitive Reheasal Jack Smith + Woman's Voice + Man's Voice as actors + directors B: Music</field>
+     <field name="unitdate_ssm">undated</field>

@@ -1,0 +1,30 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,14 +17,14 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175[Air Date: 12/17/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175[Air Date: 12/17/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175 [Air Date: 12/17/1985]</field>
+     <field name="unitid_teim">ID: 231.0663</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529388</field>
+     <field name="unitid_ssm">ID: 231.0663</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529388</field>
+     <field name="unitdate_teim">December 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Navy attempts to discharge eight men with positive HTLVIII antibody test results2.Georgetown University law students vote to oppose gay discrimination3. Canada's parliament considers gay military admittance4. United Sates Immigration and Naturalization Service grants permanent residence status to Santiago ReyesCOMMERCIAL: NGTF Fund for Human Dignity5. South America discovers new evidence, supports the AIDS co factor theory6. Right-winged Boston conservatives Conference7. Pittsburgh Gay Chorus changes name to Renaissance City Choir, founders worry about backlash and job securityCOMMERCIAL: "New York Native" with Quentin Crisp8. Sports, includes clips9. Healthline: Conversations with GMHC: Raymond Jacobs, Recreation Program Director and GMHC Founder, discusses AIDS crisis10. Closing credits11. Lou Maletta addresses public The Right Stuff:1. Sybil BruncheonCOMMERCIAL: The Monster2. Sybil BruncheonCOMMERCIAL: AIDS hotline, New York AIDS Action3. Safety messageCOMMERCIAL: The Grande Gala-Gay, The Islanders' Club4. Current events/media/culture, includes Marc Christian clip5. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Navy attempts to discharge eight men with positive HTLVIII antibody test results 2.Georgetown University law students vote to oppose gay discrimination 3. Canada's parliament considers gay military admittance 4. United Sates Immigration and Naturalization Service grants permanent residence status to Santiago Reyes COMMERCIAL: NGTF Fund for Human Dignity 5. South America discovers new evidence, supports the AIDS co factor theory 6. Right-winged Boston conservatives Conference 7. Pittsburgh Gay Chorus changes name to Renaissance City Choir, founders worry about backlash and job security COMMERCIAL: "New York Native" with Quentin Crisp 8. Sports, includes clips 9. Healthline: Conversations with GMHC: Raymond Jacobs, Recreation Program Director and GMHC Founder, discusses AIDS crisis 10. Closing credits 11. Lou Maletta addresses public The Right Stuff: 1. Sybil Bruncheon COMMERCIAL: The Monster 2. Sybil Bruncheon COMMERCIAL: AIDS hotline, New York AIDS Action 3. Safety message COMMERCIAL: The Grande Gala-Gay, The Islanders' Club 4. Current events/media/culture, includes Marc Christian clip 5. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
+     <field name="dao_teim">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175 [Air Date: 12/17/1985]: December 1985</field>
+     <field name="dao_ssm">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175 [Air Date: 12/17/1985]: December 1985</field>
+     <field name="ref_ssi">aspace_ref1527</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175[Air Date: 12/17/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175[Air Date: 12/17/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 64 [2]--The Right Stuff, Episode No. 175 [Air Date: 12/17/1985]</field>
+     <field name="unitdate_ssm">December 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2655</field>

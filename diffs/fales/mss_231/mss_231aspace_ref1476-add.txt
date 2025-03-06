@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164[Air Date: 8/19/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164[Air Date: 8/19/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164 [Air Date: 8/19/1985]</field>
+     <field name="unitid_teim">ID: 231.0646</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529371</field>
+     <field name="unitid_ssm">ID: 231.0646</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529371</field>
+     <field name="unitdate_teim">August 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. R. Foster Winans, former Wall Street Journal reporter, receives prison sentences, judge grants his appeal to help AIDS victims for community service hours2. State Farm Insurance extents joint owners and umbrella liability insurance to a San Francisco gay male couple3. United States military charges man with homosexuality after he confidentially informs his naval doctor of his AIDS prognosis, AIDS discriminationCOMMERCIAL: "The Connection," gay and lesbian newspaper4. Elen Lauper, lesbian candidate for mayor in Phoenix, Arizona5. Lesbian grandmother sues son-in-law for refusal to comply with visitation rightsCOMMERCIAL: "New York Native" with Quentin Crisp6."poppers" amyl and butyl nitrates7. Illinois Abbott Laboratories announces eventual release of accurate AIDS test8. Pentagon delays mandatory HTLVIII-positive military lists amid controversy9. 1985 gay pride rally coverage, includes Sybil Bruncheon10. Sports11. Healthline: Conversations with GMHC: Dr. Jeffrey Lawrence, Assistant Professor of Medicine at New York Hospital, Cornell, discusses AIDS research development12. Closing credits The Right Stuff:1. Media reports/current events/culture, includes clip from "Divorce Court"COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club2. Sybil Bruncheon in Central ParkCOMMERCIAL: "Manscape," a gay magazine3. Sybil Bruncheon and DaphneCOMMERCIAL: NGTF Fund for Human Dignity with actor Jack Albertson4. Sybil Bruncheon5. Interview with Larry Kramer, author of "The Normal Heart", discusses his play and AIDS awareness</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164[Air Date: 8/19/1985]: August 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164[Air Date: 8/19/1985]: August 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. R. Foster Winans, former Wall Street Journal reporter, receives prison sentences, judge grants his appeal to help AIDS victims for community service hours 2. State Farm Insurance extents joint owners and umbrella liability insurance to a San Francisco gay male couple 3. United States military charges man with homosexuality after he confidentially informs his naval doctor of his AIDS prognosis, AIDS discrimination COMMERCIAL: "The Connection," gay and lesbian newspaper 4. Elen Lauper, lesbian candidate for mayor in Phoenix, Arizona 5. Lesbian grandmother sues son-in-law for refusal to comply with visitation rights COMMERCIAL: "New York Native" with Quentin Crisp 6."poppers" amyl and butyl nitrates 7. Illinois Abbott Laboratories announces eventual release of accurate AIDS test 8. Pentagon delays mandatory HTLVIII-positive military lists amid controversy 9. 1985 gay pride rally coverage, includes Sybil Bruncheon 10. Sports 11. Healthline: Conversations with GMHC: Dr. Jeffrey Lawrence, Assistant Professor of Medicine at New York Hospital, Cornell, discusses AIDS research development 12. Closing credits The Right Stuff: 1. Media reports/current events/culture, includes clip from "Divorce Court" COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club 2. Sybil Bruncheon in Central Park COMMERCIAL: "Manscape," a gay magazine 3. Sybil Bruncheon and Daphne COMMERCIAL: NGTF Fund for Human Dignity with actor Jack Albertson 4. Sybil Bruncheon 5. Interview with Larry Kramer, author of "The Normal Heart", discusses his play and AIDS awareness</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164 [Air Date: 8/19/1985]: August 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164 [Air Date: 8/19/1985]: August 1985</field>
+     <field name="ref_ssi">aspace_ref1476</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164[Air Date: 8/19/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164[Air Date: 8/19/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 47 [2]--The Right Stuff, Episode No. 164 [Air Date: 8/19/1985]</field>
+     <field name="unitdate_ssm">August 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2638</field>

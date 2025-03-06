@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref405_vay</field>
+     <field name="parent_ssm">aspace_ref324_9yx</field>
+     <field name="parent_ssm">aspace_ref405_vay</field>
+-    <field name="parent_unittitles_ssm">Series II. Library &amp; Archives Files</field>
++    <field name="parent_unittitles_ssm">Series II. Library &amp;amp; Archives Files</field>
+     <field name="parent_unittitles_ssm">Subseries II.D. Archives Files</field>
+-    <field name="parent_unittitles_teim">Series II. Library &amp; Archives Files</field>
++    <field name="parent_unittitles_teim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="parent_unittitles_teim">Subseries II.D. Archives Files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">Offsite-Box: 63, Folder: 5-10</field>
+     <field name="collection_teim">Horticultural Society of New York records</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+-    <field name="series_sim">Series II. Library &amp; Archives Files</field>
++    <field name="series_sim">Series II. Library &amp;amp; Archives Files</field>
+     <field name="series_sim">Subseries II.D. Archives Files</field>
+     <field name="series_si">Series II. Library &amp; Archives Files &gt;&gt; Subseries II.D. Archives Files &gt;&gt; Archives Project Work Files (6 of 10 folders)</field>
+     <field name="heading_ssm">Archives Project Work Files (6 of 10 folders)</field>

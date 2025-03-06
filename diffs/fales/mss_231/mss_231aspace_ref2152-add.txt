@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 231.0908</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529639</field>
+     <field name="unitdate_teim">June 1986</field>
+-    <field name="scopecontent_teim">The Right Stuff, San Francisco1.This Week in Gay History with Jeff BixbyCOMMERCIAL:San Francisco AIDS Foundation2.Introduction by The Right Stuff hosts, Doris Fish and Tippi3.David Alex Nahmod and the Movies, Discussion about "Invaders from Mars," "Man in the Silk Hat," "Parents Come Out, and "The AIDS Show" from Theatre Rinocerous4.Ask Dr. Farkle, Discussion about Lynn Redgrave and Rita Mae Brown5.Phillip R. Ford interviews Cher impersonator and talks about upcoming events6.Footage of Blazing Redheads concert7.Closing Credits</field>
++    <field name="scopecontent_teim">The Right Stuff, San Francisco 1.This Week in Gay History with Jeff Bixby COMMERCIAL:San Francisco AIDS Foundation 2.Introduction by The Right Stuff hosts, Doris Fish and Tippi 3.David Alex Nahmod and the Movies, Discussion about "Invaders from Mars," "Man in the Silk Hat," "Parents Come Out, and "The AIDS Show" from Theatre Rinocerous 4.Ask Dr. Farkle, Discussion about Lynn Redgrave and Rita Mae Brown 5.Phillip R. Ford interviews Cher impersonator and talks about upcoming events 6.Footage of Blazing Redheads concert 7.Closing Credits</field>
+     <field name="phystech_teim">Duration: [unknown]</field>
+     <field name="phystech_teim">Original Format: 3/4 in. Umatic</field>
+     <field name="phystech_teim">Program content: Margaret Gomez and Flaming Red Heads</field>

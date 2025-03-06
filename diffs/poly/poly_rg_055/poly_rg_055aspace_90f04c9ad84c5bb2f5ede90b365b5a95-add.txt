@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">poly_rg_055</field>
+     <field name="parent_ssi">aspace_82d6ec7638f1f7d25f7c66d5b93f3513</field>
+     <field name="parent_ssm">aspace_82d6ec7638f1f7d25f7c66d5b93f3513</field>
+-    <field name="parent_unittitles_ssm">Series VI: Closed Form Barrier Option Valuation &amp; Closed Form Option Volume with Smiles</field>
+-    <field name="parent_unittitles_teim">Series VI: Closed Form Barrier Option Valuation &amp; Closed Form Option Volume with Smiles</field>
++    <field name="parent_unittitles_ssm">Series VI: Closed Form Barrier Option Valuation &amp;amp; Closed Form Option Volume with Smiles</field>
++    <field name="parent_unittitles_teim">Series VI: Closed Form Barrier Option Valuation &amp;amp; Closed Form Option Volume with Smiles</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Peter P. Carr Papers</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">box: 6, folder: 43</field>
+     <field name="collection_teim">Peter P. Carr Papers</field>
+     <field name="collection_unitid_teim">RG.055</field>
+-    <field name="series_sim">Series VI: Closed Form Barrier Option Valuation &amp; Closed Form Option Volume with Smiles</field>
++    <field name="series_sim">Series VI: Closed Form Barrier Option Valuation &amp;amp; Closed Form Option Volume with Smiles</field>
+     <field name="series_si">Series VI: Closed Form Barrier Option Valuation &amp; Closed Form Option Volume with Smiles &gt;&gt; Lerche, Hans; Boundary Crossing of Brownian Motion, Springer</field>
+     <field name="heading_ssm">Lerche, Hans; Boundary Crossing of Brownian Motion, Springer</field>
+     <field name="unitdate_start_sim">1986</field>

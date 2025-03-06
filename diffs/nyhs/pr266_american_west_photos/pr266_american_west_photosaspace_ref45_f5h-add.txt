@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 266</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Utah &lt;em&gt;Coalville, Weber Valley.&lt;/em&gt;&lt;em&gt;Hanging Rock, Foot of Echo Canon.&lt;/em&gt;&lt;em&gt;Mormon Turnpike Bridge, Mouth of Weber Canon.&lt;/em&gt;&lt;em&gt;Sphynx of the Valley.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Utah Coalville, Weber Valley.Hanging Rock, Foot of Echo Canon.Mormon Turnpike Bridge, Mouth of Weber Canon.Sphynx of the Valley.</field>
++    <field name="unittitle_teim">Utah Coalville, Weber Valley. Hanging Rock, Foot of Echo Canon. Mormon Turnpike Bridge, Mouth of Weber Canon. Sphynx of the Valley.</field>
+     <field name="unitdate_teim">1869</field>
+     <field name="title_teim">Coalville, Weber Valley.</field>
+     <field name="title_teim">Hanging Rock, Foot of Echo Canon.</field>
+@@ -40,7 +40,7 @@
+     <field name="series_sim">Series III. 16 x 20 inches</field>
+     <field name="series_sim">ANDREW J. RUSSELL</field>
+     <field name="series_si">Series III. 16 x 20 inches &gt;&gt; ANDREW J. RUSSELL &gt;&gt; Utah &lt;em&gt;Coalville, Weber Valley.&lt;/em&gt;&lt;em&gt;Hanging Rock, Foot of Echo Canon.&lt;/em&gt;&lt;em&gt;Mormon Turnpike Bridge, Mouth of Weber Canon.&lt;/em&gt;&lt;em&gt;Sphynx of the Valley.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Utah Coalville, Weber Valley.Hanging Rock, Foot of Echo Canon.Mormon Turnpike Bridge, Mouth of Weber Canon.Sphynx of the Valley.</field>
++    <field name="heading_ssm">Utah Coalville, Weber Valley. Hanging Rock, Foot of Echo Canon. Mormon Turnpike Bridge, Mouth of Weber Canon. Sphynx of the Valley.</field>
+     <field name="unitdate_ssm">1869</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">33</field>

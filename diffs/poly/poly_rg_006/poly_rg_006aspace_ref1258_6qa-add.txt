@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref8_4cr</field>
+     <field name="parent_ssm">aspace_ref26_us1</field>
+     <field name="parent_unittitles_ssm">Series IV: Organizations</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Board on Science &amp; Technology for International Development (BOSTID)</field>
++    <field name="parent_unittitles_ssm">Subseries B: Board on Science &amp;amp; Technology for International Development (BOSTID)</field>
+     <field name="parent_unittitles_teim">Series IV: Organizations</field>
+-    <field name="parent_unittitles_teim">Subseries B: Board on Science &amp; Technology for International Development (BOSTID)</field>
++    <field name="parent_unittitles_teim">Subseries B: Board on Science &amp;amp; Technology for International Development (BOSTID)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Administrative Papers of the President George Bugliarello</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">Administrative Papers of the President George Bugliarello</field>
+     <field name="collection_unitid_teim">RG.006</field>
+     <field name="series_sim">Series IV: Organizations</field>
+-    <field name="series_sim">Subseries B: Board on Science &amp; Technology for International Development (BOSTID)</field>
++    <field name="series_sim">Subseries B: Board on Science &amp;amp; Technology for International Development (BOSTID)</field>
+     <field name="series_si">Series IV: Organizations &gt;&gt; Subseries B: Board on Science &amp; Technology for International Development (BOSTID) &gt;&gt; BOSTID - Governing Board</field>
+     <field name="heading_ssm">BOSTID - Governing Board</field>
+     <field name="unitdate_start_sim">1980</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">To be supplied.</field>
+     <field name="scopecontent_teim">Pain</field>
+-    <field name="phystech_teim">Original Format: 1/2 in. Open ReelTRT: 01:03:43</field>
++    <field name="phystech_teim">Original Format: 1/2 in. Open Reel TRT: 01:03:43</field>
+     <field name="ref_ssi">aspace_ref3058</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

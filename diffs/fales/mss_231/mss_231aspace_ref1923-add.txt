@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 33 [2]--The Right Stuff[Air Date: 8/18/1988]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 33 [2]--The Right Stuff[Air Date: 8/18/1988]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 33 [2]--The Right Stuff [Air Date: 8/18/1988]</field>
+     <field name="unitid_teim">ID: 231.0802</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529528</field>
+     <field name="unitid_ssm">ID: 231.0802</field>
+@@ -40,7 +40,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1988</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1988 &gt;&gt; [1]--Pride and Progress, Episode No. 33 [2]--The Right Stuff[Air Date: 8/18/1988]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 33 [2]--The Right Stuff[Air Date: 8/18/1988]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 33 [2]--The Right Stuff [Air Date: 8/18/1988]</field>
+     <field name="unitdate_ssm">August 1988</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2795</field>

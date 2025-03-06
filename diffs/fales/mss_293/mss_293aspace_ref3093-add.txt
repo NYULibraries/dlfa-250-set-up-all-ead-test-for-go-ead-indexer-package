@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">1974/1974</field>
+     <field name="unitdate_inclusive_teim">May 1974</field>
+     <field name="scopecontent_teim">A performance of Kenward Elmslie's City Junket, for which Rivers designed the set pieces and which starred his wife, Clarice.</field>
+-    <field name="phystech_teim">B&amp;W/SoundTRT: 01:09:38Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">B&amp;W/Sound TRT: 01:09:38 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3093</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

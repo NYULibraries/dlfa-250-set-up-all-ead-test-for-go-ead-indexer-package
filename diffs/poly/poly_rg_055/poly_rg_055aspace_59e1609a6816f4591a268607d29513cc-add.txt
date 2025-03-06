@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Peter P. Carr Papers</field>
+     <field name="collection_unitid_ssm">RG.055</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">Ex exp{-lambdaS1(wt&amp;gt;o)dt}</field>
++    <field name="unittitle_ssm">Ex exp{-lambdaS1(wt&gt;o)dt}</field>
+     <field name="unittitle_teim">Ex exp{-lambdaS1(wt&gt;o)dt}</field>
+     <field name="unitdate_teim">Undated</field>
+     <field name="ref_ssi">aspace_59e1609a6816f4591a268607d29513cc</field>
+@@ -27,7 +27,7 @@
+     <field name="collection_teim">Peter P. Carr Papers</field>
+     <field name="collection_unitid_teim">RG.055</field>
+     <field name="series_sim">Series XXII: Executive Stock Options (ESO)</field>
+-    <field name="series_si">Series XXII: Executive Stock Options (ESO) &gt;&gt; Ex exp{-lambdaS1(wt&amp;gt;o)dt}</field>
++    <field name="series_si">Series XXII: Executive Stock Options (ESO) &gt;&gt; Ex exp{-lambdaS1(wt&gt;o)dt}</field>
+     <field name="heading_ssm">Ex exp{-lambdaS1(wt&gt;o)dt}</field>
+     <field name="unitdate_ssm">Undated</field>
+     <field name="date_range_sim">undated &amp; other</field>

@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref16_gvf</field>
+     <field name="parent_ssm">aspace_ref1366_oju</field>
+     <field name="parent_unittitles_ssm">Series I: Prints 16 x 20" and smaller</field>
+-    <field name="parent_unittitles_ssm">Ehrgott, Forbriger &amp; Co. (fl. 1860-1869)</field>
++    <field name="parent_unittitles_ssm">Ehrgott, Forbriger &amp;amp; Co. (fl. 1860-1869)</field>
+     <field name="parent_unittitles_teim">Series I: Prints 16 x 20" and smaller</field>
+-    <field name="parent_unittitles_teim">Ehrgott, Forbriger &amp; Co. (fl. 1860-1869)</field>
++    <field name="parent_unittitles_teim">Ehrgott, Forbriger &amp;amp; Co. (fl. 1860-1869)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Printmaker File</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Printmaker File</field>
+     <field name="collection_unitid_teim">PR 58</field>
+     <field name="series_sim">Series I: Prints 16 x 20" and smaller</field>
+-    <field name="series_sim">Ehrgott, Forbriger &amp; Co. (fl. 1860-1869)</field>
++    <field name="series_sim">Ehrgott, Forbriger &amp;amp; Co. (fl. 1860-1869)</field>
+     <field name="series_si">Series I: Prints 16 x 20" and smaller &gt;&gt; Ehrgott, Forbriger &amp; Co. (fl. 1860-1869) &gt;&gt; "John C. Fremont. Maj. Genl. U.S.A."</field>
+     <field name="heading_ssm">"John C. Fremont. Maj. Genl. U.S.A."</field>
+     <field name="unitdate_ssm">undated</field>

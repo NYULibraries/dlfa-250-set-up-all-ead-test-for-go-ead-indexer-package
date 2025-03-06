@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref193_alm</field>
+     <field name="parent_ssm">aspace_ref229_w17</field>
+     <field name="parent_unittitles_ssm">Series X. Architectural Drawings</field>
+-    <field name="parent_unittitles_ssm">PR21.175 : Johnson, Hazelett &amp; Co., Storefront (Saint Paul, Minn.)</field>
++    <field name="parent_unittitles_ssm">PR21.175 : Johnson, Hazelett &amp;amp; Co., Storefront (Saint Paul, Minn.)</field>
+     <field name="parent_unittitles_teim">Series X. Architectural Drawings</field>
+-    <field name="parent_unittitles_teim">PR21.175 : Johnson, Hazelett &amp; Co., Storefront (Saint Paul, Minn.)</field>
++    <field name="parent_unittitles_teim">PR21.175 : Johnson, Hazelett &amp;amp; Co., Storefront (Saint Paul, Minn.)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Cass Gilbert papers and architectural drawings</field>
+@@ -29,7 +29,7 @@
+     <field name="collection_teim">Cass Gilbert papers and architectural drawings</field>
+     <field name="collection_unitid_teim">PR 21</field>
+     <field name="series_sim">Series X. Architectural Drawings</field>
+-    <field name="series_sim">PR21.175 : Johnson, Hazelett &amp; Co., Storefront (Saint Paul, Minn.)</field>
++    <field name="series_sim">PR21.175 : Johnson, Hazelett &amp;amp; Co., Storefront (Saint Paul, Minn.)</field>
+     <field name="series_si">Series X. Architectural Drawings &gt;&gt; PR21.175 : Johnson, Hazelett &amp; Co., Storefront (Saint Paul, Minn.) &gt;&gt; Front elevation study. graphite and watercolor on board.</field>
+     <field name="heading_ssm">Front elevation study. graphite and watercolor on board.</field>
+     <field name="date_range_sim">undated &amp; other</field>

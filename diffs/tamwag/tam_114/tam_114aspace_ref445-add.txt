@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_114</field>
+     <field name="parent_ssi">aspace_ref434</field>
+     <field name="parent_ssm">aspace_ref434</field>
+-    <field name="parent_unittitles_ssm">Series V: Junta &amp; Resistance, Other Subject Files</field>
+-    <field name="parent_unittitles_teim">Series V: Junta &amp; Resistance, Other Subject Files</field>
++    <field name="parent_unittitles_ssm">Series V: Junta &amp;amp; Resistance, Other Subject Files</field>
++    <field name="parent_unittitles_teim">Series V: Junta &amp;amp; Resistance, Other Subject Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John and Constantine Poulos Papers</field>
+@@ -31,7 +31,7 @@
+     <field name="location_si">Box: 13, Folder: 8</field>
+     <field name="collection_teim">John and Constantine Poulos Papers</field>
+     <field name="collection_unitid_teim">TAM.114</field>
+-    <field name="series_sim">Series V: Junta &amp; Resistance, Other Subject Files</field>
++    <field name="series_sim">Series V: Junta &amp;amp; Resistance, Other Subject Files</field>
+     <field name="series_si">Series V: Junta &amp; Resistance, Other Subject Files &gt;&gt; Litton, U.S. Industries, etc.</field>
+     <field name="heading_ssm">Litton, U.S. Industries, etc.</field>
+     <field name="unitdate_start_sim">1921</field>

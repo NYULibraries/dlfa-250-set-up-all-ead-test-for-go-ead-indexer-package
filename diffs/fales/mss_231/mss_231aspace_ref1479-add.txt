@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165[Air Date: 8/26/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165[Air Date: 8/26/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165 [Air Date: 8/26/1985]</field>
+     <field name="unitid_teim">ID: 231.0647</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529372</field>
+     <field name="unitid_ssm">ID: 231.0647</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529372</field>
+     <field name="unitdate_teim">August 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. NYC mayor debate and election2. East Hampton, Long Island, bans discrimination on the basis of sexual orientation3. Interview with T.J. Howell, Committee to re-elect mayorCOMMERCIAL: "The Connection," gay and lesbian newspaper4. Political consultants say gay civil rights politicians will not benefit from their support5. Washington bathhouse update6. Georgia sodomy law controversyCOMMERCIAL: "New York Native" with Quentin Crisp7. John Cardinal O' Connor and his hospice for AIDS patients8. New findings, tuberculosis may be linked to AIDS9. AIDS number one killer of gay men in NYC, 198510. Minneapolis man wins AIDS descrimination case11. Sports, interview with Neal Babitch, Different Spokes12. Healthline: Conversations with GMHC: Dr. Jeffrey Lawrence, Assistant Professor of Medicine at New York Hospital, Cornell, discusses neutralizing antibodies13. Closing credits The Right Stuff:1. Media reports/current events/cultureCOMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club2. Sybil BruncheonCOMMERCIAL: NGTF Fund for Human Dignity with actor Mike Farrell3. Sybil Bruncheon reads letters4. Broadway Confidential: plays and films, includes clip5. Interview with M.A. Milcho, Yugoslavian film director, includes clips</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165[Air Date: 8/26/1985]: August 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165[Air Date: 8/26/1985]: August 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. NYC mayor debate and election 2. East Hampton, Long Island, bans discrimination on the basis of sexual orientation 3. Interview with T.J. Howell, Committee to re-elect mayor COMMERCIAL: "The Connection," gay and lesbian newspaper 4. Political consultants say gay civil rights politicians will not benefit from their support 5. Washington bathhouse update 6. Georgia sodomy law controversy COMMERCIAL: "New York Native" with Quentin Crisp 7. John Cardinal O' Connor and his hospice for AIDS patients 8. New findings, tuberculosis may be linked to AIDS 9. AIDS number one killer of gay men in NYC, 1985 10. Minneapolis man wins AIDS descrimination case 11. Sports, interview with Neal Babitch, Different Spokes 12. Healthline: Conversations with GMHC: Dr. Jeffrey Lawrence, Assistant Professor of Medicine at New York Hospital, Cornell, discusses neutralizing antibodies 13. Closing credits The Right Stuff: 1. Media reports/current events/culture COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club 2. Sybil Bruncheon COMMERCIAL: NGTF Fund for Human Dignity with actor Mike Farrell 3. Sybil Bruncheon reads letters 4. Broadway Confidential: plays and films, includes clip 5. Interview with M.A. Milcho, Yugoslavian film director, includes clips</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165 [Air Date: 8/26/1985]: August 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165 [Air Date: 8/26/1985]: August 1985</field>
+     <field name="ref_ssi">aspace_ref1479</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165[Air Date: 8/26/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165[Air Date: 8/26/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 48 [2]--The Right Stuff, Episode No. 165 [Air Date: 8/26/1985]</field>
+     <field name="unitdate_ssm">August 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2639</field>

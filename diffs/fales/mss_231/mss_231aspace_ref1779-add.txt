@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff[Air Date: 6/12/1987]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff[Air Date: 6/12/1987]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff [Air Date: 6/12/1987]</field>
+     <field name="unitid_teim">ID: 231.0743</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529468</field>
+     <field name="unitid_ssm">ID: 231.0743</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529468</field>
+     <field name="unitdate_teim">June 1987</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Gay Week in Review, with Andy Humm, David Strah, and Maureen Brady, sponsored by the Human Rights Campaign Fund2. Conversation with Congressman Ted Weiss, chief sponsor of the Federal Lesbian and Gay Rights Bill, and advocate for greater AIDS fundingCOMMERCIAL: Lesbian and Gay Community Services Center Fundraiser3. Continued conversation with Ted WeissCOMMERCIAL: Human Rights Campaign Fund4. Andy Humm on Mayor Ed Koch's defense of Cardinal O'Connor and sponsorship of abstinence-only AIDS education5. News Watch, AIDS-positive man in Birmingham, Alabama spits in the face of a baby, which City Council attempts to classify this as "attempted murder," although a member of the Alabama State Health Department declares transmission by spitting "very unlikely"6. A federal lawsuit has been brought against Prudential Insurance Company by a business-owner who was tested for HIV antibodies without his knowledge or consent7. William Hoffman, the playwright of "As Is," criticizes PBS for refusing to air the movie-version of the play due to the possible reaction of Southern stations to the positive depiction of a gay relationship8. West Seneca, New York, board approves changing the name of "Gay Drive" to "Fawn Trail" due to resident's disapprovalCOMMERCIAL: GCN Fundraiser9. Sports ReportCOMMERCIAL: "First Hand" gay magazine10. Lavender Health, interview with Michael Baker, interagency planner of the NYC Department of Health11. Closing credits The Right Stuff:1. Naming Names, criticism of anti-gay extremist Paul CameronCOMMERCIAL: Interart Theatre 2. Rebroadcast of Episode 7 [misidentified on tape by announcer] of GCN's soap opera, "Suds": "Poetry in Motion"3. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff[Air Date: 6/12/1987]: June 1987</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff[Air Date: 6/12/1987]: June 1987</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Gay Week in Review, with Andy Humm, David Strah, and Maureen Brady, sponsored by the Human Rights Campaign Fund 2. Conversation with Congressman Ted Weiss, chief sponsor of the Federal Lesbian and Gay Rights Bill, and advocate for greater AIDS funding COMMERCIAL: Lesbian and Gay Community Services Center Fundraiser 3. Continued conversation with Ted Weiss COMMERCIAL: Human Rights Campaign Fund 4. Andy Humm on Mayor Ed Koch's defense of Cardinal O'Connor and sponsorship of abstinence-only AIDS education 5. News Watch, AIDS-positive man in Birmingham, Alabama spits in the face of a baby, which City Council attempts to classify this as "attempted murder," although a member of the Alabama State Health Department declares transmission by spitting "very unlikely" 6. A federal lawsuit has been brought against Prudential Insurance Company by a business-owner who was tested for HIV antibodies without his knowledge or consent 7. William Hoffman, the playwright of "As Is," criticizes PBS for refusing to air the movie-version of the play due to the possible reaction of Southern stations to the positive depiction of a gay relationship 8. West Seneca, New York, board approves changing the name of "Gay Drive" to "Fawn Trail" due to resident's disapproval COMMERCIAL: GCN Fundraiser 9. Sports Report COMMERCIAL: "First Hand" gay magazine 10. Lavender Health, interview with Michael Baker, interagency planner of the NYC Department of Health 11. Closing credits The Right Stuff: 1. Naming Names, criticism of anti-gay extremist Paul Cameron COMMERCIAL: Interart Theatre 2. Rebroadcast of Episode 7 [misidentified on tape by announcer] of GCN's soap opera, "Suds": "Poetry in Motion" 3. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff [Air Date: 6/12/1987]: June 1987</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff [Air Date: 6/12/1987]: June 1987</field>
+     <field name="ref_ssi">aspace_ref1779</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1987</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff[Air Date: 6/12/1987]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff[Air Date: 6/12/1987]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 25 [2]--The Right Stuff [Air Date: 6/12/1987]</field>
+     <field name="unitdate_ssm">June 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2735</field>

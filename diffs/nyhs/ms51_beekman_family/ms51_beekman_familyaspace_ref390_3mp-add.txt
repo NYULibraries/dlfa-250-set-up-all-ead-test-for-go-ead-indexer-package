@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms51_beekman_family</field>
+     <field name="parent_ssi">aspace_ref385_cf6</field>
+     <field name="parent_ssm">aspace_ref385_cf6</field>
+-    <field name="parent_unittitles_ssm">Box 24(A), William Beekman &amp; James Beekman, Jr.</field>
+-    <field name="parent_unittitles_teim">Box 24(A), William Beekman &amp; James Beekman, Jr.</field>
++    <field name="parent_unittitles_ssm">Box 24(A), William Beekman &amp;amp; James Beekman, Jr.</field>
++    <field name="parent_unittitles_teim">Box 24(A), William Beekman &amp;amp; James Beekman, Jr.</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Beekman family papers</field>
+@@ -26,7 +26,7 @@
+     <field name="location_si">Box: 24(A), Folder: 4</field>
+     <field name="collection_teim">Beekman family papers</field>
+     <field name="collection_unitid_teim">MS 51</field>
+-    <field name="series_sim">Box 24(A), William Beekman &amp; James Beekman, Jr.</field>
++    <field name="series_sim">Box 24(A), William Beekman &amp;amp; James Beekman, Jr.</field>
+     <field name="series_si">Box 24(A), William Beekman &amp; James Beekman, Jr. &gt;&gt; Correspondence Pertaining to the Wawayanda Patent</field>
+     <field name="heading_ssm">Correspondence Pertaining to the Wawayanda Patent</field>
+     <field name="unitdate_ssm">1766-1784</field>

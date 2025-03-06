@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+     <field name="parent_ssm">aspace_980d9919d4ddeceb173b5b4fe8923f7f</field>
+     <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+-    <field name="parent_unittitles_ssm">Brooklyn, Flatbush &amp; Coney Island Railway Co.</field>
++    <field name="parent_unittitles_ssm">Brooklyn, Flatbush &amp;amp; Coney Island Railway Co.</field>
+     <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+-    <field name="parent_unittitles_teim">Brooklyn, Flatbush &amp; Coney Island Railway Co.</field>
++    <field name="parent_unittitles_teim">Brooklyn, Flatbush &amp;amp; Coney Island Railway Co.</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Erasmus Hall records</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">Erasmus Hall records</field>
+     <field name="collection_unitid_teim">MS 201</field>
+     <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+-    <field name="series_sim">Brooklyn, Flatbush &amp; Coney Island Railway Co.</field>
++    <field name="series_sim">Brooklyn, Flatbush &amp;amp; Coney Island Railway Co.</field>
+     <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Brooklyn, Flatbush &amp; Coney Island Railway Co. &gt;&gt; Conductor's Cash Report, Brooklyn, Flatbush &amp; Coney Island Railway Co.</field>
+     <field name="heading_ssm">Conductor's Cash Report, Brooklyn, Flatbush &amp; Coney Island Railway Co.</field>
+     <field name="unitdate_ssm">Inclusive, 188-</field>

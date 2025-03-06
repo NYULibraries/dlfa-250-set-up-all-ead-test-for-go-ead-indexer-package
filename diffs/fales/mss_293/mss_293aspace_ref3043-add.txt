@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Kenneth Koch meets with other teachers at East Hampton High School to discuss, amongst other topics, his experience teaching poetry classes at the school and plans for future classes and workshops.</field>
+     <field name="scopecontent_teim">K. Koch E.H.H.S.</field>
+-    <field name="phystech_teim">Format: DVDB&amp;W/SoundTRT: 01:03:25Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">Format: DVD B&amp;W/Sound TRT: 01:03:25 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3043</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

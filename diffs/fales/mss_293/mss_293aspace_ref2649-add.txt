@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">1990/1990</field>
+     <field name="unitdate_inclusive_teim">Dec 17 1990</field>
+     <field name="scopecontent_teim">Gypsy NY</field>
+-    <field name="phystech_teim">Format: 3/4 in. UmaticTRT: 00:52:40</field>
++    <field name="phystech_teim">Format: 3/4 in. Umatic TRT: 00:52:40</field>
+     <field name="ref_ssi">aspace_ref2649</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

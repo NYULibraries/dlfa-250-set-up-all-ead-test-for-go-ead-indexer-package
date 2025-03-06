@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Sailing Vessels Album- 6 albumen prints</field>
+     <field name="unittitle_teim">Sailing Vessels Album- 6 albumen prints</field>
+-    <field name="scopecontent_teim">The following six albumen prints: FrolicUnidentifiedUnidentifiedQueen MabMirandaUnidentified</field>
++    <field name="scopecontent_teim">The following six albumen prints: Frolic Unidentified Unidentified Queen Mab Miranda Unidentified</field>
+     <field name="ref_ssi">aspace_ref343_lcb</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_138</field>
+     <field name="parent_ssi">aspace_ref3965</field>
+     <field name="parent_ssm">aspace_ref3965</field>
+-    <field name="parent_unittitles_ssm">ADDITIONAL ACCESSIONS: 99-008 &amp; 00-004</field>
+-    <field name="parent_unittitles_teim">ADDITIONAL ACCESSIONS: 99-008 &amp; 00-004</field>
++    <field name="parent_unittitles_ssm">ADDITIONAL ACCESSIONS: 99-008 &amp;amp; 00-004</field>
++    <field name="parent_unittitles_teim">ADDITIONAL ACCESSIONS: 99-008 &amp;amp; 00-004</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Derrick A. Bell, Jr. Papers</field>
+@@ -31,7 +31,7 @@
+     <field name="location_si">Box: 105, Folder: 41</field>
+     <field name="collection_teim">Derrick A. Bell, Jr. Papers</field>
+     <field name="collection_unitid_teim">MC.138</field>
+-    <field name="series_sim">ADDITIONAL ACCESSIONS: 99-008 &amp; 00-004</field>
++    <field name="series_sim">ADDITIONAL ACCESSIONS: 99-008 &amp;amp; 00-004</field>
+     <field name="series_si">ADDITIONAL ACCESSIONS: 99-008 &amp; 00-004 &gt;&gt; Appleseed Reception</field>
+     <field name="heading_ssm">Appleseed Reception</field>
+     <field name="unitdate_start_sim">1998</field>

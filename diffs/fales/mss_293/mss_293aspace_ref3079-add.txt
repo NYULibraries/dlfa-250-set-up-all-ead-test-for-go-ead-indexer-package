@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -28,7 +28,7 @@
+     <field name="unitdate_inclusive_teim">1975</field>
+     <field name="scopecontent_teim">Rivers visits the 1975 Gay Pride Parade, taking footage of the parade and interviewing attendees, marchers, locals and tourists along the stretch from Greenwich Village to Central Park.</field>
+     <field name="scopecontent_teim">Alternate Title: Gay Pride</field>
+-    <field name="phystech_teim">Color/SoundTRT: 00:41:29Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">Color/Sound TRT: 00:41:29 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3079</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

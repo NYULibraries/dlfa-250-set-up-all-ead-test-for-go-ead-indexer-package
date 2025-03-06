@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref12_o17</field>
+     <field name="parent_ssm">aspace_ref61_e54</field>
+     <field name="parent_unittitles_ssm">Series III. Financial</field>
+-    <field name="parent_unittitles_ssm">Subseries III.B. Financial Statements &amp; tax returns</field>
++    <field name="parent_unittitles_ssm">Subseries III.B. Financial Statements &amp;amp; tax returns</field>
+     <field name="parent_unittitles_teim">Series III. Financial</field>
+-    <field name="parent_unittitles_teim">Subseries III.B. Financial Statements &amp; tax returns</field>
++    <field name="parent_unittitles_teim">Subseries III.B. Financial Statements &amp;amp; tax returns</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Records of the Society of Daughters of Holland Dames, Descendants of the Ancient and Honorable Families of New Netherland</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Records of the Society of Daughters of Holland Dames, Descendants of the Ancient and Honorable Families of New Netherland</field>
+     <field name="collection_unitid_teim">MS 3034</field>
+     <field name="series_sim">Series III. Financial</field>
+-    <field name="series_sim">Subseries III.B. Financial Statements &amp; tax returns</field>
++    <field name="series_sim">Subseries III.B. Financial Statements &amp;amp; tax returns</field>
+     <field name="series_si">Series III. Financial &gt;&gt; Subseries III.B. Financial Statements &amp; tax returns &gt;&gt; Tax returns (IRS form 990)</field>
+     <field name="heading_ssm">Tax returns (IRS form 990)</field>
+     <field name="unitdate_ssm">Inclusive, 1987, 1991</field>

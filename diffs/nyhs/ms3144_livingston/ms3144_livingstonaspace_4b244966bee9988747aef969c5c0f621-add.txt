@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms3144_livingston</field>
+     <field name="parent_ssi">aspace_c8e9701dbc267de1893b87815f25f2b0</field>
+     <field name="parent_ssm">aspace_c8e9701dbc267de1893b87815f25f2b0</field>
+-    <field name="parent_unittitles_ssm">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp; her brother William H. Boullee (1894–1955)"</field>
+-    <field name="parent_unittitles_teim">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp; her brother William H. Boullee (1894–1955)"</field>
++    <field name="parent_unittitles_ssm">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp;amp; her brother William H. Boullee (1894–1955)"</field>
++    <field name="parent_unittitles_teim">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp;amp; her brother William H. Boullee (1894–1955)"</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James Duane Livingston III family papers</field>
+@@ -26,7 +26,7 @@
+     <field name="location_si">Box: 3, Folder: 57</field>
+     <field name="collection_teim">James Duane Livingston III family papers</field>
+     <field name="collection_unitid_teim">MS 3144</field>
+-    <field name="series_sim">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp; her brother William H. Boullee (1894–1955)"</field>
++    <field name="series_sim">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp;amp; her brother William H. Boullee (1894–1955)"</field>
+     <field name="series_si">Series VII. "Florence Josephine Boullee Livingston (1892–1983) &amp; her brother William H. Boullee (1894–1955)" &gt;&gt; [William Boullee. Commission as second lieutenant]</field>
+     <field name="heading_ssm">[William Boullee. Commission as second lieutenant]</field>
+     <field name="unitdate_ssm">1918 April 19</field>

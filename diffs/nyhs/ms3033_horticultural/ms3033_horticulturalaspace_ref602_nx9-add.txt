@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref580_9hl</field>
+     <field name="parent_ssm">aspace_ref583_7dm</field>
+     <field name="parent_unittitles_ssm">Series I. General Administration Files</field>
+-    <field name="parent_unittitles_ssm">Subseries I.A. Board Minutes &amp; Working Files</field>
++    <field name="parent_unittitles_ssm">Subseries I.A. Board Minutes &amp;amp; Working Files</field>
+     <field name="parent_unittitles_teim">Series I. General Administration Files</field>
+-    <field name="parent_unittitles_teim">Subseries I.A. Board Minutes &amp; Working Files</field>
++    <field name="parent_unittitles_teim">Subseries I.A. Board Minutes &amp;amp; Working Files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Horticultural Society of New York records</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Horticultural Society of New York records</field>
+     <field name="collection_unitid_teim">MS 3033</field>
+     <field name="series_sim">Series I. General Administration Files</field>
+-    <field name="series_sim">Subseries I.A. Board Minutes &amp; Working Files</field>
++    <field name="series_sim">Subseries I.A. Board Minutes &amp;amp; Working Files</field>
+     <field name="series_si">Series I. General Administration Files &gt;&gt; Subseries I.A. Board Minutes &amp; Working Files &gt;&gt; Board Minutes</field>
+     <field name="heading_ssm">Board Minutes</field>
+     <field name="unitdate_ssm">1959-1960</field>

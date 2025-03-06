@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref47</field>
+     <field name="parent_ssm">aspace_ref748</field>
+     <field name="parent_unittitles_ssm">Series II: Union Democracy Cases</field>
+-    <field name="parent_unittitles_ssm">Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU)</field>
++    <field name="parent_unittitles_ssm">Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp;amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU)</field>
+     <field name="parent_unittitles_teim">Series II: Union Democracy Cases</field>
+-    <field name="parent_unittitles_teim">Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU)</field>
++    <field name="parent_unittitles_teim">Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp;amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Burton Hall Papers</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">Burton Hall Papers</field>
+     <field name="collection_unitid_teim">WAG.087</field>
+     <field name="series_sim">Series II: Union Democracy Cases</field>
+-    <field name="series_sim">Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU)</field>
++    <field name="series_sim">Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp;amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU)</field>
+     <field name="series_si">Series II: Union Democracy Cases &gt;&gt; Subseries G: Hospital Workers - District 1199, National Union of Hospital &amp; Health Care Employees - Retail, Wholesale, Department Store Union (RWDSU) &gt;&gt; Correspondence, R. Phillips, Mar 25, 1984; AAA Notice of Hearing, Oct 26, 1984</field>
+     <field name="heading_ssm">Correspondence, R. Phillips, Mar 25, 1984; AAA Notice of Hearing, Oct 26, 1984</field>
+     <field name="unitdate_start_sim">1984</field>

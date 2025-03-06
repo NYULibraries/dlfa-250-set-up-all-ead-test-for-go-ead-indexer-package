@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 266</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Colorado &lt;em&gt;1188. Toll Gate. Bear Creek Falls.&lt;/em&gt;&lt;em&gt;1399. Toll Gate at Bear Creek Falls.&lt;/em&gt;&lt;em&gt;1190. Mt. Abram - Ouray and Silverton Toll Road.&lt;/em&gt;&lt;em&gt;[Silverton]&lt;/em&gt;&lt;em&gt;1178. Cimarron Canon - D. &amp; R.G.Ry.&lt;/em&gt;&lt;em&gt;1181. Ouray. Col.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Colorado 1188. Toll Gate. Bear Creek Falls.1399. Toll Gate at Bear Creek Falls.1190. Mt. Abram - Ouray and Silverton Toll Road.[Silverton]1178. Cimarron Canon - D. &amp; R.G.Ry.1181. Ouray. Col.</field>
++    <field name="unittitle_teim">Colorado 1188. Toll Gate. Bear Creek Falls. 1399. Toll Gate at Bear Creek Falls. 1190. Mt. Abram - Ouray and Silverton Toll Road. [Silverton] 1178. Cimarron Canon - D. &amp; R.G.Ry. 1181. Ouray. Col.</field>
+     <field name="title_teim">1188. Toll Gate. Bear Creek Falls.</field>
+     <field name="title_teim">1399. Toll Gate at Bear Creek Falls.</field>
+     <field name="title_teim">1190. Mt. Abram - Ouray and Silverton Toll Road.</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series III. 16 x 20 inches</field>
+     <field name="series_sim">WILLIAM HENRY JACKSON</field>
+     <field name="series_si">Series III. 16 x 20 inches &gt;&gt; WILLIAM HENRY JACKSON &gt;&gt; Colorado &lt;em&gt;1188. Toll Gate. Bear Creek Falls.&lt;/em&gt;&lt;em&gt;1399. Toll Gate at Bear Creek Falls.&lt;/em&gt;&lt;em&gt;1190. Mt. Abram - Ouray and Silverton Toll Road.&lt;/em&gt;&lt;em&gt;[Silverton]&lt;/em&gt;&lt;em&gt;1178. Cimarron Canon - D. &amp; R.G.Ry.&lt;/em&gt;&lt;em&gt;1181. Ouray. Col.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Colorado 1188. Toll Gate. Bear Creek Falls.1399. Toll Gate at Bear Creek Falls.1190. Mt. Abram - Ouray and Silverton Toll Road.[Silverton]1178. Cimarron Canon - D. &amp; R.G.Ry.1181. Ouray. Col.</field>
++    <field name="heading_ssm">Colorado 1188. Toll Gate. Bear Creek Falls. 1399. Toll Gate at Bear Creek Falls. 1190. Mt. Abram - Ouray and Silverton Toll Road. [Silverton] 1178. Cimarron Canon - D. &amp; R.G.Ry. 1181. Ouray. Col.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">29</field>
+   </doc>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">&lt;em&gt;Picture Alphabet&lt;/em&gt;</field>
+     <field name="unittitle_teim">Picture Alphabet</field>
+-    <field name="scopecontent_teim">7 woodblocks.Illustrated by Herrick and engraved by Cogger.</field>
++    <field name="scopecontent_teim">7 woodblocks. Illustrated by Herrick and engraved by Cogger.</field>
+     <field name="title_teim">Picture Alphabet</field>
+     <field name="title_ssm">Picture Alphabet</field>
+     <field name="ref_ssi">aspace_cb32b5c1bf95bf635a8e8f3fcde54c5c</field>

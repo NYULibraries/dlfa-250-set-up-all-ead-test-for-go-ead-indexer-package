@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1967/1967</field>
+     <field name="unitdate_inclusive_teim">December 12, 1967</field>
+     <field name="scopecontent_teim">Africa W.P.6</field>
+-    <field name="phystech_teim">Gauge: 16mmFootage: [400 ft]Color; mag stripe.</field>
++    <field name="phystech_teim">Gauge: 16mm Footage: [400 ft] Color; mag stripe.</field>
+     <field name="ref_ssi">aspace_ref3776</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

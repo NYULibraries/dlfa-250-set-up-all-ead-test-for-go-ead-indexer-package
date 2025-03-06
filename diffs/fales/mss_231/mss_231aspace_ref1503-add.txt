@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167[Air Date: 10/22/1985] [3]--Bathhouse</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167[Air Date: 10/22/1985] [3]--Bathhouse</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167 [Air Date: 10/22/1985] [3]--Bathhouse</field>
+     <field name="unitid_teim">ID: 231.0655</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529380</field>
+     <field name="unitid_ssm">ID: 231.0655</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529380</field>
+     <field name="unitdate_teim">October 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. New York State denies pentagon, refuses to screen new recruits for HTLVIII2.Washington gay bathhouses debate3.Temple University renews recruiting policy on campus4. Gay civil rights victory, University of Maryland5. Annual Human Rights Campaign Fund dinner Coverage, includes Phil DonahueCOMMERCIAL: Orientation '85, funded by The National Gay Task Force6. Bathhouse debate7. World Health Organization announces an international AIDS research program8. National Institute of Health shows AIDS and "poppers" link9. AIDS witch-hunt in Houston, Texas10. Georgetown Island, Maine hotel refuses to house lesbian coupleCOMMERCIAL: "New York Native" with Quentin Crisp11. Sports12. Healthline: Conversations with GMHC: Dennis Aldman, Policy Fellow at the Institute for Health Policy Studies at The University of California at San Francisco, discusses political aspects of AIDS13. Closing credits The Right Stuff:1. Sybil BruncheonCOMMERCIAL: AIDS hotline, New York AIDS Action2. Sybil BruncheonCOMMERCIAL: Orientation '85, funded by The National Gay Task Force3. Broadway Confidential, includes clip of Steven Spielberg's "Amazing Stories"4. Current events/media/culture, includes clip of Dire Straits music video, "Money for Nothing" and CNN AIDS report5. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167[Air Date: 10/22/1985] [3]--Bathhouse: October 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167[Air Date: 10/22/1985] [3]--Bathhouse: October 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. New York State denies pentagon, refuses to screen new recruits for HTLVIII 2.Washington gay bathhouses debate 3.Temple University renews recruiting policy on campus 4. Gay civil rights victory, University of Maryland 5. Annual Human Rights Campaign Fund dinner Coverage, includes Phil Donahue COMMERCIAL: Orientation '85, funded by The National Gay Task Force 6. Bathhouse debate 7. World Health Organization announces an international AIDS research program 8. National Institute of Health shows AIDS and "poppers" link 9. AIDS witch-hunt in Houston, Texas 10. Georgetown Island, Maine hotel refuses to house lesbian couple COMMERCIAL: "New York Native" with Quentin Crisp 11. Sports 12. Healthline: Conversations with GMHC: Dennis Aldman, Policy Fellow at the Institute for Health Policy Studies at The University of California at San Francisco, discusses political aspects of AIDS 13. Closing credits The Right Stuff: 1. Sybil Bruncheon COMMERCIAL: AIDS hotline, New York AIDS Action 2. Sybil Bruncheon COMMERCIAL: Orientation '85, funded by The National Gay Task Force 3. Broadway Confidential, includes clip of Steven Spielberg's "Amazing Stories" 4. Current events/media/culture, includes clip of Dire Straits music video, "Money for Nothing" and CNN AIDS report 5. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167 [Air Date: 10/22/1985] [3]--Bathhouse: October 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167 [Air Date: 10/22/1985] [3]--Bathhouse: October 1985</field>
+     <field name="ref_ssi">aspace_ref1503</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167[Air Date: 10/22/1985] [3]--Bathhouse</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167[Air Date: 10/22/1985] [3]--Bathhouse</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 56 [2]--The Right Stuff, Episode No. 167 [Air Date: 10/22/1985] [3]--Bathhouse</field>
+     <field name="unitdate_ssm">October 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2647</field>

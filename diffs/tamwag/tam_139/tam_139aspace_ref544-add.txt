@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref543</field>
+     <field name="parent_unittitles_ssm">Series I: Administrative Records</field>
+     <field name="parent_unittitles_ssm">Subseries D: Property Records</field>
+-    <field name="parent_unittitles_ssm">Sub-subseries 2: Pepe &amp; Bro. Real Estate -- Correspondence</field>
++    <field name="parent_unittitles_ssm">Sub-subseries 2: Pepe &amp;amp; Bro. Real Estate -- Correspondence</field>
+     <field name="parent_unittitles_teim">Series I: Administrative Records</field>
+     <field name="parent_unittitles_teim">Subseries D: Property Records</field>
+-    <field name="parent_unittitles_teim">Sub-subseries 2: Pepe &amp; Bro. Real Estate -- Correspondence</field>
++    <field name="parent_unittitles_teim">Sub-subseries 2: Pepe &amp;amp; Bro. Real Estate -- Correspondence</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Greenwich House Records</field>
+@@ -39,7 +39,7 @@
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series I: Administrative Records</field>
+     <field name="series_sim">Subseries D: Property Records</field>
+-    <field name="series_sim">Sub-subseries 2: Pepe &amp; Bro. Real Estate -- Correspondence</field>
++    <field name="series_sim">Sub-subseries 2: Pepe &amp;amp; Bro. Real Estate -- Correspondence</field>
+     <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries D: Property Records &gt;&gt; Sub-subseries 2: Pepe &amp; Bro. Real Estate -- Correspondence &gt;&gt; Vincent Pepe &amp; Bros. Correspondence</field>
+     <field name="heading_ssm">Vincent Pepe &amp; Bros. Correspondence</field>
+     <field name="unitdate_start_sim">1917</field>

@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref21</field>
+     <field name="parent_ssm">aspace_ref67</field>
+     <field name="parent_unittitles_ssm">Series I: Book Copy</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Association &amp; Correspondence, 1975-1981</field>
++    <field name="parent_unittitles_ssm">Subseries B: Association &amp;amp; Correspondence, 1975-1981</field>
+     <field name="parent_unittitles_teim">Series I: Book Copy</field>
+-    <field name="parent_unittitles_teim">Subseries B: Association &amp; Correspondence, 1975-1981</field>
++    <field name="parent_unittitles_teim">Subseries B: Association &amp;amp; Correspondence, 1975-1981</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Abby Weed Grey Papers</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">Abby Weed Grey Papers</field>
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series I: Book Copy</field>
+-    <field name="series_sim">Subseries B: Association &amp; Correspondence, 1975-1981</field>
++    <field name="series_sim">Subseries B: Association &amp;amp; Correspondence, 1975-1981</field>
+     <field name="series_si">Series I: Book Copy &gt;&gt; Subseries B: Association &amp; Correspondence, 1975-1981 &gt;&gt; Correspondence Re: Book Publication</field>
+     <field name="heading_ssm">Correspondence Re: Book Publication</field>
+     <field name="unitdate_start_sim">1981</field>

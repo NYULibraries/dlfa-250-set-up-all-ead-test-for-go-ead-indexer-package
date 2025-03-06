@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.039</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">Articles A-H: Don't Write Off WisdomThe Great OutdoorsmanHave Fathers Changed-How to Guess Your Age by Corey Ford</field>
+-    <field name="unittitle_teim">Articles A-H: Don't Write Off WisdomThe Great OutdoorsmanHave Fathers Changed-How to Guess Your Age by Corey Ford</field>
++    <field name="unittitle_teim">Articles A-H: Don't Write Off Wisdom The Great Outdoorsman Have Fathers Changed- How to Guess Your Age by Corey Ford</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="ref_ssi">aspace_ref398</field>
+     <field name="repository_ssi">fales</field>
+@@ -32,7 +32,7 @@
+     <field name="series_sim">Series III: Printed Material</field>
+     <field name="series_sim">Subseries C: Oversized</field>
+     <field name="series_si">Series III: Printed Material &gt;&gt; Subseries C: Oversized &gt;&gt; Articles A-H: Don't Write Off WisdomThe Great OutdoorsmanHave Fathers Changed-How to Guess Your Age by Corey Ford</field>
+-    <field name="heading_ssm">Articles A-H: Don't Write Off WisdomThe Great OutdoorsmanHave Fathers Changed-How to Guess Your Age by Corey Ford</field>
++    <field name="heading_ssm">Articles A-H: Don't Write Off Wisdom The Great Outdoorsman Have Fathers Changed- How to Guess Your Age by Corey Ford</field>
+     <field name="unitdate_ssm">undated</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">384</field>

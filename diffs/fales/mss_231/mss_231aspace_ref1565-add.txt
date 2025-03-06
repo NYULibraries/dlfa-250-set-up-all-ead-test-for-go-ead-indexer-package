@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188[Air Date: 3/19/1986]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188[Air Date: 3/19/1986]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188 [Air Date: 3/19/1986]</field>
+     <field name="unitid_teim">ID: 231.0677</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529402</field>
+     <field name="unitid_ssm">ID: 231.0677</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529402</field>
+     <field name="unitdate_teim">March 1986</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. United States government and the HTLVIII antibody test2. United States republican representative William Dannemeyer withdraws from senate race3. Wisconsin assembly defeats amendment4. Gay and lesbian couples survey5. Andy Humm speaks to New York City CouncilCOMMERCIAL: Commodore Plus 46. Atlanta Gay Center protest7. The New York City Gay Rights Bill, includes coverage of Mayor Koch, Andy Humm, Councilman Noah Dear, Harvey FiresteinCOMMERCIAL: SF AIDS Foundation8. Barbara Streisand purchases play, "The Normal Heart," plans to adapt into film9. Breast cancer more prevalent in childless women, health precautions10. The American Foundation for AIDS Research begins fifteen more public services11.Houston, Texas, first national hospital for AIDS treatmentCOMMERCIAL: "New York Native" with Quentin Crisp12. Sports, interview with Ron Crispo 13. Healthline: Conversations with GMHC: Robert Isaacs, Psychotherapist, discusses drug addiction and AIDS14. screening of "A Chance of a Lifetime" at Hunter College15. Closing credits The Right Stuff:1. This Week in Gay History with Jeff Bixby, includes clipCOMMERCIAL: CASIO Pocket TV2. Sybil Bruncheon opens more presents and intros the monsterCOMMERCIAL: The Monster3. Sybil attempts to cook with Joseph VianeCOMMERCIAL: SF AIDS Foundation4. Sybil returns5. Current events/media/culture, includes clip6. Robert Reilly, Author of the God of Mirrors, discusses his book</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188[Air Date: 3/19/1986]: March 1986</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188[Air Date: 3/19/1986]: March 1986</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. United States government and the HTLVIII antibody test 2. United States republican representative William Dannemeyer withdraws from senate race 3. Wisconsin assembly defeats amendment 4. Gay and lesbian couples survey 5. Andy Humm speaks to New York City Council COMMERCIAL: Commodore Plus 4 6. Atlanta Gay Center protest 7. The New York City Gay Rights Bill, includes coverage of Mayor Koch, Andy Humm, Councilman Noah Dear, Harvey Firestein COMMERCIAL: SF AIDS Foundation 8. Barbara Streisand purchases play, "The Normal Heart," plans to adapt into film 9. Breast cancer more prevalent in childless women, health precautions 10. The American Foundation for AIDS Research begins fifteen more public services 11.Houston, Texas, first national hospital for AIDS treatment COMMERCIAL: "New York Native" with Quentin Crisp 12. Sports, interview with Ron Crispo 13. Healthline: Conversations with GMHC: Robert Isaacs, Psychotherapist, discusses drug addiction and AIDS 14. screening of "A Chance of a Lifetime" at Hunter College 15. Closing credits The Right Stuff: 1. This Week in Gay History with Jeff Bixby, includes clip COMMERCIAL: CASIO Pocket TV 2. Sybil Bruncheon opens more presents and intros the monster COMMERCIAL: The Monster 3. Sybil attempts to cook with Joseph Viane COMMERCIAL: SF AIDS Foundation 4. Sybil returns 5. Current events/media/culture, includes clip 6. Robert Reilly, Author of the God of Mirrors, discusses his book</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188 [Air Date: 3/19/1986]: March 1986</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188 [Air Date: 3/19/1986]: March 1986</field>
+     <field name="ref_ssi">aspace_ref1565</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1986</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1986 &gt;&gt; [1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188[Air Date: 3/19/1986]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188[Air Date: 3/19/1986]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 12 [2]--The Right Stuff, Episode No. 188 [Air Date: 3/19/1986]</field>
+     <field name="unitdate_ssm">March 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2669</field>

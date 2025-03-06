@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -24,7 +24,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/551644</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Various footage featuring Charles Rydell, including portions of "American Couples".</field>
+-    <field name="phystech_teim">Format: DVDB&amp;W/SoundTRT: 00:53:32Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">Format: DVD B&amp;W/Sound TRT: 00:53:32 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3102</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

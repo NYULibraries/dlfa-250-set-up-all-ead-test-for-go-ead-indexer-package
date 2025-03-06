@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref6301</field>
+     <field name="parent_ssm">aspace_ref6281</field>
+     <field name="parent_ssm">aspace_ref6301</field>
+-    <field name="parent_unittitles_ssm">Series II: Manuscripts &amp; Writings</field>
++    <field name="parent_unittitles_ssm">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="parent_unittitles_ssm">Subseries B: Works by Others</field>
+-    <field name="parent_unittitles_teim">Series II: Manuscripts &amp; Writings</field>
++    <field name="parent_unittitles_teim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="parent_unittitles_teim">Subseries B: Works by Others</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -32,7 +32,7 @@
+     <field name="location_si">Box: 25, Folder: 18</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+-    <field name="series_sim">Series II: Manuscripts &amp; Writings</field>
++    <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_sim">Subseries B: Works by Others</field>
+     <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries B: Works by Others &gt;&gt; Weinstein, Arnold</field>
+     <field name="heading_ssm">Weinstein, Arnold</field>

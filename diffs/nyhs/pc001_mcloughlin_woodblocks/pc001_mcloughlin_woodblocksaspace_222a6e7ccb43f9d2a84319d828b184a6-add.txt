@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Depictions of Victorian initials</field>
+     <field name="unittitle_teim">Depictions of Victorian initials</field>
+-    <field name="scopecontent_teim">14 woodblocks.Incomplete uppercase alphabet in which letters are illustrated with characters from nursery rhymes and fairytales.</field>
++    <field name="scopecontent_teim">14 woodblocks. Incomplete uppercase alphabet in which letters are illustrated with characters from nursery rhymes and fairytales.</field>
+     <field name="ref_ssi">aspace_222a6e7ccb43f9d2a84319d828b184a6</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

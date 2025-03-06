@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref164_m2d</field>
+     <field name="parent_ssm">aspace_ref1161_nyx</field>
+     <field name="parent_unittitles_ssm">Series II. The Melisande Sherman Collection</field>
+-    <field name="parent_unittitles_ssm">Matted &amp; Other Oversize</field>
++    <field name="parent_unittitles_ssm">Matted &amp;amp; Other Oversize</field>
+     <field name="parent_unittitles_teim">Series II. The Melisande Sherman Collection</field>
+-    <field name="parent_unittitles_teim">Matted &amp; Other Oversize</field>
++    <field name="parent_unittitles_teim">Matted &amp;amp; Other Oversize</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Editta Sherman photographs</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Editta Sherman photographs</field>
+     <field name="collection_unitid_teim">PR 322</field>
+     <field name="series_sim">Series II. The Melisande Sherman Collection</field>
+-    <field name="series_sim">Matted &amp; Other Oversize</field>
++    <field name="series_sim">Matted &amp;amp; Other Oversize</field>
+     <field name="series_si">Series II. The Melisande Sherman Collection &gt;&gt; Matted &amp; Other Oversize &gt;&gt; Walter Damrosch (signed)</field>
+     <field name="heading_ssm">Walter Damrosch (signed)</field>
+     <field name="unitdate_ssm">Undated</field>

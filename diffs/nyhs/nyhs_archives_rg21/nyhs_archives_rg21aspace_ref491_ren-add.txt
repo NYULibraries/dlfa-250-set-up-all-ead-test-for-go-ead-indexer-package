@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">nyhs_archives_rg21</field>
+     <field name="parent_ssi">aspace_ref3_c7h</field>
+     <field name="parent_ssm">aspace_ref3_c7h</field>
+-    <field name="parent_unittitles_ssm">Series IV. Librarian &amp; Curatorial Files</field>
+-    <field name="parent_unittitles_teim">Series IV. Librarian &amp; Curatorial Files</field>
++    <field name="parent_unittitles_ssm">Series IV. Librarian &amp;amp; Curatorial Files</field>
++    <field name="parent_unittitles_teim">Series IV. Librarian &amp;amp; Curatorial Files</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New-York Historical Society Library Department records</field>
+@@ -27,7 +27,7 @@
+     <field name="location_si">Offsite-Box: 156, Folder: 1-12</field>
+     <field name="collection_teim">New-York Historical Society Library Department records</field>
+     <field name="collection_unitid_teim">NYHS-RG 21</field>
+-    <field name="series_sim">Series IV. Librarian &amp; Curatorial Files</field>
++    <field name="series_sim">Series IV. Librarian &amp;amp; Curatorial Files</field>
+     <field name="series_si">Series IV. Librarian &amp; Curatorial Files &gt;&gt; Donna Davey Files (2 of 3 boxes)</field>
+     <field name="heading_ssm">Donna Davey Files (2 of 3 boxes)</field>
+     <field name="unitdate_ssm">2001-2004</field>

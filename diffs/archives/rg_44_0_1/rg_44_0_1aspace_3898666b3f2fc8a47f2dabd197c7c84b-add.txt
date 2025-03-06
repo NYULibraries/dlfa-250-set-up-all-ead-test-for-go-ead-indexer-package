@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">rg_44_0_1</field>
+     <field name="parent_ssi">aspace_30f3966bc7627ea7e79a1c69731cba6b</field>
+     <field name="parent_ssm">aspace_30f3966bc7627ea7e79a1c69731cba6b</field>
+-    <field name="parent_unittitles_ssm">Series III: Agendas &amp; Minutes</field>
+-    <field name="parent_unittitles_teim">Series III: Agendas &amp; Minutes</field>
++    <field name="parent_unittitles_ssm">Series III: Agendas &amp;amp; Minutes</field>
++    <field name="parent_unittitles_teim">Series III: Agendas &amp;amp; Minutes</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Records of the Student Senators Council</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">Box: 32, Folder: 19</field>
+     <field name="collection_teim">Records of the Student Senators Council</field>
+     <field name="collection_unitid_teim">RG.44.0.1</field>
+-    <field name="series_sim">Series III: Agendas &amp; Minutes</field>
++    <field name="series_sim">Series III: Agendas &amp;amp; Minutes</field>
+     <field name="series_si">Series III: Agendas &amp; Minutes &gt;&gt; Information Center</field>
+     <field name="heading_ssm">Information Center</field>
+     <field name="unitdate_start_sim">1985</field>

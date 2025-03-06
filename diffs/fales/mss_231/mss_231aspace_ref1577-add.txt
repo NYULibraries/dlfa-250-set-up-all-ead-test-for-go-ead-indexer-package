@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -30,7 +30,7 @@
+     <field name="scopecontent_teim">3. Atlanta, city council amends constitution to protect against discrimination based on sexual orientation</field>
+     <field name="scopecontent_teim">4. Moral majority leader Jerry Falwell responds to phone harassment by cancelling phone service</field>
+     <field name="scopecontent_teim">5. New York City, fight against homophobic rhetoric of religious leaders</field>
+-    <field name="scopecontent_teim">COMMERCIAL: Casio Pocket TV6. Davis, California city council amends constitution to protect against discrimination based on sexual orientation</field>
++    <field name="scopecontent_teim">COMMERCIAL: Casio Pocket TV 6. Davis, California city council amends constitution to protect against discrimination based on sexual orientation</field>
+     <field name="scopecontent_teim">7. San Francisco, USPS apologizes for opening and returning mail of the Harvey Milk Lesbian and Gay Democratic Club</field>
+     <field name="scopecontent_teim">8. Chicago, gay father allowed to visit children without taking a court-mandated AIDs test</field>
+     <field name="scopecontent_teim">COMMERCIAL: "New York Native" with Quentin Crisp</field>
+@@ -48,7 +48,7 @@
+     <field name="scopecontent_teim">2. Sybil Bruncheon continues interview of musical guest Pink Limo</field>
+     <field name="scopecontent_teim">COMMERCIAL: The Monster</field>
+     <field name="scopecontent_teim">3. Interview continues, cuts off</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
+     <field name="dao_teim">[1]--Pride and Progress, Episode No. 15 [2]--The Right Stuff, Episode No. 191[Air Date: 4/8/1986]: April 1986</field>
+     <field name="dao_ssm">[1]--Pride and Progress, Episode No. 15 [2]--The Right Stuff, Episode No. 191[Air Date: 4/8/1986]: April 1986</field>
+     <field name="ref_ssi">aspace_ref1577</field>

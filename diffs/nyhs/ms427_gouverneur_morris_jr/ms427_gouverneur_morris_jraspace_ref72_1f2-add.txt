@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref54_7o2</field>
+     <field name="parent_ssm">aspace_ref70_vmv</field>
+     <field name="parent_unittitles_ssm">Series IV: Trevorton Railroads, 1852-1860, undated</field>
+-    <field name="parent_unittitles_ssm">Subseries 3: Trevorton Coal &amp; Railroad, 1856-1860</field>
++    <field name="parent_unittitles_ssm">Subseries 3: Trevorton Coal &amp;amp; Railroad, 1856-1860</field>
+     <field name="parent_unittitles_teim">Series IV: Trevorton Railroads, 1852-1860, undated</field>
+-    <field name="parent_unittitles_teim">Subseries 3: Trevorton Coal &amp; Railroad, 1856-1860</field>
++    <field name="parent_unittitles_teim">Subseries 3: Trevorton Coal &amp;amp; Railroad, 1856-1860</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Gouverneur Morris, Jr. Papers</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">Gouverneur Morris, Jr. Papers</field>
+     <field name="collection_unitid_teim">MS 427</field>
+     <field name="series_sim">Series IV: Trevorton Railroads, 1852-1860, undated</field>
+-    <field name="series_sim">Subseries 3: Trevorton Coal &amp; Railroad, 1856-1860</field>
++    <field name="series_sim">Subseries 3: Trevorton Coal &amp;amp; Railroad, 1856-1860</field>
+     <field name="series_si">Series IV: Trevorton Railroads, 1852-1860, undated &gt;&gt; Subseries 3: Trevorton Coal &amp; Railroad, 1856-1860 &gt;&gt; Accounts, Bills, and Receipts- Stocks and Bonds</field>
+     <field name="heading_ssm">Accounts, Bills, and Receipts- Stocks and Bonds</field>
+     <field name="unitdate_start_sim">1856</field>

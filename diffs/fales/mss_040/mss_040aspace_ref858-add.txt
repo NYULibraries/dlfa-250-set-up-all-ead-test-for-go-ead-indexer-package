@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref665</field>
+     <field name="parent_ssm">aspace_ref463</field>
+     <field name="parent_ssm">aspace_ref665</field>
+-    <field name="parent_unittitles_ssm">Series V: Audio &amp; Video Tape Collection.</field>
++    <field name="parent_unittitles_ssm">Series V: Audio &amp;amp; Video Tape Collection.</field>
+     <field name="parent_unittitles_ssm">Subseries A: Audio Interviews</field>
+-    <field name="parent_unittitles_teim">Series V: Audio &amp; Video Tape Collection.</field>
++    <field name="parent_unittitles_teim">Series V: Audio &amp;amp; Video Tape Collection.</field>
+     <field name="parent_unittitles_teim">Subseries A: Audio Interviews</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -39,7 +39,7 @@
+     <field name="location_si">case: 040.0097</field>
+     <field name="collection_teim">John Canemaker Animation Collection</field>
+     <field name="collection_unitid_teim">MSS.040</field>
+-    <field name="series_sim">Series V: Audio &amp; Video Tape Collection.</field>
++    <field name="series_sim">Series V: Audio &amp;amp; Video Tape Collection.</field>
+     <field name="series_sim">Subseries A: Audio Interviews</field>
+     <field name="series_si">Series V: Audio &amp; Video Tape Collection. &gt;&gt; Subseries A: Audio Interviews &gt;&gt; Bob Clampett interviewed by John Canemaker at the Midwest Film Conference</field>
+     <field name="heading_ssm">Bob Clampett interviewed by John Canemaker at the Midwest Film Conference</field>

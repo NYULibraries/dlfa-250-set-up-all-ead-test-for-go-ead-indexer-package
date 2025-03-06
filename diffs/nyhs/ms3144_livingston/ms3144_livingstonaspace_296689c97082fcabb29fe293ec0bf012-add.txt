@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms3144_livingston</field>
+     <field name="parent_ssi">aspace_88e4b7652b66b6568120b753f70c07ac</field>
+     <field name="parent_ssm">aspace_88e4b7652b66b6568120b753f70c07ac</field>
+-    <field name="parent_unittitles_ssm">Series II. "Ancestors &amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)"</field>
+-    <field name="parent_unittitles_teim">Series II. "Ancestors &amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)"</field>
++    <field name="parent_unittitles_ssm">Series II. "Ancestors &amp;amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)"</field>
++    <field name="parent_unittitles_teim">Series II. "Ancestors &amp;amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)"</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">James Duane Livingston III family papers</field>
+@@ -26,7 +26,7 @@
+     <field name="location_si">Box: 1, Folder: 29</field>
+     <field name="collection_teim">James Duane Livingston III family papers</field>
+     <field name="collection_unitid_teim">MS 3144</field>
+-    <field name="series_sim">Series II. "Ancestors &amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)"</field>
++    <field name="series_sim">Series II. "Ancestors &amp;amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)"</field>
+     <field name="series_si">Series II. "Ancestors &amp; Siblings (Aunt Patsy, Uncle Bob) of James D. Livingston Jr. (1890–1956)" &gt;&gt; [James Duane Livingston confirmation certificate]</field>
+     <field name="heading_ssm">[James Duane Livingston confirmation certificate]</field>
+     <field name="unitdate_ssm">1872 April 1</field>

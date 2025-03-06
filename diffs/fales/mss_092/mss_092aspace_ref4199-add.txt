@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref849</field>
+     <field name="parent_ssm">aspace_ref948</field>
+     <field name="parent_unittitles_ssm">Series VIII: Audio</field>
+-    <field name="parent_unittitles_ssm">Subseries D: Original Music/ Wojnarowicz &amp; Others</field>
++    <field name="parent_unittitles_ssm">Subseries D: Original Music/ Wojnarowicz &amp;amp; Others</field>
+     <field name="parent_unittitles_teim">Series VIII: Audio</field>
+-    <field name="parent_unittitles_teim">Subseries D: Original Music/ Wojnarowicz &amp; Others</field>
++    <field name="parent_unittitles_teim">Subseries D: Original Music/ Wojnarowicz &amp;amp; Others</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">David Wojnarowicz Papers</field>
+@@ -37,7 +37,7 @@
+     <field name="collection_teim">David Wojnarowicz Papers</field>
+     <field name="collection_unitid_teim">MSS.092</field>
+     <field name="series_sim">Series VIII: Audio</field>
+-    <field name="series_sim">Subseries D: Original Music/ Wojnarowicz &amp; Others</field>
++    <field name="series_sim">Subseries D: Original Music/ Wojnarowicz &amp;amp; Others</field>
+     <field name="series_si">Series VIII: Audio &gt;&gt; Subseries D: Original Music/ Wojnarowicz &amp; Others &gt;&gt; -New Song - Eye ect. - Visitation, Wind Up Clock - Woman of the Moose - 3TK4-NM, 2/81 / Gacy Song; audiocassette Maxell LN C 60</field>
+     <field name="heading_ssm">-New Song - Eye ect. - Visitation, Wind Up Clock - Woman of the Moose - 3TK4-NM, 2/81 / Gacy Song; audiocassette Maxell LN C 60</field>
+     <field name="unitdate_ssm">1981</field>

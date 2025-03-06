@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Characters in alphabet rhyme</field>
+     <field name="unittitle_teim">Characters in alphabet rhyme</field>
+-    <field name="scopecontent_teim">11 woodblocks.Blocks depict original characters used in an alphabet rhyme; no letters are represented.</field>
++    <field name="scopecontent_teim">11 woodblocks. Blocks depict original characters used in an alphabet rhyme; no letters are represented.</field>
+     <field name="ref_ssi">aspace_64e1d9f665742055e3c6a8bd727de04b</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

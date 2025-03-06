@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 266</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Colorado &lt;em&gt;1001. Mount of the Holy Cross.&lt;/em&gt;&lt;em&gt;1011. The Royal Gorge Grand Canyon of the Arkansas.&lt;/em&gt;&lt;em&gt;1031. Gateway Garden of the Gods and Pike's Peak.&lt;/em&gt;&lt;em&gt;1161. Leadville.&lt;/em&gt;&lt;em&gt;Cathedral Spires, Garden of the Gods.&lt;/em&gt;&lt;em&gt;Long's Peak, Estes Park.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Colorado 1001. Mount of the Holy Cross.1011. The Royal Gorge Grand Canyon of the Arkansas.1031. Gateway Garden of the Gods and Pike's Peak.1161. Leadville.Cathedral Spires, Garden of the Gods.Long's Peak, Estes Park.</field>
++    <field name="unittitle_teim">Colorado 1001. Mount of the Holy Cross. 1011. The Royal Gorge Grand Canyon of the Arkansas. 1031. Gateway Garden of the Gods and Pike's Peak. 1161. Leadville. Cathedral Spires, Garden of the Gods. Long's Peak, Estes Park.</field>
+     <field name="title_teim">1001. Mount of the Holy Cross.</field>
+     <field name="title_teim">1011. The Royal Gorge Grand Canyon of the Arkansas.</field>
+     <field name="title_teim">1031. Gateway Garden of the Gods and Pike's Peak.</field>
+@@ -43,7 +43,7 @@
+     <field name="series_sim">Series III. 16 x 20 inches</field>
+     <field name="series_sim">WILLIAM HENRY JACKSON</field>
+     <field name="series_si">Series III. 16 x 20 inches &gt;&gt; WILLIAM HENRY JACKSON &gt;&gt; Colorado &lt;em&gt;1001. Mount of the Holy Cross.&lt;/em&gt;&lt;em&gt;1011. The Royal Gorge Grand Canyon of the Arkansas.&lt;/em&gt;&lt;em&gt;1031. Gateway Garden of the Gods and Pike's Peak.&lt;/em&gt;&lt;em&gt;1161. Leadville.&lt;/em&gt;&lt;em&gt;Cathedral Spires, Garden of the Gods.&lt;/em&gt;&lt;em&gt;Long's Peak, Estes Park.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Colorado 1001. Mount of the Holy Cross.1011. The Royal Gorge Grand Canyon of the Arkansas.1031. Gateway Garden of the Gods and Pike's Peak.1161. Leadville.Cathedral Spires, Garden of the Gods.Long's Peak, Estes Park.</field>
++    <field name="heading_ssm">Colorado 1001. Mount of the Holy Cross. 1011. The Royal Gorge Grand Canyon of the Arkansas. 1031. Gateway Garden of the Gods and Pike's Peak. 1161. Leadville. Cathedral Spires, Garden of the Gods. Long's Peak, Estes Park.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">28</field>
+   </doc>

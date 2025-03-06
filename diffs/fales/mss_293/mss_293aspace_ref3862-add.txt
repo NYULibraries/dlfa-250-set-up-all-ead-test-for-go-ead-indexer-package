@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/550233</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Tits</field>
+-    <field name="phystech_teim">Gauge: 16mmFootage: 810 ftColor; silent.Two separate elements found to be two parts of one single element.</field>
++    <field name="phystech_teim">Gauge: 16mm Footage: 810 ft Color; silent. Two separate elements found to be two parts of one single element.</field>
+     <field name="ref_ssi">aspace_ref3862</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

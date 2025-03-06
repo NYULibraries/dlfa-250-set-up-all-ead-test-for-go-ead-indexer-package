@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref2121_8qq</field>
+     <field name="parent_ssm">aspace_ref2123_rj3</field>
+     <field name="parent_unittitles_ssm">Series XII: Addendum II</field>
+-    <field name="parent_unittitles_ssm">Subseries C: Speeches &amp; Symposia</field>
++    <field name="parent_unittitles_ssm">Subseries C: Speeches &amp;amp; Symposia</field>
+     <field name="parent_unittitles_teim">Series XII: Addendum II</field>
+-    <field name="parent_unittitles_teim">Subseries C: Speeches &amp; Symposia</field>
++    <field name="parent_unittitles_teim">Subseries C: Speeches &amp;amp; Symposia</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Administrative Papers of the President George Bugliarello</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Administrative Papers of the President George Bugliarello</field>
+     <field name="collection_unitid_teim">RG.006</field>
+     <field name="series_sim">Series XII: Addendum II</field>
+-    <field name="series_sim">Subseries C: Speeches &amp; Symposia</field>
++    <field name="series_sim">Subseries C: Speeches &amp;amp; Symposia</field>
+     <field name="series_si">Series XII: Addendum II &gt;&gt; Subseries C: Speeches &amp; Symposia &gt;&gt; Cornell Seminar</field>
+     <field name="heading_ssm">Cornell Seminar</field>
+     <field name="unitdate_ssm">undated</field>

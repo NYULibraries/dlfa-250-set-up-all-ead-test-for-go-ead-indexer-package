@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref14_cn8</field>
+     <field name="parent_ssm">aspace_ref11_hlk</field>
+     <field name="parent_ssm">aspace_ref14_cn8</field>
+-    <field name="parent_unittitles_ssm">Series I. 8 x 10 Inches &amp; Smaller</field>
++    <field name="parent_unittitles_ssm">Series I. 8 x 10 Inches &amp;amp; Smaller</field>
+     <field name="parent_unittitles_ssm">WILLIAM HENRY JACKSON</field>
+-    <field name="parent_unittitles_teim">Series I. 8 x 10 Inches &amp; Smaller</field>
++    <field name="parent_unittitles_teim">Series I. 8 x 10 Inches &amp;amp; Smaller</field>
+     <field name="parent_unittitles_teim">WILLIAM HENRY JACKSON</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -28,7 +28,7 @@
+     <field name="location_si">Box: 1, Folder: 5-6</field>
+     <field name="collection_teim">Early American West photograph collection</field>
+     <field name="collection_unitid_teim">PR 266</field>
+-    <field name="series_sim">Series I. 8 x 10 Inches &amp; Smaller</field>
++    <field name="series_sim">Series I. 8 x 10 Inches &amp;amp; Smaller</field>
+     <field name="series_sim">WILLIAM HENRY JACKSON</field>
+     <field name="series_si">Series I. 8 x 10 Inches &amp; Smaller &gt;&gt; WILLIAM HENRY JACKSON &gt;&gt; Colorado - Denver</field>
+     <field name="heading_ssm">Colorado - Denver</field>

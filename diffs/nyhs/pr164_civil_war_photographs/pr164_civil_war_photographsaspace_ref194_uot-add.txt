@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -15,7 +15,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Gardner's Photographic Sketch Book of the War: Plates 51-54, 56-58</field>
+     <field name="unittitle_teim">Gardner's Photographic Sketch Book of the War: Plates 51-54, 56-58</field>
+-    <field name="scopecontent_teim">Plate 51 - The "Shebang," or Quarters Sanitary Commission, Brandy Station Plate 52 - Residence of Quartermaster Third Army Corps Plate 53 - Headquarters Christian Commission, in the Field Plate 54 - Field Hospital, Second Army Corps Brandy Station Plate 56 - Headquarters New York Herald, in the Field Plate 57 - Camp ArchitecturePlate 58 - Pontoon Boat</field>
++    <field name="scopecontent_teim">Plate 51 - The "Shebang," or Quarters Sanitary Commission, Brandy Station Plate 52 - Residence of Quartermaster Third Army Corps Plate 53 - Headquarters Christian Commission, in the Field Plate 54 - Field Hospital, Second Army Corps Brandy Station Plate 56 - Headquarters New York Herald, in the Field Plate 57 - Camp Architecture Plate 58 - Pontoon Boat</field>
+     <field name="ref_ssi">aspace_ref194_uot</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

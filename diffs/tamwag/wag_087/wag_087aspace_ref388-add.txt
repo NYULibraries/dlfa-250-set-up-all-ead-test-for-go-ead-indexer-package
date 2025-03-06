@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref380</field>
+     <field name="parent_unittitles_ssm">Series II: Union Democracy Cases</field>
+     <field name="parent_unittitles_ssm">Subseries C: Maritime</field>
+-    <field name="parent_unittitles_ssm">International Organization of Masters, Mates and Pilots (IOMM&amp;P)</field>
++    <field name="parent_unittitles_ssm">International Organization of Masters, Mates and Pilots (IOMM&amp;amp;P)</field>
+     <field name="parent_unittitles_teim">Series II: Union Democracy Cases</field>
+     <field name="parent_unittitles_teim">Subseries C: Maritime</field>
+-    <field name="parent_unittitles_teim">International Organization of Masters, Mates and Pilots (IOMM&amp;P)</field>
++    <field name="parent_unittitles_teim">International Organization of Masters, Mates and Pilots (IOMM&amp;amp;P)</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Burton Hall Papers</field>
+@@ -37,7 +37,7 @@
+     <field name="collection_unitid_teim">WAG.087</field>
+     <field name="series_sim">Series II: Union Democracy Cases</field>
+     <field name="series_sim">Subseries C: Maritime</field>
+-    <field name="series_sim">International Organization of Masters, Mates and Pilots (IOMM&amp;P)</field>
++    <field name="series_sim">International Organization of Masters, Mates and Pilots (IOMM&amp;amp;P)</field>
+     <field name="series_si">Series II: Union Democracy Cases &gt;&gt; Subseries C: Maritime &gt;&gt; International Organization of Masters, Mates and Pilots (IOMM&amp;P) &gt;&gt; Correspondence, Feb 3, 1965; Correspondence, Aug 31, 1967</field>
+     <field name="heading_ssm">Correspondence, Feb 3, 1965; Correspondence, Aug 31, 1967</field>
+     <field name="unitdate_start_sim">1965</field>

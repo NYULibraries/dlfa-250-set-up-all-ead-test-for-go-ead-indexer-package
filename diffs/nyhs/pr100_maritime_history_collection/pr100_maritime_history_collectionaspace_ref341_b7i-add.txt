@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Sailing Vessels- 8 plates from unidentified book</field>
+     <field name="unittitle_teim">Sailing Vessels- 8 plates from unidentified book</field>
+-    <field name="scopecontent_teim">The following eight plates from unidentified book:Harpoon, August 8, 1892Alga, July 10, 1880 Sayonara, September 8, 1891Gossoon, August 19, 1809Gorilla, July 13, 1893Verena, October 3, 1892Rosalind, August 18, 1886Eureka, September 18, 1891</field>
++    <field name="scopecontent_teim">The following eight plates from unidentified book: Harpoon, August 8, 1892 Alga, July 10, 1880 Sayonara, September 8, 1891 Gossoon, August 19, 1809 Gorilla, July 13, 1893 Verena, October 3, 1892 Rosalind, August 18, 1886 Eureka, September 18, 1891</field>
+     <field name="ref_ssi">aspace_ref341_b7i</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -18,7 +18,7 @@
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Sailing Vessels- 20 plates from unidentified book</field>
+     <field name="unittitle_teim">Sailing Vessels- 20 plates from unidentified book</field>
+-    <field name="scopecontent_teim">The following twenty plates from an unidentified book: Plate IV- GalateaPlate V- PuritanPlate Vi- GenestaPlate VII- PriscillaPlate VIII- AtlanticPlate IX- GraciePlate X- BedouinPlate XVII- CinderellaPlate XIX- TitaniaPlate XXXIV- GevaliaPlate XXXV- SachemPlate XXXVI- IroquoisPlate XXXVII- AmbassadressPlate XXXVIII- Em ELL EYE/TartarPlate XXXIX- Mabel/Flora LeePlate XL- AlinePlate XLI- WendurPlate XLII- IrexPlate XLIII- MayPlate XLVIII- Atlanta</field>
++    <field name="scopecontent_teim">The following twenty plates from an unidentified book: Plate IV- Galatea Plate V- Puritan Plate Vi- Genesta Plate VII- Priscilla Plate VIII- Atlantic Plate IX- Gracie Plate X- Bedouin Plate XVII- Cinderella Plate XIX- Titania Plate XXXIV- Gevalia Plate XXXV- Sachem Plate XXXVI- Iroquois Plate XXXVII- Ambassadress Plate XXXVIII- Em ELL EYE/Tartar Plate XXXIX- Mabel/Flora Lee Plate XL- Aline Plate XLI- Wendur Plate XLII- Irex Plate XLIII- May Plate XLVIII- Atlanta</field>
+     <field name="ref_ssi">aspace_ref342_tzg</field>
+     <field name="repository_ssi">nyhs</field>
+     <field name="repository_sim">nyhs</field>

@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_465759fbd9ac6a7516294cd9275696e7</field>
+     <field name="parent_ssm">aspace_9e2cf660ed6c1c984036574325716a5e</field>
+     <field name="parent_ssm">aspace_465759fbd9ac6a7516294cd9275696e7</field>
+-    <field name="parent_unittitles_ssm">Series I. Prints &amp; Related Papers from the Original Olds Donation</field>
++    <field name="parent_unittitles_ssm">Series I. Prints &amp;amp; Related Papers from the Original Olds Donation</field>
+     <field name="parent_unittitles_ssm">Subseries I.A. Prints and Other Documents from the Olds Collection</field>
+-    <field name="parent_unittitles_teim">Series I. Prints &amp; Related Papers from the Original Olds Donation</field>
++    <field name="parent_unittitles_teim">Series I. Prints &amp;amp; Related Papers from the Original Olds Donation</field>
+     <field name="parent_unittitles_teim">Subseries I.A. Prints and Other Documents from the Olds Collection</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -30,7 +30,7 @@
+     <field name="location_si">Folder: FF-33</field>
+     <field name="collection_teim">Irving S. Olds collection of naval and other historical prints and related papers</field>
+     <field name="collection_unitid_teim">PR 47</field>
+-    <field name="series_sim">Series I. Prints &amp; Related Papers from the Original Olds Donation</field>
++    <field name="series_sim">Series I. Prints &amp;amp; Related Papers from the Original Olds Donation</field>
+     <field name="series_sim">Subseries I.A. Prints and Other Documents from the Olds Collection</field>
+     <field name="series_si">Series I. Prints &amp; Related Papers from the Original Olds Donation &gt;&gt; Subseries I.A. Prints and Other Documents from the Olds Collection &gt;&gt; Print No. 160. Engraving: "United States and Macedonian…"</field>
+     <field name="heading_ssm">Print No. 160. Engraving: "United States and Macedonian…"</field>

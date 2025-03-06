@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1_0d0</field>
+     <field name="parent_ssm">aspace_ref661_95l</field>
+     <field name="parent_unittitles_ssm">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+-    <field name="parent_unittitles_ssm">Subseries I.30: Rothschild Freres to Hottinguer &amp; Co.</field>
++    <field name="parent_unittitles_ssm">Subseries I.30: Rothschild Freres to Hottinguer &amp;amp; Co.</field>
+     <field name="parent_unittitles_teim">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+-    <field name="parent_unittitles_teim">Subseries I.30: Rothschild Freres to Hottinguer &amp; Co.</field>
++    <field name="parent_unittitles_teim">Subseries I.30: Rothschild Freres to Hottinguer &amp;amp; Co.</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Astor family papers</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Astor family papers</field>
+     <field name="collection_unitid_teim">MS 25</field>
+     <field name="series_sim">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+-    <field name="series_sim">Subseries I.30: Rothschild Freres to Hottinguer &amp; Co.</field>
++    <field name="series_sim">Subseries I.30: Rothschild Freres to Hottinguer &amp;amp; Co.</field>
+     <field name="series_si">Series I: Property Documents: Leases, Deeds, Mortgages, Maps &gt;&gt; Subseries I.30: Rothschild Freres to Hottinguer &amp; Co. &gt;&gt; Rothschild Freres 1896-1899</field>
+     <field name="heading_ssm">Rothschild Freres 1896-1899</field>
+     <field name="unitdate_ssm">1896-1899</field>

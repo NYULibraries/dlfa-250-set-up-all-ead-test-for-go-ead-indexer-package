@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref318</field>
+     <field name="parent_ssm">aspace_ref385</field>
+     <field name="parent_unittitles_ssm">Series III: Printed Material</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Scrapbooks &amp; Pictorial [SB=Scrapbook]</field>
++    <field name="parent_unittitles_ssm">Subseries B: Scrapbooks &amp;amp; Pictorial [SB=Scrapbook]</field>
+     <field name="parent_unittitles_teim">Series III: Printed Material</field>
+-    <field name="parent_unittitles_teim">Subseries B: Scrapbooks &amp; Pictorial [SB=Scrapbook]</field>
++    <field name="parent_unittitles_teim">Subseries B: Scrapbooks &amp;amp; Pictorial [SB=Scrapbook]</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Edward Streeter Papers</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Edward Streeter Papers</field>
+     <field name="collection_unitid_teim">MSS.039</field>
+     <field name="series_sim">Series III: Printed Material</field>
+-    <field name="series_sim">Subseries B: Scrapbooks &amp; Pictorial [SB=Scrapbook]</field>
++    <field name="series_sim">Subseries B: Scrapbooks &amp;amp; Pictorial [SB=Scrapbook]</field>
+     <field name="series_si">Series III: Printed Material &gt;&gt; Subseries B: Scrapbooks &amp; Pictorial [SB=Scrapbook] &gt;&gt; The Log of the Trade Wind [1926].</field>
+     <field name="heading_ssm">The Log of the Trade Wind [1926].</field>
+     <field name="unitdate_ssm">1926</field>

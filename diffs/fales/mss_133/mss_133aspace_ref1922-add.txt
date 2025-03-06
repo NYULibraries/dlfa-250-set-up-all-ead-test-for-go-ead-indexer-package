@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1744</field>
+     <field name="parent_ssm">aspace_ref1862</field>
+     <field name="parent_unittitles_ssm">Series X: Press</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Company Members &amp; Associates</field>
++    <field name="parent_unittitles_ssm">Subseries B: Company Members &amp;amp; Associates</field>
+     <field name="parent_unittitles_teim">Series X: Press</field>
+-    <field name="parent_unittitles_teim">Subseries B: Company Members &amp; Associates</field>
++    <field name="parent_unittitles_teim">Subseries B: Company Members &amp;amp; Associates</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Mabou Mines Archive</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">Mabou Mines Archive</field>
+     <field name="collection_unitid_teim">MSS.133</field>
+     <field name="series_sim">Series X: Press</field>
+-    <field name="series_sim">Subseries B: Company Members &amp; Associates</field>
++    <field name="series_sim">Subseries B: Company Members &amp;amp; Associates</field>
+     <field name="series_si">Series X: Press &gt;&gt; Subseries B: Company Members &amp; Associates &gt;&gt; Maleczech Performance Art no 2</field>
+     <field name="heading_ssm">Maleczech Performance Art no 2</field>
+     <field name="unitdate_ssm">1979</field>

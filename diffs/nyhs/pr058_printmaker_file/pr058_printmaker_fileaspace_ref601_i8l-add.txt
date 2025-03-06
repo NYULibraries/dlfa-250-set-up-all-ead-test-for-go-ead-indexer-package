@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref395_257</field>
+     <field name="parent_ssm">aspace_ref600_nr4</field>
+     <field name="parent_unittitles_ssm">Series II: Prints 16 x 20" to 30 x 40"</field>
+-    <field name="parent_unittitles_ssm">Wilson, James &amp; Isaac Eddy</field>
++    <field name="parent_unittitles_ssm">Wilson, James &amp;amp; Isaac Eddy</field>
+     <field name="parent_unittitles_teim">Series II: Prints 16 x 20" to 30 x 40"</field>
+-    <field name="parent_unittitles_teim">Wilson, James &amp; Isaac Eddy</field>
++    <field name="parent_unittitles_teim">Wilson, James &amp;amp; Isaac Eddy</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Printmaker File</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_teim">Printmaker File</field>
+     <field name="collection_unitid_teim">PR 58</field>
+     <field name="series_sim">Series II: Prints 16 x 20" to 30 x 40"</field>
+-    <field name="series_sim">Wilson, James &amp; Isaac Eddy</field>
++    <field name="series_sim">Wilson, James &amp;amp; Isaac Eddy</field>
+     <field name="series_si">Series II: Prints 16 x 20" to 30 x 40" &gt;&gt; Wilson, James &amp; Isaac Eddy &gt;&gt; "Chronology Delineated to Illustrate the History of Monarchical Revolution"</field>
+     <field name="heading_ssm">"Chronology Delineated to Illustrate the History of Monarchical Revolution"</field>
+     <field name="unitdate_ssm">1813</field>

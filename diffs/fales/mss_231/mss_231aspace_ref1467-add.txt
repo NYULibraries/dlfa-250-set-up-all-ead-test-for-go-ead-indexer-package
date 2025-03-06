@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161[Air Date: 7/29/1985] [3]--Connection</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161[Air Date: 7/29/1985] [3]--Connection</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161 [Air Date: 7/29/1985] [3]--Connection</field>
+     <field name="unitid_teim">ID: 231.0643</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529368</field>
+     <field name="unitid_ssm">ID: 231.0643</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529368</field>
+     <field name="unitdate_teim">July 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Lesbian mother loses custody rights2. Minneapolis health club discriminates against gay man3. Hollywood city council mandates HTLVIII testingCOMMERCIAL: "New York Native" with Quentin Crisp4. Lesbian presidential candidate at University of Oregon wins election5. Before stonewallCOMMERCIAL: NGTF Fund for Human Dignity: gay and lesbian disabled6. Pittsburgh woman complains about gay organization's public phone listings7. Mayor Koch addresses Greater Gotham Business Council, includes clip8. Court upholds John McBride's will, includes over 100,000 dollar donation to gay civil rights 9. Brooklyn Public Library censorship10. 1985 Gay Pride Parade, includes coverageCOMMERCIAL: "The Connection," gay and lesbian newspaper11. Sports12. Healthline: Conversations with GMHC: Martin P. Levine, assistant professor of Sociology at Bloomfield College, discusses masculinity and gay sexuality13. Closing credits The Right Stuff:1. Media reports/current events/culture, includes clips. Joan Rivers, Dr. Robert Jackson, Health Commissioner of South CarolinaCOMMERCIAL: "Manscape," a gay magazine2. Broadway, films, includes clip of "The Goonies"COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club3. Sybil Bruncheon tours parkCOMMERCIAL: NGTF Fund for Human Dignity with Abigail Van Buren "Dear Abby"4. Sybil BruncheonCOMMERCIAL: Arcos Blancos Resort, San Juan, Puerto Rico5. Channel 13 celebrates Gay Pride Week with three documentaries during primetime: Silent Pioneers, The Word is Out, In the Best Interest of the Children, includes clips</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161[Air Date: 7/29/1985] [3]--Connection: July 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161[Air Date: 7/29/1985] [3]--Connection: July 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Lesbian mother loses custody rights 2. Minneapolis health club discriminates against gay man 3. Hollywood city council mandates HTLVIII testing COMMERCIAL: "New York Native" with Quentin Crisp 4. Lesbian presidential candidate at University of Oregon wins election 5. Before stonewall COMMERCIAL: NGTF Fund for Human Dignity: gay and lesbian disabled 6. Pittsburgh woman complains about gay organization's public phone listings 7. Mayor Koch addresses Greater Gotham Business Council, includes clip 8. Court upholds John McBride's will, includes over 100,000 dollar donation to gay civil rights 9. Brooklyn Public Library censorship 10. 1985 Gay Pride Parade, includes coverage COMMERCIAL: "The Connection," gay and lesbian newspaper 11. Sports 12. Healthline: Conversations with GMHC: Martin P. Levine, assistant professor of Sociology at Bloomfield College, discusses masculinity and gay sexuality 13. Closing credits The Right Stuff: 1. Media reports/current events/culture, includes clips. Joan Rivers, Dr. Robert Jackson, Health Commissioner of South Carolina COMMERCIAL: "Manscape," a gay magazine 2. Broadway, films, includes clip of "The Goonies" COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club 3. Sybil Bruncheon tours park COMMERCIAL: NGTF Fund for Human Dignity with Abigail Van Buren "Dear Abby" 4. Sybil Bruncheon COMMERCIAL: Arcos Blancos Resort, San Juan, Puerto Rico 5. Channel 13 celebrates Gay Pride Week with three documentaries during primetime: Silent Pioneers, The Word is Out, In the Best Interest of the Children, includes clips</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161 [Air Date: 7/29/1985] [3]--Connection: July 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161 [Air Date: 7/29/1985] [3]--Connection: July 1985</field>
+     <field name="ref_ssi">aspace_ref1467</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161[Air Date: 7/29/1985] [3]--Connection</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161[Air Date: 7/29/1985] [3]--Connection</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 44 [2]--The Right Stuff, Episode No. 161 [Air Date: 7/29/1985] [3]--Connection</field>
+     <field name="unitdate_ssm">July 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2635</field>

@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms200_ensko_silver</field>
+     <field name="parent_ssi">aspace_a35615313e48aa40a3156fe7603a0257</field>
+     <field name="parent_ssm">aspace_a35615313e48aa40a3156fe7603a0257</field>
+-    <field name="parent_unittitles_ssm">Series IV. Client Lists &amp; Related Records</field>
+-    <field name="parent_unittitles_teim">Series IV. Client Lists &amp; Related Records</field>
++    <field name="parent_unittitles_ssm">Series IV. Client Lists &amp;amp; Related Records</field>
++    <field name="parent_unittitles_teim">Series IV. Client Lists &amp;amp; Related Records</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Robert Ensko Inc. records</field>
+@@ -27,7 +27,7 @@
+     <field name="location_si">Offsite-Box: 108</field>
+     <field name="collection_teim">Robert Ensko Inc. records</field>
+     <field name="collection_unitid_teim">MS 200</field>
+-    <field name="series_sim">Series IV. Client Lists &amp; Related Records</field>
++    <field name="series_sim">Series IV. Client Lists &amp;amp; Related Records</field>
+     <field name="series_si">Series IV. Client Lists &amp; Related Records &gt;&gt; Index cards: Current clients as of 1960 (Box 4 of 4)</field>
+     <field name="heading_ssm">Index cards: Current clients as of 1960 (Box 4 of 4)</field>
+     <field name="unitdate_ssm">Inclusive, 1940s-1960s</field>

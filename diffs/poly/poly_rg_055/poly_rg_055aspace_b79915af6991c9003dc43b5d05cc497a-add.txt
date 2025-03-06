@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">poly_rg_055</field>
+     <field name="parent_ssi">aspace_140741fd18406eaff149b2541c8c2126</field>
+     <field name="parent_ssm">aspace_140741fd18406eaff149b2541c8c2126</field>
+-    <field name="parent_unittitles_ssm">Series II: APCS &amp; AMOL</field>
+-    <field name="parent_unittitles_teim">Series II: APCS &amp; AMOL</field>
++    <field name="parent_unittitles_ssm">Series II: APCS &amp;amp; AMOL</field>
++    <field name="parent_unittitles_teim">Series II: APCS &amp;amp; AMOL</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Peter P. Carr Papers</field>
+@@ -26,7 +26,7 @@
+     <field name="location_si">box: 3, folder: 98</field>
+     <field name="collection_teim">Peter P. Carr Papers</field>
+     <field name="collection_unitid_teim">RG.055</field>
+-    <field name="series_sim">Series II: APCS &amp; AMOL</field>
++    <field name="series_sim">Series II: APCS &amp;amp; AMOL</field>
+     <field name="series_si">Series II: APCS &amp; AMOL &gt;&gt; Perpetual Options Counterexample</field>
+     <field name="heading_ssm">Perpetual Options Counterexample</field>
+     <field name="unitdate_ssm">Undated</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -26,7 +26,7 @@
+     <field name="unitdate_normal_teim">1975/1975</field>
+     <field name="unitdate_normal_sim">1975/1975</field>
+     <field name="unitdate_inclusive_teim">Aug 3-4 1975</field>
+-    <field name="phystech_teim">Format: VHSTRT: [approx. 120 minutes]</field>
++    <field name="phystech_teim">Format: VHS TRT: [approx. 120 minutes]</field>
+     <field name="ref_ssi">aspace_ref1926</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

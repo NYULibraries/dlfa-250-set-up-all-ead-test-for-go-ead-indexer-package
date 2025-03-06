@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref307</field>
+     <field name="parent_ssm">aspace_ref312</field>
+     <field name="parent_unittitles_ssm">Accretion 2012 - Series II: Publications</field>
+-    <field name="parent_unittitles_ssm">Subseries F: Publication Contracts &amp; Documents</field>
++    <field name="parent_unittitles_ssm">Subseries F: Publication Contracts &amp;amp; Documents</field>
+     <field name="parent_unittitles_teim">Accretion 2012 - Series II: Publications</field>
+-    <field name="parent_unittitles_teim">Subseries F: Publication Contracts &amp; Documents</field>
++    <field name="parent_unittitles_teim">Subseries F: Publication Contracts &amp;amp; Documents</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Lewis Carroll Society of North America Archives</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">Lewis Carroll Society of North America Archives</field>
+     <field name="collection_unitid_teim">MSS.148</field>
+     <field name="series_sim">Accretion 2012 - Series II: Publications</field>
+-    <field name="series_sim">Subseries F: Publication Contracts &amp; Documents</field>
++    <field name="series_sim">Subseries F: Publication Contracts &amp;amp; Documents</field>
+     <field name="series_si">Accretion 2012 - Series II: Publications &gt;&gt; Subseries F: Publication Contracts &amp; Documents &gt;&gt; Documents on transfer of copyright of &lt;em&gt;In Memoriam Charles Lutwidge Dodgson, 1832-1898&lt;/em&gt; from Charlie Lovett and August A. Imholtz, Jr. to LCSNA</field>
+     <field name="heading_ssm">Documents on transfer of copyright of In Memoriam Charles Lutwidge Dodgson, 1832-1898 from Charlie Lovett and August A. Imholtz, Jr. to LCSNA</field>
+     <field name="unitdate_start_sim">1998</field>

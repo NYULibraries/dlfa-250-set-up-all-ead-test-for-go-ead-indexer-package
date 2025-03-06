@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref336_3oc</field>
+     <field name="parent_ssm">aspace_ref687_6om</field>
+     <field name="parent_unittitles_ssm">Series II. Business/Financial Papers</field>
+-    <field name="parent_unittitles_ssm">Subseries 6: Prices Current, Circulars, Catalogues &amp; Notices</field>
++    <field name="parent_unittitles_ssm">Subseries 6: Prices Current, Circulars, Catalogues &amp;amp; Notices</field>
+     <field name="parent_unittitles_teim">Series II. Business/Financial Papers</field>
+-    <field name="parent_unittitles_teim">Subseries 6: Prices Current, Circulars, Catalogues &amp; Notices</field>
++    <field name="parent_unittitles_teim">Subseries 6: Prices Current, Circulars, Catalogues &amp;amp; Notices</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Leverich family papers</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Leverich family papers</field>
+     <field name="collection_unitid_teim">MS 381</field>
+     <field name="series_sim">Series II. Business/Financial Papers</field>
+-    <field name="series_sim">Subseries 6: Prices Current, Circulars, Catalogues &amp; Notices</field>
++    <field name="series_sim">Subseries 6: Prices Current, Circulars, Catalogues &amp;amp; Notices</field>
+     <field name="series_si">Series II. Business/Financial Papers &gt;&gt; Subseries 6: Prices Current, Circulars, Catalogues &amp; Notices &gt;&gt; Catalogues &amp; Notices</field>
+     <field name="heading_ssm">Catalogues &amp; Notices</field>
+     <field name="unitdate_ssm">undated</field>

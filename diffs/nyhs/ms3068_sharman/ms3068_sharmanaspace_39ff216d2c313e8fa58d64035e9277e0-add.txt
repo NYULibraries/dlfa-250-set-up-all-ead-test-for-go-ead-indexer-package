@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">ms3068_sharman</field>
+     <field name="parent_ssi">aspace_ca8c03fcb19c2cc4aa2298f0779f830c</field>
+     <field name="parent_ssm">aspace_ca8c03fcb19c2cc4aa2298f0779f830c</field>
+-    <field name="parent_unittitles_ssm">Series IV. Ephemera &amp; Photographs</field>
+-    <field name="parent_unittitles_teim">Series IV. Ephemera &amp; Photographs</field>
++    <field name="parent_unittitles_ssm">Series IV. Ephemera &amp;amp; Photographs</field>
++    <field name="parent_unittitles_teim">Series IV. Ephemera &amp;amp; Photographs</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">William Sharman papers</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">Box: 1, Folder: 22</field>
+     <field name="collection_teim">William Sharman papers</field>
+     <field name="collection_unitid_teim">MS 3068</field>
+-    <field name="series_sim">Series IV. Ephemera &amp; Photographs</field>
++    <field name="series_sim">Series IV. Ephemera &amp;amp; Photographs</field>
+     <field name="series_si">Series IV. Ephemera &amp; Photographs &gt;&gt; New York World's Fair</field>
+     <field name="heading_ssm">New York World's Fair</field>
+     <field name="unitdate_ssm">Inclusive, 1939, 1964-65</field>

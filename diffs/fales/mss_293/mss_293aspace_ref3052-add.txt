@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">To be supplied</field>
+     <field name="scopecontent_teim">House of Pain</field>
+-    <field name="phystech_teim">Original Format: 1/2 in. Open ReelTRT: 00:44:00</field>
++    <field name="phystech_teim">Original Format: 1/2 in. Open Reel TRT: 00:44:00</field>
+     <field name="ref_ssi">aspace_ref3052</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mss_293</field>
+     <field name="parent_ssi">aspace_ref6281</field>
+     <field name="parent_ssm">aspace_ref6281</field>
+-    <field name="parent_unittitles_ssm">Series II: Manuscripts &amp; Writings</field>
+-    <field name="parent_unittitles_teim">Series II: Manuscripts &amp; Writings</field>
++    <field name="parent_unittitles_ssm">Series II: Manuscripts &amp;amp; Writings</field>
++    <field name="parent_unittitles_teim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">true</field>
+     <field name="collection_sim">Larry Rivers Papers</field>
+@@ -26,7 +26,7 @@
+     <field name="format_ssm">Archival Series</field>
+     <field name="collection_teim">Larry Rivers Papers</field>
+     <field name="collection_unitid_teim">MSS.293</field>
+-    <field name="series_sim">Series II: Manuscripts &amp; Writings</field>
++    <field name="series_sim">Series II: Manuscripts &amp;amp; Writings</field>
+     <field name="series_si">Series II: Manuscripts &amp; Writings &gt;&gt; Subseries A: Works by Larry Rivers</field>
+     <field name="heading_ssm">Subseries A: Works by Larry Rivers</field>
+     <field name="date_range_sim">undated &amp; other</field>

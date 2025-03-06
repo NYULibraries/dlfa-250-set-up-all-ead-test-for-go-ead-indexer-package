@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_114</field>
+     <field name="parent_ssi">aspace_ref489</field>
+     <field name="parent_ssm">aspace_ref489</field>
+-    <field name="parent_unittitles_ssm">Series VI: Greek Language Monographs &amp; Serials</field>
+-    <field name="parent_unittitles_teim">Series VI: Greek Language Monographs &amp; Serials</field>
++    <field name="parent_unittitles_ssm">Series VI: Greek Language Monographs &amp;amp; Serials</field>
++    <field name="parent_unittitles_teim">Series VI: Greek Language Monographs &amp;amp; Serials</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John and Constantine Poulos Papers</field>
+@@ -31,7 +31,7 @@
+     <field name="location_si">Box: 16, Folder: data_value_missing_b923ac7363f7a0da1f541625fd4ee71f</field>
+     <field name="collection_teim">John and Constantine Poulos Papers</field>
+     <field name="collection_unitid_teim">TAM.114</field>
+-    <field name="series_sim">Series VI: Greek Language Monographs &amp; Serials</field>
++    <field name="series_sim">Series VI: Greek Language Monographs &amp;amp; Serials</field>
+     <field name="series_si">Series VI: Greek Language Monographs &amp; Serials &gt;&gt; Monographs</field>
+     <field name="heading_ssm">Monographs</field>
+     <field name="unitdate_start_sim">1921</field>

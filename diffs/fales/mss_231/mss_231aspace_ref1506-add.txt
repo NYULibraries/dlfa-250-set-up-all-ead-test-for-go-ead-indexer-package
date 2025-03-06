@@ -1,0 +1,28 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,13 +17,13 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 57 [2]--The Right Stuff, Episode No. 168[Air Date: 10/30/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 57 [2]--The Right Stuff, Episode No. 168[Air Date: 10/30/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 57 [2]--The Right Stuff, Episode No. 168 [Air Date: 10/30/1985]</field>
+     <field name="unitid_teim">ID: 231.0656</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529381</field>
+     <field name="unitid_ssm">ID: 231.0656</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529381</field>
+     <field name="unitdate_teim">October 1985</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
+     <field name="ref_ssi">aspace_ref1506</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -37,7 +37,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 57 [2]--The Right Stuff, Episode No. 168[Air Date: 10/30/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 57 [2]--The Right Stuff, Episode No. 168[Air Date: 10/30/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 57 [2]--The Right Stuff, Episode No. 168 [Air Date: 10/30/1985]</field>
+     <field name="unitdate_ssm">October 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2648</field>

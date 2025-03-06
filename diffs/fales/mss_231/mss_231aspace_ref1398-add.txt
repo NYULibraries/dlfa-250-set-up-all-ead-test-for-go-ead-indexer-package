@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138[Air Date: 2/18/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138[Air Date: 2/18/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138 [Air Date: 2/18/1985]</field>
+     <field name="unitid_teim">ID: 231.0620</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529345</field>
+     <field name="unitid_ssm">ID: 231.0620</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529345</field>
+     <field name="unitdate_teim">February 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Virginia Apuzzo resigns from National Gay Task Force2. Virginia Apuzzo gives speech at press conferenceCOMMERCIAL: Actor/ playwright Harvey Fierstein announces his return to "Torch Song Trilogy" at the Helen Hayes Theatre3. Reagan administration drastically cuts AIDS funding in 1986 budget4. French researchers develop new drug for AIDS treatment, HPA234. ABC movie "Consulting Adults", viewership ratings and clip from film5. New Hampshire Bill proposes gay/lesbian blood donation as felony6. School administrators cancel Tolerance Day in Madison, Maine, because of lesbian speakerCOMMERCIAL: "The Connection," gay and lesbian newspaper7. Commentary on LGBT civil rightsCOMMERCIAL: Disc-o-rama, NY video and music store8. Texas State Legislature representative Bill Ceverha, author of proposed Texas sodomy law9. West Hollywood and domestic partners ordinance10. San Francisco City Civil Service Commission rejects Public Health department request to hire private investigators for gay bathhouses11. "The Times of Harvey Milk" documentary acclaimCOMMERCIAL: "The Times of Harvey Milk"12. SportsCOMMERCIAL: Chamberlain and Associates, career service professionals13. Healthline: Conversations with GMHC: Interview with Michele Schwartz, Coordinator of Senior Action in a Gay Environment14. Closing credits The Right Stuff:1. Sue Cavin, president of the Gay and Lesbian Press Association, discusses censorship in the New York Times2. Media reports/current events/cultureCOMMERCIAL: "Manscape," a gay magazine3. Sybil Opthalmia Bruncheon takes illCOMMERCIAL: Disc-o-rama, NY video and music store4. Cooking with Sybil Opthalmia BruncheonCOMMERCIAL: National Fund for Human Dignity with Jack Albertson5. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138[Air Date: 2/18/1985]: February 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138[Air Date: 2/18/1985]: February 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Virginia Apuzzo resigns from National Gay Task Force 2. Virginia Apuzzo gives speech at press conference COMMERCIAL: Actor/ playwright Harvey Fierstein announces his return to "Torch Song Trilogy" at the Helen Hayes Theatre 3. Reagan administration drastically cuts AIDS funding in 1986 budget 4. French researchers develop new drug for AIDS treatment, HPA23 4. ABC movie "Consulting Adults", viewership ratings and clip from film 5. New Hampshire Bill proposes gay/lesbian blood donation as felony 6. School administrators cancel Tolerance Day in Madison, Maine, because of lesbian speaker COMMERCIAL: "The Connection," gay and lesbian newspaper 7. Commentary on LGBT civil rights COMMERCIAL: Disc-o-rama, NY video and music store 8. Texas State Legislature representative Bill Ceverha, author of proposed Texas sodomy law 9. West Hollywood and domestic partners ordinance 10. San Francisco City Civil Service Commission rejects Public Health department request to hire private investigators for gay bathhouses 11. "The Times of Harvey Milk" documentary acclaim COMMERCIAL: "The Times of Harvey Milk" 12. Sports COMMERCIAL: Chamberlain and Associates, career service professionals 13. Healthline: Conversations with GMHC: Interview with Michele Schwartz, Coordinator of Senior Action in a Gay Environment 14. Closing credits The Right Stuff: 1. Sue Cavin, president of the Gay and Lesbian Press Association, discusses censorship in the New York Times 2. Media reports/current events/culture COMMERCIAL: "Manscape," a gay magazine 3. Sybil Opthalmia Bruncheon takes ill COMMERCIAL: Disc-o-rama, NY video and music store 4. Cooking with Sybil Opthalmia Bruncheon COMMERCIAL: National Fund for Human Dignity with Jack Albertson 5. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138 [Air Date: 2/18/1985]: February 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138 [Air Date: 2/18/1985]: February 1985</field>
+     <field name="ref_ssi">aspace_ref1398</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138[Air Date: 2/18/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138[Air Date: 2/18/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff, Episode No. 138 [Air Date: 2/18/1985]</field>
+     <field name="unitdate_ssm">February 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2612</field>

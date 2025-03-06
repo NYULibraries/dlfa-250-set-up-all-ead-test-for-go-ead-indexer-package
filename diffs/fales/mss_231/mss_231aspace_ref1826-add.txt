@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff[Air Date: 10/6/1987]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff[Air Date: 10/6/1987]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff [Air Date: 10/6/1987]</field>
+     <field name="unitid_teim">ID: 231.0759</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529484</field>
+     <field name="unitid_ssm">ID: 231.0759</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529484</field>
+     <field name="unitdate_teim">October 1987</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Gay Week in Review, with Andy Humm, Jim Levin, Joyce Hunter and Allen Roskoff, sponsored by the Human Rights Campaign Fund2.Discussion about the events at the March on WashingtonCOMMERCIAL: Human Rights Campaign Fund Dinner3.Discussion about presidential candidates and nomination of Robert Bork for the Supreme Court4.White House comes out against Federal AIDS discrimination legislation and Federal AIDS Comission fires its executive directorCOMMERCIAL:Human Rights Campaign Fund Dinner5.Surgeon General member C. Everett Koop, M.D. talks about condoms and anal sex6.Washington Countdown, Information about the March on Washington and announcements about National Lobby Days7.Interview with Vivian Shapiro and Tom Duane who talk about the reasons they are going to the March on WashingtonCOMMERCIAL: National March on Washington for Lesbian and Gay Rights8.Regan is backing away from commitment to publish an AIDS pamphlet9.Playgirl magazine will reinsert full male nudity into its centerfold10.Gay Community Focus, God's Love We Deliver brings hot meals to AIDS patients11.The Fund for Human Dignity has recieved a grant to update its National AIDS Resources Directory12.GCN Sports, Discussion about Keith Hernandez and Phil McConkey13.Lavender Health, AIDS Surveillance Update, Discussion about the incidence of AIDS in NYC, AIDS Diagnosis Over Time By Risk (Combined Race and Sex), AIDS cases per month among other statistics13.Closing Credits The Right Stuff:1.Naming Names, criticism of Archbishop John Foley who called AIDS a natural sanctionCOMMERCIAL:Gay Treasures2.Show Bitz, Interview with Connie Shulman of the play, "Steel Magnolias"COMMERCIAL:The Monster 3.Razor Sharp, talks about straight sleeze and condoms among other thingsCOMMERCIAL:Human Rights Campaign Fund Dinner4."Short Bits of Wisdom from Daddy" by Perry BrassCOMMERCIAL:The Islanders Club5.John Dietrich from The Islanders Club talks about the upcoming cruise.6.Closing Credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff[Air Date: 10/6/1987]: October 1987</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff[Air Date: 10/6/1987]: October 1987</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Gay Week in Review, with Andy Humm, Jim Levin, Joyce Hunter and Allen Roskoff, sponsored by the Human Rights Campaign Fund 2.Discussion about the events at the March on Washington COMMERCIAL: Human Rights Campaign Fund Dinner 3.Discussion about presidential candidates and nomination of Robert Bork for the Supreme Court 4.White House comes out against Federal AIDS discrimination legislation and Federal AIDS Comission fires its executive director COMMERCIAL:Human Rights Campaign Fund Dinner 5.Surgeon General member C. Everett Koop, M.D. talks about condoms and anal sex 6.Washington Countdown, Information about the March on Washington and announcements about National Lobby Days 7.Interview with Vivian Shapiro and Tom Duane who talk about the reasons they are going to the March on Washington COMMERCIAL: National March on Washington for Lesbian and Gay Rights 8.Regan is backing away from commitment to publish an AIDS pamphlet 9.Playgirl magazine will reinsert full male nudity into its centerfold 10.Gay Community Focus, God's Love We Deliver brings hot meals to AIDS patients 11.The Fund for Human Dignity has recieved a grant to update its National AIDS Resources Directory 12.GCN Sports, Discussion about Keith Hernandez and Phil McConkey 13.Lavender Health, AIDS Surveillance Update, Discussion about the incidence of AIDS in NYC, AIDS Diagnosis Over Time By Risk (Combined Race and Sex), AIDS cases per month among other statistics 13.Closing Credits The Right Stuff: 1.Naming Names, criticism of Archbishop John Foley who called AIDS a natural sanction COMMERCIAL:Gay Treasures 2.Show Bitz, Interview with Connie Shulman of the play, "Steel Magnolias" COMMERCIAL:The Monster 3.Razor Sharp, talks about straight sleeze and condoms among other things COMMERCIAL:Human Rights Campaign Fund Dinner 4."Short Bits of Wisdom from Daddy" by Perry Brass COMMERCIAL:The Islanders Club 5.John Dietrich from The Islanders Club talks about the upcoming cruise. 6.Closing Credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff [Air Date: 10/6/1987]: October 1987</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff [Air Date: 10/6/1987]: October 1987</field>
+     <field name="ref_ssi">aspace_ref1826</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1987</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff[Air Date: 10/6/1987]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff[Air Date: 10/6/1987]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 41 [2]--The Right Stuff [Air Date: 10/6/1987]</field>
+     <field name="unitdate_ssm">October 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2751</field>

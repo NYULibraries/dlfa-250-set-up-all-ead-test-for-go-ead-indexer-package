@@ -1,0 +1,36 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149[Air Date: 5/7/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149[Air Date: 5/7/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149 [Air Date: 5/7/1985]</field>
+     <field name="unitid_teim">ID: 231.0631</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529356</field>
+     <field name="unitid_ssm">ID: 231.0631</field>
+@@ -26,10 +26,10 @@
+     <field name="unitdate_normal_teim">1985-05-07/1985-05-07</field>
+     <field name="unitdate_normal_sim">1985-05-07/1985-05-07</field>
+     <field name="unitdate_teim">May 7, 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Richmond Virginia hearings on gay rights2. Man stabs and kills homosexual, claims self defense, 2nd degree murder3. New South Wales, Australian Chief Medical Officer, seeks to close all bathhouses in the nation, believes it is a "breeding ground for AIDS"COMMERCIAL: Chamberlain and Associates, career service professionals4. Interview with Sue Li Bow, Director of Development for the Lesbian Rights Project, discusses family law and lesbian gay rights5. Interview with Albuquerque's Common Bond president, Anne Doughty, discusses community centerCOMMERCIAL: "The Connection," gay and lesbian newspaper6. Coming outCOMMERCIAL: "The Times of Harvey Milk"7. Sports including clipHealthline: Conversations with GMHC: Gary MacDonald, Executive Director of the Federation of AIDS Related Organizations, discusses his organization8. Closing Credits The Right Stuff:1. Media reports/current events/culture, includes Lawrence of Arabia clip and CNN news report on Gays and TVCOMMERCIAL: "Manscape," a gay magazine2. Sybil BruncheonCOMMERCIAL: National Fund for Human Dignity3. Return to Sybil BruncheonCOMMERCIAL: Arco Blancos resort, San Juan, Puerto Rico4. Commercials with SybilCOMMERCIAL: World of Video5. Dr. Jim Serafini, Psychotherapist, discusses gay relationships, romance versus friendship</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149[Air Date: 5/7/1985]: May 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149[Air Date: 5/7/1985]: May 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Richmond Virginia hearings on gay rights 2. Man stabs and kills homosexual, claims self defense, 2nd degree murder 3. New South Wales, Australian Chief Medical Officer, seeks to close all bathhouses in the nation, believes it is a "breeding ground for AIDS" COMMERCIAL: Chamberlain and Associates, career service professionals 4. Interview with Sue Li Bow, Director of Development for the Lesbian Rights Project, discusses family law and lesbian gay rights 5. Interview with Albuquerque's Common Bond president, Anne Doughty, discusses community center COMMERCIAL: "The Connection," gay and lesbian newspaper 6. Coming out COMMERCIAL: "The Times of Harvey Milk" 7. Sports including clip Healthline: Conversations with GMHC: Gary MacDonald, Executive Director of the Federation of AIDS Related Organizations, discusses his organization 8. Closing Credits The Right Stuff: 1. Media reports/current events/culture, includes Lawrence of Arabia clip and CNN news report on Gays and TV COMMERCIAL: "Manscape," a gay magazine 2. Sybil Bruncheon COMMERCIAL: National Fund for Human Dignity 3. Return to Sybil Bruncheon COMMERCIAL: Arco Blancos resort, San Juan, Puerto Rico 4. Commercials with Sybil COMMERCIAL: World of Video 5. Dr. Jim Serafini, Psychotherapist, discusses gay relationships, romance versus friendship</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149 [Air Date: 5/7/1985]: May 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149 [Air Date: 5/7/1985]: May 1985</field>
+     <field name="ref_ssi">aspace_ref1431</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -44,7 +44,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149[Air Date: 5/7/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149[Air Date: 5/7/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 32 [2]--The Right Stuff, Episode No. 149 [Air Date: 5/7/1985]</field>
+     <field name="unitdate_ssm">May 7, 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2623</field>

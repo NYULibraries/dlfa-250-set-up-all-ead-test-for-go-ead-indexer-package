@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187[Air Date: 3/12/1986]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187[Air Date: 3/12/1986]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187 [Air Date: 3/12/1986]</field>
+     <field name="unitid_teim">ID: 231.0676</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529401</field>
+     <field name="unitid_ssm">ID: 231.0676</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529401</field>
+     <field name="unitdate_teim">March 1986</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. National Gay Rights Advocates, Bowers versus Hardwick in United States Supreme Court2. Two openly gay candidates run for office in Dane County, Wisconsin3. Megatone Records manager pleads guilty to embezzling fourteen thousand dollars from Gay Men's Health crisis proceeds4. Austin, Texas Klu Klux Klan member lashes out against homosexualsCOMMERCIAL: SF AIDS Foundation5. Boston College anti-gay discrimination6. Jack Campbell runs for Florida United States SenateCOMMERCIAL: "New York Native" with Quentin Crisp7. Cambridge University treats AIDS patients with HTLVIII antibody blood8. Two labs develop possible HTLVIII vaccine advances9. Report examines HTLVIII credibility10. Pennsylvania bill proposes HTLVIII positive marriage banCOMMERCIAL: Commodore Plus 411. Sports, includes clips12. Healthline: Conversations with GMHC: Doris Traussig, GMHC volunteer, discusses what she does and why she volunteers13. screening of "A Chance of a Lifetime" at Hunter College14. Closing credits The Right Stuff:1. This Week in Gay History with Jeff Bixby, includes clipCOMMERCIAL: CASIO Pocket TV3. Cable Car Awards coverageCOMMERCIAL: NGTF Fund for Human Dignity with Mike Farrell4. Sybil Bruncheon's birthday partyCOMMERCIAL: The Monster5. Current events/media/culture</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187[Air Date: 3/12/1986]: March 1986</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187[Air Date: 3/12/1986]: March 1986</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. National Gay Rights Advocates, Bowers versus Hardwick in United States Supreme Court 2. Two openly gay candidates run for office in Dane County, Wisconsin 3. Megatone Records manager pleads guilty to embezzling fourteen thousand dollars from Gay Men's Health crisis proceeds 4. Austin, Texas Klu Klux Klan member lashes out against homosexuals COMMERCIAL: SF AIDS Foundation 5. Boston College anti-gay discrimination 6. Jack Campbell runs for Florida United States Senate COMMERCIAL: "New York Native" with Quentin Crisp 7. Cambridge University treats AIDS patients with HTLVIII antibody blood 8. Two labs develop possible HTLVIII vaccine advances 9. Report examines HTLVIII credibility 10. Pennsylvania bill proposes HTLVIII positive marriage ban COMMERCIAL: Commodore Plus 4 11. Sports, includes clips 12. Healthline: Conversations with GMHC: Doris Traussig, GMHC volunteer, discusses what she does and why she volunteers 13. screening of "A Chance of a Lifetime" at Hunter College 14. Closing credits The Right Stuff: 1. This Week in Gay History with Jeff Bixby, includes clip COMMERCIAL: CASIO Pocket TV 3. Cable Car Awards coverage COMMERCIAL: NGTF Fund for Human Dignity with Mike Farrell 4. Sybil Bruncheon's birthday party COMMERCIAL: The Monster 5. Current events/media/culture</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187 [Air Date: 3/12/1986]: March 1986</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187 [Air Date: 3/12/1986]: March 1986</field>
+     <field name="ref_ssi">aspace_ref1562</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1986</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1986 &gt;&gt; [1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187[Air Date: 3/12/1986]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187[Air Date: 3/12/1986]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 11 [2]--The Right Stuff, Episode No. 187 [Air Date: 3/12/1986]</field>
+     <field name="unitdate_ssm">March 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2668</field>

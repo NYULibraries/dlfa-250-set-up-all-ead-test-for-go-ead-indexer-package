@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr352_symmes_art_ephemera</field>
+     <field name="parent_ssi">aspace_763bd4c62d7d4ae9f1b6fcf0e067a706</field>
+     <field name="parent_ssm">aspace_763bd4c62d7d4ae9f1b6fcf0e067a706</field>
+-    <field name="parent_unittitles_ssm">Series IV. Architecture &amp; New York City-related Exhibitions</field>
+-    <field name="parent_unittitles_teim">Series IV. Architecture &amp; New York City-related Exhibitions</field>
++    <field name="parent_unittitles_ssm">Series IV. Architecture &amp;amp; New York City-related Exhibitions</field>
++    <field name="parent_unittitles_teim">Series IV. Architecture &amp;amp; New York City-related Exhibitions</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Marilyn Symmes collection of art exhibition ephemera</field>
+@@ -27,7 +27,7 @@
+     <field name="location_si">Offsite-Box: 21, Folder: 15</field>
+     <field name="collection_teim">Marilyn Symmes collection of art exhibition ephemera</field>
+     <field name="collection_unitid_teim">PR 352</field>
+-    <field name="series_sim">Series IV. Architecture &amp; New York City-related Exhibitions</field>
++    <field name="series_sim">Series IV. Architecture &amp;amp; New York City-related Exhibitions</field>
+     <field name="series_si">Series IV. Architecture &amp; New York City-related Exhibitions &gt;&gt; N-Z</field>
+     <field name="heading_ssm">N-Z</field>
+     <field name="unitdate_ssm">1991-2017</field>

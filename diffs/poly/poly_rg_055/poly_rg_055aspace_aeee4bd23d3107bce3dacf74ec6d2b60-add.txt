@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">poly_rg_055</field>
+     <field name="parent_ssi">aspace_f4c39cd66c4fdce28139bf5ac13f67cf</field>
+     <field name="parent_ssm">aspace_f4c39cd66c4fdce28139bf5ac13f67cf</field>
+-    <field name="parent_unittitles_ssm">Series IX: Conservative Fields &amp; Hedging</field>
+-    <field name="parent_unittitles_teim">Series IX: Conservative Fields &amp; Hedging</field>
++    <field name="parent_unittitles_ssm">Series IX: Conservative Fields &amp;amp; Hedging</field>
++    <field name="parent_unittitles_teim">Series IX: Conservative Fields &amp;amp; Hedging</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Peter P. Carr Papers</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">box: 7, folder: 55</field>
+     <field name="collection_teim">Peter P. Carr Papers</field>
+     <field name="collection_unitid_teim">RG.055</field>
+-    <field name="series_sim">Series IX: Conservative Fields &amp; Hedging</field>
++    <field name="series_sim">Series IX: Conservative Fields &amp;amp; Hedging</field>
+     <field name="series_si">Series IX: Conservative Fields &amp; Hedging &gt;&gt; Semi-Static Hedging &amp; Conservative Fields</field>
+     <field name="heading_ssm">Semi-Static Hedging &amp; Conservative Fields</field>
+     <field name="unitdate_start_sim">2002</field>

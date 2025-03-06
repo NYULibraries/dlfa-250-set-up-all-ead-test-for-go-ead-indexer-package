@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_152</field>
+     <field name="parent_ssi">aspace_ref2010</field>
+     <field name="parent_ssm">aspace_ref2010</field>
+-    <field name="parent_unittitles_ssm">Series III: Field notes &amp; Field works</field>
+-    <field name="parent_unittitles_teim">Series III: Field notes &amp; Field works</field>
++    <field name="parent_unittitles_ssm">Series III: Field notes &amp;amp; Field works</field>
++    <field name="parent_unittitles_teim">Series III: Field notes &amp;amp; Field works</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Annette Weiner Papers</field>
+@@ -31,7 +31,7 @@
+     <field name="location_si">Box: 22, Folder: 1</field>
+     <field name="collection_teim">Annette Weiner Papers</field>
+     <field name="collection_unitid_teim">MC.152</field>
+-    <field name="series_sim">Series III: Field notes &amp; Field works</field>
++    <field name="series_sim">Series III: Field notes &amp;amp; Field works</field>
+     <field name="series_si">Series III: Field notes &amp; Field works &gt;&gt; Trobriand Islands- Copy of Fieldnotes- Kiriwina</field>
+     <field name="heading_ssm">Trobriand Islands- Copy of Fieldnotes- Kiriwina</field>
+     <field name="unitdate_start_sim">1980</field>

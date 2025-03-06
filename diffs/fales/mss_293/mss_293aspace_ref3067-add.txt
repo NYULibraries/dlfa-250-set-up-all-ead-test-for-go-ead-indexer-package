@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Shirley</field>
+     <field name="scopecontent_teim">Rivers videotapes his mother. She talks about life and her likes and dislikes. Shirley is taped watching "Dr. Jekyll &amp; Mr. Hyde" on television and then the news. She speaks with various friends and family, gives Larry Rivers an enema, goes to the cemetary and becomes emotional. Tape ends with Shirley getting dressed, and more funeral footage.</field>
+-    <field name="phystech_teim">B&amp;W/SoundDuration: 00:46:00Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">B&amp;W/Sound Duration: 00:46:00 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3067</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

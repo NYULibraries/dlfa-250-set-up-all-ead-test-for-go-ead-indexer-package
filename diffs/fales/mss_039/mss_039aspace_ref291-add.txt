@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref227</field>
+     <field name="parent_ssm">aspace_ref245</field>
+     <field name="parent_unittitles_ssm">Series II: Correspondence</field>
+-    <field name="parent_unittitles_ssm">Subseries B: Selected &amp; Business Correspondence.</field>
++    <field name="parent_unittitles_ssm">Subseries B: Selected &amp;amp; Business Correspondence.</field>
+     <field name="parent_unittitles_teim">Series II: Correspondence</field>
+-    <field name="parent_unittitles_teim">Subseries B: Selected &amp; Business Correspondence.</field>
++    <field name="parent_unittitles_teim">Subseries B: Selected &amp;amp; Business Correspondence.</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Edward Streeter Papers</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Edward Streeter Papers</field>
+     <field name="collection_unitid_teim">MSS.039</field>
+     <field name="series_sim">Series II: Correspondence</field>
+-    <field name="series_sim">Subseries B: Selected &amp; Business Correspondence.</field>
++    <field name="series_sim">Subseries B: Selected &amp;amp; Business Correspondence.</field>
+     <field name="series_si">Series II: Correspondence &gt;&gt; Subseries B: Selected &amp; Business Correspondence. &gt;&gt; Life Magazine.</field>
+     <field name="heading_ssm">Life Magazine.</field>
+     <field name="unitdate_ssm">undated</field>

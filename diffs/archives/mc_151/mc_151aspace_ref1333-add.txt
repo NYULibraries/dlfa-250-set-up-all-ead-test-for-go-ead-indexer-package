@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MC.151</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
+-    <field name="unittitle_teim">1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
++    <field name="unittitle_teim">1.) Barbara Manning 2.) Jane Rubin 6/1/66 Hilly and Abby Weed Grey 6/6/66 re attorney and Walker Jim Haseltine (his voice) Letter to Paul Schettler (slip inside) Iran cable; Inez Quin</field>
+     <field name="unitid_teim">ref1333</field>
+     <field name="unitid_ssm">ref1333</field>
+     <field name="unitdate_normal_ssm">1966/1966</field>
+@@ -39,7 +39,7 @@
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series XVI: Audiovisual Materials</field>
+     <field name="series_si">Series XVI: Audiovisual Materials &gt;&gt; 1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
+-    <field name="heading_ssm">1.) Barbara Manning 2.) Jane Rubin 6/1/66Hilly and Abby Weed Grey 6/6/66 re attorney and WalkerJim Haseltine (his voice)Letter to Paul Schettler (slip inside)Iran cable; Inez Quin</field>
++    <field name="heading_ssm">1.) Barbara Manning 2.) Jane Rubin 6/1/66 Hilly and Abby Weed Grey 6/6/66 re attorney and Walker Jim Haseltine (his voice) Letter to Paul Schettler (slip inside) Iran cable; Inez Quin</field>
+     <field name="unitdate_start_sim">1966</field>
+     <field name="unitdate_start_sim">2019</field>
+     <field name="unitdate_start_ssm">1966</field>

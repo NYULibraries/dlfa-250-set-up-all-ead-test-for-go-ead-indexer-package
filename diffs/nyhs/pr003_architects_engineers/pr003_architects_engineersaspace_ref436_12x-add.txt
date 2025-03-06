@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">pr003_architects_engineers</field>
+     <field name="parent_ssi">aspace_ref432_v3m</field>
+     <field name="parent_ssm">aspace_ref432_v3m</field>
+-    <field name="parent_unittitles_ssm">New York State Bridge &amp; Tunnel Commission and New Jersey Bridge &amp; Tunnel Commission, 20 items (PR 3-241)</field>
+-    <field name="parent_unittitles_teim">New York State Bridge &amp; Tunnel Commission and New Jersey Bridge &amp; Tunnel Commission, 20 items (PR 3-241)</field>
++    <field name="parent_unittitles_ssm">New York State Bridge &amp;amp; Tunnel Commission and New Jersey Bridge &amp;amp; Tunnel Commission, 20 items (PR 3-241)</field>
++    <field name="parent_unittitles_teim">New York State Bridge &amp;amp; Tunnel Commission and New Jersey Bridge &amp;amp; Tunnel Commission, 20 items (PR 3-241)</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Architects &amp; Engineers collection</field>
+@@ -26,7 +26,7 @@
+     <field name="location_si">Box: PR 3-241, Folder: 1</field>
+     <field name="collection_teim">Architects &amp; Engineers collection</field>
+     <field name="collection_unitid_teim">PR 3</field>
+-    <field name="series_sim">New York State Bridge &amp; Tunnel Commission and New Jersey Bridge &amp; Tunnel Commission, 20 items (PR 3-241)</field>
++    <field name="series_sim">New York State Bridge &amp;amp; Tunnel Commission and New Jersey Bridge &amp;amp; Tunnel Commission, 20 items (PR 3-241)</field>
+     <field name="series_si">New York State Bridge &amp; Tunnel Commission and New Jersey Bridge &amp; Tunnel Commission, 20 items (PR 3-241) &gt;&gt; Hudson River Vehicular Tunnel [Holland Tunnel]</field>
+     <field name="heading_ssm">Hudson River Vehicular Tunnel [Holland Tunnel]</field>
+     <field name="unitdate_ssm">1923-1924</field>

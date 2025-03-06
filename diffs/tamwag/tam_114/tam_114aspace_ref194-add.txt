@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref193</field>
+     <field name="parent_ssm">aspace_ref159</field>
+     <field name="parent_ssm">aspace_ref193</field>
+-    <field name="parent_unittitles_ssm">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
++    <field name="parent_unittitles_ssm">Series II: Greek Wartime (WWII) Resistance &amp;amp; Aftermath</field>
+     <field name="parent_unittitles_ssm">Subseries II:I: EAM Communications</field>
+-    <field name="parent_unittitles_teim">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
++    <field name="parent_unittitles_teim">Series II: Greek Wartime (WWII) Resistance &amp;amp; Aftermath</field>
+     <field name="parent_unittitles_teim">Subseries II:I: EAM Communications</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -34,7 +34,7 @@
+     <field name="location_si">Box: 5, Folder: 24</field>
+     <field name="collection_teim">John and Constantine Poulos Papers</field>
+     <field name="collection_unitid_teim">TAM.114</field>
+-    <field name="series_sim">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
++    <field name="series_sim">Series II: Greek Wartime (WWII) Resistance &amp;amp; Aftermath</field>
+     <field name="series_sim">Subseries II:I: EAM Communications</field>
+     <field name="series_si">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath &gt;&gt; Subseries II:I: EAM Communications &gt;&gt; Central Committee(Announcements), memorandums, etc. -</field>
+     <field name="heading_ssm">Central Committee(Announcements), memorandums, etc. -</field>

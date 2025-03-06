@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_818b9f811195bacb58df33da7356a392</field>
+     <field name="parent_ssm">aspace_ff459421d896595ab1108da94ee85bf5</field>
+     <field name="parent_unittitles_ssm">Series I. John V. Lindsay political campaigns</field>
+-    <field name="parent_unittitles_ssm">Sub-series I.B. Lindsay mayoral campaign &amp; miscellaneous</field>
++    <field name="parent_unittitles_ssm">Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous</field>
+     <field name="parent_unittitles_teim">Series I. John V. Lindsay political campaigns</field>
+-    <field name="parent_unittitles_teim">Sub-series I.B. Lindsay mayoral campaign &amp; miscellaneous</field>
++    <field name="parent_unittitles_teim">Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Robert Price papers</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_teim">Robert Price papers</field>
+     <field name="collection_unitid_teim">MS 3130</field>
+     <field name="series_sim">Series I. John V. Lindsay political campaigns</field>
+-    <field name="series_sim">Sub-series I.B. Lindsay mayoral campaign &amp; miscellaneous</field>
++    <field name="series_sim">Sub-series I.B. Lindsay mayoral campaign &amp;amp; miscellaneous</field>
+     <field name="series_si">Series I. John V. Lindsay political campaigns &gt;&gt; Sub-series I.B. Lindsay mayoral campaign &amp; miscellaneous &gt;&gt; 1965 Mayoral campaign. Periodical clippings [folder 3 of 7]</field>
+     <field name="heading_ssm">1965 Mayoral campaign. Periodical clippings [folder 3 of 7]</field>
+     <field name="unitdate_ssm">Inclusive, 1965</field>

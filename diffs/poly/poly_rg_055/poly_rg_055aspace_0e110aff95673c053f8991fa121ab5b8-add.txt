@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -13,7 +13,7 @@
+     <field name="collection_ssm">Peter P. Carr Papers</field>
+     <field name="collection_unitid_ssm">RG.055</field>
+     <field name="level_sim">file</field>
+-    <field name="unittitle_ssm">No Arb, Markov F&amp;gt;, Mg in Reverse Time</field>
++    <field name="unittitle_ssm">No Arb, Markov F&gt;, Mg in Reverse Time</field>
+     <field name="unittitle_teim">No Arb, Markov F&gt;, Mg in Reverse Time</field>
+     <field name="unitdate_normal_ssm">2000/2001</field>
+     <field name="unitdate_normal_teim">2000/2001</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Peter P. Carr Papers</field>
+     <field name="collection_unitid_teim">RG.055</field>
+     <field name="series_sim">Series XVII: Diffusion Time Reversal and European Options</field>
+-    <field name="series_si">Series XVII: Diffusion Time Reversal and European Options &gt;&gt; No Arb, Markov F&amp;gt;, Mg in Reverse Time</field>
++    <field name="series_si">Series XVII: Diffusion Time Reversal and European Options &gt;&gt; No Arb, Markov F&gt;, Mg in Reverse Time</field>
+     <field name="heading_ssm">No Arb, Markov F&gt;, Mg in Reverse Time</field>
+     <field name="unitdate_start_sim">2000</field>
+     <field name="unitdate_start_ssm">2000</field>

@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1580</field>
+     <field name="parent_ssm">aspace_ref1607</field>
+     <field name="parent_unittitles_ssm">Accretions 2008 - Series VI: Major Projects</field>
+-    <field name="parent_unittitles_ssm">Subseries B: "The Animated Raggedy Ann &amp; Andy"</field>
++    <field name="parent_unittitles_ssm">Subseries B: "The Animated Raggedy Ann &amp;amp; Andy"</field>
+     <field name="parent_unittitles_teim">Accretions 2008 - Series VI: Major Projects</field>
+-    <field name="parent_unittitles_teim">Subseries B: "The Animated Raggedy Ann &amp; Andy"</field>
++    <field name="parent_unittitles_teim">Subseries B: "The Animated Raggedy Ann &amp;amp; Andy"</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John Canemaker Animation Collection</field>
+@@ -32,7 +32,7 @@
+     <field name="collection_teim">John Canemaker Animation Collection</field>
+     <field name="collection_unitid_teim">MSS.040</field>
+     <field name="series_sim">Accretions 2008 - Series VI: Major Projects</field>
+-    <field name="series_sim">Subseries B: "The Animated Raggedy Ann &amp; Andy"</field>
++    <field name="series_sim">Subseries B: "The Animated Raggedy Ann &amp;amp; Andy"</field>
+     <field name="series_si">Accretions 2008 - Series VI: Major Projects &gt;&gt; Subseries B: "The Animated Raggedy Ann &amp; Andy" &gt;&gt; Canemaker, John: Interviews: various related to research</field>
+     <field name="heading_ssm">Canemaker, John: Interviews: various related to research</field>
+     <field name="unitdate_ssm">1976</field>

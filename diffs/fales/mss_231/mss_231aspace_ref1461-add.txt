@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159[Air Date: 7/15/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159[Air Date: 7/15/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159 [Air Date: 7/15/1985]</field>
+     <field name="unitid_teim">ID: 231.0641</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529366</field>
+     <field name="unitid_ssm">ID: 231.0641</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529366</field>
+     <field name="unitdate_teim">July 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews - highlights:1. Hollywood, Florida drops mandatory HTLV testing2.New Orleans Archdioceses donates AIDS shelter for their 80 AIDS cases3. David Dinkens runs for borough PresidentCOMMERCIAL: "New York Native" with Quentin Crisp4. Human Rights Campaign survey got gay and lesbian discrimination5. Dallas, Texas reportCOMMERCIAL: Chamberlain and Associates, career service professionals6. University of Texas and "April 12th Round-up Parade" that injured gay and lesbian students7. Andy Humm reports on gay couple held hostage on Flight 847COMMERCIAL: NGTF Fund for Human Dignity with actor Jack Albertson8. Harvey Milk High School9. Long Beach Gay Pride Parade refused permit10. Gay Pride coverageCOMMERCIAL: "The Connection"Sports reportHealthline: GMHC seminar: The Challenge of AIDS Continues/ Nathan Fain speech "Dream, Tragedy, and the Birth of Courage" The Right Stuff:1. A look at mainstream TV coverage of NYC Gay Pride Day2. Segment from "The Phil Donohue Show," topic: developing sex organs in human fetusCOMMERCIAL: "Manscape" magazine3. Broadway Confidential: "Singin' in the Rain" review with performance footage4. Sybil Bruncheon at NYC Gay PrideCOMMERCIAL: Arcos Blancos resort, Puerto Rico5 .Interview with Damian Charles, author of Jane Mansfield biography</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159[Air Date: 7/15/1985] : July 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159[Air Date: 7/15/1985] : July 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News - highlights: 1. Hollywood, Florida drops mandatory HTLV testing 2.New Orleans Archdioceses donates AIDS shelter for their 80 AIDS cases 3. David Dinkens runs for borough President COMMERCIAL: "New York Native" with Quentin Crisp 4. Human Rights Campaign survey got gay and lesbian discrimination 5. Dallas, Texas report COMMERCIAL: Chamberlain and Associates, career service professionals 6. University of Texas and "April 12th Round-up Parade" that injured gay and lesbian students 7. Andy Humm reports on gay couple held hostage on Flight 847 COMMERCIAL: NGTF Fund for Human Dignity with actor Jack Albertson 8. Harvey Milk High School 9. Long Beach Gay Pride Parade refused permit 10. Gay Pride coverage COMMERCIAL: "The Connection" Sports report Healthline: GMHC seminar: The Challenge of AIDS Continues/ Nathan Fain speech "Dream, Tragedy, and the Birth of Courage" The Right Stuff: 1. A look at mainstream TV coverage of NYC Gay Pride Day 2. Segment from "The Phil Donohue Show," topic: developing sex organs in human fetus COMMERCIAL: "Manscape" magazine 3. Broadway Confidential: "Singin' in the Rain" review with performance footage 4. Sybil Bruncheon at NYC Gay Pride COMMERCIAL: Arcos Blancos resort, Puerto Rico 5 .Interview with Damian Charles, author of Jane Mansfield biography</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159 [Air Date: 7/15/1985] : July 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159 [Air Date: 7/15/1985] : July 1985</field>
+     <field name="ref_ssi">aspace_ref1461</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159[Air Date: 7/15/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159[Air Date: 7/15/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 42 [2]--The Right Stuff, Episode No. 159 [Air Date: 7/15/1985]</field>
+     <field name="unitdate_ssm">July 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2633</field>

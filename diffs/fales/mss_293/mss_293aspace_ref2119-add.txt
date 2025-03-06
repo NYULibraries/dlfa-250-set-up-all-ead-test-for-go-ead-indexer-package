@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">1975/1975</field>
+     <field name="unitdate_inclusive_teim">Oct 1975</field>
+     <field name="scopecontent_teim">Peter - Iman Verouchka</field>
+-    <field name="phystech_teim">Format: VHSTRT: [approx. 180 minutes]</field>
++    <field name="phystech_teim">Format: VHS TRT: [approx. 180 minutes]</field>
+     <field name="ref_ssi">aspace_ref2119</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

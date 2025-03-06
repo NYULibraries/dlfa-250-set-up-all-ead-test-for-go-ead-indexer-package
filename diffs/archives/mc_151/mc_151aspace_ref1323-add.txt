@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -14,7 +14,7 @@
+     <field name="collection_unitid_ssm">MC.151</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Chuck Ario-recorder June 17, 1965Recorder and vocal-Winter 1965Abby Weed Grey and Lois Brigham re: Turkish Collection release, 2/11/66, also Bryskin India showBrewster Ghesilin 2/13/66 from airportLois, Peg about 9/20/65 re need for arts festival in IranPierceSia calls about Parviz' letter</field>
+-    <field name="unittitle_teim">Chuck Ario-recorder June 17, 1965Recorder and vocal-Winter 1965Abby Weed Grey and Lois Brigham re: Turkish Collection release, 2/11/66, also Bryskin India showBrewster Ghesilin 2/13/66 from airportLois, Peg about 9/20/65 re need for arts festival in IranPierceSia calls about Parviz' letter</field>
++    <field name="unittitle_teim">Chuck Ario-recorder June 17, 1965 Recorder and vocal-Winter 1965 Abby Weed Grey and Lois Brigham re: Turkish Collection release, 2/11/66, also Bryskin India show Brewster Ghesilin 2/13/66 from airport Lois, Peg about 9/20/65 re need for arts festival in Iran Pierce Sia calls about Parviz' letter</field>
+     <field name="unitdate_normal_ssm">1965/1966</field>
+     <field name="unitdate_normal_teim">1965/1966</field>
+     <field name="unitdate_normal_sim">1965/1966</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_unitid_teim">MC.151</field>
+     <field name="series_sim">Series XVI: Audiovisual Materials</field>
+     <field name="series_si">Series XVI: Audiovisual Materials &gt;&gt; Chuck Ario-recorder June 17, 1965Recorder and vocal-Winter 1965Abby Weed Grey and Lois Brigham re: Turkish Collection release, 2/11/66, also Bryskin India showBrewster Ghesilin 2/13/66 from airportLois, Peg about 9/20/65 re need for arts festival in IranPierceSia calls about Parviz' letter</field>
+-    <field name="heading_ssm">Chuck Ario-recorder June 17, 1965Recorder and vocal-Winter 1965Abby Weed Grey and Lois Brigham re: Turkish Collection release, 2/11/66, also Bryskin India showBrewster Ghesilin 2/13/66 from airportLois, Peg about 9/20/65 re need for arts festival in IranPierceSia calls about Parviz' letter</field>
++    <field name="heading_ssm">Chuck Ario-recorder June 17, 1965 Recorder and vocal-Winter 1965 Abby Weed Grey and Lois Brigham re: Turkish Collection release, 2/11/66, also Bryskin India show Brewster Ghesilin 2/13/66 from airport Lois, Peg about 9/20/65 re need for arts festival in Iran Pierce Sia calls about Parviz' letter</field>
+     <field name="unitdate_start_sim">1965</field>
+     <field name="unitdate_start_ssm">1965</field>
+     <field name="unitdate_start_si">1965</field>

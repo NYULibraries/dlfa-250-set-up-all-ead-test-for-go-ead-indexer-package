@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152[Air Date: 5/28/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152[Air Date: 5/28/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152 [Air Date: 5/28/1985]</field>
+     <field name="unitid_teim">ID: 231.0634</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529359</field>
+     <field name="unitid_ssm">ID: 231.0634</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529359</field>
+     <field name="unitdate_teim">May 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Steve Endean returns to Gay Rights National Lobby2. United States Surgeon General orders all military personnel to take HTLVIII test3. Philadelphia funeral home refuses to handle deceased AIDS patient burialCOMMERCIAL: Brunch Buddies4. North Dakota gay bar bomb scare and increased patronage/support5. Dallas news6. Richard Gottlieb case7. Gay Pride Parade clip8. Bathhouse debate, includes clips of Dr. Steven Caiazza and Tom Stoddard9. AIDS and politics10. Ed Koch swears in Richard C. Failla, NYC's first openly gay criminal court judgeCOMMERCIAL: "New York Native" with Quentin Crisp11. Ed Koch spoke at gay synagogue12. Death of Bill OatesCOMMERCIAL: "The Connection," gay and lesbian newspaper13. Sports14. Healthline: Conversations with GMHC: Dr. Susan Trauss returns, discusses neurologic complications of AIDS15. Closing credits The Right Stuff:1. Media report/current events/culture, includes clips and Steve RubellCOMMERCIAL: "Manscape," a gay magazine2. Gay and Lesbian Press Association awards, includes clips from eventCOMMERCIAL: National Fund for Human Dignity with actor Jack Albertson3. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152[Air Date: 5/28/1985]: May 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152[Air Date: 5/28/1985]: May 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Steve Endean returns to Gay Rights National Lobby 2. United States Surgeon General orders all military personnel to take HTLVIII test 3. Philadelphia funeral home refuses to handle deceased AIDS patient burial COMMERCIAL: Brunch Buddies 4. North Dakota gay bar bomb scare and increased patronage/support 5. Dallas news 6. Richard Gottlieb case 7. Gay Pride Parade clip 8. Bathhouse debate, includes clips of Dr. Steven Caiazza and Tom Stoddard 9. AIDS and politics 10. Ed Koch swears in Richard C. Failla, NYC's first openly gay criminal court judge COMMERCIAL: "New York Native" with Quentin Crisp 11. Ed Koch spoke at gay synagogue 12. Death of Bill Oates COMMERCIAL: "The Connection," gay and lesbian newspaper 13. Sports 14. Healthline: Conversations with GMHC: Dr. Susan Trauss returns, discusses neurologic complications of AIDS 15. Closing credits The Right Stuff: 1. Media report/current events/culture, includes clips and Steve Rubell COMMERCIAL: "Manscape," a gay magazine 2. Gay and Lesbian Press Association awards, includes clips from event COMMERCIAL: National Fund for Human Dignity with actor Jack Albertson 3. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152 [Air Date: 5/28/1985]: May 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152 [Air Date: 5/28/1985]: May 1985</field>
+     <field name="ref_ssi">aspace_ref1440</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152[Air Date: 5/28/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152[Air Date: 5/28/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 35 [2]--The Right Stuff, Episode No. 152 [Air Date: 5/28/1985]</field>
+     <field name="unitdate_ssm">May 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2626</field>

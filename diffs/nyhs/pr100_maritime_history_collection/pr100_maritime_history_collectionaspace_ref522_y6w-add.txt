@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref439_dui</field>
+     <field name="parent_ssm">aspace_ref520_4zz</field>
+     <field name="parent_unittitles_ssm">Series II. Medium Format Flat Files</field>
+-    <field name="parent_unittitles_ssm">Subseries II.6: Clippings, Papers &amp; Ephemera</field>
++    <field name="parent_unittitles_ssm">Subseries II.6: Clippings, Papers &amp;amp; Ephemera</field>
+     <field name="parent_unittitles_teim">Series II. Medium Format Flat Files</field>
+-    <field name="parent_unittitles_teim">Subseries II.6: Clippings, Papers &amp; Ephemera</field>
++    <field name="parent_unittitles_teim">Subseries II.6: Clippings, Papers &amp;amp; Ephemera</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Maritime History Collection</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">Maritime History Collection</field>
+     <field name="collection_unitid_teim">PR 100</field>
+     <field name="series_sim">Series II. Medium Format Flat Files</field>
+-    <field name="series_sim">Subseries II.6: Clippings, Papers &amp; Ephemera</field>
++    <field name="series_sim">Subseries II.6: Clippings, Papers &amp;amp; Ephemera</field>
+     <field name="series_si">Series II. Medium Format Flat Files &gt;&gt; Subseries II.6: Clippings, Papers &amp; Ephemera &gt;&gt; Theatrical Productions</field>
+     <field name="heading_ssm">Theatrical Productions</field>
+     <field name="date_range_sim">undated &amp; other</field>

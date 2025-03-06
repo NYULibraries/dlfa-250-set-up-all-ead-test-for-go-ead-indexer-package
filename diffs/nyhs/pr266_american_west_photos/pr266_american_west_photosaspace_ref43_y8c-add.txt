@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 266</field>
+     <field name="level_sim">otherlevel</field>
+     <field name="unittitle_ssm">Utah &lt;em&gt;1062. The Book Cliffs Near Green River, Utah.&lt;/em&gt;&lt;em&gt;1160. Castle Gate.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Utah 1062. The Book Cliffs Near Green River, Utah.1160. Castle Gate.</field>
++    <field name="unittitle_teim">Utah 1062. The Book Cliffs Near Green River, Utah. 1160. Castle Gate.</field>
+     <field name="title_teim">1062. The Book Cliffs Near Green River, Utah.</field>
+     <field name="title_teim">1160. Castle Gate.</field>
+     <field name="title_ssm">1062. The Book Cliffs Near Green River, Utah.</field>
+@@ -35,7 +35,7 @@
+     <field name="series_sim">Series III. 16 x 20 inches</field>
+     <field name="series_sim">WILLIAM HENRY JACKSON</field>
+     <field name="series_si">Series III. 16 x 20 inches &gt;&gt; WILLIAM HENRY JACKSON &gt;&gt; Utah &lt;em&gt;1062. The Book Cliffs Near Green River, Utah.&lt;/em&gt;&lt;em&gt;1160. Castle Gate.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Utah 1062. The Book Cliffs Near Green River, Utah.1160. Castle Gate.</field>
++    <field name="heading_ssm">Utah 1062. The Book Cliffs Near Green River, Utah. 1160. Castle Gate.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">31</field>
+   </doc>

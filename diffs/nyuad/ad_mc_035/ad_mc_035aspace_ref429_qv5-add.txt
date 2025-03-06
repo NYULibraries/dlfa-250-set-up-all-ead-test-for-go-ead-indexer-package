@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref1_59f</field>
+     <field name="parent_ssm">aspace_ref1492_1wx</field>
+     <field name="parent_unittitles_ssm">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="parent_unittitles_ssm">Joseph Nazareth &amp; the Calypso Kids</field>
++    <field name="parent_unittitles_ssm">Joseph Nazareth &amp;amp; the Calypso Kids</field>
+     <field name="parent_unittitles_teim">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="parent_unittitles_teim">Joseph Nazareth &amp; the Calypso Kids</field>
++    <field name="parent_unittitles_teim">Joseph Nazareth &amp;amp; the Calypso Kids</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Andrew Eisenberg collection of East African commercial sound recordings</field>
+@@ -36,7 +36,7 @@
+     <field name="collection_teim">Andrew Eisenberg collection of East African commercial sound recordings</field>
+     <field name="collection_unitid_teim">AD.MC.035</field>
+     <field name="series_sim">Series I: Private collector (anonymous) - 78's</field>
+-    <field name="series_sim">Joseph Nazareth &amp; the Calypso Kids</field>
++    <field name="series_sim">Joseph Nazareth &amp;amp; the Calypso Kids</field>
+     <field name="series_si">Series I: Private collector (anonymous) - 78's &gt;&gt; Joseph Nazareth &amp; the Calypso Kids &gt;&gt; Joseph Nazareth &amp; The Calypso Kids: Mji Mombasa</field>
+     <field name="heading_ssm">Joseph Nazareth &amp; The Calypso Kids: Mji Mombasa</field>
+     <field name="unitdate_ssm">N/A</field>

@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref160</field>
+     <field name="parent_unittitles_ssm">Series II: Union Democracy Cases</field>
+     <field name="parent_unittitles_ssm">Subseries B: Construction</field>
+-    <field name="parent_unittitles_ssm">United Association of Journeymen &amp; Apprentices of the Plumbing &amp; Pipe Fitting Industry</field>
++    <field name="parent_unittitles_ssm">United Association of Journeymen &amp;amp; Apprentices of the Plumbing &amp;amp; Pipe Fitting Industry</field>
+     <field name="parent_unittitles_teim">Series II: Union Democracy Cases</field>
+     <field name="parent_unittitles_teim">Subseries B: Construction</field>
+-    <field name="parent_unittitles_teim">United Association of Journeymen &amp; Apprentices of the Plumbing &amp; Pipe Fitting Industry</field>
++    <field name="parent_unittitles_teim">United Association of Journeymen &amp;amp; Apprentices of the Plumbing &amp;amp; Pipe Fitting Industry</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Burton Hall Papers</field>
+@@ -37,7 +37,7 @@
+     <field name="collection_unitid_teim">WAG.087</field>
+     <field name="series_sim">Series II: Union Democracy Cases</field>
+     <field name="series_sim">Subseries B: Construction</field>
+-    <field name="series_sim">United Association of Journeymen &amp; Apprentices of the Plumbing &amp; Pipe Fitting Industry</field>
++    <field name="series_sim">United Association of Journeymen &amp;amp; Apprentices of the Plumbing &amp;amp; Pipe Fitting Industry</field>
+     <field name="series_si">Series II: Union Democracy Cases &gt;&gt; Subseries B: Construction &gt;&gt; United Association of Journeymen &amp; Apprentices of the Plumbing &amp; Pipe Fitting Industry &gt;&gt; United Association, Local 696</field>
+     <field name="heading_ssm">United Association, Local 696</field>
+     <field name="unitdate_start_sim">1960</field>

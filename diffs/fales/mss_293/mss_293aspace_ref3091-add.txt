@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">A concert performance of Polish music and Ukrainian dance in Farmingdale, New York.</field>
+     <field name="scopecontent_teim">Sonya</field>
+-    <field name="phystech_teim">Format: DVDColor/SoundTRT: 00:40:05Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">Format: DVD Color/Sound TRT: 00:40:05 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3091</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

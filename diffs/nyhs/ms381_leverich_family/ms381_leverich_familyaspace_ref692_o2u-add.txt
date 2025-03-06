@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref336_3oc</field>
+     <field name="parent_ssm">aspace_ref691_mcd</field>
+     <field name="parent_unittitles_ssm">Series II. Business/Financial Papers</field>
+-    <field name="parent_unittitles_ssm">Subseries 7: Scrap &amp; Fragments</field>
++    <field name="parent_unittitles_ssm">Subseries 7: Scrap &amp;amp; Fragments</field>
+     <field name="parent_unittitles_teim">Series II. Business/Financial Papers</field>
+-    <field name="parent_unittitles_teim">Subseries 7: Scrap &amp; Fragments</field>
++    <field name="parent_unittitles_teim">Subseries 7: Scrap &amp;amp; Fragments</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Leverich family papers</field>
+@@ -33,7 +33,7 @@
+     <field name="collection_teim">Leverich family papers</field>
+     <field name="collection_unitid_teim">MS 381</field>
+     <field name="series_sim">Series II. Business/Financial Papers</field>
+-    <field name="series_sim">Subseries 7: Scrap &amp; Fragments</field>
++    <field name="series_sim">Subseries 7: Scrap &amp;amp; Fragments</field>
+     <field name="series_si">Series II. Business/Financial Papers &gt;&gt; Subseries 7: Scrap &amp; Fragments &gt;&gt; Business Scrap</field>
+     <field name="heading_ssm">Business Scrap</field>
+     <field name="unitdate_start_sim">1870</field>

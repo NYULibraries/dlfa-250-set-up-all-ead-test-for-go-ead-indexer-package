@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref539</field>
+     <field name="parent_ssm">aspace_ref537</field>
+     <field name="parent_ssm">aspace_ref539</field>
+-    <field name="parent_unittitles_ssm">Series V. Durkan: Personal Files and Research, Written Work &amp; Materials of Interest</field>
++    <field name="parent_unittitles_ssm">Series V. Durkan: Personal Files and Research, Written Work &amp;amp; Materials of Interest</field>
+     <field name="parent_unittitles_ssm">Subseries A. Correspondence, Subject Files and Writings</field>
+-    <field name="parent_unittitles_teim">Series V. Durkan: Personal Files and Research, Written Work &amp; Materials of Interest</field>
++    <field name="parent_unittitles_teim">Series V. Durkan: Personal Files and Research, Written Work &amp;amp; Materials of Interest</field>
+     <field name="parent_unittitles_teim">Subseries A. Correspondence, Subject Files and Writings</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -32,7 +32,7 @@
+     <field name="location_si">Box: 22, Folder: 14</field>
+     <field name="collection_teim">Frank Durkan Papers</field>
+     <field name="collection_unitid_teim">AIA.008</field>
+-    <field name="series_sim">Series V. Durkan: Personal Files and Research, Written Work &amp; Materials of Interest</field>
++    <field name="series_sim">Series V. Durkan: Personal Files and Research, Written Work &amp;amp; Materials of Interest</field>
+     <field name="series_sim">Subseries A. Correspondence, Subject Files and Writings</field>
+     <field name="series_si">Series V. Durkan: Personal Files and Research, Written Work &amp; Materials of Interest &gt;&gt; Subseries A. Correspondence, Subject Files and Writings &gt;&gt; Famine Pot</field>
+     <field name="heading_ssm">Famine Pot</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/550207</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">[Africa]</field>
+-    <field name="phystech_teim">Gauge: 16mmFootage: 462 ft 6 inDual bilateral variable area sound.</field>
++    <field name="phystech_teim">Gauge: 16mm Footage: 462 ft 6 in Dual bilateral variable area sound.</field>
+     <field name="ref_ssi">aspace_ref3789</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

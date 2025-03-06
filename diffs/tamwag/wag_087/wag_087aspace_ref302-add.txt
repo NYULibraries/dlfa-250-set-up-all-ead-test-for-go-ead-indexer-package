@@ -1,0 +1,25 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -9,10 +9,10 @@
+     <field name="parent_ssm">aspace_ref168</field>
+     <field name="parent_unittitles_ssm">Series II: Union Democracy Cases</field>
+     <field name="parent_unittitles_ssm">Subseries B: Construction</field>
+-    <field name="parent_unittitles_ssm">International Brotherhood of Painters &amp; Allied Trades (IBPAT)</field>
++    <field name="parent_unittitles_ssm">International Brotherhood of Painters &amp;amp; Allied Trades (IBPAT)</field>
+     <field name="parent_unittitles_teim">Series II: Union Democracy Cases</field>
+     <field name="parent_unittitles_teim">Subseries B: Construction</field>
+-    <field name="parent_unittitles_teim">International Brotherhood of Painters &amp; Allied Trades (IBPAT)</field>
++    <field name="parent_unittitles_teim">International Brotherhood of Painters &amp;amp; Allied Trades (IBPAT)</field>
+     <field name="component_level_isim">4</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Burton Hall Papers</field>
+@@ -37,7 +37,7 @@
+     <field name="collection_unitid_teim">WAG.087</field>
+     <field name="series_sim">Series II: Union Democracy Cases</field>
+     <field name="series_sim">Subseries B: Construction</field>
+-    <field name="series_sim">International Brotherhood of Painters &amp; Allied Trades (IBPAT)</field>
++    <field name="series_sim">International Brotherhood of Painters &amp;amp; Allied Trades (IBPAT)</field>
+     <field name="series_si">Series II: Union Democracy Cases &gt;&gt; Subseries B: Construction &gt;&gt; International Brotherhood of Painters &amp; Allied Trades (IBPAT) &gt;&gt; Index; Complaint; Motion for Order to Show Cause; Affidavit, F. Schonfeld, Oct 6, 1962</field>
+     <field name="heading_ssm">Index; Complaint; Motion for Order to Show Cause; Affidavit, F. Schonfeld, Oct 6, 1962</field>
+     <field name="unitdate_start_sim">1962</field>

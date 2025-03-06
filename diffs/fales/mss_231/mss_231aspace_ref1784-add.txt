@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff[Air Date: unknown]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff[Air Date: unknown]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff [Air Date: unknown]</field>
+     <field name="unitid_teim">ID: 231.0745</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529470</field>
+     <field name="unitid_ssm">ID: 231.0745</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529470</field>
+     <field name="unitdate_teim">circa 1987</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Gay Week in Review, with Andy Humm, Jim Levin, and David Strah, sponsored by the Human Rights Campaign Fund2. Discussion of Ed Koch's decision to honor anti-gay bishop, Francis Mugavero, despite Brooklyn College refusing to honor the bishop, including clips of Koch defending his decisionCOMMERCIAL: GCN Fundraiser3. Discussion of love lives in the age of AIDS, and changes to sexual behavior of the communityCOMMERCIAL: Human Rights Campaign Fund4. Andy Humm on coming out5. News Watch, study by Johns Hopkins of 5000 homosexual men finds sexual activities and lifestyles changing, including increases in celibacy, condom usage, and monogamous relationships, also finds a decrease in sexual partners6. 12 remaining Los Angeles bathhouses required to follow new safe-sex guidelines that prohibit certain activities such as anal sex without a condom, and anonymous group sex, while sponsoring AIDS education7. Florida boy committed by a judge to a psychiatric ward because he was HIV positive and remained sexually active8. Homosexual man fired from the National Security Assosciation for being "psychologically unstable" wins the right to a trialCOMMERCIAL: "First Hand" gay magazine9. Sports Report, clips from a spoof exercise video starring Ferdinand Marcos and other dictators10. Lavender Health, interview with Cook Friedman, director of the group Education in a Disabled Gay Environment11. Closing credits The Right Stuff:1. Naming Names, criticism of Steven Weinstock, producer of WNET television program "Currents"COMMERCIAL: The Monster2. Show Bits with George Trahanis, review of Alan Bowne's play, "Beirut"COMMERCIAL: "Take a Ferry on the Fourth" event3. Media Watch with Brandon Judell, interview with the stars of "Beirut," Michael David Morrison and Laura San Giacomo4. Rebroadcast of Episode 9 of GCN's soap opera, "Suds": "Hair Today, Gone Tomorrow"5. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff[Air Date: unknown]: circa 1987</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff[Air Date: unknown]: circa 1987</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Gay Week in Review, with Andy Humm, Jim Levin, and David Strah, sponsored by the Human Rights Campaign Fund 2. Discussion of Ed Koch's decision to honor anti-gay bishop, Francis Mugavero, despite Brooklyn College refusing to honor the bishop, including clips of Koch defending his decision COMMERCIAL: GCN Fundraiser 3. Discussion of love lives in the age of AIDS, and changes to sexual behavior of the community COMMERCIAL: Human Rights Campaign Fund 4. Andy Humm on coming out 5. News Watch, study by Johns Hopkins of 5000 homosexual men finds sexual activities and lifestyles changing, including increases in celibacy, condom usage, and monogamous relationships, also finds a decrease in sexual partners 6. 12 remaining Los Angeles bathhouses required to follow new safe-sex guidelines that prohibit certain activities such as anal sex without a condom, and anonymous group sex, while sponsoring AIDS education 7. Florida boy committed by a judge to a psychiatric ward because he was HIV positive and remained sexually active 8. Homosexual man fired from the National Security Assosciation for being "psychologically unstable" wins the right to a trial COMMERCIAL: "First Hand" gay magazine 9. Sports Report, clips from a spoof exercise video starring Ferdinand Marcos and other dictators 10. Lavender Health, interview with Cook Friedman, director of the group Education in a Disabled Gay Environment 11. Closing credits The Right Stuff: 1. Naming Names, criticism of Steven Weinstock, producer of WNET television program "Currents" COMMERCIAL: The Monster 2. Show Bits with George Trahanis, review of Alan Bowne's play, "Beirut" COMMERCIAL: "Take a Ferry on the Fourth" event 3. Media Watch with Brandon Judell, interview with the stars of "Beirut," Michael David Morrison and Laura San Giacomo 4. Rebroadcast of Episode 9 of GCN's soap opera, "Suds": "Hair Today, Gone Tomorrow" 5. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff [Air Date: unknown]: circa 1987</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff [Air Date: unknown]: circa 1987</field>
+     <field name="ref_ssi">aspace_ref1784</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1987</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff[Air Date: unknown]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff[Air Date: unknown]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 27 [2]--The Right Stuff [Air Date: unknown]</field>
+     <field name="unitdate_ssm">circa 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2737</field>

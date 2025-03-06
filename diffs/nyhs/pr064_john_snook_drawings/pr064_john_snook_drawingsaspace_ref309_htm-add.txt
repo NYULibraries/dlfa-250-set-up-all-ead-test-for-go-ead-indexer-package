@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref296_9l9</field>
+     <field name="parent_ssm">aspace_ref308_yvq</field>
+     <field name="parent_unittitles_ssm">Series II: Financial Records</field>
+-    <field name="parent_unittitles_ssm">RECEIPTS &amp; EXPENDITURES</field>
++    <field name="parent_unittitles_ssm">RECEIPTS &amp;amp; EXPENDITURES</field>
+     <field name="parent_unittitles_teim">Series II: Financial Records</field>
+-    <field name="parent_unittitles_teim">RECEIPTS &amp; EXPENDITURES</field>
++    <field name="parent_unittitles_teim">RECEIPTS &amp;amp; EXPENDITURES</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John B. Snook architectural records collection</field>
+@@ -29,7 +29,7 @@
+     <field name="collection_teim">John B. Snook architectural records collection</field>
+     <field name="collection_unitid_teim">PR 64</field>
+     <field name="series_sim">Series II: Financial Records</field>
+-    <field name="series_sim">RECEIPTS &amp; EXPENDITURES</field>
++    <field name="series_sim">RECEIPTS &amp;amp; EXPENDITURES</field>
+     <field name="series_si">Series II: Financial Records &gt;&gt; RECEIPTS &amp; EXPENDITURES &gt;&gt; John B. Snook &amp; Sons 1865 July 6 - 1866 October 31 1866 November 1 - 1868 July 31 1868 October 1 - 1870 December 31 1871 January 3 - 1873 September 30 1873 October 1 - 1876 July 27 1876 August 1 - 1879 April 26 1879 May 1 - 1881 December 31 1882 January 3 - 1884 April 30 1884 May 1 - 1885 October 1 1885 October 1 - 1888 August 1</field>
+     <field name="heading_ssm">John B. Snook &amp; Sons 1865 July 6 - 1866 October 31 1866 November 1 - 1868 July 31 1868 October 1 - 1870 December 31 1871 January 3 - 1873 September 30 1873 October 1 - 1876 July 27 1876 August 1 - 1879 April 26 1879 May 1 - 1881 December 31 1882 January 3 - 1884 April 30 1884 May 1 - 1885 October 1 1885 October 1 - 1888 August 1</field>
+     <field name="date_range_sim">undated &amp; other</field>

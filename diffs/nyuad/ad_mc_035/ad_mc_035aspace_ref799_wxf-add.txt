@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref57_9mk</field>
+     <field name="parent_ssm">aspace_ref1506_9vj</field>
+     <field name="parent_unittitles_ssm">Series II: Jamal Hafidh Jahadhmy collection</field>
+-    <field name="parent_unittitles_ssm">Ramadhan &amp; Subeit bin Ambar</field>
++    <field name="parent_unittitles_ssm">Ramadhan &amp;amp; Subeit bin Ambar</field>
+     <field name="parent_unittitles_teim">Series II: Jamal Hafidh Jahadhmy collection</field>
+-    <field name="parent_unittitles_teim">Ramadhan &amp; Subeit bin Ambar</field>
++    <field name="parent_unittitles_teim">Ramadhan &amp;amp; Subeit bin Ambar</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Andrew Eisenberg collection of East African commercial sound recordings</field>
+@@ -34,7 +34,7 @@
+     <field name="collection_teim">Andrew Eisenberg collection of East African commercial sound recordings</field>
+     <field name="collection_unitid_teim">AD.MC.035</field>
+     <field name="series_sim">Series II: Jamal Hafidh Jahadhmy collection</field>
+-    <field name="series_sim">Ramadhan &amp; Subeit bin Ambar</field>
++    <field name="series_sim">Ramadhan &amp;amp; Subeit bin Ambar</field>
+     <field name="series_si">Series II: Jamal Hafidh Jahadhmy collection &gt;&gt; Ramadhan &amp; Subeit bin Ambar &gt;&gt; Ramadhan and Subeit bin Ambar: Taksim Nahwandi - wimbo wa vinanda viwili</field>
+     <field name="heading_ssm">Ramadhan and Subeit bin Ambar: Taksim Nahwandi - wimbo wa vinanda viwili</field>
+     <field name="unitdate_start_sim">1929</field>

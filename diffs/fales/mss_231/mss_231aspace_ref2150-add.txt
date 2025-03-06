@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 231.0907</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529638</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">The Right Stuff, San Francisco1.Performance by Sybil Opthalmia BruncheonCOMMERCIAL:Casio Pocket TV2.Brandon Judell interviews Bill Sherwood, director of "Parting Glances" and shows footage from the filmCOMMERCIAL:Mastertouch3.The Right Stuff, introduction by Phillip R. Ford4.Back and Forth, with Constance Crabtree and Sandal Hebert5.Tippi, GCN Weather PersonalityCOMMERCIAL:Gay Line6.That's San Francisco, With Phillip R. FordCOMMERCIAL:976-SUCKCOMMERCIAL:Mastertouch7.Footage of Tom Ammiano at the 181 Club8.Closing Credits</field>
++    <field name="scopecontent_teim">The Right Stuff, San Francisco 1.Performance by Sybil Opthalmia Bruncheon COMMERCIAL:Casio Pocket TV 2.Brandon Judell interviews Bill Sherwood, director of "Parting Glances" and shows footage from the film COMMERCIAL:Mastertouch 3.The Right Stuff, introduction by Phillip R. Ford 4.Back and Forth, with Constance Crabtree and Sandal Hebert 5.Tippi, GCN Weather Personality COMMERCIAL:Gay Line 6.That's San Francisco, With Phillip R. Ford COMMERCIAL:976-SUCK COMMERCIAL:Mastertouch 7.Footage of Tom Ammiano at the 181 Club 8.Closing Credits</field>
+     <field name="phystech_teim">Duration: [unknown]</field>
+     <field name="phystech_teim">Original Format: 3/4 in. Umatic</field>
+     <field name="phystech_teim">Program content: Tom Ammiano (181 Club) 1:26</field>

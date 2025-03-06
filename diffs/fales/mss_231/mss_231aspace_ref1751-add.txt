@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff[Air Date: 5/15/1987]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff[Air Date: 5/15/1987]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff [Air Date: 5/15/1987]</field>
+     <field name="unitid_teim">ID: 231.0739</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529464</field>
+     <field name="unitid_ssm">ID: 231.0739</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529464</field>
+     <field name="unitdate_teim">May 1987</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Gay Week in Review, with Andy Humm, David Strah, Phil Reed, and Jim Levin, sponsored by the Human Rights Campaign Fund2. "Condom Consciousness Day" at NYU, distribution of condoms3. President Reagan and his non-stance on AIDS testing, and public policyCOMMERCIAL: GCN Fundraiser4. Discussion of politicians in-the-running for the Democratic nomination and their pro or anti-gay stanceCOMMERCIAL: Human Rights Campaign Fund5. News Watch, AIDS drug, DDC, enters preliminary human testing6. Record book of 500 people tested for the HIV virus has been stolen, presumably by blackmailers7. Alliance for Gay and Lesbian Artists closes its offices and lays off its staff8. Coverage and clips from NYC's "Stamp Out AIDS Day"9. Sports ReportCOMMERCIAL: "First Hand" gay magazine10. Lavender Health, interview with Donna Futterman, pediatrician and co-author of a lesbian parenting book11. Closing credits The Right Stuff:1. Show Bits with George Trahanis, review of "Waving Goodbye"COMMERCIAL: "Manscape" gay magazine2. Naming Names, criticism of Jerry FalwellCOMMERCIAL: The Monster3. South Padre Island, Texas, gay resort location Lyle's Deck4. Episode 8 of GCN's soap opera, "Suds": "Fit for a Queen"5. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff[Air Date: 5/15/1987]: May 1987</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff[Air Date: 5/15/1987]: May 1987</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Gay Week in Review, with Andy Humm, David Strah, Phil Reed, and Jim Levin, sponsored by the Human Rights Campaign Fund 2. "Condom Consciousness Day" at NYU, distribution of condoms 3. President Reagan and his non-stance on AIDS testing, and public policy COMMERCIAL: GCN Fundraiser 4. Discussion of politicians in-the-running for the Democratic nomination and their pro or anti-gay stance COMMERCIAL: Human Rights Campaign Fund 5. News Watch, AIDS drug, DDC, enters preliminary human testing 6. Record book of 500 people tested for the HIV virus has been stolen, presumably by blackmailers 7. Alliance for Gay and Lesbian Artists closes its offices and lays off its staff 8. Coverage and clips from NYC's "Stamp Out AIDS Day" 9. Sports Report COMMERCIAL: "First Hand" gay magazine 10. Lavender Health, interview with Donna Futterman, pediatrician and co-author of a lesbian parenting book 11. Closing credits The Right Stuff: 1. Show Bits with George Trahanis, review of "Waving Goodbye" COMMERCIAL: "Manscape" gay magazine 2. Naming Names, criticism of Jerry Falwell COMMERCIAL: The Monster 3. South Padre Island, Texas, gay resort location Lyle's Deck 4. Episode 8 of GCN's soap opera, "Suds": "Fit for a Queen" 5. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff [Air Date: 5/15/1987]: May 1987</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff [Air Date: 5/15/1987]: May 1987</field>
+     <field name="ref_ssi">aspace_ref1751</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1987</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff[Air Date: 5/15/1987]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff[Air Date: 5/15/1987]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 21 [2]--The Right Stuff [Air Date: 5/15/1987]</field>
+     <field name="unitdate_ssm">May 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2731</field>

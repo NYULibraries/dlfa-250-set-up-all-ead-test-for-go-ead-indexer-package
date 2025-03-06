@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref8_ozd</field>
+     <field name="parent_ssm">aspace_ref631_c2v</field>
+     <field name="parent_unittitles_ssm">Series VIII. Department of Prints, Photographs and Architecture (PPAC, a/k/a Print Room)</field>
+-    <field name="parent_unittitles_ssm">Subseries VIII.A. Curatorial &amp; Administrative Files</field>
++    <field name="parent_unittitles_ssm">Subseries VIII.A. Curatorial &amp;amp; Administrative Files</field>
+     <field name="parent_unittitles_teim">Series VIII. Department of Prints, Photographs and Architecture (PPAC, a/k/a Print Room)</field>
+-    <field name="parent_unittitles_teim">Subseries VIII.A. Curatorial &amp; Administrative Files</field>
++    <field name="parent_unittitles_teim">Subseries VIII.A. Curatorial &amp;amp; Administrative Files</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New-York Historical Society Library Department records</field>
+@@ -31,7 +31,7 @@
+     <field name="collection_teim">New-York Historical Society Library Department records</field>
+     <field name="collection_unitid_teim">NYHS-RG 21</field>
+     <field name="series_sim">Series VIII. Department of Prints, Photographs and Architecture (PPAC, a/k/a Print Room)</field>
+-    <field name="series_sim">Subseries VIII.A. Curatorial &amp; Administrative Files</field>
++    <field name="series_sim">Subseries VIII.A. Curatorial &amp;amp; Administrative Files</field>
+     <field name="series_si">Series VIII. Department of Prints, Photographs and Architecture (PPAC, a/k/a Print Room) &gt;&gt; Subseries VIII.A. Curatorial &amp; Administrative Files &gt;&gt; Dale Neighbors Files. Oversize</field>
+     <field name="heading_ssm">Dale Neighbors Files. Oversize</field>
+     <field name="unitdate_ssm">1990</field>

@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_073</field>
+     <field name="parent_ssi">aspace_ref30</field>
+     <field name="parent_ssm">aspace_ref30</field>
+-    <field name="parent_unittitles_ssm">Series II: Speeches &amp; Writings</field>
+-    <field name="parent_unittitles_teim">Series II: Speeches &amp; Writings</field>
++    <field name="parent_unittitles_ssm">Series II: Speeches &amp;amp; Writings</field>
++    <field name="parent_unittitles_teim">Series II: Speeches &amp;amp; Writings</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Peter V. Cacchione Papers</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">Box: 2, Folder: 7</field>
+     <field name="collection_teim">Peter V. Cacchione Papers</field>
+     <field name="collection_unitid_teim">TAM.073</field>
+-    <field name="series_sim">Series II: Speeches &amp; Writings</field>
++    <field name="series_sim">Series II: Speeches &amp;amp; Writings</field>
+     <field name="series_si">Series II: Speeches &amp; Writings &gt;&gt; "What is Public Speaking?" (typescript, approx 170 p.)</field>
+     <field name="heading_ssm">"What is Public Speaking?" (typescript, approx 170 p.)</field>
+     <field name="unitdate_start_sim">1936</field>

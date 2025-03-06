@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173[Air Date: 12/3/1985]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173[Air Date: 12/3/1985]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173 [Air Date: 12/3/1985]</field>
+     <field name="unitid_teim">ID: 231.0661</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529386</field>
+     <field name="unitid_ssm">ID: 231.0661</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529386</field>
+     <field name="unitdate_teim">December 1985</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. The American Federation of Labor CIO speaks in favor of gay rights2. Vermont gay rights victory3. David Axelrod, New York State Health Commissioner guest speaker at gay and lesbian synagogueCOMMERCIAL: National Fund for Human Dignity4. District of Columbia reinstates revenue bonds to anti-gay Georgetown University5. Dallas, Texas gay activist refuses sodomy statute oathCOMMERCIAL: Orientation '85, funded by The National Gay Task Force6. AIDS hysteria, Potential bill criminalizes AIDS transmission7. People's Republic of China protest against AIDS with travel restrictions and blood tests8. Wayne Steinman, Civil Liberties Crisis Coalition, discusses AIDS hysteriaCOMMERCIAL: "New York Native" with Quentin Crisp9. Sports, interview with Leslie Randolph, Ramblers10. Healthline: Conversations with GMHC: Fran Peltz, Group Leader of Care Partners, discusses AIDS support11. Closing credits The Right Stuff:1. Sybil Bruncheon at Halloween celebration, Christopher StreetCOMMERCIAL: AIDS hotline, New York AIDS Action2. Sybil Bruncheon and Bill Baumer Halloween coverageCOMMERCIAL: The Monster3. Cabaret Beat, includes Hal and David clip4. Women Identified: Connie Kurtz, peer councilor, and Ruth Burman, mental health councilor, discuss the coming out process</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173[Air Date: 12/3/1985]: December 1985</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173[Air Date: 12/3/1985]: December 1985</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. The American Federation of Labor CIO speaks in favor of gay rights 2. Vermont gay rights victory 3. David Axelrod, New York State Health Commissioner guest speaker at gay and lesbian synagogue COMMERCIAL: National Fund for Human Dignity 4. District of Columbia reinstates revenue bonds to anti-gay Georgetown University 5. Dallas, Texas gay activist refuses sodomy statute oath COMMERCIAL: Orientation '85, funded by The National Gay Task Force 6. AIDS hysteria, Potential bill criminalizes AIDS transmission 7. People's Republic of China protest against AIDS with travel restrictions and blood tests 8. Wayne Steinman, Civil Liberties Crisis Coalition, discusses AIDS hysteria COMMERCIAL: "New York Native" with Quentin Crisp 9. Sports, interview with Leslie Randolph, Ramblers 10. Healthline: Conversations with GMHC: Fran Peltz, Group Leader of Care Partners, discusses AIDS support 11. Closing credits The Right Stuff: 1. Sybil Bruncheon at Halloween celebration, Christopher Street COMMERCIAL: AIDS hotline, New York AIDS Action 2. Sybil Bruncheon and Bill Baumer Halloween coverage COMMERCIAL: The Monster 3. Cabaret Beat, includes Hal and David clip 4. Women Identified: Connie Kurtz, peer councilor, and Ruth Burman, mental health councilor, discuss the coming out process</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173 [Air Date: 12/3/1985]: December 1985</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173 [Air Date: 12/3/1985]: December 1985</field>
+     <field name="ref_ssi">aspace_ref1521</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1985</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1985 &gt;&gt; [1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173[Air Date: 12/3/1985]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173[Air Date: 12/3/1985]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 62 [2]--The Right Stuff, Episode No. 173 [Air Date: 12/3/1985]</field>
+     <field name="unitdate_ssm">December 1985</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2653</field>

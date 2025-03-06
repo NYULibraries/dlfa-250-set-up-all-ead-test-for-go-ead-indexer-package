@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff[Air Date: 9/15/1987]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff[Air Date: 9/15/1987]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff [Air Date: 9/15/1987]</field>
+     <field name="unitid_teim">ID: 231.0755</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529480</field>
+     <field name="unitid_ssm">ID: 231.0755</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529480</field>
+     <field name="unitdate_teim">September 1987</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Gay Week in Review, with Andy Humm, Jim Levin, Joyce Hunter, Eleanor Cooper, and guest Tom Duane, Chelsa Democratic District Leader, sponsored by the Human Rights Campaign Fund2. Footage and rememberance of civil rights and gay activist, Bayard Rustin3.Discussion and criticism of the Regan AIDS Commission4.Discussion about an incident in Florida where a house was burned because three HIV positive children lived thereCOMMERCIAL:San Francisco AIDS Foundation5. Discussion about housing rights for surviving partners of AIDS victimsCOMMERCIAL: Human Rights Campaign Fund6.Further discussion about Bayard Rustin7.Discussion about the October 11th March on Washington8.News Watch, Soviet Union tests people suspected of having HIV9.Rosemary Denman, Methodist minister, was suspended by ministry for being openly gay10.STD Clinic in Seattle Washington makes a greeting card/gift certificate for an AIDS Test11.NY Gay Community Center sponsors its first orientation12.GCN Sports, Footage of gymnasts Scott Johnson, Tim Daggett, and Casimiro Suarez13.Lavender Health, Interview with Richard Heyl from Orientation NYC14.Closing credits The Right Stuff:1.Show Bitz, Review of the cabaret show, Phillip OfficerCOMMERCIAL:Gay Treasures2.Naming Names, criticism of "Associated Press" obituary for Bayard Rustin for the omission of his gay civil rights workCOMMERCIAL:The Islanders Club3.John Dietrich, from The Islanders Club, talks about the upcoming cruiseCOMMERCIAL:The Monster4.Media Watch, Interview with Leonard J. Martelli and Bill Messina, authors of "When Someone You Know Has AIDS"</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff[Air Date: 9/15/1987]: September 1987</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff[Air Date: 9/15/1987]: September 1987</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Gay Week in Review, with Andy Humm, Jim Levin, Joyce Hunter, Eleanor Cooper, and guest Tom Duane, Chelsa Democratic District Leader, sponsored by the Human Rights Campaign Fund 2. Footage and rememberance of civil rights and gay activist, Bayard Rustin 3.Discussion and criticism of the Regan AIDS Commission 4.Discussion about an incident in Florida where a house was burned because three HIV positive children lived there COMMERCIAL:San Francisco AIDS Foundation 5. Discussion about housing rights for surviving partners of AIDS victims COMMERCIAL: Human Rights Campaign Fund 6.Further discussion about Bayard Rustin 7.Discussion about the October 11th March on Washington 8.News Watch, Soviet Union tests people suspected of having HIV 9.Rosemary Denman, Methodist minister, was suspended by ministry for being openly gay 10.STD Clinic in Seattle Washington makes a greeting card/gift certificate for an AIDS Test 11.NY Gay Community Center sponsors its first orientation 12.GCN Sports, Footage of gymnasts Scott Johnson, Tim Daggett, and Casimiro Suarez 13.Lavender Health, Interview with Richard Heyl from Orientation NYC 14.Closing credits The Right Stuff: 1.Show Bitz, Review of the cabaret show, Phillip Officer COMMERCIAL:Gay Treasures 2.Naming Names, criticism of "Associated Press" obituary for Bayard Rustin for the omission of his gay civil rights work COMMERCIAL:The Islanders Club 3.John Dietrich, from The Islanders Club, talks about the upcoming cruise COMMERCIAL:The Monster 4.Media Watch, Interview with Leonard J. Martelli and Bill Messina, authors of "When Someone You Know Has AIDS"</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff [Air Date: 9/15/1987]: September 1987</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff [Air Date: 9/15/1987]: September 1987</field>
+     <field name="ref_ssi">aspace_ref1814</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1987</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff[Air Date: 9/15/1987]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff[Air Date: 9/15/1987]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 37 [2]--The Right Stuff [Air Date: 9/15/1987]</field>
+     <field name="unitdate_ssm">September 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2747</field>

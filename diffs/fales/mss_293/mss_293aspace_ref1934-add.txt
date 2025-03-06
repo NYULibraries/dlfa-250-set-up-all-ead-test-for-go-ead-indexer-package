@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">1972/1972</field>
+     <field name="unitdate_inclusive_teim">1972</field>
+     <field name="scopecontent_teim">Hampton Vaudeville</field>
+-    <field name="phystech_teim">Format: VHSTRT: [approx. 120 minutes]</field>
++    <field name="phystech_teim">Format: VHS TRT: [approx. 120 minutes]</field>
+     <field name="ref_ssi">aspace_ref1934</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

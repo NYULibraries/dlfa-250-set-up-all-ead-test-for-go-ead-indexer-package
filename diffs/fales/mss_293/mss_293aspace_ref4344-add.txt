@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -19,7 +19,7 @@
+     <field name="unitid_ssm">/repositories/3/archival_objects/550460</field>
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Africa &amp; I</field>
+-    <field name="phystech_teim">Gauge: 35mmFootage: [150 ft]No picture; sound.</field>
++    <field name="phystech_teim">Gauge: 35mm Footage: [150 ft] No picture; sound.</field>
+     <field name="ref_ssi">aspace_ref4344</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -27,7 +27,7 @@
+     <field name="unitdate_normal_sim">1985/1985</field>
+     <field name="unitdate_inclusive_teim">Jul 17 1985</field>
+     <field name="scopecontent_teim">Packaged Beauty Copy from 1/2"</field>
+-    <field name="phystech_teim">Format: 3/4 in. UmaticTRT: 00:08:00</field>
++    <field name="phystech_teim">Format: 3/4 in. Umatic TRT: 00:08:00</field>
+     <field name="ref_ssi">aspace_ref2235</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

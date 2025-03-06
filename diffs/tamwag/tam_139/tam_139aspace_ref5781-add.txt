@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref5326</field>
+     <field name="parent_ssm">aspace_ref5749</field>
+     <field name="parent_unittitles_ssm">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed)</field>
+-    <field name="parent_unittitles_ssm">Subseries 5: New York House &amp; School of Industry (NYHSI)</field>
++    <field name="parent_unittitles_ssm">Subseries 5: New York House &amp;amp; School of Industry (NYHSI)</field>
+     <field name="parent_unittitles_teim">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed)</field>
+-    <field name="parent_unittitles_teim">Subseries 5: New York House &amp; School of Industry (NYHSI)</field>
++    <field name="parent_unittitles_teim">Subseries 5: New York House &amp;amp; School of Industry (NYHSI)</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Greenwich House Records</field>
+@@ -35,7 +35,7 @@
+     <field name="collection_teim">Greenwich House Records</field>
+     <field name="collection_unitid_teim">TAM.139</field>
+     <field name="series_sim">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed)</field>
+-    <field name="series_sim">Subseries 5: New York House &amp; School of Industry (NYHSI)</field>
++    <field name="series_sim">Subseries 5: New York House &amp;amp; School of Industry (NYHSI)</field>
+     <field name="series_si">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed) &gt;&gt; Subseries 5: New York House &amp; School of Industry (NYHSI) &gt;&gt; Treasurer's correspondence w/ Attorney Louis Mead Treadwell</field>
+     <field name="heading_ssm">Treasurer's correspondence w/ Attorney Louis Mead Treadwell</field>
+     <field name="unitdate_start_sim">1941</field>

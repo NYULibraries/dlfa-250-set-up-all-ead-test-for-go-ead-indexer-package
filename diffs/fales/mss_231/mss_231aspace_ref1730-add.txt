@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff[Air Date: 3/27/1987]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff[Air Date: 3/27/1987]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff [Air Date: 3/27/1987]</field>
+     <field name="unitid_teim">ID: 231.0732</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529457</field>
+     <field name="unitid_ssm">ID: 231.0732</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529457</field>
+     <field name="unitdate_teim">March 1987</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Coverage by Andy Humm of the AIDS crisis demonstration at Trinity Church on March 24, 1987, interview with Larry Kramer2. Gay Week in Review, with Andy Humm, Darrell Yates Rist, and Jim Levin, sponsored by the Human Rights Campaign Fund3. Short news stories, appeal for donations3. Discussion of the New York Times coverage of AIDS issue, quality of series and whether it was timely or too-little-too-lateCOMMERCIAL: Human Rights Campaign Fund4. Continued discussion of New York Times AIDS coverageCOMMERCIAL: "First Hand" gay magazine5. Andy Humm on New York City's AIDS education6. News Watch, Senator Pete Wilson introduces a bill to create a Congressional Advisory Panel on AIDS, headed by the National Academy of Sciences 7. Senator Dan Burton of Indiana proposes a bill for mandatory annual HIV testing for all US residents8. New York, Queens co-op agrees to let a gay couple purchase an apartment after the couple went to the city's Commission on Human Rights9. Congressional Hearing on AIDS Education finds that Federal response to AIDS epidemic is "slow, limited, and ultimately impotent"10. Sports Report11. Lavender Health, interview with Dava Weinstein, social worker, and co-chair of "10% of Those We Serve" chemical dependency conference12. George Trahanis announces GCN's 5th anniversary, and a new pledge drive13. Closing credits The Right Stuff:1. Episode of GCN's soap opera, "Suds": "A Farewell to Tom"2. Closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff[Air Date: 3/27/1987]: March 1987</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff[Air Date: 3/27/1987]: March 1987</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Coverage by Andy Humm of the AIDS crisis demonstration at Trinity Church on March 24, 1987, interview with Larry Kramer 2. Gay Week in Review, with Andy Humm, Darrell Yates Rist, and Jim Levin, sponsored by the Human Rights Campaign Fund 3. Short news stories, appeal for donations 3. Discussion of the New York Times coverage of AIDS issue, quality of series and whether it was timely or too-little-too-late COMMERCIAL: Human Rights Campaign Fund 4. Continued discussion of New York Times AIDS coverage COMMERCIAL: "First Hand" gay magazine 5. Andy Humm on New York City's AIDS education 6. News Watch, Senator Pete Wilson introduces a bill to create a Congressional Advisory Panel on AIDS, headed by the National Academy of Sciences 7. Senator Dan Burton of Indiana proposes a bill for mandatory annual HIV testing for all US residents 8. New York, Queens co-op agrees to let a gay couple purchase an apartment after the couple went to the city's Commission on Human Rights 9. Congressional Hearing on AIDS Education finds that Federal response to AIDS epidemic is "slow, limited, and ultimately impotent" 10. Sports Report 11. Lavender Health, interview with Dava Weinstein, social worker, and co-chair of "10% of Those We Serve" chemical dependency conference 12. George Trahanis announces GCN's 5th anniversary, and a new pledge drive 13. Closing credits The Right Stuff: 1. Episode of GCN's soap opera, "Suds": "A Farewell to Tom" 2. Closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff [Air Date: 3/27/1987]: March 1987</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff [Air Date: 3/27/1987]: March 1987</field>
+     <field name="ref_ssi">aspace_ref1730</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1987</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1987 &gt;&gt; [1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff[Air Date: 3/27/1987]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff[Air Date: 3/27/1987]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff [Air Date: 3/27/1987]</field>
+     <field name="unitdate_ssm">March 1987</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2724</field>

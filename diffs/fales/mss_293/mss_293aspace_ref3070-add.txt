@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">A short video film by Rivers and Diana Molinari, documenting Rivers's mother's life after the death of her husband.</field>
+     <field name="scopecontent_teim">Shirley</field>
+-    <field name="phystech_teim">B&amp;W/SoundTRT: 00:46:15Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">B&amp;W/Sound TRT: 00:46:15 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3070</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

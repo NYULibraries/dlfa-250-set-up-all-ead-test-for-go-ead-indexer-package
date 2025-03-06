@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -22,7 +22,7 @@
+     <field name="unitdate_normal_sim">1976/1976</field>
+     <field name="unitdate_inclusive_teim">December 3, 1976</field>
+     <field name="scopecontent_teim">Packaged Beauty</field>
+-    <field name="phystech_teim">Gauge: 16mmFootage: [300 ft]Color; sound.</field>
++    <field name="phystech_teim">Gauge: 16mm Footage: [300 ft] Color; sound.</field>
+     <field name="ref_ssi">aspace_ref3874</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

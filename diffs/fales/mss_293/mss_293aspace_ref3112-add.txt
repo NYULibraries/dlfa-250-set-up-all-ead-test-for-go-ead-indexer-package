@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 293.1164</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/551648</field>
+     <field name="unitdate_teim">undated</field>
+-    <field name="phystech_teim">Format: 1/2 in. Open ReelTRT: [approx. 31 minutes]</field>
++    <field name="phystech_teim">Format: 1/2 in. Open Reel TRT: [approx. 31 minutes]</field>
+     <field name="ref_ssi">aspace_ref3112</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

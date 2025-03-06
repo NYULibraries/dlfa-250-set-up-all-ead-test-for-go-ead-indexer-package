@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 231.0909</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529640</field>
+     <field name="unitdate_teim">1986</field>
+-    <field name="scopecontent_teim">The Right Stuff Promos1.Gay Cable Network promos by female impersonators2.Closing Credits3.Footage from a unidentified film4.NC/V Film Co. "Morgan Stewart's Coming Home" Clip No. 6 "Hand Kiss"Footage from a unidentified film</field>
++    <field name="scopecontent_teim">The Right Stuff Promos 1.Gay Cable Network promos by female impersonators 2.Closing Credits 3.Footage from a unidentified film 4.NC/V Film Co. "Morgan Stewart's Coming Home" Clip No. 6 "Hand Kiss" Footage from a unidentified film</field>
+     <field name="phystech_teim">Duration: [unknown]</field>
+     <field name="phystech_teim">Original Format: 3/4 in. Umatic</field>
+     <field name="phystech_teim">Program content: A. Mona Rogers, B. Michael Musto</field>

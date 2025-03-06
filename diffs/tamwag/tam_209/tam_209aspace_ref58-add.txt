@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">tam_209</field>
+     <field name="parent_ssi">aspace_ref51</field>
+     <field name="parent_ssm">aspace_ref51</field>
+-    <field name="parent_unittitles_ssm">Series II: Writings &amp; Other Activities</field>
+-    <field name="parent_unittitles_teim">Series II: Writings &amp; Other Activities</field>
++    <field name="parent_unittitles_ssm">Series II: Writings &amp;amp; Other Activities</field>
++    <field name="parent_unittitles_teim">Series II: Writings &amp;amp; Other Activities</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">Michael Harrington Papers</field>
+@@ -29,7 +29,7 @@
+     <field name="location_si">Box: 7, Folder: 7</field>
+     <field name="collection_teim">Michael Harrington Papers</field>
+     <field name="collection_unitid_teim">TAM.209</field>
+-    <field name="series_sim">Series II: Writings &amp; Other Activities</field>
++    <field name="series_sim">Series II: Writings &amp;amp; Other Activities</field>
+     <field name="series_si">Series II: Writings &amp; Other Activities &gt;&gt; Correspondence: Guggenheim Foundation</field>
+     <field name="heading_ssm">Correspondence: Guggenheim Foundation</field>
+     <field name="unitdate_start_sim">1982</field>

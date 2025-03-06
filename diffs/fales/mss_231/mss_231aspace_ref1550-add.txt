@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183[Air Date: 2/10/1986]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183[Air Date: 2/10/1986]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183 [Air Date: 2/10/1986]</field>
+     <field name="unitid_teim">ID: 231.0672</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529397</field>
+     <field name="unitid_ssm">ID: 231.0672</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529397</field>
+     <field name="unitdate_teim">February 1986</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Leader of recent Southern Baptist Convention speaks out against gays2. Ms. Magazine names two friends of the gay community, Lilly Timbaland and Doctor Mathilde Krim, as its Women of the Year3. Minnesota woman fighting to care for severely disabled lover4. Coors beer boycotts due to anti-gay practicesCOMMERCIAL: Sears5. Lesbian and Gay Rights Bill6. Jim Levin, New York City Commissioner of Human Rights, discusses proposal7. Tom Stoddard, Executive Director of LAMBDA Legal Defense, discusses Georgia Sodomy Law updatesCOMMERCIAL: SF AIDS Foundation8. Pennsylvania Department of Health registries9. Florida legislature tries to make HTLVIII test mandatory for state teachers and students10. Pennsylvania gay activists and Department of Health safety pamphletCOMMERCIAL: "New York Native" with Quentin Crisp11. Sports, includes clip12. Healthline: Conversations with GMHC: Sara Mercado, loses son to AIDS, discusses AIDS care and her experiences12. Closing credits The Right Stuff:1. This Week in Gay History with Jeff BixbyCOMMERCIAL: The Monster2. Sybil Bruncheon, Valentine's DayCOMMERCIAL: The Monster3. Sybil Bruncheon's birthdayCOMMERCIAL: Sybil Bruncheon T-Shirts4. Sybil returns and love scenesCOMMERCIAL: CASIO Pocket TV5. Current events, interview with Debbie Provenzanio, cuts off</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183[Air Date: 2/10/1986]: February 1986</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183[Air Date: 2/10/1986]: February 1986</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Leader of recent Southern Baptist Convention speaks out against gays 2. Ms. Magazine names two friends of the gay community, Lilly Timbaland and Doctor Mathilde Krim, as its Women of the Year 3. Minnesota woman fighting to care for severely disabled lover 4. Coors beer boycotts due to anti-gay practices COMMERCIAL: Sears 5. Lesbian and Gay Rights Bill 6. Jim Levin, New York City Commissioner of Human Rights, discusses proposal 7. Tom Stoddard, Executive Director of LAMBDA Legal Defense, discusses Georgia Sodomy Law updates COMMERCIAL: SF AIDS Foundation 8. Pennsylvania Department of Health registries 9. Florida legislature tries to make HTLVIII test mandatory for state teachers and students 10. Pennsylvania gay activists and Department of Health safety pamphlet COMMERCIAL: "New York Native" with Quentin Crisp 11. Sports, includes clip 12. Healthline: Conversations with GMHC: Sara Mercado, loses son to AIDS, discusses AIDS care and her experiences 12. Closing credits The Right Stuff: 1. This Week in Gay History with Jeff Bixby COMMERCIAL: The Monster 2. Sybil Bruncheon, Valentine's Day COMMERCIAL: The Monster 3. Sybil Bruncheon's birthday COMMERCIAL: Sybil Bruncheon T-Shirts 4. Sybil returns and love scenes COMMERCIAL: CASIO Pocket TV 5. Current events, interview with Debbie Provenzanio, cuts off</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183 [Air Date: 2/10/1986]: February 1986</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183 [Air Date: 2/10/1986]: February 1986</field>
+     <field name="ref_ssi">aspace_ref1550</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1986</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1986 &gt;&gt; [1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183[Air Date: 2/10/1986]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183[Air Date: 2/10/1986]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 7 [2]--The Right Stuff, Episode No. 183 [Air Date: 2/10/1986]</field>
+     <field name="unitdate_ssm">February 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2664</field>

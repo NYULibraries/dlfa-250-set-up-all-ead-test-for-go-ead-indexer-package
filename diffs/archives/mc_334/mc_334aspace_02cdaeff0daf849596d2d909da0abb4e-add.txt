@@ -1,0 +1,23 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -5,8 +5,8 @@
+     <field name="ead_ssi">mc_334</field>
+     <field name="parent_ssi">aspace_39583f87cdb6dbc6af3c9fab469697d5</field>
+     <field name="parent_ssm">aspace_39583f87cdb6dbc6af3c9fab469697d5</field>
+-    <field name="parent_unittitles_ssm">RG 22.29. Engelberg Center on Innovation Law &amp; Policy</field>
+-    <field name="parent_unittitles_teim">RG 22.29. Engelberg Center on Innovation Law &amp; Policy</field>
++    <field name="parent_unittitles_ssm">RG 22.29. Engelberg Center on Innovation Law &amp;amp; Policy</field>
++    <field name="parent_unittitles_teim">RG 22.29. Engelberg Center on Innovation Law &amp;amp; Policy</field>
+     <field name="component_level_isim">2</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
+@@ -35,7 +35,7 @@
+     <field name="dao_sim">Online Access</field>
+     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
+     <field name="collection_unitid_teim">MC.334</field>
+-    <field name="series_sim">RG 22.29. Engelberg Center on Innovation Law &amp; Policy</field>
++    <field name="series_sim">RG 22.29. Engelberg Center on Innovation Law &amp;amp; Policy</field>
+     <field name="series_si">RG 22.29. Engelberg Center on Innovation Law &amp; Policy &gt;&gt; Engelberg Center on Innovation Law &amp; Policy Twitter</field>
+     <field name="heading_ssm">Engelberg Center on Innovation Law &amp; Policy Twitter</field>
+     <field name="unitdate_ssm">Inclusive, May 2014-May 2015</field>

@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -25,7 +25,7 @@
+     <field name="unitdate_teim">undated</field>
+     <field name="scopecontent_teim">Dub recording of a television program, "The World of Survival", about African wildlife and game reserves.</field>
+     <field name="scopecontent_teim">TV Zebras</field>
+-    <field name="phystech_teim">Color/SoundTRT: 00:22:18Original Format: 1/2 in. Open Reel</field>
++    <field name="phystech_teim">Color/Sound TRT: 00:22:18 Original Format: 1/2 in. Open Reel</field>
+     <field name="ref_ssi">aspace_ref3104</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>

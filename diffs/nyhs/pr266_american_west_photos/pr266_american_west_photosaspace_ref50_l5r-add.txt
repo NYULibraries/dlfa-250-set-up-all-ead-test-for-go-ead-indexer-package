@@ -1,0 +1,21 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,7 +17,7 @@
+     <field name="collection_unitid_ssm">PR 266</field>
+     <field name="level_sim">file</field>
+     <field name="unittitle_ssm">Colorado (flat file) &lt;em&gt;1009. The Royal Gorge - Grand Canon of the Arkansas.&lt;/em&gt;&lt;em&gt;1054. The Sangre De Cristo from Marshall Pass.&lt;/em&gt;&lt;em&gt;The Upper Twin Lake. Colorado.&lt;/em&gt;</field>
+-    <field name="unittitle_teim">Colorado (flat file) 1009. The Royal Gorge - Grand Canon of the Arkansas.1054. The Sangre De Cristo from Marshall Pass.The Upper Twin Lake. Colorado.</field>
++    <field name="unittitle_teim">Colorado (flat file) 1009. The Royal Gorge - Grand Canon of the Arkansas. 1054. The Sangre De Cristo from Marshall Pass. The Upper Twin Lake. Colorado.</field>
+     <field name="title_teim">1009. The Royal Gorge - Grand Canon of the Arkansas.</field>
+     <field name="title_teim">1054. The Sangre De Cristo from Marshall Pass.</field>
+     <field name="title_teim">The Upper Twin Lake. Colorado.</field>
+@@ -37,7 +37,7 @@
+     <field name="series_sim">Series IV. 22 x 28 inches</field>
+     <field name="series_sim">WILLIAM HENRY JACKSON</field>
+     <field name="series_si">Series IV. 22 x 28 inches &gt;&gt; WILLIAM HENRY JACKSON &gt;&gt; Colorado (flat file) &lt;em&gt;1009. The Royal Gorge - Grand Canon of the Arkansas.&lt;/em&gt;&lt;em&gt;1054. The Sangre De Cristo from Marshall Pass.&lt;/em&gt;&lt;em&gt;The Upper Twin Lake. Colorado.&lt;/em&gt;</field>
+-    <field name="heading_ssm">Colorado (flat file) 1009. The Royal Gorge - Grand Canon of the Arkansas.1054. The Sangre De Cristo from Marshall Pass.The Upper Twin Lake. Colorado.</field>
++    <field name="heading_ssm">Colorado (flat file) 1009. The Royal Gorge - Grand Canon of the Arkansas. 1054. The Sangre De Cristo from Marshall Pass. The Upper Twin Lake. Colorado.</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">39</field>
+   </doc>

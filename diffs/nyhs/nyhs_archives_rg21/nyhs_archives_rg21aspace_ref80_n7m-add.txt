@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -6,9 +6,9 @@
+     <field name="parent_ssi">aspace_ref20_sca</field>
+     <field name="parent_ssm">aspace_ref11_ovv</field>
+     <field name="parent_ssm">aspace_ref20_sca</field>
+-    <field name="parent_unittitles_ssm">Series I. Collection Descriptions &amp; Inventories</field>
++    <field name="parent_unittitles_ssm">Series I. Collection Descriptions &amp;amp; Inventories</field>
+     <field name="parent_unittitles_ssm">Subseries I.B. Descriptions Prepared Outside N-YHS</field>
+-    <field name="parent_unittitles_teim">Series I. Collection Descriptions &amp; Inventories</field>
++    <field name="parent_unittitles_teim">Series I. Collection Descriptions &amp;amp; Inventories</field>
+     <field name="parent_unittitles_teim">Subseries I.B. Descriptions Prepared Outside N-YHS</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+@@ -30,7 +30,7 @@
+     <field name="location_si">Box: 25, Folder: 4</field>
+     <field name="collection_teim">New-York Historical Society Library Department records</field>
+     <field name="collection_unitid_teim">NYHS-RG 21</field>
+-    <field name="series_sim">Series I. Collection Descriptions &amp; Inventories</field>
++    <field name="series_sim">Series I. Collection Descriptions &amp;amp; Inventories</field>
+     <field name="series_sim">Subseries I.B. Descriptions Prepared Outside N-YHS</field>
+     <field name="series_si">Series I. Collection Descriptions &amp; Inventories &gt;&gt; Subseries I.B. Descriptions Prepared Outside N-YHS &gt;&gt; Spanish-American War Collection</field>
+     <field name="heading_ssm">Spanish-American War Collection</field>

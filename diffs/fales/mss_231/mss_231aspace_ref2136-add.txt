@@ -1,0 +1,12 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -23,7 +23,7 @@
+     <field name="unitid_ssm">ID: 231.0897</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529626</field>
+     <field name="unitdate_teim">Undated</field>
+-    <field name="scopecontent_teim">COMMERCIAL:Autumn in Gay New YorkPride and Progress Intro:The RIght Stuff Intro:Men in Films Intro:COMMERCIAL:BadlandsBroadway Confidential:Footage from the film, "The Big Chill"</field>
++    <field name="scopecontent_teim">COMMERCIAL:Autumn in Gay New York Pride and Progress Intro: The RIght Stuff Intro: Men in Films Intro: COMMERCIAL:Badlands Broadway Confidential: Footage from the film, "The Big Chill"</field>
+     <field name="phystech_teim">Duration: 00:59:00</field>
+     <field name="phystech_teim">Original Format: 3/4 in. Umatic</field>
+     <field name="phystech_teim">Program content: Openings for Pride and Progress, The Right Stuff, Men and Films, Badlands, Broadway Confidential</field>

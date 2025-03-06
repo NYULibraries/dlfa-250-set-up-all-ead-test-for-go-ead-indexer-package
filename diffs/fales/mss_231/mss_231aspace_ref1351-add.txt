@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126[Air Date: 11/27/1984]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126[Air Date: 11/27/1984]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126 [Air Date: 11/27/1984]</field>
+     <field name="unitid_teim">ID: 231.0608</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529332</field>
+     <field name="unitid_ssm">ID: 231.0608</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529332</field>
+     <field name="unitdate_teim">November 1984</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews - highlights:1. Interview with Nancy Roth, Executive Director, Gay Rights National Lobby, discussing anti-discrimination in immigration policyCOMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club2. City status granted to West Hollywood, California; city council is formed3. Anti-gay Texas Senator Phil [Graham] wins election4. Gay Rights bill passed in Houston, Texas, but may be overturnedCOMMERCIAL: "New York Native" with Quentin Crisp5. Interview with David Bender, campaigner, discussing the win of Massachusetts' openly gay Senator Gary StuddsCOMMERCIAL: New York Gay Film Festival6. National Gay Task Force meetingCOMMERCIAL: "The Connection," gay and lesbian newspaper7. Interview with Pastor Karen Zeigler, Metropolitan Community Church, discusses meeting with National Council of ChurchesCOMMERCIAL: "The Times of Harvey Milk"8. First census of a gay community, San FranciscoCOMMERCIAL: Chamberlain and Associates, career service professionals9. Carol Bellamy, announcement of upcoming appearanceCOMMERCIAL: Arcos Blancos, San Juan, Puerto Rico10. Healthline: Conversations with GMHC: Christopher Collins, attorney, discusses the start of Community Health ProjectCOMMERCIAL: "Badlands," a NYC gay bar11. Sports Report/ closing The Right Stuff:1. Media Report/ Current EventsCOMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club2. Terry Miller interviews Quentin Crisp, author/ performerCOMMERCIAL: "The Times of Harvey Milk"3. Quentin Crisp interview continuedCOMMERCIAL: National Fund for Human Dignity for disabled gays and lesbians4. Preview of upcoming gay motion picture, "Whispers"COMMERCIAL: Rio Adventure, Orpheo travel agency5. Interview with Ron Gould, producer of gay film "Whispers"/ closing credits</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126[Air Date: 11/27/1984]: November 1984</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126[Air Date: 11/27/1984]: November 1984</field>
++    <field name="scopecontent_teim">Pride and Progress News - highlights: 1. Interview with Nancy Roth, Executive Director, Gay Rights National Lobby, discussing anti-discrimination in immigration policy COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club 2. City status granted to West Hollywood, California; city council is formed 3. Anti-gay Texas Senator Phil [Graham] wins election 4. Gay Rights bill passed in Houston, Texas, but may be overturned COMMERCIAL: "New York Native" with Quentin Crisp 5. Interview with David Bender, campaigner, discussing the win of Massachusetts' openly gay Senator Gary Studds COMMERCIAL: New York Gay Film Festival 6. National Gay Task Force meeting COMMERCIAL: "The Connection," gay and lesbian newspaper 7. Interview with Pastor Karen Zeigler, Metropolitan Community Church, discusses meeting with National Council of Churches COMMERCIAL: "The Times of Harvey Milk" 8. First census of a gay community, San Francisco COMMERCIAL: Chamberlain and Associates, career service professionals 9. Carol Bellamy, announcement of upcoming appearance COMMERCIAL: Arcos Blancos, San Juan, Puerto Rico 10. Healthline: Conversations with GMHC: Christopher Collins, attorney, discusses the start of Community Health Project COMMERCIAL: "Badlands," a NYC gay bar 11. Sports Report/ closing The Right Stuff: 1. Media Report/ Current Events COMMERCIAL: Carnaval in Rio de Janeiro, Islanders' Club 2. Terry Miller interviews Quentin Crisp, author/ performer COMMERCIAL: "The Times of Harvey Milk" 3. Quentin Crisp interview continued COMMERCIAL: National Fund for Human Dignity for disabled gays and lesbians 4. Preview of upcoming gay motion picture, "Whispers" COMMERCIAL: Rio Adventure, Orpheo travel agency 5. Interview with Ron Gould, producer of gay film "Whispers"/ closing credits</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126 [Air Date: 11/27/1984]: November 1984</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126 [Air Date: 11/27/1984]: November 1984</field>
+     <field name="ref_ssi">aspace_ref1351</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1984</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1984 &gt;&gt; [1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126[Air Date: 11/27/1984]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126[Air Date: 11/27/1984]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 9 [2]--The Right Stuff, Episode No. 126 [Air Date: 11/27/1984]</field>
+     <field name="unitdate_ssm">November 1984</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2599</field>

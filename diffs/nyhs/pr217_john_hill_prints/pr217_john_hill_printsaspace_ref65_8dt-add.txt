@@ -1,0 +1,24 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -7,9 +7,9 @@
+     <field name="parent_ssm">aspace_ref24_od3</field>
+     <field name="parent_ssm">aspace_ref28_b24</field>
+     <field name="parent_unittitles_ssm">Series II: American Work</field>
+-    <field name="parent_unittitles_ssm">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp; Son, [1820-21]).</field>
++    <field name="parent_unittitles_ssm">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp;amp; Son, [1820-21]).</field>
+     <field name="parent_unittitles_teim">Series II: American Work</field>
+-    <field name="parent_unittitles_teim">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp; Son, [1820-21]).</field>
++    <field name="parent_unittitles_teim">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp;amp; Son, [1820-21]).</field>
+     <field name="component_level_isim">3</field>
+     <field name="component_children_bsi">false</field>
+     <field name="collection_sim">John Hill Print Collection</field>
+@@ -30,7 +30,7 @@
+     <field name="collection_teim">John Hill Print Collection</field>
+     <field name="collection_unitid_teim">PR 217</field>
+     <field name="series_sim">Series II: American Work</field>
+-    <field name="series_sim">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp; Son, [1820-21]).</field>
++    <field name="series_sim">Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp;amp; Son, [1820-21]).</field>
+     <field name="series_si">Series II: American Work &gt;&gt; Aquatints after Joshua Shaw (1776-1860) from Picturesque Views of American Scenery 1820 (Philadelphia: M. Carey &amp; Son, [1820-21]). &gt;&gt; "Oyster Cove"</field>
+     <field name="heading_ssm">"Oyster Cove"</field>
+     <field name="unitdate_ssm">1819-1821</field>

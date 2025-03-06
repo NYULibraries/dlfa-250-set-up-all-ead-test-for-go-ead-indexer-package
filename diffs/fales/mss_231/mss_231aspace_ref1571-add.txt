@@ -1,0 +1,34 @@
+diff golden [PRETTIFIED] actual [PRETTIFIED]
+--- golden [PRETTIFIED]
++++ actual [PRETTIFIED]
+@@ -17,16 +17,16 @@
+     <field name="collection_unitid_ssm">MSS.231</field>
+     <field name="level_sim">item</field>
+     <field name="unittitle_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190[Air Date: 4/1/1986]</field>
+-    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190[Air Date: 4/1/1986]</field>
++    <field name="unittitle_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190 [Air Date: 4/1/1986]</field>
+     <field name="unitid_teim">ID: 231.0679</field>
+     <field name="unitid_teim">/repositories/3/archival_objects/529404</field>
+     <field name="unitid_ssm">ID: 231.0679</field>
+     <field name="unitid_ssm">/repositories/3/archival_objects/529404</field>
+     <field name="unitdate_teim">April 1986</field>
+-    <field name="scopecontent_teim">Pride and ProgressNews-highlights:1. Passing of New York City's Gay Rights Bill, March 16th, 1986, interviews with Mayor Edward Koch and others, general coverage2. April Fools' Day, Fake News StoriesCOMMERCIAL: Commodore Plus 43. April Fools' News Stories, ContinuedCOMMERCIAL: "New York Native" with Quentin Crisp4. Sports Report5. Outreach: Conversations with GMHC: Jim Holmes discusses the safety pin as an sign of the wearer's utilization of safer sex practices6. Closing credits The Right Stuff:1. This Week in Gay History with Jeff BixbyCOMMERCIAL: Casio Pocket TV2. Sybil Bruncheon show introductionCOMMERCIAL: The Monster3. Musical guest Pink Limo performs their song "No Secrets"4. Pink Limo interviewed by Sybil, tape cuts off</field>
+-    <field name="phystech_teim">Duration: 01:00:00Original Format: 3/4 in. Umatic</field>
+-    <field name="dao_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190[Air Date: 4/1/1986]: April 1986</field>
+-    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190[Air Date: 4/1/1986]: April 1986</field>
++    <field name="scopecontent_teim">Pride and Progress News-highlights: 1. Passing of New York City's Gay Rights Bill, March 16th, 1986, interviews with Mayor Edward Koch and others, general coverage 2. April Fools' Day, Fake News Stories COMMERCIAL: Commodore Plus 4 3. April Fools' News Stories, Continued COMMERCIAL: "New York Native" with Quentin Crisp 4. Sports Report 5. Outreach: Conversations with GMHC: Jim Holmes discusses the safety pin as an sign of the wearer's utilization of safer sex practices 6. Closing credits The Right Stuff: 1. This Week in Gay History with Jeff Bixby COMMERCIAL: Casio Pocket TV 2. Sybil Bruncheon show introduction COMMERCIAL: The Monster 3. Musical guest Pink Limo performs their song "No Secrets" 4. Pink Limo interviewed by Sybil, tape cuts off</field>
++    <field name="phystech_teim">Duration: 01:00:00 Original Format: 3/4 in. Umatic</field>
++    <field name="dao_teim">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190 [Air Date: 4/1/1986]: April 1986</field>
++    <field name="dao_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190 [Air Date: 4/1/1986]: April 1986</field>
+     <field name="ref_ssi">aspace_ref1571</field>
+     <field name="repository_ssi">fales</field>
+     <field name="repository_sim">fales</field>
+@@ -41,7 +41,7 @@
+     <field name="series_sim">Series XXIII: Pride and Progress / The Right Stuff</field>
+     <field name="series_sim">1986</field>
+     <field name="series_si">Series XXIII: Pride and Progress / The Right Stuff &gt;&gt; 1986 &gt;&gt; [1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190[Air Date: 4/1/1986]</field>
+-    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190[Air Date: 4/1/1986]</field>
++    <field name="heading_ssm">[1]--Pride and Progress, Episode No. 14 [2]--The Right Stuff, Episode No. 190 [Air Date: 4/1/1986]</field>
+     <field name="unitdate_ssm">April 1986</field>
+     <field name="date_range_sim">undated &amp; other</field>
+     <field name="sort_ii">2671</field>
