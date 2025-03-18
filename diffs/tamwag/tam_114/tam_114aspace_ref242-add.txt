@@ -1,18 +1,6 @@
 diff golden [PRETTIFIED] actual [PRETTIFIED]
 --- golden [PRETTIFIED]
 +++ actual [PRETTIFIED]
-@@ -6,9 +6,9 @@
-     <field name="parent_ssi">aspace_ref241</field>
-     <field name="parent_ssm">aspace_ref159</field>
-     <field name="parent_ssm">aspace_ref241</field>
--    <field name="parent_unittitles_ssm">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
-+    <field name="parent_unittitles_ssm">Series II: Greek Wartime (WWII) Resistance &amp;amp; Aftermath</field>
-     <field name="parent_unittitles_ssm">Subseries II:Q: EAM</field>
--    <field name="parent_unittitles_teim">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
-+    <field name="parent_unittitles_teim">Series II: Greek Wartime (WWII) Resistance &amp;amp; Aftermath</field>
-     <field name="parent_unittitles_teim">Subseries II:Q: EAM</field>
-     <field name="component_level_isim">3</field>
-     <field name="component_children_bsi">false</field>
 @@ -17,7 +17,7 @@
      <field name="collection_unitid_ssm">TAM.114</field>
      <field name="level_sim">otherlevel</field>
@@ -22,12 +10,8 @@ diff golden [PRETTIFIED] actual [PRETTIFIED]
      <field name="unitid_teim">/repositories/2/archival_objects/168111</field>
      <field name="unitid_ssm">/repositories/2/archival_objects/168111</field>
      <field name="unitdate_normal_ssm">1921/1978</field>
-@@ -56,10 +56,10 @@
-     <field name="location_si">Box: 6, Folder: data_value_missing_80769dea7d681d1b28770d04005dff75</field>
-     <field name="collection_teim">John and Constantine Poulos Papers</field>
-     <field name="collection_unitid_teim">TAM.114</field>
--    <field name="series_sim">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
-+    <field name="series_sim">Series II: Greek Wartime (WWII) Resistance &amp;amp; Aftermath</field>
+@@ -59,7 +59,7 @@
+     <field name="series_sim">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath</field>
      <field name="series_sim">Subseries II:Q: EAM</field>
      <field name="series_si">Series II: Greek Wartime (WWII) Resistance &amp; Aftermath &gt;&gt; Subseries II:Q: EAM &gt;&gt; Pamphlets: &lt;em&gt;Britain in Greece&lt;/em&gt;&lt;em&gt;The Third War&lt;/em&gt;&lt;em&gt;How and the people's liberation struggle of Greece met with defeat&lt;/em&gt;&lt;em&gt;The campaign in Greece and Crete&lt;/em&gt;&lt;em&gt;The fight in Greece&lt;/em&gt;&lt;em&gt;Greece: the facts&lt;/em&gt;&lt;em&gt;The truth about Greece&lt;/em&gt;&lt;em&gt;Greece is our concern&lt;/em&gt;&lt;em&gt;Tragedy in Greece&lt;/em&gt;&lt;em&gt;Inside Free Greece&lt;/em&gt;&lt;em&gt;The Case For Greece&lt;/em&gt;</field>
 -    <field name="heading_ssm">Pamphlets: Britain in GreeceThe Third WarHow and the people's liberation struggle of Greece met with defeatThe campaign in Greece and CreteThe fight in GreeceGreece: the factsThe truth about GreeceGreece is our concernTragedy in GreeceInside Free GreeceThe Case For Greece</field>
